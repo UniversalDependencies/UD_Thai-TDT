@@ -19,23 +19,23 @@
 
 # Changelog
 
-* 2024-11-15 v2.15
+* 2026-11-15 v2.19
   * Initial release in Universal Dependencies.
 
 
 <pre>
 === Machine-readable metadata (DO NOT REMOVE!) ================================
-Data available since: UD v2.15
+Data available since: UD v2.19
 License: CC BY-SA 4.0
 Includes text: yes
 Parallel: no
-Genre: grammar-examples
+Genre: news
 Lemmas: manual native
 UPOS: manual native
 XPOS: not available
 Features: manual native
 Relations: manual native
-Contributors: Rattananiyomkul, Siriluck; Kahane, Sylvain; Zeman, Daniel
+Contributors: Rattananiyomkul, Siriluck
 Contributing: here
 Contact: leky40@hotmail.com
 ===============================================================================
