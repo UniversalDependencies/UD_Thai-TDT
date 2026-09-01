@@ -1,0 +1,788 @@
+# newdoc
+# sent_id = Thai_Election_ForThaiParty_2023_NewsArticle_1
+# text = ‘ชลน่าน’ขีดเส้น หากได้เสียง 310 ไม่จับมือใคร โดยเฉพาะฝั่งเผด็จการ
+# text_en = 'Chonlanan' sets a boundary: if they secure 310 votes, they won’t join hands with anyone—especially the dictatorship-aligned camp.
+# tokenised_text = ‘ ชลน่าน ’ ขีดเส้น หาก ได้ เสียง 310 ไม่ จับ มือ ใคร โดย เฉพาะ ฝั่ง เผด็จการ
+# tokenised_translit =
+# tokenised_transcript = /chon-là-nâːn/ /kìːt-sên/ /hàːk/ /dâj/ /sǐaŋ/ /sǎːm-rɔ́j-sìp/ /mâj/ /càp/ /mɯː/ /khraj/ /doːj/ /chà-phɔ́ʔ/ /fàŋ/ /phà-dèt-kaːn/
+# phrase_type = sentence
+# sentence_position = headline
+# genre = political_news_article
+# source = https://www.matichon.co.th/weekly/hot-news/article_656016 
+# year = 2023
+1	‘	‘	PUNCT	_	_	2	punct	_	SpaceAfter=No
+2	ชลน่าน	ชลน่าน	PROPN	_	_	4	nsubj	_	SpaceAfter=No|Gloss=Chonlanan|Translit=chon-là-nâːn
+3	’	’	PUNCT	_	_	2	punct	_	SpaceAfter=No|CorrectSpaceAfter=Yes
+4	ขีดเส้น	ขีดเส้น	VERB	_	_	0	root	_	Gloss=set a boundary|Translit=kìːt-sên
+5	หาก	หาก	ADP	_	_	6	mark	_	SpaceAfter=No|Gloss=if|Translit=hàːk
+6	ได้	ได้	VERB	_	_	10	advcl	_	SpaceAfter=No|Gloss=get|Translit=dâj
+7	เสียง	เสียง	NOUN	_	_	6	obl:arg	_	Gloss=voice|Translit=sǐaŋ
+8	310	310	NUM	_	_	7	nummod	_	Gloss=310|Translit=sǎːm-rɔ́j-sìp
+9	ไม่	ไม่	ADV	_	_	10	advmod	_	SpaceAfter=No|Gloss=not|Translit=mâj
+10	จับ	จับ	VERB	_	_	4	ccomp	_	SpaceAfter=No|Gloss=catch|Translit=càp
+11	มือ	มือ	NOUN	_	_	10	obj	_	SpaceAfter=No|Gloss=hands|Translit=mɯː
+12	ใคร	ใคร	PRON	_	_	11	nmod	_	CorrectSpaceAfter=No|Gloss=anyone|Translit=khraj
+13	โดย	โดย	ADP	_	_	14	mark	_	SpaceAfter=No|Gloss=with|Translit=doːj
+14	เฉพาะ	เฉพาะ	VERB	_	_	10	advcl	_	SpaceAfter=No|Gloss=specify|Translit=chà-phɔ́ʔ
+15	ฝั่ง	ฝั่ง	NOUN	_	_	14	obl:arg	_	SpaceAfter=No|Gloss=side|Translit=fàŋ
+16	เผด็จการ	เผด็จการ	NOUN	_	_	15	nmod	_	Gloss=dictatorship|Translit=phà-dèt-kaːn
+
+# sent_id = Thai_Election_ForThaiParty_2023_NewsArticle_2
+# text = เผยแพร่	วันอาทิตย์ที่ 12 มีนาคม พ.ศ.2566
+# text_en = (The news article) is publicised on Sunday 12th March 2023.
+# tokenised_text = เผยแพร่ วัน อาทิตย์ ที่ 12 มีนาคม พ.ศ. 2566
+# tokenised_translit =
+# tokenised_transcript = /phɤ̌ːj-phrɛ̂ː/ /wan/ /ʔaː-thít/ /thîː/ /sìp-sɔ̌ːŋ/ /miː-naː-khom/ /phɔː-sɔ̌ː/ /sɔ̌ːŋ-phan-hâː-rɔ́j-hòk-sìp-hòk/
+# phrase_type = sentence
+# sentence_position = dateline
+# genre = political_news_article
+# source = https://www.matichon.co.th/weekly/hot-news/article_656016 
+# year = 2023
+1	เผยแพร่	เผยแพร่	VERB	_	_	0	root	_	Gloss=publicize|Translit=phɤ̌ːj-phrɛ̂ː
+2	วัน	วัน	NOUN	_	_	1	obl	_	SpaceAfter=No|Gloss=day|Translit=wan
+3	อาทิตย์	อาทิตย์	NOUN	_	_	2	nmod	_	SpaceAfter=No|Gloss=Sunday|Translit=ʔaː-thít
+4	ที่	ที่	NOUN	_	_	2	nmod	_	Gloss=rank|Translit=thîː
+5	12	12	NUM	_	_	4	nmod	_	Gloss=12|Translit=sìp-sɔ̌ːŋ
+6	มีนาคม	มีนาคม	NOUN	_	_	2	nmod	_	Gloss=March|Translit=miː-naː-khom
+7	พ.ศ.	พ.ศ.	NOUN	_	Abbr=Yes	6	nmod	_	SpaceAfter=No|CorrectSpaceAfter=Yes|Gloss=Buddhist Era|Translit=phɔː-sɔ̌ː
+8	2566	2566	NUM	_	_	7	nmod	_	Gloss=2566|Translit=sɔ̌ːŋ-phan-hâː-rɔ́j-hòk-sìp-hòk
+
+# sent_id = Thai_Election_ForThaiParty_2023_NewsArticle_3
+# text = เมื่อเวลา 12.00 น. วันที่ 12 มีนาคม ที่อาคารวังเป็ดร่วมใจ อ.บางระกำ จ.พิษณุโลก น.ส.แพทองธาร ชินวัตร หัวหน้าครอบครัวเพื่อไทย ให้สัมภาษณ์ถึงความมั่นใจได้ส.ส.พิษณุโลก ยกจังหวัดว่า เรามั่นใจในเรื่องดังกล่าว 
+# text_en = At 12:00 p.m. on March 12, at Wang Ped Ruamjai Building in Bang Rakam District, Phitsanulok Province, Ms. Paetongtarn Shinawatra, head of the Pheu Thai family, gave an interview about her confidence in winning all MP seats in Phitsanulok. She said that we were confident about this.
+# tokenised_text = เมื่อ เวลา 12.00 น. วัน ที่ 12 มีนาคม ที่ อาคาร วังเป็ดร่วมใจ อ. บางระกำ จ. พิษณุโลก น.ส. แพทองธาร ชินวัตร หัวหน้า ครอบครัว เพื่อ ไทย ให้ สัมภาษณ์ ถึง ความ มั่นใจ ได้ ส.ส. พิษณุโลก ยก จังหวัด ว่า เรา มั่นใจ ใน เรื่อง ดัง กล่าว
+# tokenised_translit =
+# tokenised_transcript = /mɯ̂a/ /weː-laː/ /sìp-sɔːŋ/ /naː-lí-kaː/ /wan/ /thîː/ /sìp-sɔːŋ/ /miː-naː-khom/ /thîː/ /ʔaː-khaːn/ /waŋ-pèt-rûam-caj/ /ʔam-phɤː/ /baːŋ-ráʔ-kam/ /caŋ-wàt/ /phít-sà-nú-lôːk/ /naːŋ-sǎːw/ /phɛː-thɔːŋ-thaːn/ /chin-ná-wat/ /hǔa-nâː/ /khrɔ̂ːp-khrua/ /phɯ̂a/ /thaj/ /hâj/ /sǎm-phaːt/ /thɯ̌ŋ/ /khwaːm/ /mân-caj/ /dâj/ /sɔ̌ː-sɔ̌ː/ /phít-sà-nú-lôːk/ /jók/ /caŋ-wàt/ /wâː/ /raw/ /mân-caj/ /naj/ /rɯ̂aŋ/ /daŋ/ /klàːw/
+# phrase_type = sentence
+# sentence_position = body
+# genre = political_news_article
+# source = https://www.matichon.co.th/weekly/hot-news/article_656016 
+# year = 2023
+1	เมื่อ	เมื่อ	NOUN	_	_	23	obl	_	SpaceAfter=No|Gloss=when|Translit=mɯ̂a
+2	เวลา	เวลา	NOUN	_	_	1	nmod	_	Gloss=time|Translit=weː-laː
+3	12.00	12.00	NUM	_	_	2	nmod	_	Gloss=12.00|Translit=sìp-sɔːŋ
+4	น.	น.	NOUN	_	Abbr=Yes	3	nmod	_	Gloss=o'clock|Translit=naː-lí-kaː
+5	วัน	วัน	NOUN	_	_	1	nmod	_	SpaceAfter=No|Gloss=day|Translit=wan
+6	ที่	ที่	NOUN	_	_	5	nmod	_	Gloss=rank|Translit=thîː
+7	12	12	NUM	_	_	6	nmod	_	Gloss=12|Translit=sìp-sɔːŋ
+8	มีนาคม	มีนาคม	NOUN	_	_	5	nmod	_	Gloss=March|Translit=miː-naː-khom
+9	ที่	ที่	ADP	_	_	10	case	_	SpaceAfter=No|Gloss=at|Translit=thîː
+10	อาคาร	อาคาร	NOUN	_	_	23	obl	_	SpaceAfter=No|Gloss=building|Translit=ʔaː-khaːn
+11	วังเป็ดร่วมใจ	วังเป็ดร่วมใจ	PROPN	_	_	10	nmod	_	SpaceAfter=No|Gloss=palace|Translit=waŋ-pèt-rûam-caj
+12	อ.	อ.	NOUN	_	Abbr=Yes	10	nmod	_	SpaceAfter=No|Gloss=district|Translit=ʔam-phɤː
+13	บางระกำ	บางระกำ	PROPN	_	_	12	nmod	_	SpaceAfter=No|Gloss=a settlement near a river|Translit=baːŋ-ráʔ-kam
+14	จ.	จ.	NOUN	_	Abbr=Yes	10	nmod	_	SpaceAfter=No|Gloss=province|Translit=caŋ-wàt
+15	พิษณุโลก	พิษณุโลก	PROPN	_	_	14	nmod	_	SpaceAfter=No|Gloss=Vishnu|Translit=phít-sà-nú-lôːk
+16	น.ส.	น.ส.	NOUN	_	Abbr=Yes	23	nsubj	_	SpaceAfter=No|Gloss=Miss|Translit=naːŋ-sǎːw
+17	แพทองธาร	แพทองธาร	PROPN	_	_	16	nmod	_	Gloss=Paetongtarn|Translit=phɛː-thɔːŋ-thaːn
+18	ชินวัตร	ชินวัตร	PROPN	_	_	17	flat	_	Gloss=Shinawatra|Translit=chin-ná-wat
+19	หัวหน้า	หัวหน้า	NOUN	_	_	16	appos	_	SpaceAfter=No|Gloss=chief|Translit=hǔa-nâː
+20	ครอบครัว	ครอบครัว	NOUN	_	_	19	nmod	_	SpaceAfter=No|Gloss=family|Translit=khrɔ̂ːp-khrua
+21	เพื่อ	เพื่อ	ADP	_	_	22	case	_	SpaceAfter=No|Gloss=for|Translit=phɯ̂a
+22	ไทย	ไทย	PROPN	_	ExtPos=PROPN	20	nmod	_	CorrectSpaceAfter=No|Gloss=Thai|Translit=thaj
+23	ให้	ให้	VERB	_	_	0	root	_	SpaceAfter=No|Gloss=give|Translit=hâj
+24	สัมภาษณ์	สัมภาษณ์	VERB	_	_	23	compound:svc	_	SpaceAfter=No|Gloss=interview|Translit=sǎm-phaːt
+25	ถึง	ถึง	ADP	_	_	26	case	_	SpaceAfter=No|Gloss=to|Translit=thɯ̌ŋ
+26	ความ	ความ	NOUN	_	NounType=Nmlz	24	obl	_	SpaceAfter=No|Gloss=condition(nominalizer)|Translit=khwaːm
+27	มั่นใจ	มั่นใจ	VERB	_	_	26	acl	_	SpaceAfter=No|Gloss=confident|Translit=mân-caj
+28	ได้	ได้	VERB	_	_	27	xcomp	_	SpaceAfter=No|Gloss=get|Translit=dâj
+29	ส.ส.	สส.	NOUN	_	Abbr=Yes	28	obl:arg	_	SpaceAfter=No|Gloss=Members of the House of Representatives of Thailand|Translit=sɔ̌ː-sɔ̌ː
+30	พิษณุโลก	พิษณุโลก	PROPN	_	_	29	nmod	_	SpaceAfter=No|Gloss=Vishnu|Translit=phít-sà-nú-lôːk
+31	ยก	ยก	VERB	_	_	28	advcl	_	SpaceAfter=No|Gloss=lift|Translit=jók
+32	จังหวัด	จังหวัด	NOUN	_	_	31	obl:arg	_	SpaceAfter=No|Gloss=province|Translit=caŋ-wàt
+33	ว่า	ว่า	SCONJ	_	_	35	mark	_	Gloss=that(COMP)|Translit=wâː
+34	เรา	เรา	PRON	_	Person=1|PronType=Prs	35	nsubj	_	SpaceAfter=No|Gloss=we|Translit=raw
+35	มั่นใจ	มั่นใจ	VERB	_	_	24	ccomp	_	SpaceAfter=No|Gloss=confident|Translit=mân-caj
+36	ใน	ใน	ADP	_	_	37	case	_	SpaceAfter=No|Gloss=in|Translit=naj
+37	เรื่อง	เรื่อง	NOUN	_	_	35	obl	_	SpaceAfter=No|Gloss=story|Translit=rɯ̂aŋ
+38	ดัง	ดัง	ADP	_	_	39	mark	_	SpaceAfter=No|Gloss=as|Translit=daŋ
+39	กล่าว	กล่าว	VERB	_	_	37	acl	_	Gloss=say|Translit=klàːw
+
+# sent_id = Thai_Election_ForThaiParty_2023_NewsArticle_4
+# text = เรานำนโยบายมาเสนอให้ประชาชนและว่าที่ผู้สมัครเองก็ทำงานอย่างหนัก
+# text_en = (She said that) we were presenting our policies to the people. (She said that) and our prospective candidates were working very hard
+# tokenised_text = เรา นำ นโยบาย มา เสนอ ให้ ประชาชน และ ว่าที่ ผู้ สมัคร เอง ก็ ทำงาน อย่าง หนัก
+# tokenised_translit =
+# tokenised_transcript = /raw/ /nam/ /ná-joː-baːj/ /maː/ /sà-nɤ̌ː/ /hâj/ /pràʔ-chaː-chon/ /lɛ́ʔ/ /wâː-thîː/ /phûː/ /sà-màk/ /ʔeːŋ/ /kɔ̂ː/ /tham-ŋaːn/ /jàːŋ/ /nàk/
+# phrase_type = sentence
+# sentence_position = body
+# genre = political_news_article
+# source = https://www.matichon.co.th/weekly/hot-news/article_656016 
+# year = 2023
+1	เรา	เรา	PRON	_	Person=1|PronType=Prs	2	nsubj	_	SpaceAfter=No|Gloss=we|Translit=raw
+2	นำ	นำ	VERB	_	_	0	root	_	SpaceAfter=No|Gloss=bring|Translit=nam
+3	นโยบาย	นโยบาย	NOUN	_	_	2	obj	_	SpaceAfter=No|Gloss=policy|Translit=ná-joː-baːj
+4	มา	มา	VERB	_	_	2	compound:svc	_	SpaceAfter=No|Gloss=come|Translit=maː
+5	เสนอ	เสนอ	VERB	_	_	4	compound:svc	_	SpaceAfter=No|Gloss=offer|Translit=sà-nɤ̌ː
+6	ให้	ให้	ADP	_	_	7	case	_	SpaceAfter=No|Gloss=for|Translit=hâj
+7	ประชาชน	ประชาชน	NOUN	_	_	5	obl	_	Gloss=population|Translit=pràʔ-chaː-chon
+8	และ	และ	CCONJ	_	_	14	cc	_	SpaceAfter=No|Gloss=and|Translit=lɛ́ʔ
+9	ว่าที่	ว่าที่	NOUN	_	_	14	nsubj	_	SpaceAfter=No|Gloss=prospective|Translit=wâː-thîː
+10	ผู้	ผู้	NOUN	_	_	9	nmod	_	SpaceAfter=No|Gloss=person|Translit=phûː
+11	สมัคร	สมัคร	VERB	_	_	10	acl	_	SpaceAfter=No|Gloss=apply|Translit=sà-màk
+12	เอง	เอง	ADJ	_	_	9	amod	_	SpaceAfter=No|Gloss=oneself|Translit=ʔeːŋ
+13	ก็	ก็	ADV	_	_	14	advmod	_	SpaceAfter=No|Gloss=also|Translit=kɔ̂ː
+14	ทำงาน	ทำงาน	VERB	_	_	2	conj	_	SpaceAfter=No|Gloss=work|Translit=tham-ŋaːn
+15	อย่าง	อย่าง	NOUN	_	_	14	obl	_	SpaceAfter=No|Gloss=as|Translit=jàːŋ
+16	หนัก	หนัก	VERB	_	_	15	acl	_	Gloss=heavy|Translit=nàk
+
+# sent_id = Thai_Election_ForThaiParty_2023_NewsArticle_5
+# text = เราจึงมั่นใจและมีกำลังใจอย่างมาก
+# text_en = (She said that) that’s why we were very confident and greatly encouraged.
+# tokenised_text = เรา จึง มั่นใจ และ มี กำลังใจ อย่าง มาก
+# tokenised_translit =
+# tokenised_transcript = /raw/ /cɯŋ/ /mân-caj/ /lɛ́ʔ/ /miː/ /kam-laŋ-caj/ /jàːŋ/ /mâːk/
+# phrase_type = sentence
+# sentence_position = body
+# genre = political_news_article
+# source = https://www.matichon.co.th/weekly/hot-news/article_656016 
+# year = 2023
+1	เรา	เรา	PRON	_	Person=1|PronType=Prs	3	nsubj	_	SpaceAfter=No|Gloss=we|Translit=raw
+2	จึง	จึง	ADV	_	_	3	advmod	_	SpaceAfter=No|Gloss=therefore|Translit=cɯŋ
+3	มั่นใจ	มั่นใจ	VERB	_	_	0	root	_	SpaceAfter=No|Gloss=confident|Translit=mân-caj
+4	และ	และ	CCONJ	_	_	5	cc	_	SpaceAfter=No|Gloss=and|Translit=lɛ́ʔ
+5	มี	มี	VERB	_	_	3	conj	_	SpaceAfter=No|Gloss=have|Translit=miː
+6	กำลังใจ	กำลังใจ	NOUN	_	_	5	obl:arg	_	SpaceAfter=No|Gloss=morale|Translit=kam-laŋ-caj
+7	อย่าง	อย่าง	NOUN	_	_	5	obl	_	SpaceAfter=No|Gloss=as|Translit=jàːŋ
+8	มาก	มาก	VERB	_	_	7	acl	_	Gloss=very|Translit=mâːk
+
+# sent_id = Thai_Election_ForThaiParty_2023_NewsArticle_6
+# text = เมื่อถามถึงกรณี นายนิยม ช่างพินิจ อดีตส.ส.เพื่อไทยย้ายไปสังกัดพรรคภูมิใจไทย (ภท.) จะสามารถแลนด์สไลด์ได้หรือไม่ 
+# text_en = (The reporter) asked if a landslide victory would still be possible, as Mister Niyom Changphinit, a former Pheu Thai MP moved to join the Bhumjaithai Party.
+# tokenised_text = เมื่อ ถาม ถึง กรณี นาย นิยม ช่างพินิจ อดีต ส.ส. เพื่อ ไทย ย้าย ไป สังกัด พรรค ภูมิใจ ไทย ( ภท. ) จะ สามารถ แลนด์สไลด์ ได้ หรือ ไม่
+# tokenised_translit =
+# tokenised_transcript = /mɯ̂a/ /thǎːm/ /thɯ̌ŋ/ /kɔː-rà-niː/ /naːj/ /ní-jom/ /chaːŋ-phí-nit/ /ʔà-dìːt/ /sɔ̌ː-sɔ̌ː/ /phɯ̂a/ /thaj/ /jáːj/ /paj/ /sáŋ-kat/ /phák/ /phuːm-caj/ /thaj/ (/phɔː-thɔː/) /càʔ/ /sǎː-mâːt/ /lɛːn-sà-láj/ /dâj/ /rɯ̌ː/ /mâj/
+# phrase_type = sentence
+# sentence_position = body
+# genre = political_news_article
+# source = https://www.matichon.co.th/weekly/hot-news/article_656016 
+# year = 2023
+1	เมื่อ	เมื่อ	NOUN	_	_	2	obl	_	SpaceAfter=No|Gloss=when|Translit=mɯ̂a
+2	ถาม	ถาม	VERB	_	_	0	root	_	SpaceAfter=No|Gloss=ask|Translit=thǎːm
+3	ถึง	ถึง	ADP	_	_	4	case	_	SpaceAfter=No|Gloss=to|Translit=thɯ̌ŋ
+4	กรณี	กรณี	NOUN	_	_	2	obl	_	Gloss=case|Translit=kɔː-rà-niː
+5	นาย	นาย	NOUN	_	_	12	nsubj	_	SpaceAfter=No|Gloss=Mister|Translit=naːj
+6	นิยม	นิยม	PROPN	_	_	5	nmod	_	Gloss=Niyom|Translit=ní-jom
+7	ช่างพินิจ	ช่างพินิจ	PROPN	_	_	6	flat	_	Gloss=Changpinij|Translit=chaːŋ-phí-nit
+8	อดีต	อดีต	NOUN	_	_	5	appos	_	SpaceAfter=No|Gloss=past|Translit=ʔà-dìːt
+9	ส.ส.	สส.	NOUN	_	Abbr=Yes	8	nmod	_	SpaceAfter=No|CorrectSpaceAfter=Yes|Gloss=Members of the House of Representatives of Thailand|Translit=sɔ̌ː-sɔ̌ː
+10	เพื่อ	เพื่อ	ADP	_	_	11	case	_	SpaceAfter=No|Gloss=for|Translit=phɯ̂a
+11	ไทย	ไทย	PROPN	_	ExtPos=PROPN	9	nmod	_	SpaceAfter=No|Gloss=Thai|Translit=thaj
+12	ย้าย	ย้าย	VERB	_	_	4	acl	_	SpaceAfter=No|Gloss=move|Translit=jáːj
+13	ไป	ไป	VERB	_	_	12	compound:svc	_	SpaceAfter=No|Gloss=go|Translit=paj
+14	สังกัด	สังกัด	VERB	_	_	13	compound:svc	_	SpaceAfter=No|Gloss=affiliate with|Translit=sáŋ-kat
+15	พรรค	พรรค	NOUN	_	_	14	obl:arg	_	SpaceAfter=No|Gloss=party|Translit=phák
+16	ภูมิใจ	ภูมิใจ	VERB	_	ExtPos=PROPN	15	nmod	_	SpaceAfter=No|Gloss=proud|Translit=phuːm-caj
+17	ไทย	ไทย	PROPN	_	_	16	obj	_	Gloss=Thai|Translit=thaj
+18	(	(	PUNCT	_	_	19	punct	_	SpaceAfter=No
+19	ภท.	ภท.	PROPN	_	Abbr=Yes	16	appos	_	SpaceAfter=No|Gloss=Bhumjaithai|Translit=phɔː-thɔː
+20	)	)	PUNCT	_	_	19	punct	_	_
+21	จะ	จะ	ADV	_	_	22	advmod	_	SpaceAfter=No|Gloss=will(express the future time)|Translit=càʔ
+22	สามารถ	สามารถ	VERB	_	_	2	ccomp	_	SpaceAfter=No|Gloss=be able to|Translit=sǎː-mâːt
+23	แลนด์สไลด์	แลนด์สไลด์	VERB	_	Foreign=Yes	22	xcomp	_	SpaceAfter=No|Gloss=landslide|Translit=lɛːn-sà-láj
+24	ได้	ได้	VERB	_	_	23	advcl	_	SpaceAfter=No|Gloss=get(express potential or permission)|Translit=dâj
+25	หรือ	หรือ	CCONJ	_	_	26	cc	_	SpaceAfter=No|Gloss=or|Translit=rɯ̌ː
+26	ไม่	ไม่	ADV	_	_	22	conj	_	Gloss=not|Translit=mâj
+
+# sent_id = Thai_Election_ForThaiParty_2023_NewsArticle_7
+# text = น.ส.แพทองธาร กล่าวว่า ว่าที่ผู้สมัครที่จะลงเขตนี้ก็เป็นคนที่ประชาชนรู้จักดีอยู่แล้ว 
+# text_en = Ms. Paetongtarn said that the prospective candidates to run in this district were already well known among the people.
+# tokenised_text = น.ส. แพทองธาร กล่าว ว่า ว่าที่ ผู้ สมัคร ที่ จะ ลง เขต นี้ ก็ เป็น คน ที่ ประชาชน รู้จัก ดี อยู่ แล้ว
+# tokenised_translit =
+# tokenised_transcript = /naːŋ-sǎːw/ /phɛː-thɔːŋ-thaːn/ /klàːw/ /wâː/ /wâː-thîː/ /phûː/ /sà-màk/ /thîː/ /càʔ/ /loŋ/ /khèːt/ /níː/ /kɔ̂ː/ /pen/ /khon/ /thîː/ /pràʔ-chaː-chon/ /rúː-càk/ /diː/ /jùː/ /lɛ́ːw/
+# phrase_type = sentence
+# sentence_position = body
+# genre = political_news_article
+# source = https://www.matichon.co.th/weekly/hot-news/article_656016 
+# year = 2023
+1	น.ส.	น.ส.	NOUN	_	Abbr=Yes	3	nsubj	_	SpaceAfter=No|Gloss=Ms.|Translit=naːŋ-sǎːw
+2	แพทองธาร	แพทองธาร	PROPN	_	_	1	nmod	_	CorrectSpaceAfter=No|Gloss=Paetongtarn|Translit=phɛː-thɔːŋ-thaːn
+3	กล่าว	กล่าว	VERB	_	_	0	root	_	SpaceAfter=No|Gloss=say|Translit=klàːw
+4	ว่า	ว่า	SCONJ	_	_	15	mark	_	Gloss=that(COMP)|Translit=wâː
+5	ว่าที่	ว่าที่	NOUN	_	_	15	nsubj	_	SpaceAfter=No|Gloss=prospective|Translit=wâː-thîː
+6	ผู้	ผู้	NOUN	_	_	5	nmod	_	SpaceAfter=No|Gloss=person|Translit=phûː
+7	สมัคร	สมัคร	VERB	_	_	6	acl	_	SpaceAfter=No|Gloss=apply|Translit=sà-màk
+8	ที่	ที่	PRON	_	_	10	nsubj	_	SpaceAfter=No|Gloss=that(REL)|Translit=thîː
+9	จะ	จะ	ADV	_	_	10	advmod	_	SpaceAfter=No|Gloss=will(express the future time)|Translit=càʔ
+10	ลง	ลง	VERB	_	_	5	acl:relcl	_	SpaceAfter=No|Gloss=descend|Translit=loŋ
+11	เขต	เขต	NOUN	_	_	10	obl:arg	_	SpaceAfter=No|Gloss=district|Translit=khèːt
+12	นี้	นี้	ADJ	_	_	11	amod	_	SpaceAfter=No|Gloss=this(DEM)|Translit=níː
+13	ก็	ก็	ADV	_	_	15	advmod	_	SpaceAfter=No|Gloss=also|Translit=kɔ̂ː
+14	เป็น	เป็น	AUX	_	_	15	cop	_	SpaceAfter=No|Gloss=BE|Translit=pen
+15	คน	คน	NOUN	_	_	3	ccomp	_	SpaceAfter=No|Gloss=person|Translit=khon
+16	ที่	ที่	PRON	_	_	18	obj	_	SpaceAfter=No|Gloss=that(REL)|Translit=thîː
+17	ประชาชน	ประชาชน	NOUN	_	_	18	nsubj	_	SpaceAfter=No|Gloss=population|Translit=pràʔ-chaː-chon
+18	รู้จัก	รู้จัก	VERB	_	_	15	acl:relcl	_	SpaceAfter=No|Gloss=know|Translit=rúː-càk
+19	ดี	ดี	ADV	_	_	18	advmod	_	SpaceAfter=No|Gloss=good|Translit=diː
+20	อยู่	อยู่	ADV	_	_	18	advmod	_	SpaceAfter=No|Gloss=stay(express aspect)|Translit=jùː
+21	แล้ว	แล้ว	ADV	_	_	18	advmod	_	Gloss=already|Translit=lɛ́ːw
+
+# sent_id = Thai_Election_ForThaiParty_2023_NewsArticle_8
+# text = แน่นอนว่าเราต้องเพิ่มเติมเรื่องการแนะนำว่าเรามาแบบนี้ตั้งใจแบบนี้เพื่อให้ส.ส.ของเราเข้ามาทำงานในสภาฯเพื่อผลักดันนโยบาย เพื่อพี่น้องประชาชน 
+# text_en = (She said that) it was certain that we would need to further explain that we had come with clear intentions — how and why we were coming — so that our MPs could enter the Parliament to work and push forward the policies for the benefit of the people.
+# tokenised_text = แน่นอน ว่า เรา ต้อง เพิ่ม เติม เรื่อง การ แนะนำ ว่า เรา มา แบบ นี้ ตั้งใจ แบบ นี้ เพื่อ ให้ ส.ส. ของ เรา เข้า มา ทำงาน ใน สภา ฯ เพื่อ ผลักดัน นโยบาย เพื่อ พี่ น้อง ประชาชน
+# tokenised_translit =
+# tokenised_transcript = /nɛ̂ː-nɔːn/ /wâː/ /raw/ /thɔ̂ŋ/ /phɤ̂ːm/ /thɤːm/ /rɯ̂aŋ/ /kaːn/ /nɛ́ʔ-nam/ /wâː/ /raw/ /maː/ /bɛ̀ːp/ /níː/ /tâŋ-caj/ /bɛ̀ːp/ /níː/ /phɯ̂a/ /hâj/ /sɔ̌ː-sɔ̌ː/ /khɔ̌ːŋ/ /raw/ /khâw/ /maː/ /tham-ŋaːn/ /naj/ /sà-phaː/ /phɯ̂a/ /phlàk-dan/ /ná-joː-baːj/ /phɯ̂a/ /phîː/ /nɔ́ːŋ/ /pràʔ-chaː-chon/
+# phrase_type = sentence
+# sentence_position = body
+# genre = political_news_article
+# source = https://www.matichon.co.th/weekly/hot-news/article_656016 
+# year = 2023
+1	แน่นอน	แน่นอน	VERB	_	_	0	root	_	SpaceAfter=No|Gloss=certain|Translit=nɛ̂ː-nɔːn
+2	ว่า	ว่า	SCONJ	_	_	4	mark	_	SpaceAfter=No|CorrectSpaceAfter=Yes|Gloss=that(COMP)|Translit=wâː
+3	เรา	เรา	PRON	_	Person=1|PronType=Prs	4	nsubj	_	SpaceAfter=No|Gloss=we|Translit=raw
+4	ต้อง	ต้อง	VERB	_	_	1	ccomp	_	SpaceAfter=No|Gloss=must|Translit=thɔ̂ŋ
+5	เพิ่ม	เพิ่ม	VERB	_	_	4	xcomp	_	SpaceAfter=No|Gloss=|Translit=phɤ̂ːm
+6	เติม	เติม	VERB	_	_	5	flat	_	SpaceAfter=No|Gloss=|Translit=thɤːm
+7	เรื่อง	เรื่อง	NOUN	_	_	5	obj	_	SpaceAfter=No|Gloss=story|Translit=rɯ̂aŋ
+8	การ	การ	NOUN	_	NounType=Nmlz	7	nmod	_	SpaceAfter=No|Gloss=a thing to be done(nominalizer)|Translit=kaːn
+9	แนะนำ	แนะนำ	VERB	_	_	8	acl	_	SpaceAfter=No|Gloss=introduce|Translit=nɛ́ʔ-nam
+10	ว่า	ว่า	SCONJ	_	_	12	mark	_	SpaceAfter=No|CorrectSpaceAfter=Yes|Gloss=that(COMP)|Translit=wâː
+11	เรา	เรา	PRON	_	Person=1|PronType=Prs	12	nsubj	_	SpaceAfter=No|Gloss=we|Translit=raw
+12	มา	มา	VERB	_	_	9	ccomp	_	SpaceAfter=No|Gloss=come|Translit=maː
+13	แบบ	แบบ	NOUN	_	_	12	obl	_	SpaceAfter=No|Gloss=manner|Translit=bɛ̀ːp
+14	นี้	นี้	ADJ	_	_	13	amod	_	SpaceAfter=No|CorrectSpaceAfter=Yes|Gloss=this(DEM)|Translit=níː
+15	ตั้งใจ	ตั้งใจ	VERB	_	_	12	conj	_	SpaceAfter=No|Gloss=determined|Translit=tâŋ-caj
+16	แบบ	แบบ	NOUN	_	_	15	obl	_	SpaceAfter=No|Gloss=manner|Translit=bɛ̀ːp
+17	นี้	นี้	ADJ	_	_	16	amod	_	SpaceAfter=No|Gloss=this(DEM)|Translit=níː
+18	เพื่อ	เพื่อ	ADP	_	_	19	mark	_	SpaceAfter=No|Gloss=for|Translit=phɯ̂a
+19	ให้	ให้	VERB	_	_	12	advcl	_	SpaceAfter=No|Gloss=give|Translit=hâj
+20	ส.ส.	สส.	NOUN	_	Abbr=Yes	19	obj	_	SpaceAfter=No|CorrectSpaceAfter=Yes|Gloss=Members of the House of Representatives of Thailand|Translit=sɔ̌ː-sɔ̌ː
+21	ของ	ของ	ADP	_	_	22	case	_	SpaceAfter=No|Gloss=of|Translit=khɔ̌ːŋ
+22	เรา	เรา	PRON	_	Person=1|PronType=Prs	20	nmod	_	SpaceAfter=No|Gloss=we|Translit=raw
+23	เข้า	เข้า	VERB	_	_	19	compound:svc	_	SpaceAfter=No|Gloss=enter|Translit=khâw
+24	มา	มา	VERB	_	_	23	compound:svc	_	SpaceAfter=No|Gloss=come|Translit=maː
+25	ทำงาน	ทำงาน	VERB	_	_	24	compound:svc	_	SpaceAfter=No|Gloss=work|Translit=tham-ŋaːn
+26	ใน	ใน	ADP	_	_	27	case	_	SpaceAfter=No|Gloss=in|Translit=naj
+27	สภา	สภา	PROPN	_	_	25	obl	_	SpaceAfter=No|Gloss=the House of Representatives of Thailand|Translit=sà-phaː
+28	ฯ	ผู้แทนราษฎรไทย	SYM	_	_	27	nmod	_	SpaceAfter=No|CorrectSpaceAfter=Yes|Gloss=the House of Representatives of Thailand|Translit=phûː-thɛːn-râːt-sà-dɔːn-thaj
+29	เพื่อ	เพื่อ	ADP	_	_	30	mark	_	SpaceAfter=No|Gloss=for|Translit=phɯ̂a
+30	ผลักดัน	ผลักดัน	VERB	_	_	25	advcl	_	SpaceAfter=No|Gloss=push|Translit=phlàk-dan
+31	นโยบาย	นโยบาย	NOUN	_	_	30	obj	_	CorrectSpaceAfter=No|Gloss=policy|Translit=ná-joː-baːj
+32	เพื่อ	เพื่อ	ADP	_	_	33	case	_	SpaceAfter=No|Gloss=for|Translit=phɯ̂a
+33	พี่	พี่	NOUN	_	_	25	advcl	_	SpaceAfter=No|Gloss=older sibling|Translit=phîː
+34	น้อง	น้อง	NOUN	_	_	33	flat	_	SpaceAfter=No|Gloss=younger sibling|Translit=nɔ́ːŋ
+35	ประชาชน	ประชาชน	NOUN	_	_	33	appos	_	Gloss=population|Translit=pràʔ-chaː-chon
+
+# sent_id = Thai_Election_ForThaiParty_2023_NewsArticle_9
+# text = ฉะนั้นเรามั่นใจมากๆ
+# text_en = (She said that) we were therefore very confident.
+# tokenised_text = ฉะนั้น เรา มั่นใจ มาก ๆ
+# tokenised_translit =
+# tokenised_transcript = /chàʔ-nán/ /raw/ /mân-caj/ /mâːk/ /mâːk/
+# phrase_type = sentence
+# sentence_position = body
+# genre = political_news_article
+# source = https://www.matichon.co.th/weekly/hot-news/article_656016 
+# year = 2023
+1	ฉะนั้น	ฉะนั้น	ADV	_	_	3	advmod	_	SpaceAfter=No|Gloss=so|Translit=chàʔ-nán
+2	เรา	เรา	PRON	_	Person=1|PronType=Prs	3	nsubj	_	SpaceAfter=No|Gloss=we|Translit=raw
+3	มั่นใจ	มั่นใจ	VERB	_	_	0	root	_	SpaceAfter=No|Gloss=confident|Translit=mân-caj
+4	มาก	มาก	VERB	_	_	3	advcl	_	SpaceAfter=No|CorrectSpaceAfter=Yes|Gloss=very|Translit=mâːk
+5	ๆ	ๆ	SYM	_	ExtPos=VERB	4	compound:redup	_	Gloss=very|Translit=mâːk
+
+# sent_id = Thai_Election_ForThaiParty_2023_NewsArticle_10
+# text = ด้าน นพ.ชลน่าน ศรีแก้ว ส.ส.น่าน และหัวหน้าพรรคเพื่อไทย (พท.) ให้สัมภาษณ์กรณีประกาศไม่จับมือกับพรรคพลังประชารัฐ (พปชร.) ว่า เรื่องนี้มีกระแสมาปิดกั้นยุทธศาสตร์แลนด์สไลด์ของพรรค พท.ที่เราประกาศไว้
+# text_en = Dr. Chonlanan Srikaew, MP for Nan Province and leader of the Pheu Thai Party (PT), gave an interview regarding the party’s announcement not to join hands with the Palang Pracharath Party (PPRP), saying that there has been a movement to block the Pheu Thai Party’s landslide strategy that had been previously announced.
+# tokenised_text = ด้าน นพ. ชลน่าน ศรีแก้ว ส.ส. น่าน และ หัวหน้า พรรค เพื่อ ไทย ( พท. ) ให้ สัมภาษณ์ กรณี ประกาศ ไม่ จับ มือ กับ พรรค พลัง ประชา รัฐ ( พปชร. ) ว่า เรื่อง นี้ มี กระแส มา ปิด กั้น ยุทธศาสตร์ แลนด์สไลด์ ของ พรรค พท. ที่ เรา ประกาศ ไว้
+# tokenised_translit =
+# tokenised_transcript = /dâːn/ /naːj-phɛ̂ːt/ /chon-là-nâːn/ /sǐː-kɛ̂ːw/ /sɔ̌ː-sɔ̌ː/ /nâːn/ /lɛ́ʔ/ /hǔa-nâː/ /phák/ /phɯ̂a/ /thaj/ (/phɔː-thɔː/) /hâj/ /sǎm-phaːt/ /kɔː-rà-niː/ /pràʔ-kàːt/ /mâj/ /càp/ /mɯː/ /kàp/ /phák/ /phà-laŋ/ /pràʔ-chaː/ /rát/ (/phɔː-pɔː-chɔː-rɔː/) /wâː/ /rɯ̂aŋ/ /níː/ /miː/ /kràʔ-sɛ̌ː/ /maː/ /pìt/ /kân/ /jút-thà-sàːt/ /lɛːn-sà-láj/ /khɔ̌ːŋ/ /phák/ /phɔː-thɔː/ /thîː/ /raw/ /pràʔ-kàːt/ /wáj/ 
+# phrase_type = sentence
+# sentence_position = body
+# genre = political_news_article
+# source = https://www.matichon.co.th/weekly/hot-news/article_656016 
+# year = 2023
+1	ด้าน	ด้าน	NOUN	_	_	15	nsubj	_	Gloss=side|Translit=dâːn
+2	นพ.	นพ.	NOUN	_	Abbr=Yes	1	nmod	_	SpaceAfter=No|Gloss=Doctor|Translit=naːj-phɛ̂ːt
+3	ชลน่าน	ชลน่าน	PROPN	_	_	2	nmod	_	Gloss=Chonlanan|Translit=chon-là-nâːn
+4	ศรีแก้ว	ศรีแก้ว	PROPN	_	_	3	flat	_	Gloss=Srikaew|Translit=sǐː-kɛ̂ːw
+5	ส.ส.	สส.	NOUN	_	Abbr=Yes	2	appos	_	SpaceAfter=No|CorrectSpaceAfter=Yes|Gloss=Members of the House of Representatives of Thailand|Translit=sɔ̌ː-sɔ̌ː
+6	น่าน	น่าน	PROPN	_	_	5	nmod	_	CorrectSpaceAfter=No|Gloss=Nan|Translit=nâːn
+7	และ	และ	CCONJ	_	_	8	cc	_	SpaceAfter=No|Gloss=and|Translit=lɛ́ʔ
+8	หัวหน้า	หัวหน้า	NOUN	_	_	5	conj	_	SpaceAfter=No|Gloss=chief|Translit=hǔa-nâː
+9	พรรค	พรรค	NOUN	_	_	8	nmod	_	SpaceAfter=No|Gloss=party|Translit=phák
+10	เพื่อ	เพื่อ	ADP	_	_	11	case	_	SpaceAfter=No|Gloss=for|Translit=phɯ̂a
+11	ไทย	ไทย	PROPN	_	ExtPos=PROPN	9	nmod	_	Gloss=Thai|Translit=thaj
+12	(	(	PUNCT	_	_	13	punct	_	SpaceAfter=No
+13	พท.	พท.	PROPN	_	Abbr=Yes	11	appos	_	SpaceAfter=No|Gloss=Pheu Thai|Translit=phɔː-thɔː
+14	)	)	PUNCT	_	_	13	punct	_	_
+15	ให้	ให้	VERB	_	_	0	root	_	SpaceAfter=No|Gloss=give|Translit=hâj
+16	สัมภาษณ์	สัมภาษณ์	VERB	_	_	15	compound:svc	_	SpaceAfter=No|Gloss=interview|Translit=sǎm-phaːt
+17	กรณี	กรณี	NOUN	_	_	16	iobj	_	SpaceAfter=No|Gloss=case|Translit=kɔː-rà-niː
+18	ประกาศ	ประกาศ	VERB	_	_	17	acl	_	SpaceAfter=No|Gloss=announce|Translit=pràʔ-kàːt
+19	ไม่	ไม่	ADV	_	_	20	advmod	_	SpaceAfter=No|Gloss=not|Translit=mâj
+20	จับ	จับ	VERB	_	_	18	ccomp	_	SpaceAfter=No|Gloss=hold|Translit=càp
+21	มือ	มือ	NOUN	_	_	20	obj	_	SpaceAfter=No|Gloss=hands|Translit=mɯː
+22	กับ	กับ	ADP	_	_	23	case	_	SpaceAfter=No|Gloss=with|Translit=kàp
+23	พรรค	พรรค	NOUN	_	_	20	obl	_	SpaceAfter=No|Gloss=party|Translit=phák
+24	พลัง	พลัง	NOUN	_	ExtPos=PROPN	23	nmod	_	SpaceAfter=No|Gloss=power|Translit=phà-laŋ
+25	ประชา	ประชา	NOUN	_	_	24	nmod	_	SpaceAfter=No|Gloss=people|Translit=pràʔ-chaː
+26	รัฐ	รัฐ	NOUN	_	_	25	nmod	_	Gloss=State|Translit=rát
+27	(	(	PUNCT	_	_	28	punct	_	SpaceAfter=No
+28	พปชร.	พปชร.	PROPN	_	Abbr=Yes	24	appos	_	SpaceAfter=No|Gloss=Palang Pracharath|Translit=phɔː-pɔː-chɔː-rɔː
+29	)	)	PUNCT	_	_	28	punct	_	_
+30	ว่า	ว่า	SCONJ	_	_	33	mark	_	Gloss=that(COMP)|Translit=wâː
+31	เรื่อง	เรื่อง	NOUN	_	_	33	nsubj	_	SpaceAfter=No|Gloss=story|Translit=rɯ̂aŋ
+32	นี้	นี้	ADJ	_	_	31	amod	_	SpaceAfter=No|Gloss=this(DEM)|Translit=níː
+33	มี	มี	VERB	_	_	16	ccomp	_	SpaceAfter=No|Gloss=have|Translit=miː
+34	กระแส	กระแส	NOUN	_	_	33	obl:arg	_	SpaceAfter=No|Gloss=sentiment|Translit=kràʔ-sɛ̌ː
+35	มา	มา	VERB	_	_	34	acl	_	SpaceAfter=No|Gloss=come|Translit=maː
+36	ปิด	ปิด	VERB	_	_	35	compound:svc	_	SpaceAfter=No|Gloss=close|Translit=pìt
+37	กั้น	กั้น	VERB	_	_	36	compound:svc	_	SpaceAfter=No|Gloss=block|Translit=kân
+38	ยุทธศาสตร์	ยุทธศาสตร์	NOUN	_	_	37	obj	_	SpaceAfter=No|Gloss=strategy|Translit=jút-thà-sàːt
+39	แลนด์สไลด์	แลนด์สไลด์	VERB	_	Foreign=Yes	38	acl	_	SpaceAfter=No|Gloss=landslide|Translit=lɛːn-sà-láj
+40	ของ	ของ	ADP	_	_	41	case	_	SpaceAfter=No|Gloss=of|Translit=khɔ̌ːŋ
+41	พรรค	พรรค	NOUN	_	_	38	nmod	_	CorrectSpaceAfter=No|Gloss=party|Translit=phák
+42	พท.	พท.	PROPN	_	Abbr=Yes	41	nmod	_	SpaceAfter=No|CorrectSpaceAfter=Yes|Gloss=Pheu Thai|Translit=phɔː-thɔː
+43	ที่	ที่	PRON	_	_	45	obj	_	SpaceAfter=No|Gloss=that(REL)|Translit=thîː
+44	เรา	เรา	PRON	_	Person=1|PronType=Prs	45	nsubj	_	SpaceAfter=No|Gloss=we|Translit=raw
+45	ประกาศ	ประกาศ	VERB	_	_	38	acl:relcl	_	SpaceAfter=No|Gloss=announce|Translit=pràʔ-kàːt
+46	ไว้	ไว้	ADV	_	_	45	advmod	_	Gloss=keep(placed after a verb to emphasise and/or complete the meaning of the verb)|Translit=wáj
+
+# sent_id = Thai_Election_ForThaiParty_2023_NewsArticle_11
+# text = ทั้งนี้ หากพี่น้องสนับสนุนเราตามที่ประกาศไว้ว่าจะได้ ส.ส. 310 เสียง เราประกาศชัดไม่จับมือกับใครโดยเฉพาะฟากฝั่งที่มาจากเผด็จการ 
+# text_en = (He said that) if the public supported us (the Pheu Thai Party) as targeted—winning 310 seats, we clearly declared we would not form a coalition with any party, especially those aligned with the authoritarian side.
+# tokenised_text = ทั้ง นี้ หาก พี่ น้อง สนับสนุน เรา ตาม ที่ ประกาศ ไว้ ว่า จะ ได้ ส.ส. 310 เสียง เรา ประกาศ ชัด ไม่ จับ มือ กับ ใคร โดย เฉพาะ ฟาก ฝั่ง ที่ มา จาก เผด็จการ
+# tokenised_translit =
+# tokenised_transcript = /tháŋ-níː/ /hàːk/ /phîː/ /nɔ́ːŋ/ /sà-nàp-sà-nǔn/ /raw/ /taːm/ /thîː/ /pràʔ-kàːt/ /wáj/ /wâː/ /càʔ/ /dâj/ /sɔ̌ː-sɔ̌ː/ /sǎːm-rɔ́j-sìp/ /sǐaŋ/ /raw/ /pràʔ-kàːt/ /chát/ /mâj/ /càp/ /mɯː/ /kàp/ /khraj/ /doːj/ /chà-phɔ́ʔ/ /fâːk/ /fàŋ/ /thîː/ /maː/ /càːk/ /phà-dèt-kaːn/
+# phrase_type = sentence
+# sentence_position = body
+# genre = political_news_article
+# source = https://www.matichon.co.th/weekly/hot-news/article_656016 
+# year = 2023
+1	ทั้ง	ทั้ง	ADP	_	_	2	case	_	SpaceAfter=No|Gloss=all|Translit=tháŋ-níː
+2	นี้	นี้	PRON	_	_	19	obl	_	Gloss=this|Translit=níː
+3	หาก	หาก	ADP	_	_	6	mark	_	SpaceAfter=No|Gloss=if|Translit=hàːk
+4	พี่	พี่	NOUN	_	_	6	nsubj	_	SpaceAfter=No|Gloss=older sibling|Translit=phîː
+5	น้อง	น้อง	NOUN	_	_	4	flat	_	SpaceAfter=No|Gloss=younger sibling|Translit=nɔ́ːŋ
+6	สนับสนุน	สนับสนุน	VERB	_	_	19	advcl	_	SpaceAfter=No|Gloss=support|Translit=sà-nàp-sà-nǔn
+7	เรา	เรา	PRON	_	Person=1|PronType=Prs	6	obj	_	SpaceAfter=No|Gloss=we|Translit=raw
+8	ตาม	ตาม	ADP	_	_	10	mark	_	SpaceAfter=No|Gloss=as|Translit=taːm
+9	ที่	ที่	PRON	_	_	10	nsubj	_	SpaceAfter=No|Gloss=what|Translit=thîː
+10	ประกาศ	ประกาศ	VERB	_	_	6	advcl	_	SpaceAfter=No|Gloss=announce|Translit=pràʔ-kàːt
+11	ไว้	ไว้	ADV	_	_	10	advmod	_	SpaceAfter=No|Gloss=keep(placed after a verb to emphasise and/or complete the meaning of the verb)|Translit=wáj
+12	ว่า	ว่า	SCONJ	_	_	14	mark	_	SpaceAfter=No|CorrectSpaceAfter=Yes|Gloss=that(COMP)|Translit=wâː
+13	จะ	จะ	ADV	_	_	14	advmod	_	SpaceAfter=No|Gloss=will(express the future time)|Translit=càʔ
+14	ได้	ได้	VERB	_	_	10	ccomp	_	Gloss=get|Translit=dâj
+15	ส.ส.	สส.	NOUN	_	Abbr=Yes	14	obl:arg	_	Gloss=Members of the House of Representatives of Thailand|Translit=sɔ̌ː-sɔ̌ː
+16	310	310	NUM	_	_	15	nummod	_	Gloss=310|Translit=sǎːm-rɔ́j-sìp
+17	เสียง	เสียง	NOUN	_	NounType=Clf	16	clf	_	Gloss=voice|Translit=sǐaŋ
+18	เรา	เรา	PRON	_	Person=1|PronType=Prs	19	nsubj	_	SpaceAfter=No|Gloss=we|Translit=raw
+19	ประกาศ	ประกาศ	VERB	_	_	0	root	_	SpaceAfter=No|Gloss=announce|Translit=pràʔ-kàːt
+20	ชัด	ชัด	VERB	_	_	19	advcl	_	SpaceAfter=No|Gloss=clear|Translit=chát
+21	ไม่	ไม่	PART	_	_	22	advmod	_	SpaceAfter=No|Gloss=not|Translit=mâj
+22	จับ	จับ	VERB	_	_	19	ccomp	_	SpaceAfter=No|Gloss=hold|Translit=càp
+23	มือ	มือ	NOUN	_	_	22	obj	_	SpaceAfter=No|Gloss=hands|Translit=mɯː
+24	กับ	กับ	ADP	_	_	25	case	_	SpaceAfter=No|Gloss=with|Translit=kàp
+25	ใคร	ใคร	PRON	_	_	22	obl	_	SpaceAfter=No|Gloss=anyone|Translit=khraj
+26	โดย	โดย	ADP	_	_	27	mark	_	SpaceAfter=No|Gloss=with|Translit=doːj
+27	เฉพาะ	เฉพาะ	VERB	_	_	22	advcl	_	SpaceAfter=No|Gloss=specify|Translit=chà-phɔ́ʔ
+28	ฟาก	ฟาก	NOUN	_	_	27	obl:arg	_	SpaceAfter=No|Gloss=side|Translit=fâːk
+29	ฝั่ง	ฝั่ง	NOUN	_	_	28	nmod	_	SpaceAfter=No|Gloss=shore|Translit=fàŋ
+30	ที่	ที่	PRON	_	_	31	nsubj	_	SpaceAfter=No|Gloss=that(REL)|Translit=thîː
+31	มา	มา	VERB	_	_	28	acl:relcl	_	SpaceAfter=No|Gloss=come|Translit=maː
+32	จาก	จาก	ADP	_	_	33	case	_	SpaceAfter=No|Gloss=from|Translit=càːk
+33	เผด็จการ	เผด็จการ	NOUN	_	_	31	obl	_	Gloss=dictatorship|Translit=phà-dèt-kaːn
+
+# sent_id = Thai_Election_ForThaiParty_2023_NewsArticle_12
+# text = เรื่องนี้เป็นเรื่องที่ต้องพูด เพราะไม่อยากให้กระพือข่าวเอาเรื่องนี้มาทำลายพรรคเรา
+# text_en = He added that this needed to be stated clearly to prevent rumors from being spread in a way that could damage the party.
+# tokenised_text = เรื่อง นี้ เป็น เรื่อง ที่ ต้อง พูด เพราะ ไม่ อยาก ให้ กระพือ ข่าว เอา เรื่อง นี้ มา ทำลาย พรรค เรา
+# tokenised_translit =
+# tokenised_transcript = /rɯ̂aŋ/ /níː/ /pen/ /rɯ̂aŋ/ /thîː/ /tɔ̂ŋ/ /phûːt/ /phrɔ́ʔ/ /mâj/ /jàːk/ /hâj/ /kràʔ-phɯː/ /khàːw/ /ʔaw/ /rɯ̂aŋ/ /níː/ /maː/ /tham-laːj/ /phák/ /raw/
+# phrase_type = sentence
+# sentence_position = body
+# genre = political_news_article
+# source = https://www.matichon.co.th/weekly/hot-news/article_656016 
+# year = 2023
+1	เรื่อง	เรื่อง	NOUN	_	_	4	nsubj	_	SpaceAfter=No|Gloss=story|Translit=rɯ̂aŋ
+2	นี้	นี้	ADJ	_	_	1	amod	_	SpaceAfter=No|Gloss=this(DEM)|Translit=níː
+3	เป็น	เป็น	AUX	_	_	4	cop	_	SpaceAfter=No|Gloss=BE|Translit=pen
+4	เรื่อง	เรื่อง	NOUN	_	_	0	root	_	SpaceAfter=No|Gloss=story|Translit=rɯ̂aŋ
+5	ที่	ที่	PRON	_	_	6	obj	_	SpaceAfter=No|Gloss=that(REL)|Translit=thîː
+6	ต้อง	ต้อง	VERB	_	_	4	acl:relcl	_	SpaceAfter=No|Gloss=must|Translit=tɔ̂ŋ
+7	พูด	พูด	VERB	_	_	6	xcomp	_	Gloss=speak|Translit=phûːt
+8	เพราะ	เพราะ	ADP	_	_	10	mark	_	SpaceAfter=No|Gloss=because|Translit=phrɔ́ʔ
+9	ไม่	ไม่	ADV	_	_	10	advmod	_	SpaceAfter=No|Gloss=not|Translit=mâj
+10	อยาก	อยาก	VERB	_	_	4	advcl	_	SpaceAfter=No|Gloss=want|Translit=jàːk
+11	ให้	ให้	VERB	_	_	10	xcomp	_	SpaceAfter=No|Gloss=give|Translit=hâj
+12	กระพือ	กระพือ	VERB	_	_	11	compound:svc	_	SpaceAfter=No|Gloss=spread|Translit=kràʔ-phɯː
+13	ข่าว	ข่าว	NOUN	_	_	12	obj	_	SpaceAfter=No|Gloss=news|Translit=khàːw
+14	เอา	เอา	VERB	_	_	12	advcl	_	SpaceAfter=No|Gloss=take|Translit=ʔaw
+15	เรื่อง	เรื่อง	NOUN	_	_	14	obj	_	SpaceAfter=No|Gloss=story|Translit=rɯ̂aŋ
+16	นี้	นี้	ADJ	_	_	15	amod	_	SpaceAfter=No|Gloss=this(DEM)|Translit=níː
+17	มา	มา	VERB	_	_	14	compound:svc	_	SpaceAfter=No|Gloss=come|Translit=maː
+18	ทำลาย	ทำลาย	VERB	_	_	17	compound:svc	_	SpaceAfter=No|Gloss=destroy|Translit=tham-laːj
+19	พรรค	พรรค	NOUN	_	_	18	obj	_	SpaceAfter=No|Gloss=Party|Translit=phák
+20	เรา	เรา	PRON	_	Person=1|PronType=Prs	19	nmod	_	Gloss=we|Translit=raw
+
+# sent_id = Thai_Election_ForThaiParty_2023_NewsArticle_13
+# text = ถามย้ำว่า หลังเลือกตั้งยืนยันว่าจะไม่จับมือใช่หรือไม่ 
+# text_en = (The reporter) asked again if after the election, he would confirm that there would be no alliance.
+# tokenised_text = ถาม ย้ำ ว่า หลัง เลือกตั้ง ยืนยัน ว่า จะ ไม่ จับ มือ ใช่ หรือ ไม่
+# tokenised_translit =
+# tokenised_transcript = /thǎːm/ /jám/ /wâː/ /lǎŋ/ /lɯ̂ak-tâŋ/ /jɯːn-jan/ /wâː/ /càʔ/ /mâj/ /càp/ /mɯː/ /châj/ /rɯ̌ː/ /mâj/
+# phrase_type = sentence
+# sentence_position = body
+# genre = political_news_article
+# source = https://www.matichon.co.th/weekly/hot-news/article_656016 
+# year = 2023
+1	ถาม	ถาม	VERB	_	_	0	root	_	SpaceAfter=No|Gloss=ask|Translit=thǎːm
+2	ย้ำ	ย้ำ	ADV	_	_	1	advmod	_	SpaceAfter=No|Gloss=repeat|Translit=jám
+3	ว่า	ว่า	SCONJ	_	_	6	mark	_	Gloss=that(COMP)|Translit=wâː
+4	หลัง	หลัง	ADP	_	_	5	mark	_	SpaceAfter=No|Gloss=after|Translit=lǎŋ
+5	เลือกตั้ง	เลือกตั้ง	VERB	_	_	6	advcl	_	SpaceAfter=No|Gloss=vote|Translit=lɯ̂ak-tâŋ
+6	ยืนยัน	ยืนยัน	VERB	_	_	1	ccomp	_	SpaceAfter=No|Gloss=insist|Translit=jɯːn-jan
+7	ว่า	ว่า	SCONJ	_	_	12	mark	_	SpaceAfter=No|CorrectSpaceAfter=Yes|Gloss=that(COMP)|Translit=wâː
+8	จะ	จะ	ADV	_	_	10	advmod	_	SpaceAfter=No|Gloss=will(express the future time)|Translit=càʔ
+9	ไม่	ไม่	ADV	_	_	10	advmod	_	SpaceAfter=No|Gloss=not|Translit=mâj
+10	จับ	จับ	VERB	_	_	12	csubj	_	SpaceAfter=No|Gloss=hold|Translit=càp
+11	มือ	มือ	NOUN	_	_	10	obj	_	SpaceAfter=No|Gloss=hands|Translit=mɯː
+12	ใช่	ใช่	VERB	_	_	6	ccomp	_	SpaceAfter=No|Gloss=correct|Translit=châj
+13	หรือ	หรือ	CCONJ	_	_	14	cc	_	SpaceAfter=No|Gloss=or|Translit=rɯ̌ː
+14	ไม่	ไม่	ADV	_	_	12	conj	_	Gloss=not|Translit=mâj
+
+# sent_id = Thai_Election_ForThaiParty_2023_NewsArticle_14
+# text = นพ.ชลน่าน กล่าวว่า หากเราได้ 310 เสียงไม่มีความจำเป็น
+# text_en = Dr. Chonlanan said that if the party secured 310 seats, there would be no need.
+# tokenised_text = นพ. ชลน่าน กล่าว ว่า หาก เรา ได้ 310 เสียง ไม่ มี ความ จำเป็น
+# tokenised_translit =
+# tokenised_transcript = /naːj-phɛ̂ːt/ /chon-là-nâːn/ /klàːw/ /wâː/ /hàːk/ /raw/ /dâj/ /sǎːm-rɔ́j-sìp/ /sǐaŋ/ /mâj/ /miː/ /khwaːm/ /cam-pen/ 
+# phrase_type = sentence
+# sentence_position = body
+# genre = political_news_article
+# source = https://www.matichon.co.th/weekly/hot-news/article_656016 
+# year = 2023
+1	นพ.	นพ.	NOUN	_	Abbr=Yes	3	nsubj	_	SpaceAfter=No|Gloss=Dortor|Translit=naːj-phɛ̂ːt
+2	ชลน่าน	ชลน่าน	PROPN	_	_	1	nmod	_	CorrectSpaceAfter=No|Gloss=Chonlanan|Translit=chon-là-nâːn
+3	กล่าว	กล่าว	VERB	_	_	0	root	_	SpaceAfter=No|Gloss=say|Translit=klàːw
+4	ว่า	ว่า	SCONJ	_	_	11	mark	_	Gloss=that(COMP)|Translit=wâː
+5	หาก	หาก	ADP	_	_	7	mark	_	SpaceAfter=No|Gloss=if|Translit=hàːk
+6	เรา	เรา	PRON	_	Person=1|PronType=Prs	7	nsubj	_	SpaceAfter=No|Gloss=we|Translit=raw
+7	ได้	ได้	VERB	_	_	11	advcl	_	Gloss=get|Translit=dâj
+8	310	310	NUM	_	_	7	obl:arg	_	Gloss=310|Translit=sǎːm-rɔ́j-sìp
+9	เสียง	เสียง	NOUN	_	NounType=Clf	8	clf	_	SpaceAfter=No|Gloss=voice|Translit=sǐaŋ
+10	ไม่	ไม่	ADV	_	_	11	advmod	_	SpaceAfter=No|Gloss=not|Translit=mâj
+11	มี	มี	VERB	_	_	3	ccomp	_	SpaceAfter=No|Gloss=have|Translit=miː
+12	ความ	ความ	NOUN	_	NounType=Nmlz	11	nsubj	_	SpaceAfter=No|Gloss=condition(nominalizer)Person=1|PronType=Prs|Translit=khwaːm
+13	จำเป็น	จำเป็น	VERB	_	_	12	acl	_	Gloss=necessary|Translit=cam-pen
+
+# sent_id = Thai_Election_ForThaiParty_2023_NewsArticle_15
+# text = ถามต่อว่า หากได้ไม่ถึง 310 เสียงจะทำอย่างไร 
+# text_en = (The reporter) asked further what would happen if the party did not reach 310 seats.
+# tokenised_text = ถาม ต่อ ว่า หาก ได้ ไม่ ถึง 310 เสียง จะ ทำ อย่าง ไร
+# tokenised_translit =
+# tokenised_transcript = /thǎːm/ /thɔ̀ː/ /wâː/ /hàːk/ /dâj/ /mâj/ /thɯ̌ŋ/ /sǎːm-rɔ́j-sìp/ /sǐaŋ/ /càʔ/ /tham/ /jàːŋ/ /raj/ 
+# phrase_type = sentence
+# sentence_position = body
+# genre = political_news_article
+# source = https://www.matichon.co.th/weekly/hot-news/article_656016
+# year = 2023
+1	ถาม	ถาม	VERB	_	_	0	root	_	SpaceAfter=No|Gloss=ask|Translit=thǎːm
+2	ต่อ	ต่อ	ADV	_	_	1	advmod	_	SpaceAfter=No|Gloss=next|Translit=thɔ̀ː
+3	ว่า	ว่า	SCONJ	_	_	11	mark	_	Gloss=that(COMP)|Translit=wâː
+4	หาก	หาก	ADP	_	_	5	mark	_	SpaceAfter=No|Gloss=if|Translit=hàːk
+5	ได้	ได้	VERB	_	_	11	advcl	_	SpaceAfter=No|Gloss=get|Translit=dâj
+6	ไม่	ไม่	ADV	_	_	7	advmod	_	SpaceAfter=No|Gloss=not|Translit=mâj
+7	ถึง	ถึง	VERB	_	_	5	xcomp	_	Gloss=reach|Translit=thɯ̌ŋ
+8	310	310	NUM	_	_	7	obl:arg	_	Gloss=310|Translit=sǎːm-rɔ́j-sìp
+9	เสียง	เสียง	NOUN	_	NounType=Clf	8	clf	_	SpaceAfter=No|Gloss=voice|Translit=sǐaŋ
+10	จะ	จะ	ADV	_	_	11	advmod	_	SpaceAfter=No|Gloss=will(express the future time)|Translit=càʔ
+11	ทำ	ทำ	VERB	_	_	1	ccomp	_	SpaceAfter=No|Gloss=do|Translit=tham
+12	อย่าง	อย่าง	NOUN	_	_	11	obj	_	SpaceAfter=No|Gloss=manner|Translit=jàːŋ
+13	ไร	ไร	ADJ	_	_	12	amod	_	Gloss=what|Translit=raj
+
+# sent_id = Thai_Election_ForThaiParty_2023_NewsArticle_16
+# text = นพ.ชลน่าน กล่าวว่า อยู่ที่ผลการเลือกตั้งของประชาชน ซึ่งเราก็ต้องมาดูตัวเลข และพรรคที่ประชาชนมอบความไว้วางใจให้เป็นลำดับถัดจากเราว่าเป็นพรรคไหนอย่างไร
+# text_en = Dr. Chonlanan said that it would depend on the election results decided by the people. (He said that)the party would need to look at the numbers and consider which party the public had given the next level of trust after us, and how things stood.
+# tokenised_text = นพ. ชลน่าน กล่าว ว่า อยู่ ที่ ผล การ เลือกตั้ง ของ ประชาชน ซึ่ง เรา ก็ ต้อง มา ดู ตัว เลข และ พรรค ที่ ประชาชน มอบ ความ ไว้วางใจ ให้ เป็น ลำดับ ถัด จาก เรา ว่า เป็น พรรค ไหน อย่าง ไร
+# tokenised_translit =
+# tokenised_transcript = /naːj-phɛ̂ːt/ /chon-là-nâːn/ /klàːw/ /wâː/ /jùː/ /thîː/ /phǒn/ /kaːn/ /lɯ̂ak-tâŋ/ /khɔ̌ːŋ/ /pràʔ-chaː-chon/ /sɯ̂ŋ/ /raw/ /kɔ̂ː/ /tɔ̂ŋ/ /maː/ /duː/ /tua/ /lêːk/ /lɛ́ʔ/ /phák/ /thîː/ /pràʔ-chaː-chon/ /mɔ̂ːp/ /khwaːm/ /wáj-waːŋ-caj/ /hâj/ /pen/ /lam-dàp/ /thàt/ /càːk/ /raw/ /wâː/ /pen/ /phák/ /nǎj/ /jàːŋ/ /raj/
+# phrase_type = sentence
+# sentence_position = body
+# genre = political_news_article
+# source = https://www.matichon.co.th/weekly/hot-news/article_656016
+# year = 2023
+1	นพ.	นพ.	NOUN	_	Abbr=Yes	3	nsubj	_	SpaceAfter=No|Gloss=Dortor|Translit=naːj-phɛ̂ːt
+2	ชลน่าน	ชลน่าน	PROPN	_	_	1	nmod	_	CorrectSpaceAfter=No|Gloss=Chonlanan|Translit=chon-là-nâːn
+3	กล่าว	กล่าว	VERB	_	_	0	root	_	SpaceAfter=No|Gloss=say|Translit=klàːw
+4	ว่า	ว่า	SCONJ	_	_	5	mark	_	Gloss=that(COMP)|Translit=wâː
+5	อยู่	อยู่	VERB	_	_	3	ccomp	_	SpaceAfter=No|Gloss=stay|Translit=jùː
+6	ที่	ที่	ADP	_	_	7	case	_	SpaceAfter=No|Gloss=at|Translit=thîː
+7	ผล	ผล	NOUN	_	_	5	obl	_	SpaceAfter=No|Gloss=result|Translit=phǒn
+8	การ	การ	NOUN	_	NounType=Nmlz	7	nmod	_	SpaceAfter=No|Gloss=a thing to be done(nominalizer)|Translit=kaːn
+9	เลือกตั้ง	เลือกตั้ง	VERB	_	_	8	acl	_	SpaceAfter=No|Gloss=vote|Translit=lɯ̂ak-tâŋ
+10	ของ	ของ	ADP	_	_	11	case	_	SpaceAfter=No|Gloss=of|Translit=khɔ̌ːŋ
+11	ประชาชน	ประชาชน	NOUN	_	_	8	nmod	_	Gloss=population|Translit=pràʔ-chaː-chon
+12	ซึ่ง	ซึ่ง	SCONJ	_	_	15	mark	_	SpaceAfter=No|Gloss=well|Translit=sɯ̂ŋ
+13	เรา	เรา	PRON	_	Person=1|PronType=Prs	15	nsubj	_	SpaceAfter=No|Gloss=we|Translit=raw
+14	ก็	ก็	ADV	_	_	15	advmod	_	SpaceAfter=No|Gloss=also|Translit=kɔ̂ː
+15	ต้อง	ต้อง	VERB	_	_	5	advcl	_	SpaceAfter=No|Gloss=must|Translit=tɔ̂ŋ
+16	มา	มา	VERB	_	_	15	xcomp	_	SpaceAfter=No|Gloss=come|Translit=maː
+17	ดู	ดู	VERB	_	_	16	compound:svc	_	SpaceAfter=No|Gloss=look at|Translit=duː
+18	ตัว	ตัว	NOUN	_	_	17	obl:arg	_	SpaceAfter=No|Gloss=body|Translit=tua
+19	เลข	เลข	NOUN	_	_	18	nmod	_	CorrectSpaceAfter=No|Gloss=number|Translit=lêːk
+20	และ	และ	CCONJ	_	_	21	cc	_	SpaceAfter=No|Gloss=and|Translit=lɛ́ʔ
+21	พรรค	พรรค	NOUN	_	_	18	conj	_	SpaceAfter=No|Gloss=party|Translit=phák
+22	ที่	ที่	PRON	_	_	24	obl	_	SpaceAfter=No|Gloss=that(REL)|Translit=thîː
+23	ประชาชน	ประชาชน	NOUN	_	_	24	nsubj	_	SpaceAfter=No|Gloss=population|Translit=pràʔ-chaː-chon
+24	มอบ	มอบ	VERB	_	_	21	acl:relcl	_	SpaceAfter=No|Gloss=give|Translit=mɔ̂ːp
+25	ความ	ความ	NOUN	_	NounType=Nmlz	24	obj	_	SpaceAfter=No|Gloss=condition(nominalizer)|Translit=khwaːm
+26	ไว้วางใจ	ไว้วางใจ	VERB	_	_	25	acl	_	SpaceAfter=No|Gloss=trust|Translit=wáj-waːŋ-caj
+27	ให้	ให้	ADP	_	_	22	case	_	SpaceAfter=No|Gloss=give|Translit=hâj
+28	เป็น	เป็น	AUX	_	_	29	cop	_	SpaceAfter=No|Gloss=BE|Translit=pen
+29	ลำดับ	ลำดับ	NOUN	_	_	24	advcl	_	SpaceAfter=No|Gloss=order|Translit=lam-dàp
+30	ถัด	ถัด	VERB	_	_	29	acl	_	SpaceAfter=No|Gloss=next|Translit=thàt
+31	จาก	จาก	ADP	_	_	32	case	_	SpaceAfter=No|Gloss=from|Translit=càːk
+32	เรา	เรา	PRON	_	Person=1|PronType=Prs	30	obl	_	SpaceAfter=No|Gloss=we|Translit=raw
+33	ว่า	ว่า	SCONJ	_	_	35	mark	_	SpaceAfter=No|CorrectSpaceAfter=Yes|Gloss=that(COMP)|Translit=wâː
+34	เป็น	เป็น	AUX	_	_	35	cop	_	SpaceAfter=No|Gloss=BE|Translit=pen
+35	พรรค	พรรค	NOUN	_	_	17	ccomp	_	SpaceAfter=No|Gloss=party|Translit=phák
+36	ไหน	ไหน	ADJ	_	_	35	amod	_	SpaceAfter=No|Gloss=which|Translit=nǎj
+37	อย่าง	อย่าง	NOUN	_	_	35	conj	_	SpaceAfter=No|Gloss=type|Translit=jàːŋ
+38	ไร	ไร	ADJ	_	_	37	amod	_	Gloss=what|Translit=raj
+
+# sent_id = Thai_Election_ForThaiParty_2023_NewsArticle_17
+# text = เรายึดมั่นอุดมการณ์ประชาธิปไตยที่สามารถทำงานร่วมกันได้ 
+# text_en = (He added that) we remained committed to democratic principles and were willing to work with the parties that shared those ideals.
+# tokenised_text = เรา ยึดมั่น อุดมการณ์ ประชาธิปไตย ที่ สามารถ ทำงาน ร่วม กัน ได้
+# tokenised_translit =
+# tokenised_transcript = /raw/ /jɯ́t-mân/ /ʔù-dom-kaːn/ /pràʔ-chaː-thíp-pà-taj/ /thîː/ /sǎː-mâːt/ /tham-ŋaːn/ /rûam/ /kan/ /dâj/
+# phrase_type = sentence
+# sentence_position = body
+# genre = political_news_article
+# source = https://www.matichon.co.th/weekly/hot-news/article_656016
+# year = 2023
+1	เรา	เรา	PRON	_	Person=1|PronType=Prs	2	nsubj	_	SpaceAfter=No|Gloss=we|Translit=raw
+2	ยึดมั่น	ยึดมั่น	VERB	_	_	0	root	_	SpaceAfter=No|Gloss=be committed to|Translit=jɯ́t-mân
+3	อุดมการณ์	อุดมการณ์	NOUN	_	_	2	obl:arg	_	SpaceAfter=No|Gloss=ideal|Translit=ʔù-dom-kaːn
+4	ประชาธิปไตย	ประชาธิปไตย	NOUN	_	_	3	nmod	_	SpaceAfter=No|Gloss=democracy|Translit=pràʔ-chaː-thíp-pà-taj
+5	ที่	ที่	PRON	_	_	6	nsubj	_	SpaceAfter=No|Gloss=that(REL)|Translit=thîː
+6	สามารถ	สามารถ	VERB	_	_	3	acl:relcl	_	SpaceAfter=No|Gloss=be able to|Translit=sǎː-mâːt
+7	ทำงาน	ทำงาน	VERB	_	_	6	xcomp	_	SpaceAfter=No|Gloss=work|Translit=tham-ŋaːn
+8	ร่วม	ร่วม	VERB	_	_	7	advcl	_	SpaceAfter=No|Gloss=join|Translit=rûam
+9	กัน	กัน	ADV	_	_	8	advmod	_	SpaceAfter=No|Gloss=together|Translit=kan
+10	ได้	ได้	VERB	_	_	7	advcl	_	Gloss=get(express potential or permission)|Translit=dâj
+
+# sent_id = Thai_Election_ForThaiParty_2023_NewsArticle_18
+# text = ขณะที่ นายเศรษฐา ทวีสิน ประธานที่ปรึกษาหัวหน้าครอบครัวเพื่อไทย ให้สัมภาษณ์ถึงการขึ้นเวทีปราศรัยวันที่สองว่า ตนตื่นเต้น และดีใจ ทราบซึ้งใจที่ประชาชาชนให้การต้อนรับที่ดี 
+# text_en = Meanwhile, Mr. Srettha Thavisin, Chairman of the Advisory Board of the family of the Pheu Thai Party, gave an interview about taking the stage on the second day of the rally, saying that he was excited and happy, and deeply touched by the warm reception from the public.
+# tokenised_text = ขณะ ที่ นาย เศรษฐา ทวีสิน ประธาน ที่ ปรึกษา หัวหน้า ครอบครัว เพื่อ ไทย ให้ สัมภาษณ์ ถึง การ ขึ้น เวที ปราศรัย วัน ที่ สอง ว่า ตน ตื่นเต้น และ ดีใจ ทราบซึ้ง ใจ ที่ ประชาชาชน ให้ การ ต้อนรับ ที่ ดี
+# tokenised_translit =
+# tokenised_transcript = /khà-nàʔ/ /thîː/ /naːj/ /sèːt-thǎː/ /thà-wiː-sǐn/ /pràʔ-thaːn/ /thîː/ /prɯ̀k-sǎː/ /hǔa-nâː/ /khrɔ̂ːp-khrua/ /phɯ̂a/ /thaj/ /hâj/ /sǎm-phaːt/ /thɯ̌ŋ/ /kaːn/ /khɯ̂n/ /weː-thiː/ /praː-sǎj/ /wan/ /thîː/ /sɔ̌ːŋ/ /wâː/ /ton/ /tɯ̀ːn-tên/ /lɛ́ʔ/ /diː-caj/ /sâːp-sɯ́ŋ/ /caj/ /thîː/ /pràʔ-chaː-chon/ /hâj/ /kaːn/ /tɔ̂ːn-ráp/ /thîː/ /diː/
+# phrase_type = sentence
+# sentence_position = body
+# genre = political_news_article
+# source = https://www.matichon.co.th/weekly/hot-news/article_656016 
+# year = 2023
+1	ขณะ	ขณะ	NOUN	_	_	0	root	_	SpaceAfter=No|Gloss=time|Translit=khà-nàʔ
+2	ที่	ที่	PRON	_	_	13	obl	_	Gloss=|Translit=thîː
+3	นาย	นาย	NOUN	_	_	13	nsubj	_	SpaceAfter=No|Gloss=Mister|Translit=naːj
+4	เศรษฐา	เศรษฐา	PROPN	_	_	3	nmod	_	Gloss=Srettha|Translit=sèːt-thǎː
+5	ทวีสิน	ทวีสิน	PROPN	_	_	4	flat	_	Gloss=Thavisin|Translit=thà-wiː-sǐn
+6	ประธาน	ประธาน	NOUN	_	_	3	appos	_	SpaceAfter=No|Gloss=chairman|Translit=pràʔ-thaːn
+7	ที่	ที่	NOUN	_	_	6	nmod	_	SpaceAfter=No|Gloss=position|Translit=thîː
+8	ปรึกษา	ปรึกษา	VERB	_	_	7	acl	_	SpaceAfter=No|Gloss=consult|Translit=prɯ̀k-sǎː
+9	หัวหน้า	หัวหน้า	NOUN	_	_	6	nmod	_	SpaceAfter=No|Gloss=chief|Translit=hǔa-nâː
+10	ครอบครัว	ครอบครัว	NOUN	_	_	9	nmod	_	SpaceAfter=No|Gloss=family|Translit=khrɔ̂ːp-khrua
+11	เพื่อ	เพื่อ	ADP	_	ExtPos=PROPN	12	case	_	SpaceAfter=No|Gloss=for|Translit=phɯ̂a
+12	ไทย	ไทย	PROPN	_	_	10	nmod	_	Gloss=Thai|Translit=thaj
+13	ให้	ให้	VERB	_	_	1	acl:relcl	_	SpaceAfter=No|Gloss=give|Translit=hâj
+14	สัมภาษณ์	สัมภาษณ์	VERB	_	_	13	compound:svc	_	SpaceAfter=No|Gloss=interview|Translit=sǎm-phaːt
+15	ถึง	ถึง	ADP	_	_	16	case	_	SpaceAfter=No|Gloss=to|Translit=thɯ̌ŋ
+16	การ	การ	NOUN	_	NounType=Nmlz	14	obl	_	SpaceAfter=No|Gloss=the act of doing a thing|Translit=kaːn
+17	ขึ้น	ขึ้น	VERB	_	_	16	acl	_	SpaceAfter=No|Gloss=ascend|Translit=khɯ̂n
+18	เวที	เวที	NOUN	_	_	17	obl:arg	_	SpaceAfter=No|Gloss=stage|Translit=weː-thiː
+19	ปราศรัย	ปราศรัย	VERB	_	_	18	acl	_	SpaceAfter=No|Gloss=make a speech|Translit=praː-sǎj
+20	วัน	วัน	NOUN	_	_	16	nmod	_	SpaceAfter=No|Gloss=day|Translit=wan
+21	ที่	ที่	NOUN	_	_	20	nmod	_	SpaceAfter=No|Gloss=rank|Translit=thîː
+22	สอง	สอง	NUM	_	_	21	nmod	_	SpaceAfter=No|Gloss=two|Translit=sɔ̌ːŋ
+23	ว่า	ว่า	SCONJ	_	_	25	mark	_	Gloss=that(COMP)|Translit=wâː
+24	ตน	ตน	NOUN	_	ExtPos=PRON	25	nsubj	_	SpaceAfter=No|Gloss=I|Translit=ton
+25	ตื่นเต้น	ตื่นเต้น	VERB	_	_	14	ccomp	_	Gloss=excited|Translit=tɯ̀ːn-tên
+26	และ	และ	CCONJ	_	_	27	cc	_	SpaceAfter=No|Gloss=and|Translit=lɛ́ʔ
+27	ดีใจ	ดีใจ	VERB	_	_	25	conj	_	Gloss=glad|Translit=diː-caj
+28	ทราบซึ้ง	ซาบซึ้ง	VERB	_	Typo=Yes	25	conj	_	CorrectForm=ซาบซึ้ง|SpaceAfter=No|Gloss=touched|Translit=sâːp-sɯ́ŋ
+29	ใจ	ใจ	NOUN	_	_	28	obl	_	SpaceAfter=No|Gloss=heart|Translit=caj
+30	ที่	ที่	SCONJ	_	_	32	mark	_	SpaceAfter=No|Gloss=that(COMP)|Translit=thîː
+31	ประชาชาชน	ประชาชน	NOUN	Typo=Yes	_	32	nsubj	_	CorrectForm=ประชาชน|SpaceAfter=No|Gloss=population|Translit=pràʔ-chaː-chon
+32	ให้	ให้	VERB	_	_	25	advcl	_	SpaceAfter=No|Gloss=give|Translit=hâj
+33	การ	การ	NOUN	_	NounType=Nmlz	32	obj	_	SpaceAfter=No|Gloss=the act of doing a thing|Translit=kaːn
+34	ต้อนรับ	ต้อนรับ	VERB	_	_	33	acl	_	SpaceAfter=No|Gloss=welcome|Translit=tɔ̂ːn-ráp
+35	ที่	ที่	PRON	_	_	36	nsubj	_	SpaceAfter=No|Gloss=that(REL)|Translit=thîː
+36	ดี	ดี	VERB	_	_	33	acl:relcl	_	Gloss=good|Translit=diː
+
+# sent_id = Thai_Election_ForThaiParty_2023_NewsArticle_19
+# text = ตนมีหัวหน้าพรรค และแกนนำพรรคคนอื่นๆ เป็นแรงบัลดาลใจ 
+# text_en = He added that the party leader and other key party figures served as his inspiration.
+# tokenised_text = ตน มี หัวหน้า พรรค และ แกนนำ พรรค คน อื่น ๆ เป็น แรง บัลดาลใจ
+# tokenised_translit =
+# tokenised_transcript = /ton/ /miː/ /hùa-nâː/ /phák/ /lɛ́ʔ/ /kɛːn-nam/ /phák/ /khon/ /ʔɯ̀ːn/ /ʔɯ̀ːn/ /pen/ /rɛːŋ/ /ban-daːn-jaj/
+# phrase_type = sentence
+# sentence_position = body
+# genre = political_news_article
+# source = https://www.matichon.co.th/weekly/hot-news/article_656016 
+# year = 2023
+1	ตน	ตน	NOUN	_	ExtPos=PRON|Person=1|PronType=Prs	2	nsubj	_	SpaceAfter=No|Gloss=I|Translit=ton
+2	มี	มี	VERB	_	_	0	root	_	SpaceAfter=No|Gloss=have|Translit=miː
+3	หัวหน้า	หัวหน้า	NOUN	_	_	2	obl:arg	_	SpaceAfter=No|Gloss=chief|Translit=hùa-nâː
+4	พรรค	พรรค	NOUN	_	_	3	nmod	_	CorrectSpaceAfter=No|Gloss=party|Translit=phák
+5	และ	และ	CCONJ	_	_	6	cc	_	SpaceAfter=No|Gloss=and|Translit=lɛ́ʔ
+6	แกนนำ	แกนนำ	NOUN	_	_	3	conj	_	SpaceAfter=No|Gloss=leader|Translit=kɛːn-nam
+7	พรรค	พรรค	NOUN	_	_	6	nmod	_	SpaceAfter=No|Gloss=party|Translit=phák
+8	คน	คน	NOUN	_	_	6	clf	_	SpaceAfter=No|Gloss=person|Translit=khon
+9	อื่น	อื่น	ADJ	_	_	8	amod	_	SpaceAfter=No|CorrectSpaceAfter=Yes|Gloss=other|Translit=ʔɯ̀ːn
+10	ๆ	ๆ	SYM	_	ExtPos=ADJ	9	compound:redup	_	Gloss=other|Translit=ʔɯ̀ːn
+11	เป็น	เป็น	AUX	_	_	12	cop	_	SpaceAfter=No|Gloss=BE|Translit=pen
+12	แรง	แรง	NOUN	_	_	3	acl	_	SpaceAfter=No|Gloss=power|Translit=rɛːŋ
+13	บัลดาลใจ	บันดาลใจ	VERB	_	Typo=Yes	12	acl	_	CorrectForm=บันดาล|Gloss=inspire|Translit=ban-daːn-jaj
+
+# sent_id = Thai_Election_ForThaiParty_2023_NewsArticle_20
+# text = ทุกท่านให้กำลังใจและให้การช่วยเหลือเต็มที่
+# text_en = (He added that) everyone had given (him) full encouragement and support.
+# tokenised_text = ทุก ท่าน ให้ กำลังใจ และ ให้ การ ช่วยเหลือ เต็มที่
+# tokenised_translit =
+# tokenised_transcript =  /thúk/ /thâːn/ /hâj/ /kam-laŋ-caj/ /lɛ́ʔ/ /hâj/ /kaːn/ /chûaj-lɯ̌a/ /tem-thîː/
+# phrase_type = sentence
+# sentence_position = body
+# genre = political_news_article
+# source = https://www.matichon.co.th/weekly/hot-news/article_656016 
+# year = 2023
+1	ทุก	ทุก	DET	_	_	2	det	_	SpaceAfter=No|Gloss=every|Translit=thúk
+2	ท่าน	ท่าน	PRON	_	Person=2|PronType=Prs	3	nsubj	_	SpaceAfter=No|Gloss=you|Translit=thâːn
+3	ให้	ให้	VERB	_	_	0	root	_	SpaceAfter=No|Gloss=give|Translit=hâj
+4	กำลังใจ	กำลังใจ	NOUN	_	_	3	obj	_	SpaceAfter=No|Gloss=morale|Translit=kam-laŋ-caj
+5	และ	และ	CCONJ	_	_	6	cc	_	SpaceAfter=No|Gloss=and|Translit=lɛ́ʔ
+6	ให้	ให้	VERB	_	_	3	conj	_	SpaceAfter=No|Gloss=give|Translit=hâj
+7	การ	การ	NOUN	_	NounType=Nmlz	6	obj	_	SpaceAfter=No|Gloss=a thing to be done(nominalizer)|Translit=kaːn
+8	ช่วยเหลือ	ช่วยเหลือ	VERB	_	_	7	acl	_	SpaceAfter=No|Gloss=help|Translit=chûaj-lɯ̌a
+9	เต็มที่	เต็มที่	VERB	_	_	6	advcl	_	Gloss=fully|Translit=tem-thîː
+
+# sent_id = Thai_Election_ForThaiParty_2023_NewsArticle_21
+# text = ผู้สื่อข่าวถามว่า วันนี้ขึ้นเวทีที่สองพูดได้ดุดันขึ้น
+# text_en = The reporter asked if Mr. Srettha's speech on the second day was more forceful.
+# tokenised_text = ผู้ สื่อ ข่าว ถาม ว่า วัน นี้ ขึ้น เวที ที่ สอง พูด ได้ ดุดัน ขึ้น
+# tokenised_translit =
+# tokenised_transcript = /phûː/ /sɯ̀ː/ /khàːw/ /thǎːm/ /wâː/ /wan/ /níː/ /khɯ̂n/ /weː-thiː/ /thîː/ /sɔ̌ːŋ/ /phûːt/ /dâj/ /dù-dan/ /khɯ̂n/
+# phrase_type = sentence
+# sentence_position = body
+# genre = political_news_article
+# source = https://www.matichon.co.th/weekly/hot-news/article_656016 
+# year = 2023
+1	ผู้	ผู้	NOUN	_	_	4	nsubj	_	SpaceAfter=No|Gloss=person|Translit=phûː
+2	สื่อ	สื่อ	VERB	_	_	1	acl	_	SpaceAfter=No|Gloss=communicate|Translit=sɯ̀ː
+3	ข่าว	ข่าว	NOUN	_	_	2	obj	_	SpaceAfter=No|Gloss=news|Translit=khàːw
+4	ถาม	ถาม	VERB	_	_	0	root	_	SpaceAfter=No|Gloss=ask|Translit=thǎːm
+5	ว่า	ว่า	SCONJ	_	_	8	mark	_	Gloss=that(COMP)|Translit=wâː
+6	วัน	วัน	NOUN	_	_	8	obl	_	SpaceAfter=No|Gloss=day|Translit=wan
+7	นี้	นี้	ADJ	_	_	6	amod	_	SpaceAfter=No|Gloss=this(DEM)|Translit=níː
+8	ขึ้น	ขึ้น	VERB	_	_	4	ccomp	_	SpaceAfter=No|Gloss=ascend|Translit=khɯ̂n
+9	เวที	เวที	NOUN	_	_	8	obl:arg	_	SpaceAfter=No|Gloss=stage|Translit=weː-thiː
+10	ที่	ที่	NOUN	_	_	9	nmod	_	SpaceAfter=No|Gloss=rank|Translit=thîː
+11	สอง	สอง	NUM	_	_	10	nmod	_	SpaceAfter=No|Gloss=two|Translit=sɔ̌ːŋ
+12	พูด	พูด	VERB	_	_	8	advcl	_	SpaceAfter=No|Gloss=speak|Translit=phûːt
+13	ได้	ได้	VERB	_	_	12	advcl	_	SpaceAfter=No|Gloss=get(express potential or permission)|Translit=dâj
+14	ดุดัน	ดุดัน	VERB	_	_	12	advcl	_	SpaceAfter=No|Gloss=forceful|Translit=dù-dan
+15	ขึ้น	ขึ้น	ADV	_	_	14	advmod	_	Gloss=upward(used for emphasis)|Translit=khɯ̂n
+
+# sent_id = Thai_Election_ForThaiParty_2023_NewsArticle_22
+# text = นายเศรษฐา กล่าวว่า คงมาจากความอัดอั้นตันใจ 
+# text_en = Mr. Srettha said that it likely came from pent-up frustration.
+# tokenised_text = นาย เศรษฐา กล่าว ว่า คง มา จาก ความ อัดอั้นตันใจ
+# tokenised_translit =
+# tokenised_transcript = /naːj/ /sèːt-thǎː/ /klàːw/ /wâː/ /khoŋ/ /maː/ /càːk/ /khwaːm/ /ʔàt-ʔân-tan-caj/
+# phrase_type = sentence
+# sentence_position = body
+# genre = political_news_article
+# source = https://www.matichon.co.th/weekly/hot-news/article_656016
+# year = 2023
+1	นาย	นาย	NOUN	_	_	3	nsubj	_	SpaceAfter=No|Gloss=Mister|Translit=naːj
+2	เศรษฐา	เศรษฐา	PROPN	_	_	1	nmod	_	CorrectSpaceAfter=No|Gloss=Srettha|Translit=sèːt-thǎː
+3	กล่าว	กล่าว	VERB	_	_	0	root	_	SpaceAfter=No|Gloss=say|Translit=klàːw
+4	ว่า	ว่า	SCONJ	_	_	6	mark	_	Gloss=that(COMP)|Translit=wâː
+5	คง	คง	ADV	_	_	6	advmod	_	SpaceAfter=No|Gloss=probably|Translit=khoŋ
+6	มา	มา	VERB	_	_	3	ccomp	_	SpaceAfter=No|Gloss=come|Translit=maː
+7	จาก	จาก	ADP	_	_	8	case	_	SpaceAfter=No|Gloss=from|Translit=càːk
+8	ความ	ความ	NOUN	_	NounType=Nmlz	6	obl	_	SpaceAfter=No|Gloss=condition(nominalizer)|Translit=khwaːm
+9	อัดอั้นตันใจ	อัดอั้นตันใจ	VERB	_	_	8	acl	_	Gloss=deeply frustrated|Translit=ʔàt-ʔân-tan-caj
+
+# sent_id = Thai_Election_ForThaiParty_2023_NewsArticle_23
+# text = ถามต่อว่า พอได้ปราศรัยแล้วเริ่มติดใจการขึ้นเวทีแล้วหรือยัง
+# text_en = (The reporter) asked further if he had started to enjoy speaking on stage after giving speeches.
+# tokenised_text = ถาม ต่อ ว่า พอ ได้ ปราศรัย แล้ว เริ่ม ติดใจ การ ขึ้น เวที แล้ว หรือ ยัง
+# tokenised_translit =
+# tokenised_transcript = /thǎːm/ /thɔ̀ː/ /wâː/ /phɔː/ /dâj/ /praː-sǎj/ /lɛ́ːw/ /rɤ̂ːm/ /tìt-caj/ /kaːn/ /khɯ̂n/ /weː-thiː/ /lɛ́ːw/ /rɯ̌ː/ /jaŋ/
+# phrase_type = sentence
+# sentence_position = body
+# genre = political_news_article
+# source = https://www.matichon.co.th/weekly/hot-news/article_656016 
+# year = 2023
+1	ถาม	ถาม	VERB	_	_	0	root	_	SpaceAfter=No|Gloss=ask|Translit=thǎːm
+2	ต่อ	ต่อ	ADV	_	_	1	advmod	_	SpaceAfter=No|Gloss=next|Translit=thɔ̀ː
+3	ว่า	ว่า	SCONJ	_	_	8	mark	_	Gloss=that(COMP)|Translit=wâː
+4	พอ	พอ	SCONJ	_	_	5	mark	_	SpaceAfter=No|Gloss=when|Translit=phɔː
+5	ได้	ได้	VERB	_	_	8	advcl	_	SpaceAfter=No|Gloss=get(express the past time)|Translit=dâj
+6	ปราศรัย	ปราศรัย	VERB	_	_	5	xcomp	_	SpaceAfter=No|Gloss=give a speech|Translit=praː-sǎj
+7	แล้ว	แล้ว	ADV	_	_	6	advmod	_	SpaceAfter=No|Gloss=already|Translit=lɛ́ːw
+8	เริ่ม	เริ่ม	VERB	_	_	1	ccomp	_	SpaceAfter=No|Gloss=begin|Translit=rɤ̂ːm
+9	ติดใจ	ติดใจ	VERB	_	_	8	xcomp	_	SpaceAfter=No|Gloss=like|Translit=tìt-caj
+10	การ	การ	NOUN	_	NounType=Nmlz	9	obl:arg	_	SpaceAfter=No|Gloss= a thing to be done(nominalizer)|Translit=kaːn
+11	ขึ้น	ขึ้น	VERB	_	_	10	acl	_	SpaceAfter=No|Gloss=ascend|Translit=khɯ̂n
+12	เวที	เวที	NOUN	_	_	11	obl:arg	_	SpaceAfter=No|Gloss=stage|Translit=weː-thiː
+13	แล้ว	แล้ว	ADV	_	_	9	advmod	_	SpaceAfter=No|Gloss=already|Translit=lɛ́ːw
+14	หรือ	หรือ	CCONJ	_	_	15	cc	_	SpaceAfter=No|Gloss=or|Translit=rɯ̌ː
+15	ยัง	ยัง	ADV	_	_	9	conj	_	Gloss=yet|Translit=jaŋ
+
+# sent_id = Thai_Election_ForThaiParty_2023_NewsArticle_24
+# text = นายเศรษฐา กล่าวว่า “มันเป็นหน้าที่ ที่พรรคมอบหมายให้ และเป็นหน้าที่ที่เราต้องมาขยายนโยบายให้ประชาชนทราบถึงอนาคตว่าหากเลือกพรรคเพื่อไทยมาเราจะทำอะไรให้เขาได้บ้าง”
+# text_en = Mr. Srettha said that it was a duty assigned to me by the party, and it was a responsibility to further explain our policies to the public, so that they could understand the future — what we could do for them if they voted the Pheu Thai Party.
+# tokenised_text = นาย เศรษฐา กล่าว ว่า “ มัน เป็น หน้าที่ ที่ พรรค มอบหมาย ให้ และ เป็น หน้าที่ ที่ เรา ต้อง มา ขยาย นโยบาย ให้ ประชาชน ทราบ ถึง อนาคต ว่า หาก เลือก พรรค เพื่อ ไทย มา เรา จะ ทำ อะไร ให้ เขา ได้ บ้าง ”
+# tokenised_translit =
+# tokenised_transcript = /naːj/ /sèːt-thǎː/ /klàːw/ /wâː/ /man/ /pen/ /nâː-thîː/ /thîː/ /phák/ /mɔ̂ːp-mǎːj/ /hâj/ /lɛ́ʔ/ /pen/ /nâː-thîː/ /thîː/ /raw/ /tɔ̂ŋ/ /maː/ /khà-jǎːj/ /ná-joː-baːj/ /hâj/ /pràʔ-chaː-chon/ /sâːp/ /thɯ̌ŋ/ /ʔà-naː-khót/ /wâː/ /hàːk/ /lɯ̂ak/ /phák/ /phɯ̂a/ /thaj/ /maː/ /raw/ /càʔ/ /tham/ /ʔàʔ-raj/ /hâj/ /kháw/ /dâj/ /bâːŋ/
+# phrase_type = sentence
+# sentence_position = body
+# genre = political_news_article
+# source = https://www.matichon.co.th/weekly/hot-news/article_656016 
+# year = 2023
+1	นาย	นาย	NOUN	_	_	3	nsubj	_	SpaceAfter=No|Gloss=Mister|Translit=naːj
+2	เศรษฐา	เศรษฐา	PROPN	_	_	1	nmod	_	CorrectSpaceAfter=No|Gloss=Srettha|Translit=sèːt-thǎː
+3	กล่าว	กล่าว	VERB	_	_	0	root	_	SpaceAfter=No|Gloss=say|Translit=klàːw
+4	ว่า	ว่า	SCONJ	_	_	8	mark	_	Gloss=that(COMP)|Translit=wâː
+5	“	“	PUNCT	_	_	8	punct	_	SpaceAfter=No
+6	มัน	มัน	PRON	_	Person=3|PronType=Prs	8	nsubj	_	SpaceAfter=No|Gloss=it|Translit=man
+7	เป็น	เป็น	AUX	_	_	8	cop	_	SpaceAfter=No|Gloss=BE|Translit=pen
+8	หน้าที่	หน้าที่	NOUN	_	_	3	ccomp	_	CorrectSpaceAfter=No|Gloss=duty|Translit=nâː-thîː
+9	ที่	ที่	PRON	_	_	11	obj	_	SpaceAfter=No|Gloss=that(REL)|Translit=thîː
+10	พรรค	พรรค	NOUN	_	_	11	nsubj	_	SpaceAfter=No|Gloss=party|Translit=phák
+11	มอบหมาย	มอบหมาย	VERB	_	_	8	acl:relcl	_	SpaceAfter=No|Gloss=assign|Translit=mɔ̂ːp-mǎːj
+12	ให้	ให้	ADP	_	_	11	obl	_	Gloss=for|Translit=hâj
+13	และ	และ	CCONJ	_	_	15	cc	_	SpaceAfter=No|Gloss=and|Translit=lɛ́ʔ
+14	เป็น	เป็น	AUX	_	_	15	cop	_	SpaceAfter=No|Gloss=BE|Translit=pen
+15	หน้าที่	หน้าที่	NOUN	_	_	8	conj	_	SpaceAfter=No|Gloss=duty|Translit=nâː-thîː
+16	ที่	ที่	PRON	_	_	18	dislocated	_	SpaceAfter=No|Gloss=that(REL)|Translit=thîː
+17	เรา	เรา	PRON	_	Person=1|PronType=Prs	18	nsubj	_	SpaceAfter=No|Gloss=we|Translit=raw
+18	ต้อง	ต้อง	VERB	_	_	15	acl:relcl	_	SpaceAfter=No|Gloss=must|Translit=tɔ̂ŋ
+19	มา	มา	VERB	_	_	18	xcomp	_	SpaceAfter=No|Gloss=come|Translit=maː
+20	ขยาย	ขยาย	VERB	_	_	19	compound:svc	_	SpaceAfter=No|Gloss=expand|Translit=khà-jǎːj
+21	นโยบาย	นโยบาย	NOUN	_	_	20	obj	_	SpaceAfter=No|Gloss=policy|Translit=ná-joː-baːj
+22	ให้	ให้	VERB	_	_	20	advcl	_	SpaceAfter=No|Gloss=give|Translit=hâj
+23	ประชาชน	ประชาชน	NOUN	_	_	22	obj	_	SpaceAfter=No|Gloss=population|Translit=pràʔ-chaː-chon
+24	ทราบ	ทราบ	VERB	_	_	22	compound:svc	_	SpaceAfter=No|Gloss=know|Translit=sâːp
+25	ถึง	ถึง	ADP	_	_	26	case	_	SpaceAfter=No|Gloss=to|Translit=thɯ̌ŋ
+26	อนาคต	อนาคต	NOUN	_	_	24	obl	_	SpaceAfter=No|Gloss=future|Translit=ʔà-naː-khót
+27	ว่า	ว่า	SCONJ	_	_	36	mark	_	SpaceAfter=No|CorrectSpaceAfter=Yes|Gloss=that(COMP)|Translit=wâː
+28	หาก	หาก	ADP	_	_	29	mark	_	SpaceAfter=No|Gloss=if|Translit=hàːk
+29	เลือก	เลือก	VERB	_	_	36	advcl	_	SpaceAfter=No|Gloss=choose|Translit=lɯ̂ak
+30	พรรค	พรรค	NOUN	_	_	29	obj	_	SpaceAfter=No|Gloss=party|Translit=phák
+31	เพื่อ	เพื่อ	ADP	_	_	32	case	_	SpaceAfter=No|Gloss=for|Translit=phɯ̂a
+32	ไทย	ไทย	PROPN	_	ExtPos=PROPN	30	nmod	_	SpaceAfter=No|Gloss=Thai|Translit=thaj
+33	มา	มา	ADV	_	_	29	advmod	_	SpaceAfter=No|Gloss=come(express the aspect and the direction towards a speaker)|Translit=maː
+34	เรา	เรา	PRON	_	Person=1|PronType=Prs	36	nsubj	_	SpaceAfter=No|Gloss=we|Translit=raw
+35	จะ	จะ	ADV	_	_	36	advmod	_	SpaceAfter=No|Gloss=will(express the future time)|Translit=càʔ
+36	ทำ	ทำ	VERB	_	_	24	ccomp	_	SpaceAfter=No|Gloss=do|Translit=tham
+37	อะไร	อะไร	PRON	_	_	36	obj	_	SpaceAfter=No|Gloss=what|Translit=ʔàʔ-raj
+38	ให้	ให้	ADP	_	_	39	case	_	SpaceAfter=No|Gloss=for|Translit=hâj
+39	เขา	เขา	PRON	_	Person=3|PronType=Prs	36	obl	_	SpaceAfter=No|Gloss=he|Translit=kháw
+40	ได้	ได้	VERB	_	_	36	advcl	_	SpaceAfter=No|Gloss=get(express potential or permission)|Translit=dâj
+41	บ้าง	บ้าง	ADV	_	_	36	advmod	_	SpaceAfter=No|Gloss=some|Translit=bâːŋ
+42	”	”	PUNCT	_	_	8	punct	_	_
