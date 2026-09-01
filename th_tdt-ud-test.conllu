@@ -1,4 +1,1465 @@
 # newdoc
+# sent_id = Thai_Election_ThaiBuildThaiParty_2023_News_Article_1
+# text = “สุดารัตน์” ประกาศกลางเวทีปราศรัยใหญ่ดอนเมือง “แก้ ทุกข์ มหานคร” ทันทีทั้งฝุ่นพิษ น้ำท่วมซ้ำซาก
+# text_en = “Sudarat” announces on stage at a major rally in Don Mueang: “Solve Bangkok’s suffering immediately,” tackling both toxic air pollution and recurring flooding.
+# tokenised_text = “ สุดารัตน์ ” ประกาศ กลาง เวที ปราศรัย ใหญ่ ดอนเมือง “ แก้ ทุกข์ มหานคร ” ทันที ทั้ง ฝุ่น พิษ น้ำ ท่วม ซ้ำซาก
+# tokenised_translit =
+# tokenised_transcript = /sù-daː-rát/ /pràʔ-kàːt/ /klaːŋ/ /weː-thiː/ /praː-sǎj/ /jàj/ /dɔːn-mɯaŋ/ /kɛ̂ː/ /thúk/ /má-hǎː-ná-khɔːn/ /than-thiː/ /tháŋ/ /fùn/ /pít/ /náːm/ /thûam/ /sám-sâːk/
+# phrase_type = sentence
+# sentence_position = headline
+# genre = political_news_article
+# source = https://www.matichonweekly.com/hot-news/article_656027 
+# year = 2023
+1	“	“	PUNCT	_	_	2	punct	_	SpaceAfter=No
+2	สุดารัตน์	สุดารัตน์	PROPN	_	_	4	nsubj	_	SpaceAfter=No|Gloss=Sudarat|Translit=sù-daː-rát
+3	”	”	PUNCT	_	_	2	punct	_	_
+4	ประกาศ	ประกาศ	VERB	_	_	0	root	_	SpaceAfter=No|Gloss=announce|Translit=pràʔ-kàːt
+5	กลาง	กลาง	ADP	_	_	6	case	_	SpaceAfter=No|Gloss=center|Translit=klaːŋ
+6	เวที	เวที	NOUN	_	_	4	obl	_	SpaceAfter=No|Gloss=stage|Translit=weː-thiː
+7	ปราศรัย	ปราศรัย	VERB	_	_	6	acl	_	SpaceAfter=No|Gloss=address|Translit=praː-sǎj
+8	ใหญ่	ใหญ่	VERB	_	_	6	acl	_	SpaceAfter=No|Gloss=big|Translit=jàj
+9	ดอนเมือง	ดอนเมือง	PROPN	_	_	6	nmod	_	SpaceAfter=No|Gloss=|Translit=dɔːn-mɯaŋ
+10	“	“	PUNCT	_	_	11	punct	_	SpaceAfter=No
+11	แก้	แก้	VERB	_	ExtPos=PROPN	4	obj	_	Gloss=solve|Translit=kɛ̂ː
+12	ทุกข์	ทุกข์	NOUN	_	_	11	obj	_	Gloss=suffer|Translit=thúk
+13	มหานคร	มหานคร	PROPN	_	_	12	nmod	_	SpaceAfter=No|Gloss=Bangkok|Translit=má-hǎː-ná-khɔːn 
+14	”	”	PUNCT	_	_	11	punct	_	_
+15	ทันที	ทันที	ADV	_	_	11	advmod	_	SpaceAfter=No|Gloss=immediately|Translit=than-thiː
+16	ทั้ง	ทั้ง	ADP	_	_	17	case	_	SpaceAfter=No|Gloss=both|Translit=tháŋ
+17	ฝุ่น	ฝุ่น	NOUN	_	_	11	obl	_	SpaceAfter=No|Gloss=dust|Translit=fùn
+18	พิษ	พิษ	NOUN	_	_	17	nmod	_	Gloss=poison|Translit=pít
+19	น้ำ	น้ำ	NOUN	_	_	17	conj	_	SpaceAfter=No|Gloss=water|Translit=náːm
+20	ท่วม	ท่วม	VERB	_	_	19	acl	_	SpaceAfter=No|Gloss=flood|Translit=thûam
+21	ซ้ำซาก	ซ้ำซาก	ADV	_	_	20	advmod	_	Gloss=repeat|Translit=sám-sâːk
+
+# sent_id = Thai_Election_ThaiBuildThaiParty_2023_News_Article_2
+# text = เผยแพร่ วันอาทิตย์ที่ 12 มีนาคม พ.ศ.2566
+# text_en = (The news article) is publicised on Sunday 12th March 2023.
+# tokenised_text = เผยแพร่ วัน อาทิตย์ ที่ 12 มีนาคม พ.ศ. 2566
+# tokenised_translit = 
+# tokenised_transcript = /phɤ̌ːj-phrɛ̂ː/ /wan/ /ʔaː-thít/ /thîː/ /sìp-sɔ̌ːŋ/ /miː-naː-khom/ /phɔː-sɔ̌ː/ /sɔ̌ːŋ-phan-hâː-rɔ́ːj-hòk-sìp-hòk/
+# phrase_type = sentence
+# sentence_position = dateline
+# genre = political_news_article
+# source = https://www.matichonweekly.com/hot-news/article_656027 
+# year = 2023
+1	เผยแพร่	เผยแพร่	VERB	_	_	0	root	_	Gloss=publicize|Translit=phɤ̌ːj-phrɛ̂ː
+2	วัน	วัน	NOUN	_	_	1	obl	_	SpaceAfter=No|Gloss=day|Translit=wan
+3	อาทิตย์	อาทิตย์	NOUN	_	_	2	nmod	_	SpaceAfter=No|Gloss=Sunday|Translit=ʔaː-thít
+4	ที่	ที่	NOUN	_	_	2	nmod	_	Gloss=rank|Translit=thîː
+5	12	12	NUM	_	_	4	nmod	_	Gloss=12|Translit=sìp-sɔ̌ːŋ
+6	มีนาคม	มีนาคม	NOUN	_	_	2	nmod	_	Gloss=March|Translit=miː-naː-khom
+7	พ.ศ.	พ.ศ.	NOUN	_	Abbr=Yes	6	nmod	_	SpaceAfter=No|CorrectSpaceAfter=Yes|Gloss=Buddhist Era|Translit=phɔː-sɔ̌ː
+8	2566	2566	NUM	_	_	7	nmod	_	Gloss=2566|Translit=sɔ̌ːŋ-phan-hâː-rɔ́j-hòk-sìp-hòk
+
+# sent_id = Thai_Election_ThaiBuildThaiParty_2023_News_Article_3
+# text = ไทยสร้างไทยดอนเมือง “พรึบ” เวทีปราศรัยกว่า 3,000 คน
+# text_en = The Thai Build Thai Party draws a crowd of over 3,000 at its Don Mueang rally.
+# tokenised_text = ไทย สร้าง ไทย ดอนเมือง “ พรึบ ” เวที ปราศรัย กว่า 3,000 คน
+# tokenised_translit =
+# tokenised_transcript = /thaj/ /sâːŋ/ /thaj/ /dɔːn-mɯaŋ/ /phrɯ̂p/ /weː-thiː/ /praː-sǎj/ /kwàː/ /sǎːm-phan/ /khon/
+# phrase_type = sentence
+# sentence_position = sub-headline
+# genre = political_news_article
+# source = https://www.matichonweekly.com/hot-news/article_656027 
+# year = 2023
+1	ไทย	ไทย	PROPN	_	_	2	nsubj	_	SpaceAfter=No|Gloss=Thai|Translit=thaj
+2	สร้าง	สร้าง	VERB	_	ExtPos=PROPN	6	dislocated	_	SpaceAfter=No|Gloss=build|Translit=sâːŋ
+3	ไทย	ไทย	PROPN	_	_	2	obj	_	SpaceAfter=No|Gloss=Thai|Translit=thaj
+4	ดอนเมือง	ดอนเมือง	PROPN	_	ExtPos=PROPN	2	nmod	_	SpaceAfter=No|Gloss=Don Mueang|Translit=dɔːn-mɯaŋ
+5	“	“	PUNCT	_	_	6	punct	_	SpaceAfter=No
+6	พรึบ	พรึบ	VERB	_	_	0	root	_	SpaceAfter=No|Gloss=pack with|Translit=phrɯ̂p
+7	”	”	PUNCT	_	_	6	punct	_	_
+8	เวที	เวที	NOUN	_	_	6	obl	_	SpaceAfter=No|Gloss=stage|Translit=weː-thiː
+9	ปราศรัย	ปราศรัย	VERB	_	_	8	acl	_	SpaceAfter=No|Gloss=address|Translit=praː-sǎj
+10	กว่า	กว่า	DET	_	_	11	det	_	Gloss=more-than|Translit=kwàː
+11	3,000	3,000	NUM	_	_	6	nsubj	_	Gloss=3,000|Translit=sǎːm-phan
+12	คน	คน	NOUN	_	NounType=Clf	11	clf	_	Gloss=person|Translit=khon
+
+# sent_id = Thai_Election_ThaiBuildThaiParty_2023_News_Article_4
+# text = “สุดารัตน์” ประกาศ “แก้ ทุกข์ มหานคร” ทันทีทั้งฝุ่นพิษ น้ำท่วมซ้ำซาก
+# text_en = Sudarat announces a plan to “solve Bangkok’s suffering” immediately by tackling toxic air pollution and recurring flooding.
+# tokenised_text = “ สุดารัตน์ ” ประกาศ “ แก้ ทุกข์ มหานคร ” ทันที ทั้ง ฝุ่น พิษ น้ำ ท่วม ซ้ำซาก
+# tokenised_translit =
+# tokenised_transcript = /sù-daː-rát/ /pràʔ-kàːt/ /kɛ̂ː/ /thúk/ /má-hǎː-ná-khɔːn/ /than-thiː/ /tháŋ/ /fùn/ /pít/ /náːm/ /thûam/ /sám-sâːk/ 
+# phrase_type = sentence
+# sentence_position = sub-headline
+# genre = political_news_article
+# source = https://www.matichonweekly.com/hot-news/article_656027 
+# year = 2023
+1	“	“	PUNCT	_	_	2	punct	_	SpaceAfter=No
+2	สุดารัตน์	สุดารัตน์	PROPN	_	_	4	nsubj	_	SpaceAfter=No|Gloss=Sudarat|Translit=sù-daː-rát
+3	”	”	PUNCT	_	_	2	punct	_	_
+4	ประกาศ	ประกาศ	VERB	_	_	0	root	_	Gloss=announce|Translit=pràʔ-kàːt
+5	“	“	PUNCT	_	_	6	punct	_	SpaceAfter=No
+6	แก้	แก้	VERB	_	ExtPos=PROPN	4	obj	_	Gloss=solve|Translit=kɛ̂ː
+7	ทุกข์	ทุกข์	NOUN	_	_	6	obj	_	Gloss=suffer|Translit=thúk
+8	มหานคร	มหานคร	PROPN	_	_	7	nmod	_	SpaceAfter=No|Gloss=Bangkok|Translit=má-hǎː-ná-khɔːn
+9	”	”	PUNCT	_	_	6	punct	_	_
+10	ทันที	ทันที	ADV	_	_	6	advmod	_	SpaceAfter=No|Gloss=immediately|Translit=than-thiː
+11	ทั้ง	ทั้ง	ADP	_	_	12	case	_	SpaceAfter=No|Gloss=both|Translit=tháŋ
+12	ฝุ่น	ฝุ่น	NOUN	_	_	6	obl	_	SpaceAfter=No|Gloss=dust|Translit=fùn
+13	พิษ	พิษ	NOUN	_	_	12	nmod	_	Gloss=poison|Translit=pít
+14	น้ำ	น้ำ	NOUN	_	_	12	conj	_	SpaceAfter=No|Gloss=water|Translit=náːm
+15	ท่วม	ท่วม	VERB	_	_	14	acl	_	SpaceAfter=No|Gloss=flood|Translit=thûam
+16	ซ้ำซาก	ซ้ำซาก	ADV	_	_	15	advmod	_	Gloss=repeat|Translit=sám-sâːk
+
+# sent_id = Thai_Election_ThaiBuildThaiParty_2023_News_Article_5
+# text = ดันศึกษา Project สร้างเขื่อนในอ่าวไทย ก่อนกรุงเทพฯ จะจมบาดาลใน 10 ปีข้างหน้า จากสภาวะโลกร้อน
+# text_en = (She also) pushes for a study on constructing a seawall in the Gulf of Thailand before Bangkok faces the risk of sinking within the next 10 years due to global warming.
+# tokenised_text = ดัน ศึกษา Project สร้าง เขื่อน ใน อ่าว ไทย ก่อน กรุงเทพ ฯ จะ จม บาดาล ใน 10 ปี ข้าง หน้า จาก สภาวะ โลก ร้อน
+# tokenised_translit = /dan/ /sɯ̀k-sǎː/ /proː-cèk/ /sâːŋ/ /khɯ̀an/ /naj/ /ʔàːw/ /thaj/ /kɔ̀ːn/ /kruŋ-thêːp/ /càʔ/ /com/ /baː-daːn/ /naj/ /sìp/ /piː/ /khâːŋ/ /nâː/ /càːk/ /sà-phaː-wáʔ/ /lôːk/ /rɔ́ːn/
+# tokenised_transcript =
+# phrase_type = sentence
+# sentence_position = sub-headline
+# genre = political_news_article
+# source = https://www.matichonweekly.com/hot-news/article_656027 
+# year = 2023
+1	ดัน	ดัน	VERB	_	_	0	root	_	SpaceAfter=No|Gloss=push|Translit=dan
+2	ศึกษา	ศึกษา	VERB	_	_	1	compound:svc	_	Gloss=study|Translit=sɯ̀k-sǎː
+3	Project	Project	NOUN	_	Foreign=Yes	2	obj	_	Gloss=Project|Translit=phroː-cèk
+4	สร้าง	สร้าง	VERB	_	ExtPos=PROPN	3	nmod	_	SpaceAfter=No|Gloss=build|Translit=sâːŋ
+5	เขื่อน	เขื่อน	NOUN	_	_	4	obj	_	SpaceAfter=No|Gloss=dam|Translit=khɯ̀an
+6	ใน	ใน	ADP	_	_	7	case	_	SpaceAfter=No|Gloss=in|Translit=naj
+7	อ่าว	อ่าว	NOUN	_	_	4	obl	_	SpaceAfter=No|Gloss=gulf|Translit=ʔàːw
+8	ไทย	ไทย	PROPN	_	_	7	nmod	_	Gloss=Thai|Translit=thaj
+9	ก่อน	ก่อน	ADP	_	_	13	mark	_	SpaceAfter=No|Gloss=before|Translit=kɔ̀ːn
+10	กรุงเทพ	กรุงเทพ	PROPN	_	_	13	nsubj	_	SpaceAfter=No|Gloss=|Translit=kruŋ-thêːp
+11	ฯ	ฯ	SYM	_	_	10	nmod	_	_
+12	จะ	จะ	ADV	_	_	13	advmod	_	SpaceAfter=No|Gloss=will(express the future time)|Translit=càʔ
+13	จม	จม	VERB	_	_	1	advcl	_	SpaceAfter=No|Gloss=sink|Translit=com
+14	บาดาล	บาดาล	NOUN	_	_	13	obl	_	SpaceAfter=No|Gloss=subterranean|Translit=baː-daːn
+15	ใน	ใน	ADP	_	_	16	case	_	Gloss=in|Translit=naj
+16	10	10	NUM	_	_	13	obl	_	Gloss=10|Translit=sìp
+17	ปี	ปี	NOUN	_	NounType=Clf	16	clf	_	SpaceAfter=No|Gloss=year|Translit=piː
+18	ข้าง	ข้าง	NOUN	_	_	16	nmod	_	SpaceAfter=No|Gloss=side|Translit=khâːŋ
+19	หน้า	หน้า	ADJ	_	_	18	amod	_	CorrectSpaceAfter=No|Gloss=front|Translit=nâː
+20	จาก	จาก	ADP	_	_	21	case	_	SpaceAfter=No|Gloss=from|Translit=càːk
+21	สภาวะ	สภาวะ	NOUN	_	_	13	obl	_	SpaceAfter=No|Gloss=condition|Translit=sà-phaː-wáʔ
+22	โลก	โลก	NOUN	_	_	21	nmod	_	SpaceAfter=No|Gloss=earth|Translit=lôːk
+23	ร้อน	ร้อน	VERB	_	_	22	acl	_	Gloss=hot|Translit=rɔ́ːn
+
+# sent_id = Thai_Election_ThaiBuildThaiParty_2023_News_Article_6
+# text = พร้อมใช้เทคโนโลยี ลุยจัดการปัญหา
+# text_en = (She said) (the party) is ready to use technology to address these issues.
+# tokenised_text = พร้อม ใช้ เทคโนโลยี ลุย จัดการ ปัญหา
+# tokenised_translit =
+# tokenised_transcript = /phrɔ́ːm/ /cháj/ /thék-noː-loː-jiː/ /luj/ /càt-kaːn/ /pan-hǎː/ 
+# phrase_type = sentence
+# sentence_position = sub-headline
+# genre = political_news_article
+# source = https://www.matichonweekly.com/hot-news/article_656027 
+# year = 2023
+1	พร้อม	พร้อม	VERB	_	_	0	root	_	SpaceAfter=No|Gloss=ready|Translit=phrɔ́ːm
+2	ใช้	ใช้	VERB	_	_	1	compound:svc	_	SpaceAfter=No|Gloss=use|Translit=cháj
+3	เทคโนโลยี	เทคโนโลยี	NOUN	_	Foreign=Yes	2	obj	_	CorrectSpaceAfter=No|Gloss=technology|Translit=thék-noː-loː-jiː
+4	ลุย	ลุย	VERB	_	_	1	advcl	_	SpaceAfter=No|Gloss=go through|Translit=luj
+5	จัดการ	จัดการ	VERB	_	_	4	compound:svc	_	SpaceAfter=No|Gloss=manage|Translit=càt-kaːn
+6	ปัญหา	ปัญหา	NOUN	_	_	5	obj	_	Gloss=problem|Translit=pan-hǎː
+
+# sent_id = Thai_Election_ThaiBuildThaiParty_2023_News_Article_7
+# text = การันตีบอกลา ฝุ่นพิษภายใน 3 ปีต้องจบ
+# text_en = (She) pledges that toxic smog will be eliminated within three years.
+# tokenised_text = การันตี บอก ลา ฝุ่น พิษ ภาย ใน 3 ปี ต้อง จบ
+# tokenised_translit =
+# tokenised_transcript = /kaː-ran-tiː/ /bɔ̀ːk/ /laː/ /fùn/ /pít/ /phaːj/ /naj/ /sǎːm/ /piː/ /tɔ̂ŋ/ /còp/
+# phrase_type = sentence
+# sentence_position = sub-headline
+# genre = political_news_article
+# source = https://www.matichonweekly.com/hot-news/article_656027 
+# year = 2023
+1	การันตี	การันตี	VERB	_	Foreign=Yes	0	root	_	SpaceAfter=No|Gloss=guarantee|Translit=kaː-ran-tiː
+2	บอก	บอก	VERB	_	_	1	ccomp	_	SpaceAfter=No|Gloss=tell|Translit=bɔ̀ːk
+3	ลา	ลา	VERB	_	_	2	compound:svc	_	Gloss=say goodbye|Translit=laː
+4	ฝุ่น	ฝุ่น	NOUN	_	_	10	nsubj	_	SpaceAfter=No|Gloss=dust|Translit=fùn
+5	พิษ	พิษ	NOUN	_	_	4	nmod	_	SpaceAfter=No|Gloss=poison|Translit=pít
+6	ภาย	ภาย	NOUN	_	_	11	obl	_	SpaceAfter=No|Gloss=period|Translit=phaːj
+7	ใน	ใน	ADP	_	_	8	case	_	Gloss=in|Translit=naj
+8	3	3	NUM	_	_	6	nmod	_	Gloss=3|Translit=sǎːm
+9	ปี	ปี	NOUN	_	NounType=Clf	8	clf	_	SpaceAfter=No|Gloss=year|Translit=piː
+10	ต้อง	ต้อง	VERB	_	_	3	ccomp	_	SpaceAfter=No|Gloss=must|Translit=tɔ̂ŋ
+11	จบ	จบ	VERB	_	_	10	xcomp	_	Gloss=end|Translit=còp
+
+# sent_id = Thai_Election_ThaiBuildThaiParty_2023_News_Article_8
+# text = ชู “เก่ง การุณ” นักสู้เพื่อประชาธิปไตยตัวจริง
+# text_en = (She) highlights and admires “Keng Karun” as a true democratic fighter.
+# tokenised_text = ชู “ เก่ง การุณ ” นัก สู้ เพื่อ ประชาธิปไตย ตัว จริง
+# tokenised_translit =
+# tokenised_transcript = /chuː/ /kèŋ/ /kaː-run/ /nák/ /sûː/ /phɯ̂a/ /pràʔ-chaː-thíp-pà-taj/ /tua/ /ciŋ/ 
+# phrase_type = sentence
+# sentence_position = sub-headline
+# genre = political_news_article
+# source = https://www.matichonweekly.com/hot-news/article_656027 
+# year = 2023
+1	ชู	ชู	VERB	_	_	0	root	_	Gloss=raise|Translit=chuː
+2	“	“	PUNCT	_	_	3	punct	_	SpaceAfter=No
+3	เก่ง	เก่ง	PROPN	_	_	1	obj	_	Gloss=Keng|Translit=kèŋ
+4	การุณ	การุณ	PROPN	_	_	3	flat	_	SpaceAfter=No|Gloss=Kaarun|Translit=kaː-run
+5	”	”	PUNCT	_	_	3	punct	_	_
+6	นัก	นัก	NOUN	_	_	1	xcomp	_	SpaceAfter=No|Gloss=doer|Translit=nák
+7	สู้	สู้	VERB	_	_	6	acl	_	SpaceAfter=No|Gloss=fight|Translit=sûː
+8	เพื่อ	เพื่อ	ADP	_	_	9	case	_	SpaceAfter=No|Gloss=for|Translit=phɯ̂a
+9	ประชาธิปไตย	ประชาธิปไตย	NOUN	_	_	6	nmod	_	SpaceAfter=No|Gloss=democracy|Translit=pràʔ-chaː-thíp-pà-taj
+10	ตัว	ตัว	NOUN	_	_	6	nmod	_	SpaceAfter=No|Gloss=person|Translit=tua
+11	จริง	จริง	VERB	_	_	10	acl	_	Gloss=real|Translit=ciŋ
+
+# sent_id = Thai_Election_ThaiBuildThaiParty_2023_News_Article_9
+# text = อ้อนคนดอนเมือง เลือกเก่ง คนที่ไม่เคยทิ้งชาวดอนเมือง
+# text_en = (She) appeals to Don Mueang voters to choose Keng, someone who has never abandoned the people of Don Mueang.
+# tokenised_text = อ้อน คน ดอนเมือง เลือก เก่ง คน ที่ ไม่ เคย ทิ้ง ชาว ดอนเมือง
+# tokenised_translit =
+# tokenised_transcript = /ʔɔ̂ːn/ /khon/ /dɔːn-mɯaŋ/ /lɯ̂ak/ /kèŋ/ /khon/ /thîː/ /mâj/ /khɤːj/ /thíŋ/ /chaːw/ /dɔːn-mɯaŋ/
+# phrase_type = sentence
+# sentence_position = sub-headline
+# genre = political_news_article
+# source = https://www.matichonweekly.com/hot-news/article_656027 
+# year = 2023
+1	อ้อน	อ้อน	VERB	_	_	0	root	_	SpaceAfter=No|Gloss=beg|Translit=ʔɔ̂ːn
+2	คน	คน	NOUN	_	_	1	obj	_	SpaceAfter=No|Gloss=person|Translit=khon
+3	ดอนเมือง	ดอนเมือง	PROPN	_	_	2	nmod	_	SpaceAfter=No|Gloss=Don Mueang|Translit=dɔːn-mɯaŋ
+4	เลือก	เลือก	VERB	_	_	1	xcomp	_	SpaceAfter=No|Gloss=choose|Translit=lɯ̂ak
+5	เก่ง	เก่ง	PROPN	_	_	4	obj	_	CorrectSpaceAfter=No|Gloss=Keng|Translit=kèŋ
+6	คน	คน	NOUN	_	_	5	nmod	_	SpaceAfter=No|Gloss=person|Translit=khon
+7	ที่	ที่	PRON	_	_	9	nsubj	_	SpaceAfter=No|Gloss=that(REL)|Translit=thîː
+8	ไม่	ไม่	ADV	_	_	9	advmod	_	SpaceAfter=No|Gloss=not|Translit=mâj
+9	เคย	เคย	VERB	_	_	6	acl:relcl	_	SpaceAfter=No|Gloss=ever|Translit=khɤːj
+10	ทิ้ง	ทิ้ง	VERB	_	_	9	xcomp	_	SpaceAfter=No|Gloss=leave|Translit=thíŋ
+11	ชาว	ชาว	NOUN	_	_	10	obj	_	SpaceAfter=No|Gloss=folk|Translit=chaːw
+12	ดอนเมือง	ดอนเมือง	PROPN	_	_	11	nmod	_	SpaceAfter=No|Gloss=Don Mueang|Translit=dɔːn-mɯaŋ
+
+# sent_id = Thai_Election_ThaiBuildThaiParty_2023_News_Article_10
+# text = 16.00น.ที่ ชุมชนปิ่นเจริญ 2 เขตดอนเมือง คุณหญิงสุดารัตน์ เกยุราพันธุ์ หัวหน้าพรรค น.ต.ศิธาทิวารี เลขาธิการพรรค นายสุพันธุ์ มงคลสุธี รองหัวหน้าพรรค น.อ.อนุดิษฐ์ นาครทรรพ ผอ.สำนักงานปราบโกง นายการุณ โหสกุล ว่าที่ผู้สมัคร ส.ส.เขตดอนเมือง พรรคไทยสร้างไทย ขึ้นเวทีปราศรัย “แก้ ทุกข์ มหานคร กทม.”พบปะพี่น้องประชาชนชาวดอนเมือง ที่ปิ่นเจริญ 2 ซึ่งมีพี่น้องชาวดอนเมืองแห่ฟังกว่า 3,000 คน
+# text_en = At 4:00 p.m. at Pin Charoen 2 community in Don Mueang district, Lady Sudarat Keyuraphan, leader of the party, along with Sqn.Ldr. Sitha Tiwari, party secretary; Mister Supant Mongkolsuthree, deputy party leader; Gp.Capt. Anudith Nakornthap, director of the Anti-Corruption Office; and Mister Karun Hosakul, a prospective MP candidate for Don Mueang representing the Thai Build Thai Party, took the stage to deliver a speech titled “Solve Bangkok’s Suffering", (and) met with local residents at Pin Charoen 2, where more than 3,000 people from Don Mueang gathered to attend.
+# tokenised_text = 16.00 น. ที่ ชุมชน ปิ่นเจริญ 2 เขต ดอนเมือง คุณหญิง สุดารัตน์ เกยุราพันธุ์ หัวหน้า พรรค น.ต. ศิธา ทิวารี เลขาธิการ พรรค นาย สุพันธุ์ มงคลสุธี รอง หัวหน้า พรรค น.อ. อนุดิษฐ์ นาครทรรพ ผอ. สำนักงาน ปราบ โกง นาย การุณ โหสกุล ว่าที่ ผู้ สมัคร ส.ส. เขต ดอนเมือง พรรค ไทย สร้าง ไทย ขึ้น เวที ปราศรัย “ แก้ ทุกข์ มหานคร กทม. ” พบปะ พี่ น้อง ประชาชน ชาว ดอนเมือง ที่ ปิ่นเจริญ 2 ซึ่ง มี พี่ น้อง ชาว ดอนเมือง แห่ ฟัง กว่า 3,000 คน
+# tokenised_translit =
+# tokenised_transcript = /sìp-hòk/ /naː-lí-kaː/ /thîː/ /chum-chon/ /pìn-cà-rɤːn/ /sɔ̌ːŋ/ /khèːt/ /dɔːn-mɯaŋ/ /khun-jǐŋ/ /sù-daː-rát/ /keː-jú-raː-phan/ /hǔa-nâː/ /phák/ /nɔː-tɔː/ /sì-thaː/ /thí-waː-riː/ /leː-khǎː-thí-kaːn/ /phák/ /naːj/ /sù-phan/ /moŋ-khon-sù-thiː/ /rɔːŋ/ /hǔa-nâː/ /phák/ /nɔː-ʔɔː/ /ʔà-nú-dìt/ /naː-khɔːn-tháp/ /phɔ̌ː-ʔɔː/ /sǎm-nák-ŋaːn/ /pràːp/ /koːŋ/ /naːj/ /kaː-run/ /hǒː-sà-kun/ /wâː-thîː/ /phûː/ /sà-màk/ /sɔ̌ː-sɔ̌ː/ /khèːt/ /dɔːn-mɯaŋ/ /phák/ /thaj/ /sâːŋ/ /thaj/ /khɯ̂n/ /weː-thiː/ /praː-sǎj/ /kɛ̂ː/ /thúk/ /má-hǎː-ná-khɔːn/ /kɔː-thɔː-mɔː/ /phóp-pàʔ/ /phîː/ /nɔ́ːŋ/ /pràʔ-chaː-chon/ /chaːw/ /dɔːn-mɯaŋ/ /thîː/ /pìn-cà-rɤːn/ /sɔ̌ːŋ/ /sɯ̂ŋ/ /miː/ /phîː/ /nɔ́ːŋ/ /chaːw/ /dɔːn-mɯaŋ/ /hɛ̀ː/ /faŋ/ /kwàː/ /sǎːm-phan/ /khon/
+# phrase_type = sentence
+# sentence_position = body
+# genre = political_news_article
+# source = https://www.matichonweekly.com/hot-news/article_656027 
+# year = 2023
+1	16.00	16.00	NUM	_	_	45	obl	_	SpaceAfter=No|CorrectSpaceAfter=Yes|Gloss=16.00|Translit=sìp-hòk
+2	น.	น.	NOUN	_	Abbr=Yes	1	nmod	_	SpaceAfter=No|CorrectSpaceAfter=Yes|Gloss=clock|Translit=naː-lí-kaː
+3	ที่	ที่	ADP	_	_	4	case	_	CorrectSpaceAfter=No|Gloss=at|Translit=thîː
+4	ชุมชน	ชุมชน	NOUN	_	_	45	obl	_	SpaceAfter=No|Gloss=community|Translit=chum-chon
+5	ปิ่นเจริญ	ปิ่นเจริญ	PROPN	_	_	4	nmod	_	SpaceAfter=No|Gloss=Pin Charoen|Translit=pìn-cà-rɤːn
+6	2	2	NUM	_	_	5	nmod	_	Gloss=2|Translit=sɔ̌ːŋ
+7	เขต	เขต	NOUN	_	_	4	nmod	_	SpaceAfter=No|Gloss=district|Translit=khèːt
+8	ดอนเมือง	ดอนเมือง	PROPN	_	_	7	nmod	_	SpaceAfter=No|Gloss=Don Mueang|Translit=dɔːn-mɯaŋ
+9	คุณหญิง	คุณหญิง	NOUN	_	_	45	nsubj	_	SpaceAfter=No|Gloss=Lady|Translit=khun-jǐŋ
+10	สุดารัตน์	สุดารัตน์	PROPN	_	_	9	nmod	_	Gloss=Sudarat|Translit=sù-daː-rát
+11	เกยุราพันธุ์	เกยุราพันธุ์	PROPN	_	_	10	flat	_	Gloss=Keyuraphan|Translit=keː-jú-raː-phan
+12	หัวหน้า	หัวหน้า	NOUN	_	_	9	appos	_	SpaceAfter=No|Gloss=chief|Translit=hǔa-nâː
+13	พรรค	พรรค	NOUN	_	_	12	nmod	_	Gloss=party|Translit=phák
+14	น.ต.	น.ต.	NOUN	_	Abbr=Yes	9	conj	_	SpaceAfter=No|CorrectSpaceAfter=Yes|Gloss=Squadron Leader|Translit=nɔː-tɔː
+15	ศิธา	ศิธา	PROPN	_	_	14	nmod	_	SpaceAfter=No|CorrectSpaceAfter=Yes|Gloss=Sita|Translit=sì-thaː
+16	ทิวารี	ทิวารี	PROPN	_	_	15	flat	_	Gloss=Tiwari|Translit=thí-waː-riː
+17	เลขาธิการ	เลขาธิการ	NOUN	_	_	14	appos	_	SpaceAfter=No|Gloss=secretary|Translit=leː-khǎː-thí-kaːn
+18	พรรค	พรรค	NOUN	_	_	17	nmod	_	Gloss=party|Translit=phák
+19	นาย	นาย	NOUN	_	_	9	conj	_	SpaceAfter=No|Gloss=Mister|Translit=naːj
+20	สุพันธุ์	สุพันธุ์	PROPN	_	_	19	nmod	_	Gloss=Supant|Translit=sù-phan
+21	มงคลสุธี	มงคลสุธี	PROPN	_	_	20	flat	_	Gloss=Mongkolsuthree|Translit=moŋ-khon-sù-thiː
+22	รอง	รอง	NOUN	_	_	19	appos	_	SpaceAfter=No|Gloss=subordinate|Translit=rɔːŋ
+23	หัวหน้า	หัวหน้า	NOUN	_	_	22	nmod	_	SpaceAfter=No|Gloss=chief|Translit=hǔa-nâː
+24	พรรค	พรรค	NOUN	_	_	22	nmod	_	Gloss=party|Translit=phák
+25	น.อ.	น.อ.	NOUN	_	Abbr=Yes	9	conj	_	SpaceAfter=No|CorrectSpaceAfter=Yes|Gloss=Group Captain|Translit=nɔː-ʔɔː
+26	อนุดิษฐ์	อนุดิษฐ์	PROPN	_	_	25	nmod	_	Gloss=Anudith|Translit=ʔà-nú-dìt
+27	นาครทรรพ	นาครทรรพ	PROPN	_	_	26	flat	_	Gloss=Nakornthap|Translit=naː-khɔːn-tháp
+28	ผอ.	ผอ.	NOUN	_	Abbr=Yes	25	appos	_	SpaceAfter=No|CorrectSpaceAfterYes|Gloss=director|Translit=phɔ̌ː-ʔɔː
+29	สำนักงาน	สำนักงาน	NOUN	_	_	28	nmod	_	SpaceAfter=No|Gloss=office|Translit=sǎm-nák-ŋaːn
+30	ปราบ	ปราบ	VERB	_	ExtPos=PROPN	29	nmod	_	SpaceAfter=No|Gloss=subdue|Translit=pràːp
+31	โกง	โกง	VERB	_	_	30	compound:svc	_	Gloss=cheat|Translit=koːŋ
+32	นาย	นาย	NOUN	_	_	9	conj	_	SpaceAfter=No|Gloss=Mister|Translit=naːj
+33	การุณ	การุณ	PROPN	_	_	32	nmod	_	Gloss=Karun|Translit=kaː-run
+34	โหสกุล	โหสกุล	PROPN	_	_	33	flat	_	Gloss=Hosakul|Translit=hǒː-sà-kun
+35	ว่าที่	ว่าที่	NOUN	_	_	32	appos	_	SpaceAfter=No|Gloss=prospective|Translit=wâː-thîː
+36	ผู้	ผู้	NOUN	_	_	35	nmod	_	SpaceAfter=No|Gloss=person|Translit=phûː
+37	สมัคร	สมัคร	VERB	_	_	36	acl	_	CorrectSpaceAfter=No|Gloss=apply|Translit=sà-màk
+38	ส.ส.	ส.ส.	NOUN	_	Abbr=Yes	37	obj	_	SpaceAfter=No|CorrectSpaceAfter=Yes|Gloss=Member of the House of Representatives|Translit=sɔ̌ː-sɔ̌ː
+39	เขต	เขต	NOUN	_	_	38	nmod	_	SpaceAfter=No|Gloss=district|Translit=khèːt
+40	ดอนเมือง	ดอนเมือง	PROPN	_	_	39	nmod	_	SpaceAfter=No|Gloss=Don Mueang|Translit=dɔːn-mɯaŋ
+41	พรรค	พรรค	NOUN	_	_	38	nmod	_	SpaceAfter=No|Gloss=party|Translit=phák
+42	ไทย	ไทย	PROPN	_	_	43	nsubj	_	SpaceAfter=No|Gloss=Thai|Translit=thaj
+43	สร้าง	สร้าง	VERB	_	ExtPos=PROPN	41	nmod	_	SpaceAfter=No|Gloss=build|Translit=sâːŋ
+44	ไทย	ไทย	PROPN	_	_	43	obj	_	Gloss=Thai|Translit=thaj
+45	ขึ้น	ขึ้น	VERB	_	_	0	root	_	SpaceAfter=No|Gloss=ascend|Translit=khɯ̂n
+46	เวที	เวที	NOUN	_	_	45	obj:arg	_	SpaceAfter=No|Gloss=stage|Translit=weː-thiː
+47	ปราศรัย	ปราศรัย	VERB	_	_	46	acl	_	Gloss=address|Translit=praː-sǎj
+48	“	“	PUNCT	_	_	49	punct	_	SpaceAfter=No
+49	แก้	แก้	VERB	_	ExtPos=PROPN	46	nmod	_	Gloss=solve|Translit=kɛ̂ː
+50	ทุกข์	ทุกข์	NOUN	_	_	49	obj	_	Gloss=suffer|Translit=thúk
+51	มหานคร	มหานคร	PROPN	_	_	50	nmod	_	SpaceAfter=No|Gloss=Bangkok|Translit=má-hǎː-ná-khɔːn
+52	กทม.	กทม.	PROPN	_	Abbr=Yes	49	appos	_	SpaceAfter=No|Gloss=Bangkok|Translit=kɔː-thɔː-mɔː
+53	”	”	PUNCT	_	_	49	punct	_	SpaceAfter=No|CorrectSpaceAfter=Yes
+54	พบปะ	พบปะ	VERB	_	_	45	advcl	_	SpaceAfter=No|Gloss=meet|Translit=phóp-pàʔ
+55	พี่	พี่	NOUN	_	_	54	obj	_	SpaceAfter=No|Gloss=older sibling|Translit=phîː
+56	น้อง	น้อง	NOUN	_	_	55	flat	_	SpaceAfter=No|Gloss=younger sibling|Translit=nɔ́ːŋ
+57	ประชาชน	ประชาชน	NOUN	_	_	55	appos	_	SpaceAfter=No|Gloss=population|Translit=pràʔ-chaː-chon
+58	ชาว	ชาว	NOUN	_	_	57	nmod	_	SpaceAfter=No|Gloss=folk|Translit=chaːw
+59	ดอนเมือง	ดอนเมือง	PROPN	_	_	58	nmod	_	SpaceAfter=No|Gloss=Don Mueang|Translit=dɔːn-mɯaŋ
+60	ที่	ที่	ADP	_	_	61	case	_	SpaceAfter=No|Gloss=at|Translit=thîː
+61	ปิ่นเจริญ	ปิ่นเจริญ	PROPN	_	_	54	obl	_	SpaceAfter=No|Gloss=Pin Charoen|Translit=pìn-cà-rɤːn
+62	2	2	NUM	_	_	61	nmod	_	Gloss=2|Translit=sɔ̌ːŋ
+63	ซึ่ง	ซึ่ง	PRON	_	_	64	nsubj	_	SpaceAfter=No|Gloss=where(REL)|Translit=sɯ̂ŋ
+64	มี	มี	VERB	_	_	61	acl:relcl	_	SpaceAfter=No|Gloss=have|Translit=miː
+65	พี่	พี่	NOUN	_	_	64	obl:arg	_	SpaceAfter=No|Gloss=older sibling|Translit=phîː
+66	น้อง	น้อง	NOUN	_	_	65	flat	_	SpaceAfter=No|Gloss=younger sibling|Translit=nɔ́ːŋ
+67	ชาว	ชาว	NOUN	_	_	65	appos	_	SpaceAfter=No|Gloss=folk|Translit=chaːw
+68	ดอนเมือง	ดอนเมือง	PROPN	_	_	67	nmod	_	SpaceAfter=No|Gloss=Don Mueang|Translit=dɔːn-mɯaŋ
+69	แห่	แห่	VERB	_	_	65	acl	_	SpaceAfter=No|Gloss=flock|Translit=hɛ̀ː
+70	ฟัง	ฟัง	VERB	_	_	69	compound:svc	_	SpaceAfter=No|Gloss=listen|Translit=faŋ
+71	กว่า	กว่า	DET	_	_	72	det	_	Gloss=more than|Translit=kwàː
+72	3,000	3,000	NUM	_	_	65	nummod	_	Gloss=3,000|Translit=sǎːm-phan
+73	คน	คน	NOUN	_	NounType=Clf	72	clf	_	Gloss=person|Translit=khon
+
+# sent_id = Thai_Election_ThaiBuildThaiParty_2023_News_Article_11
+# text = คุณหญิงสุดารัตน์ กล่าวว่า ลงพื้นที่ดอนเมืองครั้งใดอบอุ่นหัวใจทุกครั้ง 
+# text_en = Lady Sudarat said that every time she visited Don Mueang, it warmed her heart.
+# tokenised_text = คุณหญิง สุดารัตน์ กล่าว ว่า ลง พื้นที่ ดอนเมือง ครั้ง ใด อบอุ่น หัวใจ ทุก ครั้ง 
+# tokenised_translit =
+# tokenised_transcript = /khun-jǐŋ/ /sù-daː-rát/ /klàːw/ /wâː/ /loŋ/ /phɯ́ːn-thîː/ /dɔːn-mɯaŋ/ /khráŋ/ /daj/ /ʔòp-ʔùn/ /hǔa-caj/ /thúk/ /khráŋ/
+# phrase_type = sentence
+# sentence_position = body
+# genre = political_news_article
+# source = https://www.matichonweekly.com/hot-news/article_656027 
+# year = 2023
+1	คุณหญิง	คุณหญิง	NOUN	_	_	3	nsubj	_	SpaceAfter=No|Gloss=Lady|Translit=khun-jǐŋ
+2	สุดารัตน์	สุดารัตน์	PROPN	_	_	1	nmod	_	CorrectSpaceAfter=No|Gloss=Sudarat|Translit=sù-daː-rát
+3	กล่าว	กล่าว	VERB	_	_	0	root	_	SpaceAfter=No|Gloss=say|Translit=klàːw
+4	ว่า	ว่า	SCONJ	_	_	5	mark	_	Gloss=that(COMP)|Translit=wâː
+5	ลง	ลง	VERB	_	_	3	ccomp	_	SpaceAfter=No|Gloss=go down|Translit=loŋ
+6	พื้นที่	พื้นที่	NOUN	_	_	5	obl:arg	_	SpaceAfter=No|Gloss=area|Translit=phɯ́ːn-thîː
+7	ดอนเมือง	ดอนเมือง	PROPN	_	_	6	nmod	_	SpaceAfter=No|Gloss=Don Mueang|Translit=dɔːn-mɯaŋ
+8	ครั้ง	ครั้ง	NOUN	_	_	5	obl	_	SpaceAfter=No|Gloss=time|Translit=khráŋ
+9	ใด	ใด	ADJ	_	_	8	amod	_	SpaceAfter=No|Gloss=any|Translit=daj
+10	อบอุ่น	อบอุ่น	VERB	_	_	5	advcl	_	SpaceAfter=No|Gloss=warm|Translit=ʔòp-ʔùn
+11	หัวใจ	หัวใจ	NOUN	_	_	10	obl:arg	_	SpaceAfter=No|Gloss=heart|Translit=hǔa-caj
+12	ทุก	ทุก	DET	_	_	13	det	_	SpaceAfter=No|Gloss=every|Translit=thúk
+13	ครั้ง	ครั้ง	NOUN	_	NounType=Clf	10	obl	_	Gloss=time|Translit=khráŋ
+
+# sent_id = Thai_Election_ThaiBuildThaiParty_2023_News_Article_12
+# text = มีความผูกพันกับพี่น้องชาวดอนเมืองเนื่องจากเป็นส.ส.ครั้งแรกในพื้นที่แห่งนี้
+# text_en = (She) felt a deep bond with the local residents, as this was where she had been first elected as an MP.
+# tokenised_text = มี ความ ผูกพัน กับ พี่ น้อง ชาว ดอนเมือง เนื่อง จาก เป็น ส.ส. ครั้ง แรก ใน พื้นที่ แห่ง นี้
+# tokenised_translit =
+# tokenised_transcript = /miː/ /khwaːm/ /phuːk-phan/ /kap/ /phîː/ /nɔ́ːŋ/ /chaːw/ /dɔːn-mɯaŋ/ /nɯ̂aŋ/ /càːk/ /pen/ /sɔ̌ː-sɔ̌ː/ /khráŋ/ /rɛːk/ /naj/ /phɯ́ːn-thîː/ /hɛ̀ːŋ/ /níː/
+# phrase_type = sentence
+# sentence_position = body
+# genre = political_news_article
+# source = https://www.matichonweekly.com/hot-news/article_656027 
+# year = 2023
+1	มี	มี	VERB	_	_	0	root	_	SpaceAfter=No|Gloss=have|Translit=miː
+2	ความ	ความ	NOUN	_	NounType=Nmlz 	1	obl:arg	_	SpaceAfter=No|Gloss=condition(nominalizer)|Translit=khwaːm
+3	ผูกพัน	ผูกพัน	VERB	_	_	2	acl	_	SpaceAfter=No|Gloss=bond|Translit=phuːk-phan
+4	กับ	กับ	ADP	_	_	5	case	_	SpaceAfter=No|Gloss=with|Translit=kap
+5	พี่	พี่	NOUN	_	_	1	obl	_	SpaceAfter=No|Gloss=older sibling|Translit=phîː
+6	น้อง	น้อง	NOUN	_	_	5	flat	_	SpaceAfter=No|Gloss=younger sibling|Translit=nɔ́ːŋ
+7	ชาว	ชาว	NOUN	_	_	5	appos	_	SpaceAfter=No|Gloss=folk|Translit=chaːw
+8	ดอนเมือง	ดอนเมือง	PROPN	_	_	7	nmod	_	SpaceAfter=No|Gloss=Don Mueang|Translit=dɔːn-mɯaŋ
+9	เนื่อง	เนื่อง	VERB	_	_	1	advcl	_	SpaceAfter=No|Gloss=continue|Translit=nɯ̂aŋ
+10	จาก	จาก	ADP	_	_	12	mark	_	SpaceAfter=No|Gloss=from|Translit=càːk
+11	เป็น	เป็น	AUX	_	_	12	cop	_	SpaceAfter=No|Gloss=BE|Translit=pen
+12	ส.ส.	ส.ส.	NOUN	_	Abbr=Yes	9	advcl	_	SpaceAfter=No|CorrectSpaceAfter=Yes|Gloss=Member of the House of Representatives|Translit=sɔ̌ː-sɔ̌ː
+13	ครั้ง	ครั้ง	NOUN	_	_	12	obl	_	SpaceAfter=No|Gloss=time|Translit=khráŋ
+14	แรก	แรก	ADJ	_	_	13	amod	_	SpaceAfter=No|Gloss=first|Translit=rɛːk
+15	ใน	ใน	ADP	_	_	16	case	_	SpaceAfter=No|Gloss=in|Translit=naj
+16	พื้นที่	พื้นที่	NOUN	_	_	12	obl	_	SpaceAfter=No|Gloss=area|Translit=phɯ́ːn-thîː
+17	แห่ง	แห่ง	NOUN	_	_	16	nmod	_	SpaceAfter=No|Gloss=place|Translit=hɛ̀ːŋ
+18	นี้	นี้	ADJ	_	_	17	amod	_	Gloss=this|Translit=níː
+
+# sent_id = Thai_Election_ThaiBuildThaiParty_2023_News_Article_13
+# text = เห็นปัญหาเห็นความทุกข์ยากและคอยดูแลช่วยเหลือกันมาตลอด
+# text_en = (She) witnessed their problems and hardships and consistently supported and helped them.
+# tokenised_text = เห็น ปัญหา เห็น ความ ทุกข์ ยาก และ คอย ดูแล ช่วยเหลือ กัน มา ตลอด
+# tokenised_translit =
+# tokenised_transcript = /hěn/ /pan-hǎː/ /hěn/ /khwaːm/ /thúk/ /jâːk/ /lɛ́ʔ/ /khɔːj/ /duː-lɛː/ /chûaj-lɯa/ /kan/ /maː/ /tà-lɔːt/
+# phrase_type = sentence
+# sentence_position = body
+# genre = political_news_article
+# source = https://www.matichonweekly.com/hot-news/article_656027 
+# year = 2023
+1	เห็น	เห็น	VERB	_	_	0	root	_	SpaceAfter=No|Gloss=see|Translit=hěn
+2	ปัญหา	ปัญหา	NOUN	_	_	1	obj	_	SpaceAfter=No|CorrectSpaceAfter=Yes|Gloss=problem|Translit=pan-hǎː
+3	เห็น	เห็น	VERB	_	_	1	conj	_	SpaceAfter=No|Gloss=see|Translit=hěn
+4	ความ	ความ	NOUN	_	NounType=Nmlz	3	obj	_	SpaceAfter=No|Gloss=condition(nominalizer)|Translit=khwaːm
+5	ทุกข์	ทุกข์	VERB	_	_	4	acl	_	SpaceAfter=No|Gloss=sufferring|Translit=thúk
+6	ยาก	ยาก	VERB	_	_	5	flat	_	SpaceAfter=No|CorrectSpaceAfter=Yes|Gloss=difficult|Translit=jâːk
+7	และ	และ	CCONJ	_	_	8	cc	_	SpaceAfter=No|Gloss=and|Translit=lɛ́ʔ
+8	คอย	คอย	VERB	_	_	1	conj	_	SpaceAfter=No|Gloss=wait|Translit=khɔːj
+9	ดูแล	ดูแล	VERB	_	_	8	xcomp	_	SpaceAfter=No|Gloss=look after|Translit=duː-lɛː
+10	ช่วยเหลือ	ช่วยเหลือ	VERB	_	_	9	conj	_	SpaceAfter=No|Gloss=help|Translit=chûaj-lɯa
+11	กัน	กัน	ADV	_	_	9	advmod	_	SpaceAfter=No|Gloss=together|Translit=kan
+12	มา	มา	ADV	_	_	9	advmod	_	SpaceAfter=No|Gloss=come(express aspect)|Translit=maː
+13	ตลอด	ตลอด	VERB	_	_	9	advcl	_	Gloss=throughout|Translit=tà-lɔːt
+
+# sent_id = Thai_Election_ThaiBuildThaiParty_2023_News_Article_14
+# text = ได้ผลักดันหลายนโยบายจนสำเร็จเป็นรูปธรรม แต่ก็ยังมีอีกหลากหลายปัญหาที่เกิดขึ้นและยังไม่ได้รับการแก้ไขอย่างจริงจัง
+# text_en = (She) pushed forward many policies that led to tangible results, but many issues still remained and had yet to be seriously addressed.
+# tokenised_text = ได้ ผลักดัน หลาย นโยบาย จน สำเร็จ เป็น รูปธรรม แต่ ก็ ยัง มี อีก หลากหลาย ปัญหา ที่ เกิด ขึ้น และ ยัง ไม่ ได้ รับ การ แก้ไข อย่าง จริงจัง
+# tokenised_translit =
+# tokenised_transcript = /dâj/ /phlàk-dan/ /lǎːj/ /ná-joː-baːj/ /con/ /sǎm-ret/ /pen/ /rûːp-pà-tham/ /tɛ̀ː/ /kɔ̂ː/ /jaŋ/ /miː/ /ʔìːk/ /làːk-lǎːj/ /pan-hǎː/ /thîː/ /kɤ̀ːt/ /khɯ̂n/ /lɛ́ʔ/ /jaŋ/ /mâj/ /dâj/ /ráp/ /kaːn/ /kɛ̂ː-khǎj/ /jàːŋ/ /ciŋ-caŋ/
+# phrase_type = sentence
+# sentence_position = body
+# genre = political_news_article
+# source = https://www.matichonweekly.com/hot-news/article_656027 
+# year = 2023
+1	ได้	ได้	VERB	_	_	0	root	_	SpaceAfter=No|Gloss=get(express the past time)|Translit=dâj
+2	ผลักดัน	ผลักดัน	VERB	_	_	1	xcomp	_	SpaceAfter=No|Gloss=push|Translit=phlàk-dan
+3	หลาย	หลาย	DET	_	_	4	det	_	SpaceAfter=No|Gloss=several|Translit=lǎːj
+4	นโยบาย	นโยบาย	NOUN	_	NounType=Clf	2	obj	_	SpaceAfter=No|Gloss=policy|Translit=ná-joː-baːj
+5	จน	จน	SCONJ	_	_	6	mark	_	SpaceAfter=No|Gloss=until|Translit=con
+6	สำเร็จ	สำเร็จ	VERB	_	_	2	advcl	_	SpaceAfter=No|Gloss=successful|Translit=sǎm-ret
+7	เป็น	เป็น	ADP	_	_	8	case	_	SpaceAfter=No|Gloss=BE|Translit=pen
+8	รูปธรรม	รูปธรรม	NOUN	_	_	6	obl	_	Gloss=concrete|Translit=rûːp-pà-tham
+9	แต่	แต่	CCONJ	_	_	12	cc	_	SpaceAfter=No|Gloss=but|Translit=tɛ̀ː
+10	ก็	ก็	ADV	_	_	12	advmod	_	SpaceAfter=No|Gloss=also|Translit=kɔ̂ː
+11	ยัง	ยัง	ADV	_	_	12	advmod	_	SpaceAfter=No|Gloss=still|Translit=jaŋ
+12	มี	มี	VERB	_	_	1	conj	_	SpaceAfter=No|Gloss=have|Translit=miː
+13	อีก	อีก	ADV	_	_	12	advmod	_	SpaceAfter=No|Gloss=again|Translit=ʔìːk
+14	หลากหลาย	หลากหลาย	DET	_	_	15	det	_	SpaceAfter=No|Gloss=different|Translit=làːk-lǎːj
+15	ปัญหา	ปัญหา	NOUN	_	NounType=Clf	12	nsubj	_	SpaceAfter=No|Gloss=problem|Translit=pan-hǎː
+16	ที่	ที่	PRON	_	_	17	nsubj	_	SpaceAfter=No|Gloss=that(REL)|Translit=thîː
+17	เกิด	เกิด	VERB	_	_	15	acl:relcl	_	SpaceAfter=No|Gloss=happen|Translit=kɤ̀ːt
+18	ขึ้น	ขึ้น	ADV	_	_	17	advmod	_	SpaceAfter=No|Gloss=upward(used for emphasis)|Translit=khɯ̂n
+19	และ	และ	CCONJ	_	_	22	cc	_	SpaceAfter=No|Gloss=and|Translit=lɛ́ʔ
+20	ยัง	ยัง	ADV	_	_	22	advmod	_	SpaceAfter=No|Gloss=still|Translit=jaŋ
+21	ไม่	ไม่	ADV	_	_	22	advmod	_	SpaceAfter=No|Gloss=not|Translit=mâj
+22	ได้	ได้	VERB	_	_	17	conj	_	SpaceAfter=No|Gloss=get(express the past time)|Translit=dâj
+23	รับ	รับ	VERB	_	_	22	xcomp	_	SpaceAfter=No|Gloss=receive|Translit=ráp
+24	การ	การ	NOUN	_	NounType=Nmlz	23	obj	_	SpaceAfter=No|Gloss=a thing to be done(nominalizer)|Translit=kaːn
+25	แก้ไข	แก้ไข	VERB	_	_	24	acl	_	SpaceAfter=No|Gloss=solve|Translit=kɛ̂ː-khǎj
+26	อย่าง	อย่าง	NOUN	_	_	25	obl	_	SpaceAfter=No|Gloss=way|Translit=jàːŋ
+27	จริงจัง	จริงจัง	VERB	_	_	26	acl	_	Gloss=serious|Translit=ciŋ-caŋ
+
+# sent_id = Thai_Election_ThaiBuildThaiParty_2023_News_Article_15
+# text = เช่น ปัญหาฝุ่นพิษPM2.5 ผู้รับผิดชอบไม่ใส่ใจแก้ปัญหาอย่างจริงจัง ทำให้ปัญหาหนักหน่วงมากขึ้นทุกปี
+# text_en = For example, regarding the PM2.5 air pollution problem, those responsible have not paid serious attention to solving the issue, causing it to worsen every year.
+# tokenised_text = เช่น ปัญหา ฝุ่น พิษ PM 2.5 ผู้ รับผิดชอบ ไม่ ใส่ใจ แก้ ปัญหา อย่าง จริงจัง ทำให้ ปัญหา หนักหน่วง มาก ขึ้น ทุก ปี
+# tokenised_translit =
+# tokenised_transcript = /chên/ /pan-hǎː/ /fùn/ /phít/ /phiː-ʔem/ /sɔ̌ːŋ-cùt-hâː/ /phûː/ /ráp-phìt-chɔ̂ːp/ /mâj/ /sàj-caj/ /kɛ̂ː/ /pan-hǎː/ /jàːŋ/ /ciŋ-caŋ/ /tham-hâj/ /pan-hǎː/ /nàk-nùaŋ/ /mâːk/ /khɯ̂n/ /thúk/ /piː/
+# phrase_type = sentence
+# sentence_position = body
+# genre = political_news_article
+# source = https://www.matichonweekly.com/hot-news/article_656027 
+# year = 2023
+1	เช่น	เช่น	ADP	_	_	2	case	_	Gloss=for example|Translit=chên
+2	ปัญหา	ปัญหา	NOUN	_	_	10	obl	_	SpaceAfter=No|Gloss=problem|Translit=pan-hǎː
+3	ฝุ่น	ฝุ่น	NOUN	_	_	2	nmod	_	SpaceAfter=No|Gloss=dust|Translit=fùn
+4	พิษ	พิษ	NOUN	_	_	3	nmod	_	SpaceAfter=No|CorrectSpaceAfter=Yes|Gloss=poison|Translit=phít
+5	PM	PM	NOUN	_	Abbr=Yes	3	nmod	_	SpaceAfter=No|Gloss=PM|Translit=phiː-ʔem
+6	2.5	2.5	NUM	_	_	5	nmod	_	Gloss=2.5|Translit=sɔ̌ːŋ-cùt-hâː
+7	ผู้	ผู้	NOUN	_	_	10	nsubj	_	SpaceAfter=No|Gloss=person|Translit=phûː
+8	รับผิดชอบ	รับผิดชอบ	VERB	_	_	7	acl	_	SpaceAfter=No|Gloss=be responsible|Translit=ráp-phìt-chɔ̂ːp
+9	ไม่	ไม่	ADV	_	_	10	advmod	_	SpaceAfter=No|Gloss=not|Translit=mâj
+10	ใส่ใจ	ใส่ใจ	VERB	_	_	0	root	_	SpaceAfter=No|Gloss=care|Translit=sàj-caj
+11	แก้	แก้	VERB	_	_	10	xcomp	_	SpaceAfter=No|Gloss=solve|Translit=kɛ̂ː
+12	ปัญหา	ปัญหา	NOUN	_	_	11	obj	_	SpaceAfter=No|Gloss=problem|Translit=pan-hǎː
+13	อย่าง	อย่าง	NOUN	_	_	11	obl	_	SpaceAfter=No|Gloss=way|Translit=jàːŋ
+14	จริงจัง	จริงจัง	VERB	_	_	13	acl	_	Gloss=serious|Translit=ciŋ-caŋ
+15	ทำให้	ทำให้	VERB	_	_	10	advcl	_	SpaceAfter=No|Gloss=cause|Translit=tham-hâj
+16	ปัญหา	ปัญหา	NOUN	_	_	15	obj	_	SpaceAfter=No|Gloss=problem|Translit=pan-hǎː
+17	หนักหน่วง	หนักหน่วง	VERB	_	_	15	xcomp	_	SpaceAfter=No|Gloss=severe|Translit=nàk-nùaŋ
+18	มาก	มาก	ADV	_	_	17	advmod	_	SpaceAfter=No|Gloss=very|Translit=mâːk
+19	ขึ้น	ขึ้น	ADV	_	_	18	advmod	_	SpaceAfter=No|Gloss=upward(used for emphasis)|Translit=khɯ̂n
+20	ทุก	ทุก	DET	_	_	21	det	_	SpaceAfter=No|Gloss=every|Translit=thúk
+21	ปี	ปี	NOUN	_	NounType=Clf	15	obl	_	Gloss=year|Translit=piː
+
+# sent_id = Thai_Election_ThaiBuildThaiParty_2023_News_Article_16
+# text = หลายสัปดาห์ที่ผ่านมา ฝุ่นพิษเกินค่ามาตรฐาน กระทบสุขภาพของประชาชน 
+# text_en = In recent weeks, pollution levels have exceeded standard limits, affecting people’s health.
+# tokenised_text = หลาย สัปดาห์ ที่ ผ่าน มา ฝุ่น พิษ เกิน ค่า มาตรฐาน กระทบ สุขภาพ ของ ประชาชน
+# tokenised_translit =
+# tokenised_transcript = /lǎːj/ /sàp-daː/ /thîː/ /phàːn/ /maː/ /fùn/ /phít/ /kɤːn/ /khâː/ /mâːt-trà-thǎːn/ /kràʔ-thop/ /sùk-khà-phaːp/ /khɔ̌ːŋ/ /pràʔ-chaː-chon/
+# phrase_type = sentence
+# sentence_position = body
+# genre = political_news_article
+# source = https://www.matichonweekly.com/hot-news/article_656027 
+# year = 2023
+1	หลาย	หลาย	DET	_	_	2	det	_	SpaceAfter=No|Gloss=several|Translit=lǎːj
+2	สัปดาห์	สัปดาห์	NOUN	_	NounType=Clf	8	obl	_	SpaceAfter=No|Gloss=week|Translit=sàp-daː
+3	ที่	ที่	PRON	_	_	4	nsubj	_	SpaceAfter=No|Gloss=that(REL)|Translit=thîː
+4	ผ่าน	ผ่าน	VERB	_	_	2	acl:relcl	_	SpaceAfter=No|Gloss=pass|Translit=phàːn
+5	มา	มา	VERB	_	_	4	compound:svc	_	CorrectSpaceAfter=No|Gloss=come(express aspect)|Translit=maː
+6	ฝุ่น	ฝุ่น	NOUN	_	_	8	nsubj	_	SpaceAfter=No|Gloss=dust|Translit=fùn
+7	พิษ	พิษ	NOUN	_	_	6	nmod	_	SpaceAfter=No|Gloss=poison|Translit=phít
+8	เกิน	เกิน	VERB	_	_	0	root	_	SpaceAfter=No|Gloss=exceed|Translit=kɤːn
+9	ค่า	ค่า	NOUN	_	_	8	obl	_	SpaceAfter=No|Gloss=level|Translit=khâː
+10	มาตรฐาน	มาตรฐาน	NOUN	_	_	9	nmod	_	Gloss=standard|Translit=mâːt-trà-thǎːn
+11	กระทบ	กระทบ	VERB	_	_	8	advcl	_	SpaceAfter=No|Gloss=affect|Translit=kràʔ-thop
+12	สุขภาพ	สุขภาพ	NOUN	_	_	11	obj	_	SpaceAfter=No|Gloss=health|Translit=sùk-khà-phaːp
+13	ของ	ของ	ADP	_	_	14	case	_	SpaceAfter=No|Gloss=of|Translit=khɔ̌ːŋ
+14	ประชาชน	ประชาชน	NOUN	_	_	12	nmod	_	Gloss=population|Translit=pràʔ-chaː-chon
+
+# sent_id = Thai_Election_ThaiBuildThaiParty_2023_News_Article_17
+# text = ซึ่งถือเป็นเมืองที่มีคุณภาพอากาศแย่ติดท๊อปของโลกต่อเนื่องทุกปี
+# text_en = This has made it one of the cities with consistently among the worst air quality in the world each year.
+# tokenised_text = ซึ่ง ถือ เป็น เมือง ที่ มี คุณภาพ อากาศ แย่ ติด ท๊อป ของ โลก ต่อ เนื่อง ทุก ปี
+# tokenised_translit =
+# tokenised_transcript = /sɯ̂ŋ/ /thɯ̌ː/ /pen/ /mɯaŋ/ /thîː/ /miː/ /khun-nà-phâːp/ /ʔaː-kaːt/ /jɛ̂ː/ /tìt/ /thɔ́p/ /khɔ̌ːŋ/ /lôːk/ /tɔ̀ː/ /nɯ̂aŋ/ /thúk/ /piː/
+# phrase_type = sentence
+# sentence_position = body
+# genre = political_news_article
+# source = https://www.matichonweekly.com/hot-news/article_656027 
+# year = 2023
+1	ซึ่ง	ซึ่ง	PART	_	_	2	discourse	_	SpaceAfter=No|Gloss=so|Translit=sɯ̂ŋ
+2	ถือ	ถือ	VERB	_	_	0	root	_	SpaceAfter=No|Gloss=consider|Translit=thɯ̌ː
+3	เป็น	เป็น	AUX	_	_	4	cop	_	SpaceAfter=No|Gloss=BE|Translit=pen
+4	เมือง	เมือง	NOUN	_	_	2	xcomp	_	SpaceAfter=No|Gloss=city|Translit=mɯaŋ
+5	ที่	ที่	PRON	_	_	6	nsubj	_	SpaceAfter=No|Gloss=that(REL)|Translit=thîː
+6	มี	มี	VERB	_	_	4	acl:relcl	_	SpaceAfter=No|Gloss=have|Translit=miː
+7	คุณภาพ	คุณภาพ	NOUN	_	_	6	obl:arg	_	SpaceAfter=No|Gloss=quality|Translit=khun-nà-phâːp
+8	อากาศ	อากาศ	NOUN	_	_	7	nmod	_	SpaceAfter=No|Gloss=air|Translit=ʔaː-kaːt
+9	แย่	แย่	VERB	_	_	7	acl	_	SpaceAfter=No|CorrectSpaceAfter=Yes|Gloss=poor|Translit=jɛ̂ː
+10	ติด	ติด	VERB	_	_	6	advcl	_	SpaceAfter=No|Gloss=attach|Translit=tìt
+11	ท๊อป	ท๊อป	NOUN	_	Foreign=Yes	10	obl:arg	_	SpaceAfter=No|Gloss=top|Translit=thɔ́p
+12	ของ	ของ	ADP	_	_	13	case	_	SpaceAfter=No|Gloss=of|Translit=khɔ̌ːŋ
+13	โลก	โลก	NOUN	_	_	11	nmod	_	SpaceAfter=No|Gloss=world|Translit=lôːk
+14	ต่อ	ต่อ	VERB	_	_	10	advcl	_	SpaceAfter=No|Gloss=extend|Translit=tɔ̀ː
+15	เนื่อง	เนื่อง	ADV	_	_	14	advmod	_	SpaceAfter=No|Gloss=continue|Translit=nɯ̂aŋ
+16	ทุก	ทุก	DET	_	_	17	det	_	SpaceAfter=No|Gloss=every|Translit=thúk
+17	ปี	ปี	NOUN	_	NounType=Clf	14	obl	_	Gloss=year|Translit=piː
+
+# sent_id = Thai_Election_ThaiBuildThaiParty_2023_News_Article_18
+# text = ดังนั้นพรรคไทยสร้างไทยจึงขอประกาศว่า “การแก้ไขปัญหาฝุ่นพิษต้องเป็นวาระแห่งชาติ ”
+# text_en = Therefore, the Thai Build Thai Party declared “solving the PM2.5 pollution problem must be a national agenda.”
+# tokenised_text = ดัง นั้น พรรค ไทย สร้าง ไทย จึง ขอ ประกาศ ว่า “ การ แก้ไข ปัญหา ฝุ่น พิษ ต้อง เป็น วาระ แห่ง ชาติ ”
+# tokenised_translit =
+# tokenised_transcript =  /daŋ/ /nán/ /phák/ /thaj/ /sâːŋ/ /thaj/ /cɯŋ/ /khɔ̌ː/ /pràʔ-kàːt/ /wâː/ " /kaːn/ /kɛ̂ː-khǎj/ /pan-hǎː/ /fùn/ /phít/ /tɔ̂ŋ/ /pen/ /waː-ráʔ/ /hɛ̀ŋ/ /châːt/ "
+# phrase_type = sentence
+# sentence_position = body
+# genre = political_news_article
+# source = https://www.matichonweekly.com/hot-news/article_656027 
+# year = 2023
+1	ดัง	ดัง	ADP	_	_	2	case	_	SpaceAfter=No|Gloss=as|Translit=daŋ
+2	นั้น	นั้น	PRON	_	_	8	obl	_	SpaceAfter=No|Gloss=that|Translit=nán
+3	พรรค	พรรค	NOUN	_	_	8	nsubj	_	SpaceAfter=No|Gloss=party|Translit=phák
+4	ไทย	ไทย	PROPN	_	_	5	nsubj	_	SpaceAfter=No|Gloss=Thai|Translit=thaj
+5	สร้าง	สร้าง	VERB	_	ExtPos=PROPN	3	nmod	_	SpaceAfter=No|Gloss=build|Translit=sâːŋ
+6	ไทย	ไทย	PROPN	_	_	5	obj	_	SpaceAfter=No|Gloss=Thai|Translit=thaj
+7	จึง	จึง	ADV	_	_	8	advmod	_	SpaceAfter=No|Gloss=thus|Translit=cɯŋ
+8	ขอ	ขอ	VERB	_	_	0	root	_	SpaceAfter=No|Gloss=ask|Translit=khɔ̌ː
+9	ประกาศ	ประกาศ	VERB	_	_	8	xcomp	_	SpaceAfter=No|Gloss=announce|Translit=pràʔ-kàːt
+10	ว่า	ว่า	SCONJ	_	_	17	mark	_	Gloss=that(COMP)|Translit=wâː
+11	“	“	PUNCT	_	_	17	punct	_	SpaceAfter=No
+12	การ	การ	NOUN	_	NounType=Nmlz	17	nsubj	_	SpaceAfter=No|Gloss=a thing to be done(nominalizer)|Translit=kaːn
+13	แก้ไข	แก้ไข	VERB	_	_	12	acl	_	SpaceAfter=No|Gloss=solve|Translit=kɛ̂ː-khǎj
+14	ปัญหา	ปัญหา	NOUN	_	_	13	obj	_	SpaceAfter=No|Gloss=problem|Translit=pan-hǎː
+15	ฝุ่น	ฝุ่น	NOUN	_	_	14	nmod	_	SpaceAfter=No|Gloss=dust|Translit=fùn
+16	พิษ	พิษ	NOUN	_	_	15	nmod	_	SpaceAfter=No|Gloss=poison|Translit=phít
+17	ต้อง	ต้อง	VERB	_	_	9	ccomp	_	SpaceAfter=No|Gloss=must|Translit=tɔ̂ŋ
+18	เป็น	เป็น	AUX	_	_	19	cop	_	SpaceAfter=No|Gloss=BE|Translit=pen
+19	วาระ	วาระ	NOUN	_	_	17	xcomp	_	SpaceAfter=No|Gloss=agenda|Translit=waː-ráʔ
+20	แห่ง	แห่ง	ADP	_	_	21	case	_	SpaceAfter=No|Gloss=of|Translit=hɛ̀ŋ
+21	ชาติ	ชาติ	NOUN	_	_	19	nmod	_	CorrectSpaceAfter=No|Gloss=nation|Translit=châːt
+22	”	”	PUNCT	_	_	17	punct	_	_
+
+# sent_id = Thai_Election_ThaiBuildThaiParty_2023_News_Article_19
+# text = และหากไทยสร้างไทยเป็นรัฐบาล สิ่งที่ต้องทำทันทีคือการห้ามรถที่มีควันดำวิ่งในท้องถนนเขตกรุงเทพฯ โดยเฉพาะรถขนส่งสาธารณะและรถบรรทุก รวมถึงการขนถ่ายสินค้าต้องทำได้เฉพาะเขตที่อยู่นอกเมืองเท่านั้น
+# text_en = If the Thai Build Thai Party were to form a government, one of the immediate actions would be to ban vehicles emitting black smoke from operating on roads in Bangkok, especially public transport vehicles and trucks. In addition, the loading and unloading of goods would need to be restricted to areas outside the city.
+# tokenised_text = และ หาก ไทย สร้าง ไทย เป็น รัฐบาล สิ่ง ที่ ต้อง ทำ ทันที คือ การ ห้าม รถ ที่ มี ควัน ดำ วิ่ง ใน ท้อง ถนน เขต กรุงเทพ ฯ โดย เฉพาะ รถ ขน ส่ง สาธารณะ และ รถ บรรทุก รวม ถึง การ ขน ถ่าย สินค้า ต้อง ทำ ได้ เฉพาะ เขต ที่ อยู่ นอก เมือง เท่า นั้น
+# tokenised_translit =
+# tokenised_transcript = /lɛ́ʔ/ /hàːk/ /thaj/ /sâːŋ/ /thaj/ /pen/ /rát-thà-baːn/ /sìŋ/ /thîː/ /tɔ̂ŋ/ /tham/ /than-thiː/ /khɯː/ /kaːn/ /hâːm/ /rót/ /thîː/ /miː/ /khwan/ /dam/ /wîŋ/ /naj/ /thɔ́ːŋ/ /thà-nǒn/ /khèːt/ /kruŋ-thêːp/ /doːj/ /chà-phɔʔ/ /rót/ /khǒn/ /sòŋ/ /sǎː-thaː-rá-náʔ/ /lɛ́ʔ/ /rót/ /ban-thúk/ /ruam/ /thɯ̌ŋ/ /kaːn/ /khǒn/ /thàːj/ /sǐn-kháː/ /tɔ̂ŋ/ /tham/ /dâj/ /chà-phɔʔ/ /khèːt/ /thîː/ /jùː/ /nɔ̂ːk/ /mɯaŋ/ /thâw/ /nán/
+# phrase_type = sentence
+# sentence_position = body
+# genre = political_news_article
+# source = https://www.matichonweekly.com/hot-news/article_656027 
+# year = 2023
+1	และ	และ	ADV	_	_	8	advmod	_	SpaceAfter=No|Gloss=and|Translit=lɛ́ʔ
+2	หาก	หาก	ADP	_	_	7	mark	_	SpaceAfter=No|Gloss=if|Translit=hàːk
+3	ไทย	ไทย	PROPN	_	_	4	nsubj	_	SpaceAfter=No|Gloss=Thai|Translit=thaj
+4	สร้าง	สร้าง	VERB	_	ExtPos=PROPN	7	nsubj	_	SpaceAfter=No|Gloss=build|Translit=sâːŋ
+5	ไทย	ไทย	PROPN	_	_	4	obj	_	SpaceAfter=No|Gloss=Thai|Translit=thaj
+6	เป็น	เป็น	AUX	_	_	7	cop	_	SpaceAfter=No|Gloss=BE|Translit=pen
+7	รัฐบาล	รัฐบาล	NOUN	_	_	8	acl	_	Gloss=government|Translit=rát-thà-baːn
+8	สิ่ง	สิ่ง	NOUN	_	_	0	root	_	SpaceAfter=No|Gloss=thing|Translit=sìŋ
+9	ที่	ที่	PRON	_	_	11	obj	_	SpaceAfter=No|Gloss=that(REL)|Translit=thîː
+10	ต้อง	ต้อง	VERB	_	_	8	acl:relcl	_	SpaceAfter=No|Gloss=must|Translit=tɔ̂ŋ
+11	ทำ	ทำ	VERB	_	_	10	xcomp	_	SpaceAfter=No|Gloss=do|Translit=tham
+12	ทันที	ทันที	ADV	_	_	11	advmod	_	SpaceAfter=No|CorrectSpaceAfter=Yes|Gloss=immediately|Translit=than-thiː
+13	คือ	คือ	CCONJ	_	_	14	cc	_	SpaceAfter=No|CorrectSpaceAfter=Yes|Gloss=that is|Translit=khɯː
+14	การ	การ	NOUN	_	NounType=Nmlz	8	conj	_	SpaceAfter=No|Gloss=a thing to be done(nominalizer)|Translit=kaːn
+15	ห้าม	ห้าม	VERB	_	_	14	acl	_	SpaceAfter=No|Gloss=prohibit|Translit=hâːm
+16	รถ	รถ	NOUN	_	_	15	obj	_	SpaceAfter=No|Gloss=car|Translit=rót
+17	ที่	ที่	PRON	_	_	18	nsubj	_	SpaceAfter=No|Gloss=that(REL)|Translit=thîː
+18	มี	มี	VERB	_	_	16	acl:relcl	_	SpaceAfter=No|Gloss=have|Translit=miː
+19	ควัน	ควัน	NOUN	_	_	18	obl:arg	_	SpaceAfter=No|Gloss=smoke|Translit=khwan
+20	ดำ	ดำ	VERB	_	_	19	acl	_	SpaceAfter=No|Gloss=black|Translit=dam
+21	วิ่ง	วิ่ง	VERB	_	_	15	xcomp	_	SpaceAfter=No|Gloss=run|Translit=wîŋ
+22	ใน	ใน	ADP	_	_	23	case	_	SpaceAfter=No|Gloss=in|Translit=naj
+23	ท้อง	ท้อง	NOUN	_	_	21	obl	_	SpaceAfter=No|Gloss=large area|Translit=thɔ́ːŋ
+24	ถนน	ถนน	NOUN	_	_	23	nmod	_	SpaceAfter=No|Gloss=street|Translit=thà-nǒn
+25	เขต	เขต	NOUN	_	_	23	nmod	_	SpaceAfter=No|Gloss=district|Translit=khèːt
+26	กรุงเทพ	กรุงเทพ	PROPN	_	_	25	nmod	_	SpaceAfter=No|Gloss=city|Translit=kruŋ-thêːp
+27	ฯ	_	SYM	_	_	26	nmod	_	Gloss=|Translit=
+28	โดย	โดย	ADP	_	_	29	mark	_	SpaceAfter=No|Gloss=with|Translit=doːj
+29	เฉพาะ	เฉพาะ	VERB	_	_	15	advcl	_	SpaceAfter=No|Gloss=specify|Translit=chà-phɔʔ
+30	รถ	รถ	NOUN	_	_	29	obl:arg	_	SpaceAfter=No|Gloss=car|Translit=rót
+31	ขน	ขน	VERB	_	_	30	acl	_	SpaceAfter=No|Gloss=carry|Translit=khǒn
+32	ส่ง	ส่ง	VERB	_	_	31	compound:svc	_	SpaceAfter=No|Gloss=send|Translit=sòŋ
+33	สาธารณะ	สาธารณะ	VERB	_	_	30	acl	_	SpaceAfter=No|Gloss=public|Translit=sǎː-thaː-rá-náʔ
+34	และ	และ	CCONJ	_	_	35	cc	_	SpaceAfter=No|Gloss=and|Translit=lɛ́ʔ
+35	รถ	รถ	NOUN	_	_	30	conj	_	SpaceAfter=No|Gloss=car|Translit=rót
+36	บรรทุก	บรรทุก	VERB	_	_	35	acl	_	Gloss=load|Translit=ban-thúk
+37	รวม	รวม	VERB	_	_	14	acl	_	SpaceAfter=No|Gloss=include|Translit=ruam
+38	ถึง	ถึง	ADP	_	_	43	mark	_	SpaceAfter=No|Gloss=to|Translit=thɯ̌ŋ
+39	การ	การ	NOUN	_	NounType=Nmlz	43	nsubj	_	SpaceAfter=No|Gloss=a thing to be done(nominalizer)|Translit=kaːn
+40	ขน	ขน	VERB	_	_	39	acl	_	SpaceAfter=No|Gloss=carry|Translit=khǒn
+41	ถ่าย	ถ่าย	VERB	_	_	40	compound:svc	_	SpaceAfter=No|Gloss=unload|Translit=thàːj
+42	สินค้า	สินค้า	NOUN	_	_	41	obj	_	SpaceAfter=No|Gloss=product|Translit=sǐn-kháː
+43	ต้อง	ต้อง	VERB	_	_	37	advcl	_	SpaceAfter=No|Gloss=must|Translit=tɔ̂ŋ
+44	ทำ	ทำ	VERB	_	_	43	xcomp	_	SpaceAfter=No|Gloss=do|Translit=tham
+45	ได้	ได้	VERB	_	_	44	advcl	_	SpaceAfter=No|Gloss=get(express potential or permission)|Translit=dâj
+46	เฉพาะ	เฉพาะ	ADP	_	_	47	case	_	SpaceAfter=No|Gloss=only|Translit=chà-phɔʔ
+47	เขต	เขต	NOUN	_	_	44	obl	_	SpaceAfter=No|Gloss=district|Translit=khèːt
+48	ที่	ที่	PRON	_	_	49	nsubj	_	SpaceAfter=No|Gloss=that(REL)|Translit=thîː
+49	อยู่	อยู่	VERB	_	_	47	acl:relcl	_	SpaceAfter=No|Gloss=stay|Translit=jùː
+50	นอก	นอก	ADP	_	_	51	case	_	SpaceAfter=No|Gloss=out|Translit=nɔ̂ːk
+51	เมือง	เมือง	NOUN	_	_	49	obl	_	SpaceAfter=No|Gloss=city|Translit=mɯaŋ
+52	เท่า	เท่า	VERB	_	_	47	acl	_	SpaceAfter=No|Gloss=equal|Translit=nán
+53	นั้น	นั้น	PRON	_	_	52	obj	_	Gloss=equal|Translit=nán
+
+# sent_id = Thai_Election_ThaiBuildThaiParty_2023_News_Article_20
+# text = พร้อมเข้มงวดการตรวจสภาพรถก่อนที่จะอนุญาตให้มีการต่อภาษีประจำปี
+# text_en = Strict vehicle inspections would also be enforced before allowing annual tax renewal.
+# tokenised_text = พร้อม เข้มงวด การ ตรวจ สภาพ รถ ก่อน ที่ จะ อนุญาต ให้ มี การ ต่อ ภาษี ประจำ ปี
+# tokenised_translit =
+# tokenised_transcript = /phrɔ́ːm/ /khêm-ŋûat/ /kaːn/ /trùat/ /sà-phâːp/ /rót/ /kɔ̀ːn/ /thîː/ /càʔ/ /ʔà-nú-jâːt/ /hâj/ /miː/ /kaːn/ /tɔ̀ː/ /phaː-sǐː/ /pràʔ-cam/ /piː/
+# phrase_type = sentence
+# sentence_position = body
+# genre = political_news_article
+# source = https://www.matichonweekly.com/hot-news/article_656027 
+# year = 2023
+1	พร้อม	พร้อม	VERB	_	_	0	root	_	SpaceAfter=No|Gloss=ready|Translit=phrɔ́ːm
+2	เข้มงวด	เข้มงวด	VERB	_	_	1	xcomp	_	SpaceAfter=No|Gloss=strict|Translit=khêm-ŋûat
+3	การ	การ	NOUN	_	NounType=Nmlz	2	obj	_	SpaceAfter=No|Gloss=a thing to be done(nominalizer)|Translit=kaːn
+4	ตรวจ	ตรวจ	VERB	_	_	3	acl	_	SpaceAfter=No|Gloss=check|Translit=trùat
+5	สภาพ	สภาพ	NOUN	_	_	4	obj	_	SpaceAfter=No|Gloss=condition|Translit=sà-phâːp
+6	รถ	รถ	NOUN	_	_	5	nmod	_	SpaceAfter=No|Gloss=car|Translit=rót
+7	ก่อน	ก่อน	ADP	_	_	10	mark	_	SpaceAfter=No|Gloss=before|Translit=kɔ̀ːn
+8	ที่	ที่	PRON	_	_	10	nsubj	_	SpaceAfter=No|Gloss=that|Translit=thîː
+9	จะ	จะ	ADV	_	_	10	advmod	_	SpaceAfter=No|Gloss=will(express the future time)|Translit=càʔ
+10	อนุญาต	อนุญาต	VERB	_	_	2	advcl	_	SpaceAfter=No|Gloss=permit|Translit=ʔà-nú-jâːt
+11	ให้	ให้	VERB	_	_	10	compound:svc	_	SpaceAfter=No|Gloss=give|Translit=hâj
+12	มี	มี	VERB	_	_	11	xcomp	_	SpaceAfter=No|Gloss=have|Translit=miː
+13	การ	การ	NOUN	_	NounType=Nmlz	12	obl:arg	_	SpaceAfter=No|Gloss=a thing to be done(nominalizer)|Translit=kaːn
+14	ต่อ	ต่อ	VERB	_	_	13	acl	_	SpaceAfter=No|Gloss=extend|Translit=tɔ̀ː
+15	ภาษี	ภาษี	NOUN	_	_	14	obj	_	SpaceAfter=No|Gloss=tax|Translit=phaː-sǐː
+16	ประจำ	ประจำ	VERB	_	_	15	acl	_	SpaceAfter=No|Gloss=regular|Translit=pràʔ-cam
+17	ปี	ปี	NOUN	_	_	16	obl:arg	_	Gloss=year|Translit=piː
+
+# sent_id = Thai_Election_ThaiBuildThaiParty_2023_News_Article_21
+# text = ใช้มาตรการ เหลื่อมเวลาการทำงาน และเวลาเรียน หรือ Work from home และ Learn from home ในองค์กรหรือโรงเรียนที่สามารถทำได้ เพื่อลดการปล่อยควันดำ ซึ่งเป็นสาเหตุของฝุ่นพิษ
+# text_en = Measures such as staggered working hours and school schedules, as well as Work from Home and Learn from Home policies, would be implemented in organizations and schools where possible to reduce black smoke emissions, which are a major cause of air pollution.
+# tokenised_text = ใช้ มาตรการ เหลื่อม เวลา การ ทำงาน และ เวลา เรียน หรือ Work from home และ Learn from home ใน องค์กร หรือ โรงเรียน ที่ สามารถ ทำ ได้ เพื่อ ลด การ ปล่อย ควัน ดำ ซึ่ง เป็น สาเหตุ ของ ฝุ่น พิษ
+# tokenised_translit =
+# tokenised_transcript = /cháj/ /mâːt-trà-kaːn/ /lɯ̂am/ /weː-laː/ /kaːn/ /tham-ŋaːn/ /lɛ́ʔ/ /weː-laː/ /rian/ /rɯ̌ː/ /wɤ́ːk/ /frɔːm/ /hoːm/ /lɛ́ʔ/ /lɤːn/ /frɔːm/ /hoːm/ /naj/ /ʔoŋ-kɔːn/ /rɯ̌ː/ /roːŋ-rian/ /thîː/ /sǎː-mâːt/ /tham/ /dâj/ /phɯ̂a/ /lót/ /kaːn/ /plɔ̀j/ /khwan/ /dam/ /sɯ̂ŋ/ /pen/ /sǎː-hèːt/ /khɔ̌ːŋ/ /fùn/ /phít/
+# phrase_type = sentence
+# sentence_position = body
+# genre = political_news_article
+# source = https://www.matichonweekly.com/hot-news/article_656027 
+# year = 2023
+1	ใช้	ใช้	VERB	_	_	0	root	_	SpaceAfter=No|Gloss=use|Translit=cháj
+2	มาตรการ	มาตรการ	NOUN	_	_	1	obj	_	CorrectSpaceAfter=No|Gloss=measure|Translit=mâːt-trà-kaːn
+3	เหลื่อม	เหลื่อม	VERB	_	_	2	acl	_	SpaceAfter=No|Gloss=stagger|Translit=lɯ̂am
+4	เวลา	เวลา	NOUN	_	_	3	obj	_	SpaceAfter=No|Gloss=time|Translit=weː-laː
+5	การ	การ	NOUN	_	NounType=Nmlz	4	nmod	_	SpaceAfter=No|Gloss=a thing to be done(nominalizer)|Translit=kaːn
+6	ทำงาน	ทำงาน	VERB	_	_	5	acl	_	CorrectSpaceAfter=No|Gloss=work|Translit=tham-ŋaːn
+7	และ	และ	CCONJ	_	_	8	cc	_	SpaceAfter=No|Gloss=and|Translit=lɛ́ʔ
+8	เวลา	เวลา	NOUN	_	_	4	conj	_	SpaceAfter=No|Gloss=time|Translit=weː-laː
+9	เรียน	เรียน	VERB	_	_	8	acl	_	Gloss=learn|Translit=rian
+10	หรือ	หรือ	CCONJ	_	_	11	cc	_	Gloss=or|Translit=rɯ̌ː
+11	Work	work	VERB	_	ExtPos=PROPN	2	conj	_	Gloss=work|Translit=wɤ́ːk
+12	from	from	ADP	_	_	13	case	_	Gloss=from|Translit=frɔːm
+13	home	home	NOUN	_	_	11	obl	_	Gloss=home|Translit=hoːm
+14	และ	และ	CCONJ	_	_	15	cc	_	Gloss=and|Translit=lɛ́ʔ
+15	Learn	learn	VERB	_	ExtPos=PROPN	11	conj	_	Gloss=learn|Translit=lɤːn
+16	from	from	ADP	_	_	17	case	_	Gloss=from|Translit=frɔːm
+17	home	home	NOUN	_	_	15	obl	_	Gloss=home|Translit=hoːm
+18	ใน	ใน	ADP	_	_	19	case	_	SpaceAfter=No|Gloss=in|Translit=naj
+19	องค์กร	องค์กร	NOUN	_	_	1	obl	_	SpaceAfter=No|Gloss=organization|Translit=ʔoŋ-kɔːn
+20	หรือ	หรือ	CCONJ	_	_	21	cc	_	SpaceAfter=No|Gloss=or|Translit=rɯ̌ː
+21	โรงเรียน	โรงเรียน	NOUN	_	_	19	conj	_	SpaceAfter=No|Gloss=school|Translit=roːŋ-rian
+22	ที่	ที่	PRON	_	_	23	nsubj	_	SpaceAfter=No|Gloss=that(REL)|Translit=thîː
+23	สามารถ	สามารถ	VERB	_	_	19	acl:relcl	_	SpaceAfter=No|Gloss=be able to|Translit=sǎː-mâːt
+24	ทำ	ทำ	VERB	_	_	23	xcomp	_	SpaceAfter=No|Gloss=do|Translit=tham
+25	ได้	ได้	VERB	_	_	24	advcl	_	CorrectSpaceAfter=No|Gloss=get(express potential and/or permission)|Translit=dâj
+26	เพื่อ	เพื่อ	ADP	_	_	27	mark	_	SpaceAfter=No|Gloss=for|Translit=phɯ̂a
+27	ลด	ลด	VERB	_	_	1	advcl	_	SpaceAfter=No|Gloss=reduce|Translit=lót
+28	การ	การ	NOUN	_	NounType=Nmlz	27	obj	_	SpaceAfter=No|Gloss=a thing to be done(nominalizer)|Translit=kaːn
+29	ปล่อย	ปล่อย	VERB	_	_	28	acl	_	SpaceAfter=No|Gloss=release|Translit=plɔ̀j
+30	ควัน	ควัน	NOUN	_	_	29	obj	_	SpaceAfter=No|Gloss=smoke|Translit=khwan
+31	ดำ	ดำ	VERB	_	_	30	acl	_	CorrectSpaceAfter=No|Gloss=black|Translit=dam
+32	ซึ่ง	ซึ่ง	PRON	_	_	34	nsubj	_	SpaceAfter=No|Gloss=which(REL)|Translit=sɯ̂ŋ
+33	เป็น	เป็น	AUX	_	_	34	cop	_	SpaceAfter=No|Gloss=BE|Translit=pen
+34	สาเหตุ	สาเหตุ	NOUN	_	_	28	acl:relcl	_	SpaceAfter=No|Gloss=cause|Translit=sǎː-hèːt
+35	ของ	ของ	ADP	_	_	36	case	_	SpaceAfter=No|Gloss=of|Translit=khɔ̌ːŋ
+36	ฝุ่น	ฝุ่น	NOUN	_	_	34	nmod	_	SpaceAfter=No|Gloss=dust|Translit=fùn
+37	พิษ	พิษ	NOUN	_	_	36	nmod	_	Gloss=poison|Translit=phít
+
+# sent_id = Thai_Election_ThaiBuildThaiParty_2023_News_Article_22
+# text = รวมถึงต้องเข้มงวด การก่อสร้างรถไฟฟ้าหรือการก่อสร้างโครงการขนาดใหญ่ที่ปล่อยปละละเลย จนทำให้เกิดฝุ่นพิษ และการใช้ฝนเทียมเพื่อชำระฝุ่นพิษในวันที่มีค่าฝุ่นสูงเกินกว่ามาตรฐาน
+# text_en = There must also be stricter control over the construction of electric rail systems and large-scale projects that have been often poorly managed and contribute to dust pollution. Furthermore, artificial rain should be used to help reduce pollution levels on days when air quality exceeds safe standards.
+# tokenised_text = รวม ถึง ต้อง เข้มงวด การ ก่อสร้าง รถ ไฟฟ้า หรือ การ ก่อสร้าง โครงการ ขนาด ใหญ่ ที่ ปล่อยปละละเลย จน ทำให้ เกิด ฝุ่น พิษ และ การ ใช้ ฝน เทียม เพื่อ ชำระ ฝุ่น พิษ ใน วัน ที่ มี ค่า ฝุ่น สูง เกิน กว่า มาตรฐาน
+# tokenised_translit =
+# tokenised_transcript = /ruam/ /thɯ̌ŋ/ /tɔ̂ŋ/ /khêm-ŋûat/ /kaːn/ /kɔ̀ː-sâːŋ/ /rót/ /faj-fáː/ /rɯ̌ː/ /kaːn/ /kɔ̀ː-sâːŋ/ /khroːŋ-kaːn/ /khà-nàːt/ /jàj/ /thîː/ /plɔ̀j-plàʔ-láʔ-lɤːj/ /con/ /tham-hâj/ /kɤ̀ːt/ /fùn/ /phít/ /lɛ́ʔ/ /kaːn/ /cháj/ /fǒn/ /thiam/ /phɯ̂a/ /cham-ráʔ/ /fùn/ /phít/ /naj/ /wan/ /thîː/ /miː/ /khâː/ /fùn/ /sǔːŋ/ /kɤːn/ /kwàː/ /mâːt-trà-thǎːn/
+# phrase_type = sentence
+# sentence_position = body
+# genre = political_news_article
+# source = https://www.matichonweekly.com/hot-news/article_656027 
+# year = 2023
+1	รวม	รวม	VERB	_	_	0	root	_	SpaceAfter=No|Gloss=include|Translit=ruam
+2	ถึง	ถึง	ADP	_	_	3	mark	_	SpaceAfter=No|Gloss=to|Translit=thɯ̌ŋ
+3	ต้อง	ต้อง	VERB	_	_	1	advcl	_	SpaceAfter=No|Gloss=must|Translit=tɔ̂ŋ
+4	เข้มงวด	เข้มงวด	VERB	_	_	3	xcomp	_	CorrectSpaceAfter=No|Gloss=strict|Translit=khêm-ŋûat
+5	การ	การ	NOUN	_	NounType=Nmlz	4	obj	_	SpaceAfter=No|Gloss=a thing to be done(nominalizer)|Translit=kaːn
+6	ก่อสร้าง	ก่อสร้าง	VERB	_	_	5	acl	_	SpaceAfter=No|Gloss=construct|Translit=kɔ̀ː-sâːŋ
+7	รถ	รถ	NOUN	_	_	6	obj	_	SpaceAfter=No|Gloss=car|Translit=rót
+8	ไฟฟ้า	ไฟฟ้า	NOUN	_	_	7	nmod	_	SpaceAfter=No|CorrectSpaceAfter=Yes|Gloss=electricity|Translit=faj-fáː
+9	หรือ	หรือ	CCONJ	_	_	10	cc	_	SpaceAfter=No|Gloss=or|Translit=rɯ̌ː
+10	การ	การ	NOUN	_	NounType=Nmlz	5	conj	_	SpaceAfter=No|Gloss=a thing to be done(nominalizer)|Translit=kaːn
+11	ก่อสร้าง	ก่อสร้าง	VERB	_	_	10	acl	_	SpaceAfter=No|Gloss=construct|Translit=kɔ̀ː-sâːŋ
+12	โครงการ	โครงการ	NOUN	_	_	11	obj	_	SpaceAfter=No|Gloss=project|Translit=khroːŋ-kaːn
+13	ขนาด	ขนาด	NOUN	_	_	12	nmod	_	SpaceAfter=No|Gloss=size|Translit=khà-nàːt
+14	ใหญ่	ใหญ่	VERB	_	_	13	acl	_	SpaceAfter=No|Gloss=big|Translit=jàj
+15	ที่	ที่	PRON	_	_	16	obj	_	SpaceAfter=No|Gloss=that(REL)|Translit=thîː
+16	ปล่อยปละ	ปล่อยปละ	VERB	_	_	5	acl:relcl	_	SpaceAfter=No|Gloss=neglect|Translit=plɔ̀j-plàʔ
+17	ละเลย	ละเลย	VERB	_	_	16	conj	_	SpaceAfter=No|Gloss=neglect|Translit=láʔ-lɤːj
+18	จน	จน	SCONJ	_	_	19	mark	_	SpaceAfter=No|Gloss=until|Translit=con
+19	ทำให้	ทำให้	VERB	_	_	16	advcl	_	SpaceAfter=No|Gloss=cause|Translit=tham-hâj
+20	เกิด	เกิด	VERB	_	_	19	xcomp	_	SpaceAfter=No|Gloss=happen|Translit=kɤ̀ːt
+21	ฝุ่น	ฝุ่น	NOUN	_	_	20	obj	_	SpaceAfter=No|Gloss=dust|Translit=fùn
+22	พิษ	พิษ	NOUN	_	_	21	nmod	_	Gloss=poison|Translit=phít
+23	และ	และ	CCONJ	_	_	24	cc	_	SpaceAfter=No|Gloss=and|Translit=lɛ́ʔ
+24	การ	การ	NOUN	_	NounType=Nmlz	5	conj	_	SpaceAfter=No|Gloss=a thing to be done(nominalizer)|Translit=kaːn
+25	ใช้	ใช้	VERB	_	_	24	acl	_	SpaceAfter=No|Gloss=use|Translit=cháj
+26	ฝน	ฝน	NOUN	_	_	25	obj	_	SpaceAfter=No|Gloss=rain|Translit=fǒn 
+27	เทียม	เทียม	VERB	_	_	26	acl	_	SpaceAfter=No|Gloss=artificial|Translit=thiam
+28	เพื่อ	เพื่อ	ADP	_	_	29	mark	_	SpaceAfter=No|Gloss=for|Translit=phɯ̂a
+29	ชำระ	ชำระ	VERB	_	_	25	advcl	_	SpaceAfter=No|Gloss=cleanse|Translit=cham-ráʔ
+30	ฝุ่น	ฝุ่น	NOUN	_	_	29	obj	_	SpaceAfter=No|Gloss=dust|Translit=fùn
+31	พิษ	พิษ	NOUN	_	_	30	nmod	_	SpaceAfter=No|Gloss=poison|Translit=phít
+32	ใน	ใน	ADP	_	_	33	case	_	SpaceAfter=No|Gloss=in|Translit=naj
+33	วัน	วัน	NOUN	_	_	24	nmod	_	SpaceAfter=No|Gloss=day|Translit=wan
+34	ที่	ที่	PRON	_	_	35	obl	_	SpaceAfter=No|Gloss=that(REL)|Translit=thîː
+35	มี	มี	VERB	_	_	33	acl:relcl	_	SpaceAfter=No|Gloss=have|Translit=miː
+36	ค่า	ค่า	NOUN	_	_	35	nsubj	_	SpaceAfter=No|Gloss=level|Translit=khâː
+37	ฝุ่น	ฝุ่น	NOUN	_	_	36	nmod	_	SpaceAfter=No|Gloss=dust|Translit=fùn
+38	สูง	สูง	VERB	_	_	36	acl	_	SpaceAfter=No|Gloss=high|Translit=sǔːŋ
+39	เกิน	เกิน	VERB	_	_	38	advcl	_	SpaceAfter=No|Gloss=exceed|Translit=kɤːn
+40	กว่า	กว่า	ADP	_	_	41	case	_	SpaceAfter=No|Gloss=than|Translit=kwàː
+41	มาตรฐาน	มาตรฐาน	NOUN	_	_	39	obl	_	Gloss=standard|Translit=mâːt-trà-thǎːn
+
+# sent_id = Thai_Election_ThaiBuildThaiParty_2023_News_Article_23
+# text = ส่วนมาตรการระยะยาว จะต้องปรับเปลี่ยนรถสาธารณะ รถมอเตอร์ไซค์ รวมถึงรถยนต์ที่มีสภาพเก่าให้เป็น EV โดยมีภาครัฐเป็นผู้สนับสนุน
+# text_en = In the long term, public transport, motorcycles, and older vehicles must be converted to electric vehicles (EVs), with government support.
+# tokenised_text = ส่วน มาตรการ ระยะ ยาว จะ ต้อง ปรับ เปลี่ยน รถ สาธารณะ รถ มอเตอร์ไซค์ รวม ถึง รถยนต์ ที่ มี สภาพ เก่า ให้ เป็น EV โดย มี ภาค รัฐ เป็น ผู้ สนับสนุน
+# tokenised_translit =
+# tokenised_transcript = /sùan/ /mâːt-trà-kaːn/ /ráʔ-jáʔ/ /jaːw/ /càʔ/ /tɔ̂ŋ/ /pràp/ /plìan/ /rót/ /sǎː-thaː-rá-náʔ/ /rót/ /mɔː-tɤː-saj/ /ruam/ /thɯ̌ŋ/ /rót-jon/ /thîː/ /miː/ /sà-phâːp/ /kàw/ /hâj/ /pen/ /ʔiː-wiː/ /doːj/ /miː/ /phâːk/ /rát/ /pen/ /phûː/ /sà-nàp-sà-nǔn/
+# phrase_type = sentence
+# sentence_position = body
+# genre = political_news_article
+# source = https://www.matichonweekly.com/hot-news/article_656027 
+# year = 2023
+1	ส่วน	ส่วน	NOUN	_	_	6	dislocated	_	SpaceAfter=No|Gloss=part|Translit=sùan
+2	มาตรการ	มาตรการ	NOUN	_	_	1	nmod	_	SpaceAfter=No|Gloss=measure|Translit=mâːt-trà-kaːn
+3	ระยะ	ระยะ	NOUN	_	_	2	nmod	_	SpaceAfter=No|Gloss=range|Translit=ráʔ-jáʔ
+4	ยาว	ยาว	VERB	_	_	3	acl	_	Gloss=long|Translit=jaːw
+5	จะ	จะ	ADV	_	_	6	advmod	_	SpaceAfter=No|Gloss=will(express the future time)|Translit=càʔ
+6	ต้อง	ต้อง	VERB	_	_	0	root	_	SpaceAfter=No|Gloss=must|Translit=tɔ̂ŋ
+7	ปรับ	ปรับ	VERB	_	_	6	xcomp	_	SpaceAfter=No|Gloss=adjust|Translit=pràp
+8	เปลี่ยน	เปลี่ยน	VERB	_	_	7	conj	_	SpaceAfter=No|Gloss=change|Translit=plìan
+9	รถ	รถ	NOUN	_	_	7	obj	_	SpaceAfter=No|Gloss=car|Translit=rót
+10	สาธารณะ	สาธารณะ	VERB	_	_	9	acl	_	Gloss=public|Translit=sǎː-thaː-rá-náʔ
+11	รถ	รถ	NOUN	_	_	9	conj	_	SpaceAfter=No|Gloss=car|Translit=rót
+12	มอเตอร์ไซค์	มอเตอร์ไซค์	NOUN	_	Foreign=Yes	11	nmod	_	Gloss=motorcycle|Translit=mɔː-tɤː-saj
+13	รวม	รวม	VERB	_	_	9	acl	_	SpaceAfter=No|Gloss=include|Translit=ruam
+14	ถึง	ถึง	ADP	_	_	15	case	_	SpaceAfter=No|Gloss=to|Translit=thɯ̌ŋ
+15	รถยนต์	รถยนต์	NOUN	_	_	13	obl	_	SpaceAfter=No|Gloss=car|Translit=rót-jon
+16	ที่	ที่	PRON	_	_	17	nsubj	_	SpaceAfter=No|Gloss=that(REL)|Translit=thîː
+17	มี	มี	VERB	_	_	9	acl:relcl	_	SpaceAfter=No|Gloss=have|Translit=miː
+18	สภาพ	สภาพ	NOUN	_	_	17	obl:arg	_	SpaceAfter=No|Gloss=condition|Translit=sà-phâːp
+19	เก่า	เก่า	VERB	_	_	18	acl	_	SpaceAfter=No|Gloss=old|Translit=kàw
+20	ให้	ให้	VERB	_	_	7	advcl	_	SpaceAfter=No|Gloss=give|Translit=hâj
+21	เป็น	เป็น	AUX	_	_	22	cop	_	Gloss=BE|Translit=pen
+22	EV	electric vehicles	PROPN	_	_	20	compound:svc	_	Gloss=electric vehicles|Translit=ʔiː-wiː
+23	โดย	โดย	ADP	_	_	24	mark	_	SpaceAfter=No|Gloss=with|Translit=doːj
+24	มี	มี	VERB	_	_	7	advcl	_	SpaceAfter=No|Gloss=have|Translit=miː
+25	ภาค	ภาค	NOUN	_	_	24	nsubj	_	SpaceAfter=No|Gloss=sector|Translit=phâːk
+26	รัฐ	รัฐ	NOUN	_	_	25	nmod	_	SpaceAfter=No|Gloss=government|Translit=rát
+27	เป็น	เป็น	AUX	_	_	28	cop	_	SpaceAfter=No|Gloss=BE|Translit=pen
+28	ผู้	ผู้	NOUN	_	_	25	acl	_	SpaceAfter=No|Gloss=person|Translit=phûː
+29	สนับสนุน	สนับสนุน	VERB	_	_	28	acl	_	Gloss=support|Translit=sà-nàp-sà-nǔn
+
+# sent_id = Thai_Election_ThaiBuildThaiParty_2023_News_Article_24
+# text = นอกจากนี้จะต้องส่งเสริมให้ภาคการเกษตร ได้เข้าถึงเครื่องมือเพื่อกำจัดเศษซากวัชพืช ที่เหลือใช้ เพื่อนำมาสร้างประโยชน์สร้างรายได้ ซึ่งจะช่วยลดการเผาอันก่อให้เกิดฝุ่นพิษตามมาได้
+# text_en = In addition, the agricultural sector should be supported in gaining access to tools for managing and processing leftover crop residues and weeds, turning them into useful products and generating income. This would help reduce open burning, which contributes to air pollution.
+# tokenised_text = นอกจาก นี้ จะ ต้อง ส่งเสริม ให้ ภาค การ เกษตร ได้ เข้า ถึง เครื่องมือ เพื่อ กำจัด เศษซาก วัชพืช ที่ เหลือใช้ เพื่อ นำ มา สร้าง ประโยชน์ สร้าง รายได้ ซึ่ง จะ ช่วย ลด การ เผา อัน ก่อ ให้ เกิด ฝุ่น พิษ ตาม มา ได้
+# tokenised_translit =
+# tokenised_transcript = /nɔ̂ːk-càːk/ /níː/ /càʔ/ /tɔ̂ŋ/ /sòŋ-sɤ̌ːm/ /hâj/ /phâːk/ /kaːn/ /kà-sèːt/ /dâj/ /khâw/ /thɯ̌ŋ/ /khrɯ̂aŋ-mɯː/ /phɯ̂a/ /kam-càt/ /seːt-sâːk/ /wát-chá-phɯ̂ːt/ /thîː/ /lɯ̌a-cháj/ /phɯ̂a/ /nam/ /maː/ /sâːŋ/ /pràʔ-jòːt/ /sâːŋ/ /râːj-dâj/ /sɯ̂ŋ/ /càʔ/ /chûaj/ /lót/ /kaːn/ /phǎw/ /ʔan/ /kɔ̀ː/ /hâj/ /kɤ̀ːt/ /fùn/ /phít/ /taːm/ /maː/ /dâj/
+# phrase_type = sentence
+# sentence_position = body
+# genre = political_news_article
+# source = https://www.matichonweekly.com/hot-news/article_656027 
+# year = 2023
+1	นอกจาก	นอกจาก	ADP	_	_	2	case	_	SpaceAfter=No|Gloss=apart from|Translit=nɔ̂ːk-càːk
+2	นี้	นี้	PRON	_	_	4	obl	_	SpaceAfter=No|Gloss=this|Translit=níː
+3	จะ	จะ	ADV	_	_	4	advmod	_	SpaceAfter=No|Gloss=will(express the future time)|Translit=càʔ
+4	ต้อง	ต้อง	VERB	_	_	0	root	_	SpaceAfter=No|Gloss=must|Translit=tɔ̂ŋ
+5	ส่งเสริม	ส่งเสริม	VERB	_	_	4	xcomp	_	SpaceAfter=No|Gloss=encourage|Translit=sòŋ-sɤ̌ːm
+6	ให้	ให้	SCONJ	_	_	10	mark	_	SpaceAfter=No|Gloss=give(COMP)|Translit=hâj
+7	ภาค	ภาค	NOUN	_	_	10	nsubj	_	SpaceAfter=No|Gloss=sector|Translit=phâːk
+8	การ	การ	NOUN	_	_	7	nmod	_	SpaceAfter=No|Gloss=work|Translit=kaːn
+9	เกษตร	เกษตร	NOUN	_	_	8	nmod	_	CorrectSpaceAfter=No|Gloss=agriculture|Translit=kà-sèːt
+10	ได้	ได้	VERB	_	_	5	advcl	_	SpaceAfter=No|Gloss=get(express a possible opportunity)|Translit=dâj
+11	เข้า	เข้า	VERB	_	_	10	xcomp	_	SpaceAfter=No|Gloss=enter|Translit=khâw
+12	ถึง	ถึง	ADP	_	_	13	case	_	SpaceAfter=No|Gloss=to|Translit=thɯ̌ŋ
+13	เครื่องมือ	เครื่องมือ	NOUN	_	_	11	obl	_	SpaceAfter=No|Gloss=tool|Translit=khrɯ̂aŋ-mɯː
+14	เพื่อ	เพื่อ	ADP	_	_	15	mark	_	SpaceAfter=No|Gloss=for|Translit=phɯ̂a
+15	กำจัด	กำจัด	VERB	_	_	11	advcl	_	SpaceAfter=No|Gloss=eliminate|Translit=kam-càt
+16	เศษซาก	เศษซาก	NOUN	_	_	15	obj	_	SpaceAfter=No|Gloss=residues|Translit=seːt-sâːk
+17	วัชพืช	วัชพืช	NOUN	_	_	16	conj	_	CorrectSpaceAfter=No|Gloss=weeds|Translit=wát-chá-phɯ̂ːt
+18	ที่	ที่	PRON	_	_	19	nsubj	_	SpaceAfter=No|Gloss=that(REL)|Translit=thîː
+19	เหลือใช้	เหลือใช้	VERB	_	_	16	acl:relcl	_	CorrectSpaceAfter=No|Gloss=be left over|Translit=lɯ̌a-cháj
+20	เพื่อ	เพื่อ	ADP	_	_	21	mark	_	SpaceAfter=No|Gloss=for|Translit=phɯ̂a
+21	นำ	นำ	VERB	_	_	15	advcl	_	SpaceAfter=No|Gloss=bring|Translit=nam
+22	มา	มา	VERB	_	_	21	compound:svc	_	SpaceAfter=No|Gloss=come|Translit=maː
+23	สร้าง	สร้าง	VERB	_	_	22	compound:svc	_	SpaceAfter=No|Gloss=build|Translit=sâːŋ
+24	ประโยชน์	ประโยชน์	NOUN	_	_	23	obj	_	SpaceAfter=No|Gloss=advantages|Translit=pràʔ-jòːt
+25	สร้าง	สร้าง	VERB	_	_	23	conj	_	SpaceAfter=No|Gloss=build|Translit=sâːŋ
+26	รายได้	รายได้	NOUN	_	_	25	obj	_	Gloss=incomes|Translit=râːj-dâj
+27	ซึ่ง	ซึ่ง	SCONJ	_	_	29	mark	_	SpaceAfter=No|Gloss=which|Translit=sɯ̂ŋ
+28	จะ	จะ	ADV	_	_	29	advmod	_	SpaceAfter=No|Gloss=will(express the future time)|Translit=càʔ
+29	ช่วย	ช่วย	VERB	_	_	4	advcl	_	SpaceAfter=No|Gloss=help|Translit=chûaj
+30	ลด	ลด	VERB	_	_	29	xcomp	_	SpaceAfter=No|Gloss=reduce|Translit=lót
+31	การ	การ	NOUN	_	NounType=Nmlz	30	obj	_	SpaceAfter=No|Gloss=a thing to be done(nominalizer)|Translit=kaːn
+32	เผา	เผา	VERB	_	_	31	acl	_	SpaceAfter=No|Gloss=burn|Translit=phǎw
+33	อัน	อัน	PRON	_	_	34	nsubj	_	SpaceAfter=No|Gloss=which(REL)|Translit=ʔan
+34	ก่อ	ก่อ	VERB	_	_	31	acl:relcl	_	SpaceAfter=No|Gloss=cause|Translit=kɔ̀ː
+35	ให้	ให้	VERB	_	_	34	compound:svc	_	SpaceAfter=No|Gloss=give|Translit=hâj
+36	เกิด	เกิด	VERB	_	_	35	compound:svc	_	SpaceAfter=No|Gloss=happen|Translit=kɤ̀ːt
+37	ฝุ่น	ฝุ่น	NOUN	_	_	36	obj	_	SpaceAfter=No|Gloss=dust|Translit=fùn
+38	พิษ	พิษ	NOUN	_	_	37	nmod	_	SpaceAfter=No|Gloss=poison|Translit=phít
+39	ตาม	ตาม	VERB	_	_	37	acl	_	SpaceAfter=No|Gloss=follow|Translit=taːm
+40	มา	มา	VERB	_	_	39	compound:svc	_	SpaceAfter=No|Gloss=come|Translit=maː
+41	ได้	ได้	VERB	_	_	39	advcl	_	Gloss=get(express potential or permission)|Translit=dâj
+
+# sent_id = Thai_Election_ThaiBuildThaiParty_2023_News_Article_25
+# text = ส่วนปัญหาและความทุกข์ของพี่น้องอีกเรื่องที่สำคัญคือปัญหาน้ำท่วมซึ่งจากรายงานของ “กรีนพีซ” ระบุว่าในอีก 10 ปีข้างหน้ากรุงเทพมหานครมีโอกาสถูกน้ำท่วม เนื่องมาจากสภาวะโลกร้อนและการละลายของน้ำแข็งขั้วโลกหนุนให้น้ำทะเลสูง
+# text_en = Another major issue and source of hardship for the people is flooding. According to a report by Greenpeace, Bangkok could face severe flooding within the next 10 years due to global warming and rising sea levels caused by melting polar ice.
+# tokenised_text = ส่วน ปัญหา และ ความ ทุกข์ ของ พี่ น้อง อีก เรื่อง ที่ สำคัญ คือ ปัญหา น้ำ ท่วม ซึ่ง จาก รายงาน ของ “ กรีนพีซ ” ระบุ ว่า ใน อีก 10 ปี ข้าง หน้า กรุงเทพมหานคร มี โอกาส ถูก น้ำ ท่วม เนื่อง มา จาก สภาวะ โลก ร้อน และ การ ละลาย ของ น้ำแข็ง ขั้ว โลก หนุน ให้ น้ำ ทะเล สูง
+# tokenised_translit =
+# tokenised_transcript = /sùan/ /pan-hǎː/ /lɛ́ʔ/ /khwaːm/ /thúk/ /khɔ̌ːŋ/ /phîː/ /nɔ́ːŋ/ /ʔìːk/ /rɯ̂aŋ/ /thîː/ /sàm-khan/ /khɯː/ /pan-hǎː/ /náːm/ /thûam/ /sɯ̂ŋ/ /càːk/ /raːj-ŋaːn/ /khɔ̌ːŋ/ /kriːn-phíːt/ /ràʔ-bù/ /wâː/ /naj/ /ʔìːk/ /sìp/ /piː/ /khâːŋ/ /nâː/ /kruŋ-thêːp-má-hǎː-ná-khɔːn/ /miː/ /ʔoː-kaːt/ /thùːk/ /náːm/ /thûam/ /nɯ̂aŋ/ /maː/ /càːk/ /sà-phaː-wáʔ/ /lôːk/ /rɔ́ːn/ /lɛ́ʔ/ /kaːn/ /láʔ-laːj/ /khɔ̌ːŋ/ /náːm-khɛ̌ŋ/ /khûa/ /lôːk/ /nǔn/ /hâj/ /náːm/ /tháʔ-leː/ /sǔːŋ/
+# phrase_type = sentence
+# sentence_position = body
+# genre = political_news_article
+# source = https://www.matichonweekly.com/hot-news/article_656027 
+# year = 2023
+1	ส่วน	ส่วน	NOUN	_	_	0	root	_	SpaceAfter=No|Gloss=part|Translit=sùan
+2	ปัญหา	ปัญหา	NOUN	_	_	1	nmod	_	SpaceAfter=No|Gloss=problem|Translit=pan-hǎː
+3	และ	และ	CCONJ	_	_	4	cc	_	SpaceAfter=No|Gloss=and|Translit=lɛ́ʔ
+4	ความ	ความ	NOUN	_	NounType=Nmlz	2	conj	_	SpaceAfter=No|Gloss=condition(nominalizer)|Translit=khwaːm
+5	ทุกข์	ทุกข์	VERB	_	_	4	acl	_	SpaceAfter=No|Gloss=sufferring|Translit=thúk
+6	ของ	ของ	ADP	_	_	7	case	_	SpaceAfter=No|Gloss=of|Translit=khɔ̌ːŋ
+7	พี่	พี่	NOUN	_	_	2	nmod	_	SpaceAfter=No|Gloss=older sibling|Translit=phîː
+8	น้อง	น้อง	NOUN	_	_	7	flat	_	SpaceAfter=No|Gloss=younger sibling|Translit=nɔ́ːŋ
+9	อีก	อีก	DET	_	_	10	det	_	SpaceAfter=No|Gloss=another|Translit=ʔìːk
+10	เรื่อง	เรื่อง	NOUN	_	NounType=Clf	2	clf	_	SpaceAfter=No|Gloss=story|Translit=rɯ̂aŋ
+11	ที่	ที่	PRON	_	_	12	nsubj	_	SpaceAfter=No|Gloss=that(REL)|Translit=thîː
+12	สำคัญ	สำคัญ	VERB	_	_	10	acl:relcl	_	SpaceAfter=No|CorrectSpaceAfter=Yes|Gloss=important|Translit=sàm-khan
+13	คือ	คือ	CCONJ	_	_	14	cc	_	SpaceAfter=No|CorrectSpaceAfter=Yes|Gloss=namely|Translit=khɯː
+14	ปัญหา	ปัญหา	NOUN	_	_	2	conj	_	SpaceAfter=No|Gloss=problem|Translit=pan-hǎː
+15	น้ำ	น้ำ	NOUN	_	_	14	nmod	_	SpaceAfter=No|Gloss=water|Translit=náːm
+16	ท่วม	ท่วม	VERB	_	_	15	acl	_	SpaceAfter=No|Gloss=flood|Translit=thûam
+17	ซึ่ง	ซึ่ง	SCONJ	_	_	24	mark	_	SpaceAfter=No|Gloss=so|Translit=sɯ̂ŋ
+18	จาก	จาก	ADP	_	_	19	case	_	SpaceAfter=No|Gloss=from|Translit=càːk
+19	รายงาน	รายงาน	NOUN	_	_	24	obl	_	SpaceAfter=No|Gloss=report|Translit=raːj-ŋaːn
+20	ของ	ของ	ADP	_	_	22	case	_	Gloss=of|Translit=khɔ̌ːŋ
+21	“	“	PUNCT	_	_	22	punct	_	SpaceAfter=No
+22	กรีนพีซ	กรีนพีซ	PROPN	_	Foreign=Yes	19	nmod	_	SpaceAfter=No|Gloss=Greenpeace|Translit=kriːn-phíːt
+23	”	”	PUNCT	_	_	22	punct	_	_
+24	ระบุ	ระบุ	VERB	_	_	1	acl	_	SpaceAfter=No|Gloss=identify|Translit=ràʔ-bù
+25	ว่า	ว่า	SCONJ	_	_	33	mark	_	SpaceAfter=No|Gloss=that(COMP)|Translit=wâː
+26	ใน	ใน	ADP	_	_	28	case	_	SpaceAfter=No|Gloss=in|Translit=naj
+27	อีก	อีก	DET	_	_	28	det	_	Gloss=another|Translit=ʔìːk 
+28	10	10	NUM	_	_	33	obl	_	Gloss=10|Translit=sìp
+29	ปี	ปี	NOUN	_	NounType=Clf	28	clf	_	SpaceAfter=No|Gloss=year|Translit=piː
+30	ข้าง	ข้าง	NOUN	_	_	28	nmod	_	SpaceAfter=No|Gloss=side|Translit=khâːŋ
+31	หน้า	หน้า	ADJ	_	_	30	amod	_	SpaceAfter=No|Gloss=front|Translit=nâː
+32	กรุงเทพมหานคร	กรุงเทพมหานคร	PROPN	_	_	33	nsubj	_	SpaceAfter=No|Gloss=city|Translit=kruŋ-thêːp-má-hǎː-ná-khɔːn
+33	มี	มี	VERB	_	_	24	ccomp	_	SpaceAfter=No|Gloss=have|Translit=miː
+34	โอกาส	โอกาส	NOUN	_	_	33	obl:arg	_	SpaceAfter=No|Gloss=opportunity|Translit=ʔoː-kaːt 
+35	ถูก	ถูก	VERB	_	_	34	acl	_	SpaceAfter=No|Gloss=contact|Translit=thùːk
+36	น้ำ	น้ำ	NOUN	_	_	35	obl:arg	_	SpaceAfter=No|Gloss=water|Translit=náːm
+37	ท่วม	ท่วม	VERB	_	_	35	compound:svc	_	Gloss=flood|Translit=thûam
+38	เนื่อง	เนื่อง	VERB	_	_	33	advcl	_	SpaceAfter=No|Gloss=connect|Translit=nɯ̂aŋ
+39	มา	มา	VERB	_	_	38	compound:svc	_	SpaceAfter=No|Gloss=come|Translit=maː
+40	จาก	จาก	ADP	_	_	41	case	_	SpaceAfter=No|Gloss=from|Translit=càːk
+41	สภาวะ	สภาวะ	NOUN	_	_	39	obl	_	SpaceAfter=No|Gloss=condition|Translit=sà-phaː-wáʔ
+42	โลก	โลก	NOUN	_	_	41	nmod	_	SpaceAfter=No|Gloss=earth|Translit=lôːk
+43	ร้อน	ร้อน	VERB	_	_	42	acl	_	SpaceAfter=No|Gloss=hot|Translit=rɔ́ːn
+44	และ	และ	CCONJ	_	_	45	cc	_	SpaceAfter=No|Gloss=and|Translit=lɛ́ʔ
+45	การ	การ	NOUN	_	NounType=Nmlz	41	nmod	_	SpaceAfter=No|Gloss=a thing to be done(nominalizer)|Translit=kaːn
+46	ละลาย	ละลาย	VERB	_	_	45	acl	_	SpaceAfter=No|Gloss=melt|Translit=láʔ-laːj
+47	ของ	ของ	ADP	_	_	48	case	_	SpaceAfter=No|Gloss=of|Translit=khɔ̌ːŋ 
+48	น้ำแข็ง	น้ำแข็ง	NOUN	_	_	45	nmod	_	SpaceAfter=No|Gloss=ice|Translit=náːm-khɛ̌ŋ
+49	ขั้ว	ขั้ว	NOUN	_	_	48	nmod	_	SpaceAfter=No|Gloss=pole|Translit=khûa
+50	โลก	โลก	NOUN	_	_	49	nmod	_	SpaceAfter=No|Gloss=earth|Translit=lôːk
+51	หนุน	หนุน	VERB	_	_	41	acl	_	SpaceAfter=No|Gloss=support|Translit=nǔn
+52	ให้	ให้	VERB	_	_	51	compound:svc	_	SpaceAfter=No|Gloss=give|Translit=hâj
+53	น้ำ	น้ำ	NOUN	_	_	52	obj	_	SpaceAfter=No|Gloss=water|Translit=náːm
+54	ทะเล	ทะเล	NOUN	_	_	53	nmod	_	SpaceAfter=No|Gloss=sea|Translit=tháʔ-leː
+55	สูง	สูง	VERB	_	_	52	compound:svc	_	Gloss=high|Translit=sǔːŋ
+
+# sent_id = Thai_Election_ThaiBuildThaiParty_2023_News_Article_26
+# text = พรรคไทยสร้างไทย จึงเตรียมศึกษาเรื่องการสร้างเขื่อนกั้นอ่าวไทย โดยหยิบยกกรณีศึกษา Delta Works ในเนเธอร์แลนด์มาศึกษาอย่างจริงจัง 
+# text_en = The Thai Build Thai Party is therefore preparing to study the construction of a dam in the Gulf of Thailand, drawing seriously on the Delta Works in the Netherlands as a case study.
+# tokenised_text = พรรค ไทย สร้าง ไทย จึง เตรียม ศึกษา เรื่อง การ สร้าง เขื่อน กั้น อ่าว ไทย โดย หยิบยก กรณี ศึกษา Delta Works ใน เนเธอร์แลนด์ มา ศึกษา อย่าง จริงจัง
+# tokenised_translit =
+# tokenised_transcript = /phák/ /thaj/ /sâːŋ/ /thaj/ /cɯŋ/ /triam/ /sɯ̀k-sǎː/ /rɯ̂aŋ/ /kaːn/ /sâːŋ/ /khɯ̀an/ /kân/ /ʔàːw/ /thaj/ /doːj/ /jìp-jók/ /kɔː-rá-niː/ /sɯ̀k-sǎː/ /dew-tâː/ /wɤ́ːk/ /naj/ /neː-thɤ̂ː-lɛːn/ /maː/ /sɯ̀k-sǎː/ /jàːŋ/ /ciŋ-caŋ/
+# phrase_type = sentence
+# sentence_position = body
+# genre = political_news_article
+# source = https://www.matichonweekly.com/hot-news/article_656027 
+# year = 2023
+1	พรรค	พรรค	NOUN	_	_	6	nsubj	_	SpaceAfter=No|Gloss=party|Translit=phák
+2	ไทย	ไทย	PROPN	_	_	3	nsubj	_	SpaceAfter=No|Gloss=Thai|Translit=thaj
+3	สร้าง	สร้าง	VERB	_	ExtPos=PROPN	1	nmod	_	SpaceAfter=No|Gloss=build|Translit=sâːŋ
+4	ไทย	ไทย	PROPN	_	_	3	obj	_	CorrectSpaceAfter=No|Gloss=Thai|Translit=thaj
+5	จึง	จึง	ADV	_	_	6	advmod	_	SpaceAfter=No|Gloss=thus|Translit=cɯŋ
+6	เตรียม	เตรียม	VERB	_	_	0	root	_	SpaceAfter=No|Gloss=prepare|Translit=triam
+7	ศึกษา	ศึกษา	VERB	_	_	6	xcomp	_	SpaceAfter=No|Gloss=study|Translit=sɯ̀k-sǎː
+8	เรื่อง	เรื่อง	NOUN	_	_	7	obj	_	SpaceAfter=No|Gloss=story|Translit=rɯ̂aŋ
+9	การ	การ	NOUN	_	NounType=Nmlz	8	nmod	_	SpaceAfter=No|Gloss=a thing to be done(nominalizer)|Translit=kaːn
+10	สร้าง	สร้าง	VERB	_	_	9	acl	_	SpaceAfter=No|Gloss=build|Translit=sâːŋ
+11	เขื่อน	เขื่อน	NOUN	_	_	10	obj	_	SpaceAfter=No|Gloss=dam|Translit=khɯ̀an 
+12	กั้น	กั้น	VERB	_	_	10	advcl	_	SpaceAfter=No|Gloss=block|Translit=kân
+13	อ่าว	อ่าว	NOUN	_	_	12	obj	_	SpaceAfter=No|Gloss=gulf|Translit=ʔàːw
+14	ไทย	ไทย	PROPN	_	_	13	nmod	_	CorrectSpaceAfter=No|Gloss=Thai|Translit=thaj
+15	โดย	โดย	ADP	_	_	16	mark	_	SpaceAfter=No|Gloss=with|Translit=doːj
+16	หยิบยก	หยิบยก	VERB	_	_	6	advcl	_	SpaceAfter=No|Gloss=raise|Translit=jìp-jók
+17	กรณี	กรณี	NOUN	_	_	16	obj	_	SpaceAfter=No|Gloss=case|Translit=kɔː-rá-niː
+18	ศึกษา	ศึกษา	VERB	_	_	17	acl	_	Gloss=study|Translit=sɯ̀k-sǎː
+19	Delta	Delta	PROPN	_	_	20	compound	_	Gloss=delta|Translit=dew-tâː
+20	Works	Work	NOUN	_	ExtPos=PROPN	17	nmod	_	Gloss=work|Translit=wɤ́ːk
+21	ใน	ใน	ADP	_	_	22	case	_	SpaceAfter=No|Gloss=in|Translit=naj
+22	เนเธอร์แลนด์	เนเธอร์แลนด์	PROPN	_	Foreign=Yes	20	nmod	_	SpaceAfter=No|Gloss=Netherlands|Translit=neː-thɤ̂ː-lɛːn 
+23	มา	มา	VERB	_	_	16	compound:svc	_	SpaceAfter=No|Gloss=come|Translit=maː
+24	ศึกษา	ศึกษา	VERB	_	_	23	compound:svc	_	SpaceAfter=No|Gloss=study|Translit=sɯ̀k-sǎː
+25	อย่าง	อย่าง	NOUN	_	_	24	obl	_	SpaceAfter=No|Gloss=way|Translit=jàːŋ
+26	จริงจัง	จริงจัง	VERB	_	_	25	advcl	_	Gloss=serious|Translit=ciŋ-caŋ
+
+# sent_id = Thai_Election_ThaiBuildThaiParty_2023_News_Article_27
+# text = เพื่อไม่ให้กระทบเศรษฐกิจของประเทศและความเป็นอยู่ของพี่น้องชาวกรุงเทพฯ จึงต้องเร่งศึกษาตั้งแต่วันนี้
+# text_en = This is to prevent negative impacts on the country’s economy and the livelihoods of Bangkok residents, making it necessary to begin such studies immediately.
+# tokenised_text = เพื่อ ไม่ ให้ กระทบ เศรษฐกิจ ของ ประเทศ และ ความ เป็นอยู่ ของ พี่ น้อง ชาว กรุงเทพ ฯ จึง ต้อง เร่ง ศึกษา ตั้งแต่ วัน นี้
+# tokenised_translit =
+# tokenised_transcript = /phɯ̂a/ /mâj/ /hâj/ /kràʔ-thóp/ /sèːt-thà-kìt/ /khɔ̌ːŋ/ /pràʔ-thêːt/ /lɛ́ʔ/ /khwaːm/ /pen-jùː/ /khɔ̌ːŋ/ /phîː/ /nɔ́ːŋ/ /chaːw/ /kruŋ-thêːp/ /cɯŋ/ /tɔ̂ŋ/ /rêŋ/ /sɯ̀k-sǎː/ /tâŋ-tɛ̀ː/ /wan/ /níː/
+# phrase_type = sentence
+# sentence_position = body
+# genre = political_news_article
+# source = https://www.matichonweekly.com/hot-news/article_656027 
+# year = 2023
+1	เพื่อ	เพื่อ	ADP	_	_	3	mark	_	SpaceAfter=No|Gloss=for|Translit=phɯ̂a
+2	ไม่	ไม่	ADV	_	_	3	advmod	_	SpaceAfter=No|Gloss=not|Translit=mâj
+3	ให้	ให้	VERB	_	_	18	advcl	_	SpaceAfter=No|Gloss=give|Translit=hâj
+4	กระทบ	กระทบ	VERB	_	_	3	compound:svc	_	SpaceAfter=No|Gloss=affect|Translit=kràʔ-thóp
+5	เศรษฐกิจ	เศรษฐกิจ	NOUN	_	_	4	obj	_	SpaceAfter=No|Gloss=economy|Translit=sèːt-thà-kìt
+6	ของ	ของ	ADP	_	_	7	case	_	SpaceAfter=No|Gloss=of|Translit=khɔ̌ːŋ
+7	ประเทศ	ประเทศ	NOUN	_	_	5	nmod	_	SpaceAfter=No|Gloss=country|Translit=pràʔ-thêːt
+8	และ	และ	CCONJ	_	_	9	cc	_	SpaceAfter=No|Gloss=and|Translit=lɛ́ʔ
+9	ความ	ความ	NOUN	_	NounType=Nmlz	5	conj	_	SpaceAfter=No|Gloss=condition(nominalizer)|Translit=khwaːm
+10	เป็นอยู่	เป็นอยู่	VERB	_	_	9	acl	_	SpaceAfter=No|Gloss=live|Translit=pen-jùː
+11	ของ	ของ	ADP	_	_	12	case	_	SpaceAfter=No|Gloss=of|Translit=khɔ̌ːŋ
+12	พี่	พี่	NOUN	_	_	9	nmod	_	SpaceAfter=No|Gloss=older sibling|Translit=phîː
+13	น้อง	น้อง	NOUN	_	_	12	flat	_	SpaceAfter=No|Gloss=younger sibling|Translit=nɔ́ːŋ
+14	ชาว	ชาว	NOUN	_	_	12	appos	_	SpaceAfter=No|Gloss=folk|Translit=chaːw
+15	กรุงเทพ	กรุงเทพ	PROPN	_	_	14	nmod	_	SpaceAfter=No|Gloss=city|Translit=kruŋ-thêːp
+16	ฯ	_	SYM	_	_	15	nmod	_	Gloss=|Translit=
+17	จึง	จึง	ADV	_	_	18	advmod	_	SpaceAfter=No|Gloss=thus|Translit=cɯŋ
+18	ต้อง	ต้อง	VERB	_	_	0	root	_	SpaceAfter=No|Gloss=must|Translit=tɔ̂ŋ
+19	เร่ง	เร่ง	VERB	_	_	18	xcomp	_	SpaceAfter=No|Gloss=accelerate|Translit=rêŋ
+20	ศึกษา	ศึกษา	VERB	_	_	19	compound:svc	_	SpaceAfter=No|Gloss=study|Translit=sɯ̀k-sǎː
+21	ตั้งแต่	ตั้งแต่	ADP	_	_	22	case	_	SpaceAfter=No|Gloss=since|Translit=tâŋ-tɛ̀ː
+22	วัน	วัน	NOUN	_	_	20	obl	_	SpaceAfter=No|Gloss=day|Translit=wan
+23	นี้	นี้	ADJ	_	_	22	amod	_	Gloss=this|Translit=níː
+
+# sent_id = Thai_Election_ThaiBuildThaiParty_2023_News_Article_28
+# text = คุณหญิงสุดารัตน์ยังกล่าวถึง นายการุณ โหสกุลซึ่งถือเป็นนักต่อสู้เพื่อประชาธิปไตย จนถูกตั้งข้อหา ก่อการร้ายจนถึงวันนี้ ก็ยังต้องต่อสู้ตามกระบวนการ
+# text_en = Lady Sudarat also spoke about Mister Karun Hosakul, describing him as a fighter for democracy who has faced terrorism charges and continued to fight his case through legal processes to this day.
+# tokenised_text = คุณหญิง สุดารัตน์ ยัง กล่าว ถึง นาย การุณ โหสกุล ซึ่ง ถือ เป็น นัก ต่อสู้ เพื่อ ประชาธิปไตย จน ถูก ตั้ง ข้อหา ก่อ การ ร้าย จน ถึง วัน นี้ ก็ ยัง ต้อง ต่อสู้ ตาม กระบวนการ
+# tokenised_translit =
+# tokenised_transcript = /khun-jǐŋ/ /sù-daː-rát/ /jaŋ/ /klàːw/ /thɯ̌ŋ/ /naːj/ /kaː-run/ /hǒː-sà-kun/ /sɯ̂ŋ/ /thɯ̌ː/ /pen/ /nák/ /tɔ̀ː-sûː/ /phɯ̂a/ /pràʔ-chaː-thíp-pà-taj/ /con/ /thùːk/ /tâŋ/ /khɔ̂ː-hǎː/ /kɔ̀ː-kaːn-ráːj/ /con/ /thɯ̌ŋ/ /wan/ /níː/ /kɔ̂ː/ /jaŋ/ /tɔ̂ŋ/ /tɔ̀ː-sûː/ /taːm/ /kràʔ-buan-kaːn/
+# phrase_type = sentence
+# sentence_position = body
+# genre = political_news_article
+# source = https://www.matichonweekly.com/hot-news/article_656027 
+# year = 2023
+1	คุณหญิง	คุณหญิง	NOUN	_	_	4	nsubj	_	SpaceAfter=No|Gloss=Lady|Translit=khun-jǐŋ
+2	สุดารัตน์	สุดารัตน์	PROPN	_	_	1	nmod	_	SpaceAfter=No|Gloss=Sudarat|Translit=sù-daː-rát
+3	ยัง	ยัง	ADV	_	_	4	advmod	_	SpaceAfter=No|Gloss=still|Translit=jaŋ
+4	กล่าว	กล่าว	VERB	_	_	0	root	_	SpaceAfter=No|Gloss=say|Translit=klàːw
+5	ถึง	ถึง	ADP	_	_	6	case	_	Gloss=to|Translit=thɯ̌ŋ
+6	นาย	นาย	NOUN	_	_	4	obl	_	SpaceAfter=No|Gloss=Mister|Translit=naːj
+7	การุณ	การุณ	PROPN	_	_	6	nmod	_	Gloss=Karun|Translit=kaː-run
+8	โหสกุล	โหสกุล	PROPN	_	_	7	flat	_	SpaceAfter=No|CorrectSpaceAfter=Yes|Gloss=Hosakul|Translit=hǒː-sà-kun
+9	ซึ่ง	ซึ่ง	PRON	_	_	10	nsubj	_	SpaceAfter=No|Gloss=which(REL)|Translit=sɯ̂ŋ
+10	ถือ	ถือ	VERB	_	_	6	acl:relcl	_	SpaceAfter=No|Gloss=consider|Translit=thɯ̌ː
+11	เป็น	เป็น	AUX	_	_	12	cop	_	SpaceAfter=No|Gloss=BE|Translit=pen
+12	นัก	นัก	NOUN	_	_	10	xcomp	_	SpaceAfter=No|Gloss=person|Translit=nák
+13	ต่อสู้	ต่อสู้	VERB	_	_	12	acl	_	SpaceAfter=No|Gloss=fight|Translit=tɔ̀ː-sûː
+14	เพื่อ	เพื่อ	ADP	_	_	15	case	_	SpaceAfter=No|Gloss=for|Translit=phɯ̂a
+15	ประชาธิปไตย	ประชาธิปไตย	NOUN	_	_	12	nmod	_	CorrectSpaceAfter=No|Gloss=democracy|Translit=pràʔ-chaː-thíp-pà-taj
+16	จน	จน	SCONJ	_	_	17	mark	_	SpaceAfter=No|Gloss=until|Translit=con
+17	ถูก	ถูก	VERB	_	_	12	advcl	_	SpaceAfter=No|Gloss=contact|Translit=thùːk
+18	ตั้ง	ตั้ง	VERB	_	_	17	compound:svc	_	SpaceAfter=No|Gloss=set|Translit=tâŋ
+19	ข้อหา	ข้อหา	NOUN	_	_	18	obj	_	CorrectSpaceAfter=No|Gloss=accusation|Translit=khɔ̂ː-hǎː
+20	ก่อ	ก่อ	VERB	_	_	19	acl	_	SpaceAfter=No|Gloss=|Translit=kɔ̀ː
+21	การ	การ	NOUN	_	NounType=Nmlz	20	obj	_	SpaceAfter=No|Gloss=|Translit=kaːn
+22	ร้าย	ร้าย	VERB	_	_	21	acl	_	SpaceAfter=No|Gloss=|Translit=ráːj
+23	จน	จน	SCONJ	_	_	24	mark	_	SpaceAfter=No|Gloss=until|Translit=con
+24	ถึง	ถึง	VERB	_	_	29	advcl	_	SpaceAfter=No|Gloss=arrive|Translit=thɯ̌ŋ
+25	วัน	วัน	NOUN	_	_	24	obl:arg	_	SpaceAfter=No|Gloss=day|Translit=wan
+26	นี้	นี้	ADJ	_	_	25	amod	_	Gloss=this|Translit=níː
+27	ก็	ก็	ADV	_	_	29	advmod	_	SpaceAfter=No|Gloss=also|Translit=kɔ̂ː
+28	ยัง	ยัง	ADV	_	_	29	advmod	_	SpaceAfter=No|Gloss=still|Translit=jaŋ
+29	ต้อง	ต้อง	VERB	_	_	12	advcl	_	SpaceAfter=No|Gloss=must|Translit=tɔ̂ŋ
+30	ต่อสู้	ต่อสู้	VERB	_	_	29	xcomp	_	SpaceAfter=No|Gloss=fight|Translit=tɔ̀ː-sûː
+31	ตาม	ตาม	ADP	_	_	32	case	_	SpaceAfter=No|Gloss=according to|Translit=taːm
+32	กระบวนการ	กระบวนการ	NOUN	_	_	30	obl	_	Gloss=process|Translit=kràʔ-buan-kaːn
+
+# sent_id = Thai_Election_ThaiBuildThaiParty_2023_News_Article_29
+# text = นอกจากนี้ยังเป็นคนที่มีจิตวิญญาณรับใช้พี่น้องชาวดอนเมืองมาอย่างยาวนาน 
+# text_en = (She) added that he had long been dedicated to serving the people of Don Mueang, with a strong spirit of public service.
+# tokenised_text = นอกจาก นี้ ยัง เป็น คน ที่ มี จิต วิญญาณ รับใช้ พี่ น้อง ชาว ดอนเมือง มา อย่าง ยาว นาน 
+# tokenised_translit =
+# tokenised_transcript = /nɔ̂ːk-càːk/ /níː/ /jaŋ/ /pen/ /khon/ /thîː/ /miː/ /cìt/ /win-jaːn/ /ráp-cháj/ /phîː/ /nɔ́ːŋ/ /chaːw/ /dɔːn/ /mɯaŋ/ /maː/ /jàːŋ/ /jaːw/ /naːn/
+# phrase_type = sentence
+# sentence_position = body
+# genre = political_news_article
+# source = https://www.matichonweekly.com/hot-news/article_656027 
+# year = 2023
+1	นอกจาก	นอกจาก	ADP	_	_	2	case	_	SpaceAfter=No|Gloss=apart from|Translit=nɔ̂ːk-càːk
+2	นี้	นี้	PRON	_	_	5	obl	_	SpaceAfter=No|Gloss=this|Translit=níː
+3	ยัง	ยัง	ADV	_	_	5	advmod	_	SpaceAfter=No|Gloss=still|Translit=jaŋ
+4	เป็น	เป็น	AUX	_	_	5	cop	_	SpaceAfter=No|Gloss=BE|Translit=pen
+5	คน	คน	NOUN	_	_	0	root	_	SpaceAfter=No|Gloss=person|Translit=khon
+6	ที่	ที่	PRON	_	_	7	nsubj	_	SpaceAfter=No|Gloss=that(REL)|Translit=thîː
+7	มี	มี	VERB	_	_	5	acl:relcl	_	SpaceAfter=No|Gloss=have|Translit=miː
+8	จิต	จิต	NOUN	_	_	7	obl:arg	_	SpaceAfter=No|Gloss=mind|Translit=cìt
+9	วิญญาณ	วิญญาณ	NOUN	_	_	8	nmod	_	SpaceAfter=No|Gloss=soul|Translit=win-jaːn
+10	รับใช้	รับใช้	VERB	_	_	8	acl	_	SpaceAfter=No|Gloss=serve|Translit=ráp-cháj
+11	พี่	พี่	NOUN	_	_	10	obj	_	SpaceAfter=No|Gloss=older sibling|Translit=phîː
+12	น้อง	น้อง	NOUN	_	_	11	flat	_	SpaceAfter=No|Gloss=younger sibling|Translit=nɔ́ːŋ
+13	ชาว	ชาว	NOUN	_	_	11	appos	_	SpaceAfter=No|Gloss=folk|Translit=chaːw
+14	ดอนเมือง	ดอนเมือง	PROPN	_	_	13	nmod	_	SpaceAfter=No|Gloss=hill|Translit=dɔːn-mɯaŋ
+15	มา	มา	ADV	_	_	7	advmod	_	SpaceAfter=No|Gloss=come(express aspect)|Translit=maː
+16	อย่าง	อย่าง	NOUN	_	_	7	obl	_	SpaceAfter=No|Gloss=way|Translit=jàːŋ
+17	ยาว	ยาว	VERB	_	_	16	acl	_	SpaceAfter=No|Gloss=long|Translit=jaːw
+18	นาน	นาน	VERB	_	_	17	flat	_	Gloss=long time|Translit=naːn
+
+# sent_id = Thai_Election_ThaiBuildThaiParty_2023_News_Article_30
+# text = เป็นคนที่ทุ่มเททำงานเรียกใช้ได้ทุกพื้นที่ทุกเวลา 
+# text_en = (She said that he) was hardworking, always available anywhere and anytime.
+# tokenised_text = เป็น คน ที่ ทุ่มเท ทำงาน เรียก ใช้ ได้ ทุก พื้นที่ ทุก เวลา 
+# tokenised_translit =
+# tokenised_transcript = /pen/ /khon/ /thîː/ /thûm-theː/ /tham-ŋaːn/ /rîak/ /cháj/ /dâj/ /thúk/ /phɯ́ː-thîː/ /thúk/ /weː-laː/
+# phrase_type = sentence
+# sentence_position = body
+# genre = political_news_article
+# source = https://www.matichonweekly.com/hot-news/article_656027 
+# year = 2023
+1	เป็น	เป็น	AUX	_	_	2	cop	_	SpaceAfter=No|Gloss=BE|Translit=pen
+2	คน	คน	NOUN	_	_	0	root	_	SpaceAfter=No|Gloss=person|Translit=khon
+3	ที่	ที่	PRON	_	_	4	nsubj	_	SpaceAfter=No|Gloss=that(REL)|Translit=thîː
+4	ทุ่มเท	ทุ่มเท	VERB	_	_	2	acl:relcl	_	SpaceAfter=No|Gloss=dedicate|Translit=thûm-theː
+5	ทำงาน	ทำงาน	VERB	_	_	4	compound:svc	_	SpaceAfter=No|Gloss=work|Translit=tham-ŋaːn
+6	เรียก	เรียก	VERB	_	_	4	conj	_	SpaceAfter=No|Gloss=call|Translit=rîak
+7	ใช้	ใช้	VERB	_	_	6	compound:svc	_	SpaceAfter=No|Gloss=use|Translit=cháj
+8	ได้	ได้	VERB	_	_	6	advcl	_	SpaceAfter=No|Gloss=get(express potential or permission)|Translit=dâj
+9	ทุก	ทุก	DET	_	_	10	det	_	SpaceAfter=No|Gloss=every|Translit=thúk
+10	พื้นที่	พื้นที่	NOUN	_	NounType=Clf	4	obl	_	SpaceAfter=No|Gloss=space|Translit=phɯ́ː-thîː
+11	ทุก	ทุก	DET	_	_	12	det	_	SpaceAfter=No|Gloss=every|Translit=thúk
+12	เวลา	เวลา	NOUN	_	NounType=Clf	10	conj	_	Gloss=time|Translit=weː-laː
+
+# sent_id = Thai_Election_ThaiBuildThaiParty_2023_News_Article_31
+# text = เป็นคนทำงานจริงจังจริงใจ 
+# text_en = (She said that he) also worked with sincerity and commitment.
+# tokenised_text = เป็น คน ทำงาน จริงจัง จริงใจ 
+# tokenised_translit =
+# tokenised_transcript = /pen/ /khon/ /tham-ŋaːn/ /ciŋ-caŋ/ /ciŋ-caj/
+# phrase_type = sentence
+# sentence_position = body
+# genre = political_news_article
+# source = https://www.matichonweekly.com/hot-news/article_656027 
+# year = 2023
+1	เป็น	เป็น	AUX	_	_	2	cop	_	SpaceAfter=No|Gloss=BE|Translit=pen
+2	คน	คน	NOUN	_	_	0	root	_	SpaceAfter=No|Gloss=person|Translit=khon
+3	ทำงาน	ทำงาน	VERB	_	_	2	acl	_	SpaceAfter=No|Gloss=work|Translit=tham-ŋaːn
+4	จริงจัง	จริงจัง	VERB	_	_	3	advcl	_	SpaceAfter=No|Gloss=serious|Translit=ciŋ-caŋ
+5	จริงใจ	จริงใจ	VERB	_	_	4	conj	_	Gloss=sincere|Translit=ciŋ-caj
+
+# sent_id = Thai_Election_ThaiBuildThaiParty_2023_News_Article_32
+# text = ไม่เคยทอดทิ้งพี่น้องชาวดอนเมืองยามยากลำบาก ตามสโลแกนที่ว่า “ดอนเมืองไม่ทิ้งกัน การุณไม่ทิ้งใคร”
+# text_en = (She said that he) has never abandoned the people of Don Mueang in difficult times under the slogan, “Don Mueang stands together, Karun leaves no one behind.”
+# tokenised_text = ไม่ เคย ทอดทิ้ง พี่ น้อง ชาว ดอนเมือง ยาม ยาก ลำบาก ตาม สโลแกน ที่ ว่า “ ดอนเมือง ไม่ ทิ้ง กัน การุณ ไม่ ทิ้ง ใคร ”
+# tokenised_translit =
+# tokenised_transcript = /mâj/ /khɤːj/ /thɔ̂ːt-thíŋ/ /phîː/ /nɔ́ːŋ/ /chaːw/ /dɔːn-mɯaŋ/ /jaːm/ /jâːk/ /lam-baːk/ /taːm/ /sà-loː-kɛːn/ /thîː/ /wâː/ "/dɔːn-mɯaŋ/ /mâj/ /thíŋ/ /kan/ /kaː-run/ /mâj/ /thíŋ/ /khraj/"
+# phrase_type = sentence
+# sentence_position = body
+# genre = political_news_article
+# source = https://www.matichonweekly.com/hot-news/article_656027 
+# year = 2023
+1	ไม่	ไม่	ADV	_	_	2	amod	_	SpaceAfter=No|Gloss=not|Translit=mâj
+2	เคย	เคย	VERB	_	_	0	root	_	SpaceAfter=No|Gloss=ever|Translit=khɤːj
+3	ทอดทิ้ง	ทอดทิ้ง	VERB	_	_	2	xcomp	_	SpaceAfter=No|Gloss=abandon|Translit=thɔ̂ːt-thíŋ
+4	พี่	พี่	NOUN	_	_	3	obj	_	SpaceAfter=No|Gloss=older sibling|Translit=phîː
+5	น้อง	น้อง	NOUN	_	_	4	flat	_	SpaceAfter=No|Gloss=younger sibling|Translit=nɔ́ːŋ
+6	ชาว	ชาว	NOUN	_	_	4	appos	_	SpaceAfter=No|Gloss=folk|Translit=chaːw
+7	ดอนเมือง	ดอนเมือง	PROPN	_	_	6	nmod	_	SpaceAfter=No|Gloss=hill|Translit=dɔːn-mɯaŋ
+8	ยาม	ยาม	NOUN	_	_	2	obl	_	SpaceAfter=No|Gloss=time|Translit=jaːm
+9	ยาก	ยาก	VERB	_	_	8	acl	_	SpaceAfter=No|Gloss=difficult|Translit=jâːk
+10	ลำบาก	ลำบาก	VERB	_	_	9	flat	_	CorrectSpaceAfter=No|Gloss=struggle|Translit=lam-baːk
+11	ตาม	ตาม	ADP	_	_	12	case	_	SpaceAfter=No|Gloss=according to|Translit=taːm 
+12	สโลแกน	สโลแกน	NOUN	_	Foreign=Yes	2	obl	_	SpaceAfter=No|Gloss=slogan|Translit=sà-loː-kɛːn
+13	ที่	ที่	PRON	_	_	14	nsubj	_	SpaceAfter=No|Gloss=that(REL)|Translit=thîː
+14	ว่า	ว่า	VERB	_	_	12	acl:relcl	_	Gloss=say|Translit=wâː
+15	“	“	PUNCT	_	_	18	punct	_	SpaceAfter=No
+16	ดอนเมือง	ดอนเมือง	PROPN	_	_	18	nsubj	_	SpaceAfter=No|Gloss=hill|Translit=dɔːn-mɯaŋ
+17	ไม่	ไม่	ADV	_	_	18	advmod	_	SpaceAfter=No|Gloss=not|Translit=mâj
+18	ทิ้ง	ทิ้ง	VERB	_	_	14	ccomp	_	SpaceAfter=No|Gloss=leave|Translit=thíŋ
+19	กัน	กัน	ADV	_	_	18	advmod	_	Gloss=together|Translit=kan
+20	การุณ	การุณ	PROPN	_	_	22	nsubj	_	SpaceAfter=No|Gloss=Karun|Translit=kaː-run
+21	ไม่	ไม่	ADV	_	_	22	advmod	_	SpaceAfter=No|Gloss=not|Translit=mâj
+22	ทิ้ง	ทิ้ง	VERB	_	_	18	advcl	_	SpaceAfter=No|Gloss=leave|Translit=thíŋ
+23	ใคร	ใคร	PRON	_	_	22	obj	_	SpaceAfter=No|Gloss=anyone|Translit=khraj
+24	”	”	PUNCT	_	_	18	punct	_	_
+
+# sent_id = Thai_Election_ThaiBuildThaiParty_2023_News_Article_33
+# text = จึงมั่นใจว่านายการุณ จะสามารถปักธงในเขตดอนเมืองได้อีกครั้ง และจะเป็นอีกหนึ่งกำลังของไทยสร้างไทยที่ช่วยกันสร้างทางรอดให้กับประเทศไทยได้
+# text_en = (She) expressed confidence that Mister Karun would once again win in the Don Mueang constituency and become another key force in the Thai Build Thai Party in helping to create a path forward for Thailand.
+# tokenised_text = จึง มั่นใจ ว่า นาย การุณ จะ สามารถ ปัก ธง ใน เขต ดอนเมือง ได้ อีก ครั้ง และ จะ เป็น อีก หนึ่ง กำลัง ของ ไทย สร้าง ไทย ที่ ช่วย กัน สร้าง ทาง รอด ให้ กับ ประเทศ ไทย ได้
+# tokenised_translit =
+# tokenised_transcript = /cɯŋ/ /mân-caj/ /wâː/ /naːj/ /kaː-run/ /càʔ/ /sǎː-mâːt/ /pàk/ /thoŋ/ /naj/ /khèːt/ /dɔːn-mɯaŋ/ /dâj/ /ʔìːk/ /khráŋ/ /lɛ́ʔ/ /càʔ/ /pen/ /ʔìːk/ /nɯ̀ŋ/ /kam-laŋ/ /khɔ̌ːŋ/ /thaj/ /sâːŋ/ /thaj/ /thîː/ /chûaj/ /kan/ /sâːŋ/ /thaːŋ/ /rɔ̂ːt/ /hâj/ /kàp/ /pràʔ-thêt/ /thaj/ /dâj/
+# phrase_type = sentence
+# sentence_position = body
+# genre = political_news_article
+# source = https://www.matichonweekly.com/hot-news/article_656027 
+# year = 2023
+1	จึง	จึง	ADV	_	_	2	advmod	_	SpaceAfter=No|Gloss=thus|Translit=cɯŋ
+2	มั่นใจ	มั่นใจ	VERB	_	_	0	root	_	SpaceAfter=No|Gloss=confident|Translit=mân-caj
+3	ว่า	ว่า	SCONJ	_	_	7	mark	_	SpaceAfter=No|CorrectSpaceAfter=Yes|Gloss=that(COMP)|Translit=wâː
+4	นาย	นาย	NOUN	_	_	7	nsubj	_	SpaceAfter=No|Gloss=Mister|Translit=naːj
+5	การุณ	การุณ	PROPN	_	_	4	nmod	_	CorrectSpaceAfter=No|Gloss=Karun|Translit=kaː-run
+6	จะ	จะ	ADV	_	_	7	advmod	_	SpaceAfter=No|Gloss=will(express the future time)|Translit=càʔ
+7	สามารถ	สามารถ	VERB	_	_	2	ccomp	_	SpaceAfter=No|Gloss=be able to|Translit=sǎː-mâːt
+8	ปัก	ปัก	VERB	_	_	7	xcomp	_	SpaceAfter=No|Gloss=pin|Translit=pàk
+9	ธง	ธง	NOUN	_	_	8	obj	_	SpaceAfter=No|Gloss=flag|Translit=thoŋ
+10	ใน	ใน	ADP	_	_	11	case	_	SpaceAfter=No|Gloss=in|Translit=naj
+11	เขต	เขต	NOUN	_	_	8	obl	_	SpaceAfter=No|Gloss=district|Translit=khèːt 
+12	ดอนเมือง	ดอนเมือง	PROPN	_	_	11	nmod	_	SpaceAfter=No|Gloss=hill|Translit=dɔːn-mɯaŋ
+13	ได้	ได้	VERB	_	_	8	advcl	_	SpaceAfter=No|Gloss=get(express potential or permission)|Translit=dâj
+14	อีก	อีก	DET	_	_	15	det	_	SpaceAfter=No|Gloss=another|Translit=ʔìːk
+15	ครั้ง	ครั้ง	NOUN	_	NounType=Clf	8	obl	_	Gloss=time|Translit=khráŋ
+16	และ	และ	CCONJ	_	_	20	cc	_	SpaceAfter=No|Gloss=and|Translit=lɛ́ʔ
+17	จะ	จะ	ADV	_	_	20	advmod	_	SpaceAfter=No|Gloss=will(express the future time)|Translit=càʔ
+18	เป็น	เป็น	AUX	_	_	20	cop	_	SpaceAfter=No|Gloss=BE|Translit=pen
+19	อีก	อีก	DET	_	_	20	det	_	SpaceAfter=No|Gloss=another|Translit=ʔìːk
+20	หนึ่ง	หนึ่ง	NUM	_	_	7	conj	_	SpaceAfter=No|Gloss=one|Translit=nɯ̀ŋ
+21	กำลัง	กำลัง	NOUN	_	NounType=Clf	20	clf	_	SpaceAfter=No|Gloss=power|Translit=kam-laŋ 
+22	ของ	ของ	ADP	_	_	24	case	_	SpaceAfter=No|Gloss=of|Translit=khɔ̌ːŋ
+23	ไทย	ไทย	PROPN	_	_	24	nsubj	_	SpaceAfter=No|Gloss=Thai|Translit=thaj
+24	สร้าง	สร้าง	VERB	_	ExtPos=PROPN	20	nmod	_	SpaceAfter=No|Gloss=build|Translit=sâːŋ
+25	ไทย	ไทย	PROPN	_	_	24	obj	_	SpaceAfter=No|Gloss=Thai|Translit=thaj
+26	ที่	ที่	PRON	_	_	27	nsubj	_	SpaceAfter=No|Gloss=that(REL)|Translit=thîː
+27	ช่วย	ช่วย	VERB	_	_	20	acl:relcl	_	SpaceAfter=No|Gloss=help|Translit=chûaj
+28	กัน	กัน	ADV	_	_	27	advmod	_	SpaceAfter=No|Gloss=together|Translit=kan
+29	สร้าง	สร้าง	VERB	_	_	27	xcomp	_	SpaceAfter=No|Gloss=build|Translit=sâːŋ
+30	ทาง	ทาง	NOUN	_	_	29	obj	_	SpaceAfter=No|Gloss=path|Translit=thaːŋ
+31	รอด	รอด	VERB	_	_	30	acl	_	SpaceAfter=No|Gloss=survive|Translit=rɔ̂ːt
+32	ให้	ให้	VERB	_	_	29	compound:svc	_	SpaceAfter=No|Gloss=give|Translit=hâj
+33	กับ	กับ	ADP	_	_	34	case	_	SpaceAfter=No|Gloss=with|Translit=kàp
+34	ประเทศ	ประเทศ	NOUN	_	_	32	obl	_	SpaceAfter=No|Gloss=country|Translit=pràʔ-thêt
+35	ไทย	ไทย	PROPN	_	_	34	nmod	_	SpaceAfter=No|Gloss=Thai|Translit=thaj
+36	ได้	ได้	VERB	_	_	29	advcl	_	SpaceAfter=No|Gloss=get(express potential or permission)|Translit=dâj
+
+# sent_id = Thai_Election_ThaiBuildThaiParty_2023_News_Article_34
+# text = ด้าน น.อ.อนุดิษฐ์ ประกาศลดค่าใช้จ่ายให้พี่น้องประชาชน โดยเฉพาะค่าไฟฟ้าที่แพงแสนแพง
+# text_en = Capt Anudith announced a policy to reduce expenses for the people, especially the extremely high electricity costs.
+# tokenised_text = ด้าน น.อ. อนุดิษฐ์ ประกาศ ลด ค่า ใช้ จ่าย ให้ พี่ น้อง ประชาชน โดย เฉพาะ ค่า ไฟฟ้า ที่ แพง แสน แพง
+# tokenised_translit =
+# tokenised_transcript =  /dâːn/ /nɔː-ʔɔː/ /ʔà-nú-dit/ /pràʔ-kàːt/ /lót/ /khâː/ /cháj/ /càːj/ /hâj/ /phîː/ /nɔ́ːŋ/ /pràʔ-chaː-chon/  /doːj/ /chà-phɔʔ/ /khâː/ /faj-fáː/ /thîː/ /phɛːŋ/ /sɛ̌ːn/ /phɛːŋ/
+# phrase_type = sentence
+# sentence_position = body
+# genre = political_news_article
+# source = https://www.matichonweekly.com/hot-news/article_656027 
+# year = 2023
+1	ด้าน	ด้าน	NOUN	_	_	4	nsubj	_	CorrectSpaceAfter=No|Gloss=side|Translit=dâːn
+2	น.อ.	น.อ.	NOUN	_	Abbr=Yes	1	nmod	_	SpaceAfter=No|CorrectSpaceAfter=Yes|Gloss=Captain|Translit=nɔː-ʔɔː
+3	อนุดิษฐ์	อนุดิษฐ์	PROPN	_	_	2	nmod	_	CorrectSpaceAfter=No|Gloss=Anudith|Translit=ʔà-nú-dit
+4	ประกาศ	ประกาศ	VERB	_	_	0	root	_	SpaceAfter=No|Gloss=announce|Translit=pràʔ-kàːt
+5	ลด	ลด	VERB	_	_	4	ccomp	_	SpaceAfter=No|Gloss=reduce|Translit=lót
+6	ค่า	ค่า	NOUN	_	_	5	obj	_	SpaceAfter=No|Gloss=cost|Translit=khâː
+7	ใช้	ใช้	VERB	_	_	6	acl	_	SpaceAfter=No|Gloss=use|Translit=cháj
+8	จ่าย	จ่าย	VERB	_	_	7	flat	_	SpaceAfter=No|Gloss=spend|Translit=càːj
+9	ให้	ให้	ADP	_	_	10	case	_	SpaceAfter=No|Gloss=for|Translit=hâj
+10	พี่	พี่	NOUN	_	_	5	obl	_	SpaceAfter=No|Gloss=older sibling|Translit=phîː
+11	น้อง	น้อง	NOUN	_	_	10	flat	_	SpaceAfter=No|Gloss=younger sibling|Translit=nɔ́ːŋ
+12	ประชาชน	ประชาชน	NOUN	_	_	10	appos	_	CorrectSpaceAfter=No|Gloss=population|Translit=pràʔ-chaː-chon
+13	โดย	โดย	ADP	_	_	14	mark	_	SpaceAfter=No|Gloss=with|Translit=doːj
+14	เฉพาะ	เฉพาะ	VERB	_	_	5	advcl	_	SpaceAfter=No|Gloss=specify|Translit=chà-phɔʔ
+15	ค่า	ค่า	NOUN	_	_	14	obl:arg	_	SpaceAfter=No|Gloss=cost|Translit=khâː
+16	ไฟฟ้า	ไฟฟ้า	NOUN	_	_	15	nmod	_	SpaceAfter=No|Gloss=electricity|Translit=faj-fáː
+17	ที่	ที่	PRON	_	_	18	nsubj	_	SpaceAfter=No|Gloss=that(REL)|Translit=thîː
+18	แพง	แพง	VERB	_	_	15	acl:relcl	_	SpaceAfter=No|Gloss=expensive|Translit=phɛːŋ
+19	แสน	แสน	ADV	_	_	20	advmod	_	SpaceAfter=No|Gloss=extremely|Translit=sɛ̌ːn
+20	แพง	แพง	VERB	_	_	18	advcl	_	Gloss=expensive|Translit=phɛːŋ
+
+# sent_id = Thai_Election_ThaiBuildThaiParty_2023_News_Article_35
+# text = หากเลือกไทยสร้างไทยให้เป็นรัฐบาล ขอประกาศลดค่าไฟฟ้าทันที ให้เหลือไม่เกิน 3.5บาท/หน่วย
+# text_en = If the Thai Build Thai Party was elected to form the government, he promised to immediately reduce electricity prices to no more than 3.5 baht per unit.
+# tokenised_text = หาก เลือก ไทย สร้าง ไทย ให้ เป็น รัฐบาล ขอ ประกาศ ลด ค่า ไฟฟ้า ทันที ให้ เหลือ ไม่ เกิน 3.5 บาท / หน่วย
+# tokenised_translit =
+# tokenised_transcript = /hàːk/ /lɯ̂ak/ /thaj/ /sâːŋ/ /thaj/ /hâj/ /pen/ /rát-thà-baːn/ /khɔ̌ː/ /pràʔ-kàːt/ /lót/ /khâː/ /faj-fáː/ /than-thiː/ /hâj/ /lɯ̌a/ /mâj/ /kɤːn/ /sǎːm-cùt-hâː/ /bàːt/ /tɔ̀ː/ /nùaj/
+# phrase_type = sentence
+# sentence_position = body
+# genre = political_news_article
+# source = https://www.matichonweekly.com/hot-news/article_656027 
+# year = 2023
+1	หาก	หาก	ADP	_	_	2	mark	_	SpaceAfter=No|Gloss=if|Translit=hàːk
+2	เลือก	เลือก	VERB	_	_	9	advcl	_	SpaceAfter=No|Gloss=choose|Translit=lɯ̂ak
+3	ไทย	ไทย	PROPN	_	_	4	nsubj	_	SpaceAfter=No|Gloss=Thai|Translit=thaj
+4	สร้าง	สร้าง	VERB	_	ExtPos=PROPN	2	obj	_	SpaceAfter=No|Gloss=build|Translit=sâːŋ
+5	ไทย	ไทย	PROPN	_	_	4	obj	_	SpaceAfter=No|Gloss=Thai|Translit=thaj
+6	ให้	ให้	VERB	_	_	2	advcl	_	SpaceAfter=No|Gloss=give|Translit=hâj
+7	เป็น	เป็น	AUX	_	_	8	cop	_	SpaceAfter=No|Gloss=BE|Translit=pen
+8	รัฐบาล	รัฐบาล	NOUN	_	_	6	compound:svc	_	Gloss=government|Translit=rát-thà-baːn
+9	ขอ	ขอ	VERB	_	_	0	root	_	SpaceAfter=No|Gloss=ask|Translit=khɔ̌ː
+10	ประกาศ	ประกาศ	VERB	_	_	9	xcomp	_	SpaceAfter=No|Gloss=announce|Translit=pràʔ-kàːt
+11	ลด	ลด	VERB	_	_	10	ccomp	_	SpaceAfter=No|Gloss=reduce|Translit=lót
+12	ค่า	ค่า	NOUN	_	_	11	obj	_	SpaceAfter=No|Gloss=cost|Translit=khâː
+13	ไฟฟ้า	ไฟฟ้า	NOUN	_	_	12	nmod	_	SpaceAfter=No|Gloss=electricity|Translit=faj-fáː
+14	ทันที	ทันที	ADV	_	_	11	advmod	_	CorrectSpaceAfter=No|Gloss=immediately|Translit=than-thiː
+15	ให้	ให้	VERB	_	_	11	advcl	_	SpaceAfter=No|Gloss=for|Translit=hâj
+16	เหลือ	เหลือ	VERB	_	_	15	compound:svc	_	SpaceAfter=No|Gloss=remain|Translit=lɯ̌a
+17	ไม่	ไม่	ADV	_	_	18	advmod	_	SpaceAfter=No|Gloss=not|Translit=mâj
+18	เกิน	เกิน	VERB	_	_	16	xcomp	_	Gloss=exceed|Translit=kɤːn
+19	3.5	3.5	NUM	_	_	18	obl:arg	_	SpaceAfter=No|CorrectSpaceAfter=Yes|Gloss=3.5|Translit=sǎːm-cùt-hâː
+20	บาท	บาท	NOUN	_	NounType=Clf	19	clf	_	SpaceAfter=No|Gloss=baht|Translit=bàːt
+21	/	_	SYM	_	_	22	case	_	SpaceAfter=No|Gloss=per|Translit=tɔ̀ː
+22	หน่วย	หน่วย	NOUN	_	_	19	nmod	_	Gloss=unit|Translit=nùaj
+
+# sent_id = Thai_Election_ThaiBuildThaiParty_2023_News_Article_36
+# text = เรามั่นใจเราพูดจริง ทำได้
+# text_en = We are confident that we mean what we say and can truly achieve it.
+# tokenised_text = เรา มั่นใจ เรา พูด จริง ทำ ได้
+# tokenised_translit =
+# tokenised_transcript = /raw/ /mân-caj/ /raw/ /phûːt/ /ciŋ/ /tham/ /dâj/
+# phrase_type = sentence
+# sentence_position = body
+# genre = political_news_article
+# source = https://www.matichonweekly.com/hot-news/article_656027 
+# year = 2023
+1	เรา	เรา	PRON	_	Person=1|PronType=Prs	2	nsubj	_	SpaceAfter=No|Gloss=we|Translit=raw
+2	มั่นใจ	มั่นใจ	VERB	_	_	0	root	_	SpaceAfter=No|CorrectSpaceAfter=Yes|Gloss=confident|Translit=mân-caj
+3	เรา	เรา	PRON	_	Person=1|PronType=Prs	4	nsubj	_	SpaceAfter=No|Gloss=we|Translit=raw
+4	พูด	พูด	VERB	_	_	2	advcl	_	SpaceAfter=No|Gloss=speak|Translit=phûːt
+5	จริง	จริง	VERB	_	_	4	advcl	_	Gloss=true|Translit=ciŋ
+6	ทำ	ทำ	VERB	_	_	4	conj	_	SpaceAfter=No|Gloss=do|Translit=tham
+7	ได้	ได้	VERB	_	_	6	advcl	_	Gloss=get(express potential or permission)|Translit=dâj
+
+# sent_id = Thai_Election_ThaiBuildThaiParty_2023_News_Article_37
+# text = เลือกไทยสร้างไทย ค่าไฟถูกลงแน่
+# text_en = Vote for the Thai Build Thai Party, and electricity bills will definitely be lower.
+# tokenised_text = เลือก ไทย สร้าง ไทย ค่า ไฟ ถูก ลง แน่
+# tokenised_translit =
+# tokenised_transcript = /lɯ̂ak/ /thaj/ /sâːŋ/ /thaj/ /khâː/ /faj/ /thùːk/ /loŋ/ /nɛ̂ː/
+# phrase_type = sentence
+# sentence_position = body
+# genre = political_news_article
+# source = https://www.matichonweekly.com/hot-news/article_656027 
+# year = 2023
+1	เลือก	เลือก	VERB	_	_	0	root	_	SpaceAfter=No|Gloss=choose|Translit=lɯ̂ak
+2	ไทย	ไทย	PROPN	_	_	3	nsubj	_	SpaceAfter=No|Gloss=Thai|Translit=thaj
+3	สร้าง	สร้าง	VERB	_	ExtPos=PROPN	1	obj	_	SpaceAfter=No|Gloss=build|Translit=sâːŋ
+4	ไทย	ไทย	PROPN	_	_	3	obj	_	Gloss=Thai|Translit=thaj
+5	ค่า	ค่า	NOUN	_	_	7	nsubj	_	SpaceAfter=No|Gloss=cost|Translit=khâː
+6	ไฟ	ไฟ	NOUN	_	_	5	nmod	_	SpaceAfter=No|Gloss=fire|Translit=faj
+7	ถูก	ถูก	VERB	_	_	1	advcl	_	SpaceAfter=No|Gloss=cheap|Translit=thùːk
+8	ลง	ลง	ADV	_	_	7	advmod	_	SpaceAfter=No|Gloss=more|Translit=loŋ
+9	แน่	แน่	ADV	_	_	7	advmod	_	Gloss=certain|Translit=nɛ̂ː
+
+# sent_id = Thai_Election_ThaiBuildThaiParty_2023_News_Article_38
+# text = เพราะประเทศถูกปล้นค่าไฟฟ้า เพื่อไปสร้างความร่ำรวยให้นายทุน ทำให้คนไทยต้องจ่ายค่าไฟแพงกว่าความเป็นจริง 
+# text_en = This is because the country has been robbed through electricity pricing to enrich capitalists, forcing Thai people to pay more than the actual cost.
+# tokenised_text = เพราะ ประเทศ ถูก ปล้น ค่า ไฟฟ้า เพื่อ ไป สร้าง ความ ร่ำรวย ให้ นายทุน ทำให้ คน ไทย ต้อง จ่าย ค่า ไฟ แพง กว่า ความ เป็น จริง 
+# tokenised_translit =
+# tokenised_transcript = /phrɔ́ʔ/ /pràʔ-thêːt/ /thùːk/ /plôn/ /khâː/ /faj-fáː/ /phɯ̂a/ /paj/ /sâːŋ/ /khwaːm/ /râm-ruaj/ /hâj/ /naːj-thun/ /tham-hâj/ /khon/ /thaj/ /tɔ̂ŋ/ /càːj/ /khâː/ /faj/ /phɛːŋ/ /kwàː/ /khwaːm/ /pen/ /ciŋ/
+# phrase_type = sentence
+# sentence_position = body
+# genre = political_news_article
+# source = https://www.matichonweekly.com/hot-news/article_656027 
+# year = 2023
+1	เพราะ	เพราะ	SCONJ	_	_	3	mark	_	SpaceAfter=No|Gloss=because|Translit=phrɔ́ʔ
+2	ประเทศ	ประเทศ	NOUN	_	_	3	nsubj	_	SpaceAfter=No|Gloss=country|Translit=pràʔ-thêt
+3	ถูก	ถูก	VERB	_	_	14	advcl	_	SpaceAfter=No|Gloss=contact|Translit=thùːk
+4	ปล้น	ปล้น	VERB	_	_	3	compound:svc	_	SpaceAfter=No|Gloss=rob|Translit=plôn
+5	ค่า	ค่า	NOUN	_	_	4	obj	_	SpaceAfter=No|Gloss=cost|Translit=khâː
+6	ไฟฟ้า	ไฟฟ้า	NOUN	_	_	5	nmod	_	CorrectSpaceAfter=No|Gloss=electricity|Translit=faj-fáː
+7	เพื่อ	เพื่อ	ADP	_	_	8	mark	_	SpaceAfter=No|Gloss=for|Translit=phɯ̂a
+8	ไป	ไป	VERB	_	_	4	advcl	_	SpaceAfter=No|Gloss=go|Translit=paj
+9	สร้าง	สร้าง	VERB	_	_	8	compound:svc	_	SpaceAfter=No|Gloss=build|Translit=sâːŋ
+10	ความ	ความ	NOUN	_	NounType=Nmlz	9	obj	_	SpaceAfter=No|Gloss=condition(nominalizer)|Translit=khwaːm
+11	ร่ำรวย	ร่ำรวย	VERB	_	_	10	acl	_	SpaceAfter=No|Gloss=rich|Translit=râm-ruaj
+12	ให้	ให้	ADP	_	_	13	case	_	SpaceAfter=No|Gloss=give|Translit=hâj
+13	นายทุน	นายทุน	NOUN	_	_	9	obl	_	Gloss=capitalist|Translit=naːj-thun
+14	ทำให้	ทำให้	VERB	_	_	0	root	_	SpaceAfter=No|Gloss=cause|Translit=tham-hâj
+15	คน	คน	NOUN	_	_	14	obj	_	SpaceAfter=No|Gloss=person|Translit=khon
+16	ไทย	ไทย	PROPN	_	_	15	nmod	_	SpaceAfter=No|Gloss=Thai|Translit=thaj
+17	ต้อง	ต้อง	VERB	_	_	14	xcomp	_	SpaceAfter=No|Gloss=must|Translit=tɔ̂ŋ
+18	จ่าย	จ่าย	VERB	_	_	17	xcomp	_	SpaceAfter=No|Gloss=spend|Translit=càːj
+19	ค่า	ค่า	NOUN	_	_	18	obj	_	SpaceAfter=No|Gloss=cost|Translit=khâː
+20	ไฟ	ไฟ	NOUN	_	_	19	nmod	_	SpaceAfter=No|Gloss=fire|Translit=faj
+21	แพง	แพง	VERB	_	_	19	acl	_	SpaceAfter=No|Gloss=expensive|Translit=phɛːŋ
+22	กว่า	กว่า	ADP	_	_	23	case	_	SpaceAfter=No|Gloss=than|Translit=kwàː
+23	ความ	ความ	NOUN	_	NounType=Nmlz	21	obl	_	SpaceAfter=No|Gloss=condition(nominalizer)|Translit=khwaːm
+24	เป็น	เป็น	VERB	_	_	23	acl	_	SpaceAfter=No|Gloss=BE|Translit=pen
+25	จริง	จริง	VERB	_	_	24	compound:svc	_	Gloss=true|Translit=ciŋ
+
+# sent_id = Thai_Election_ThaiBuildThaiParty_2023_News_Article_39
+# text = โดยรัฐฯ เอื้อนายทุนโรงไฟฟ้า ทำสัญญาผลิตไฟล่วงหน้าเกินจำเป็น สูงถึง 53,000 กิโลวัตต์ชั่วโมง แต่ประชาชนใช้ไฟฟ้าจริง ๆ ไม่เคยเกิน 33,000 กิโลวัตต์ชั่วโมง
+# text_en = The government has favored private power producers by signing contracts for electricity generation far beyond actual demand—up to 53,000 kilowatt-hours, while real consumption has never exceeded 33,000 kilowatt-hours.
+# tokenised_text = โดย รัฐ ฯ เอื้อ นายทุน โรง ไฟฟ้า ทำ สัญญา ผลิต ไฟ ล่วงหน้า เกิน จำเป็น สูง ถึง 53,000 กิโลวัตต์ ชั่วโมง แต่ ประชาชน ใช้ ไฟฟ้า จริง ๆ ไม่ เคย เกิน 33,000 กิโลวัตต์ ชั่วโมง
+# tokenised_translit =
+# tokenised_transcript = /doːj/ /rát/ /ʔɯ̂a/ /naːj-thun/ /roːŋ/ /faj-fáː/ /tham/ /sǎn-jaː/ /phà-lìt/ /faj/ /lûaŋ-nâː/ /kɤːn/ /cam-pen/ /sǔːŋ/ /thɯ̌ŋ/ /hâː-mɯ̀ːn-sǎːm-phan/ /kì-loː-wàt/ /chûa-moːŋ/ /tɛ̀ː/ /pràʔ-chaː-chon/ /cháj/ /faj-fáː/ /ciŋ/ /ciŋ/ /mâj/ /khɤːj/ /kɤːn/ /sǎːm-mɯ̀ːn-sǎːm-phan/ /kì-loː-wàt/ /chûa-moːŋ/
+# phrase_type = sentence
+# sentence_position = body
+# genre = political_news_article
+# source = https://www.matichonweekly.com/hot-news/article_656027 
+# year = 2023
+1	โดย	โดย	SCONJ	_	_	4	mark	_	SpaceAfter=No|Gloss=with|Translit=doːj
+2	รัฐ	รัฐ	NOUN	_	_	4	nsubj	_	SpaceAfter=No|Gloss=government|Translit=rát
+3	ฯ	_	SYM	_	_	2	nmod	_	Gloss=|Translit=
+4	เอื้อ	เอื้อ	VERB	_	_	8	advcl	_	SpaceAfter=No|Gloss=be favourable to|Translit=ʔɯ̂a
+5	นายทุน	นายทุน	NOUN	_	_	4	obj	_	SpaceAfter=No|Gloss=capitalist|Translit=naːj-thun
+6	โรง	โรง	NOUN	_	_	5	nmod	_	SpaceAfter=No|Gloss=facility|Translit=roːŋ
+7	ไฟฟ้า	ไฟฟ้า	NOUN	_	_	6	nmod	_	CorrectSpaceAfter=No|Gloss=electricity|Translit=faj-fáː
+8	ทำ	ทำ	VERB	_	_	0	root	_	SpaceAfter=No|Gloss=do|Translit=tham
+9	สัญญา	สัญญา	NOUN	_	_	8	obj	_	SpaceAfter=No|Gloss=contract|Translit=sǎn-jaː
+10	ผลิต	ผลิต	VERB	_	_	8	advcl	_	SpaceAfter=No|Gloss=produce|Translit=phà-lìt
+11	ไฟ	ไฟ	NOUN	_	_	10	obj	_	SpaceAfter=No|Gloss=fire|Translit=faj
+12	ล่วงหน้า	ล่วงหน้า	VERB	_	_	10	advcl	_	SpaceAfter=No|Gloss=in advance|Translit=lûaŋ-nâː 
+13	เกิน	เกิน	VERB	_	_	10	advcl	_	SpaceAfter=No|Gloss=exceed|Translit=kɤːn
+14	จำเป็น	จำเป็น	ADV	_	_	13	advmod	_	CorrectSpaceAfter=No|Gloss=necessary|Translit=cam-pen
+15	สูง	สูง	VERB	_	_	10	advcl	_	SpaceAfter=No|Gloss=high|Translit=sǔːŋ
+16	ถึง	ถึง	ADP	_	_	17	case	_	Gloss=to|Translit=thɯ̌ŋ
+17	53,000	53,000	NUM	_	_	15	obl	_	Gloss=53,000|Translit=hâː-mɯ̀ːn-sǎːm-phan
+18	กิโลวัตต์	กิโลวัตต์	NOUN	_	Foreign=Yes|NounType=Clf	17	clf	_	SpaceAfter=No|Gloss=kilowatt|Translit=kì-loː-wàt
+19	ชั่วโมง	ชั่วโมง	NOUN	_	_	18	flat	_	Gloss=hour|Translit=chûa-moːŋ
+20	แต่	แต่	CCONJ	_	_	22	cc	_	SpaceAfter=No|Gloss=but|Translit=tɛ̀ː
+21	ประชาชน	ประชาชน	NOUN	_	_	22	nsubj	_	SpaceAfter=No|Gloss=population|Translit=pràʔ-chaː-chon
+22	ใช้	ใช้	VERB	_	_	8	conj	_	SpaceAfter=No|Gloss=use|Translit=cháj
+23	ไฟฟ้า	ไฟฟ้า	NOUN	_	_	22	obj	_	SpaceAfter=No|Gloss=electricity|Translit=faj-fáː
+24	จริง	จริง	ADV	_	_	22	advmod	_	Gloss=real|Translit=ciŋ
+25	ๆ	ๆ	SYM	_	ExtPos=ADV	24	compound:redup	_	Gloss=real|Translit=ciŋ
+26	ไม่	ไม่	ADV	_	_	27	advmod	_	SpaceAfter=No|Gloss=not|Translit=mâj
+27	เคย	เคย	VERB	_	_	22	advcl	_	SpaceAfter=No|Gloss=ever|Translit=khɤːj
+28	เกิน	เกิน	VERB	_	_	27	xcomp	_	Gloss=exceed|Translit=kɤːn
+29	33,000	33,000	NUM	_	_	28	obl:arg	_	Gloss=33,000|Translit=sǎːm-mɯ̀ːn-sǎːm-phan
+30	กิโลวัตต์	กิโลวัตต์	NOUN	_	Foreign=Yes|NounType=Clf	29	clf	_	SpaceAfter=No|Gloss=kilowatt|Translit=kì-loː-wàt
+31	ชั่วโมง	ชั่วโมง	NOUN	_	_	30	flat	_	Gloss=hour|Translit=chûa-moːŋ
+
+# sent_id = Thai_Election_ThaiBuildThaiParty_2023_News_Article_40
+# text = ทำให้ประเทศไทยมีการสำรองไฟฟ้าเกินความต้องการใช้จริงสูงถึง 20,000 กิโลวัตต์ชั่วโมง หรือเกือบ 60% โดยที่โรงไฟฟ้าขนาดใหญ่เหล่านี้ 
+# text_en = As a result, Thailand has an electricity reserve exceeding actual demand by as much as 20,000 kilowatt-hours, or nearly 60% at the large power plants.
+# tokenised_text = ทำให้ ประเทศ ไทย มี การ สำรอง ไฟฟ้า เกิน ความ ต้องการ ใช้ จริง สูง ถึง 20,000 กิโลวัตต์ ชั่วโมง หรือ เกือบ 60 % โดย ที่ โรง ไฟฟ้า ขนาด ใหญ่ เหล่า นี้ 
+# tokenised_translit = /tham-hâj/ /pràʔ-thêːt/ /thaj/ /miː/ /kaːn/ /sǎm-rɔːŋ/ /faj-fáː/ /kɤːn/ /khwaːm/ /tɔ̂ŋ-kaːn/ /cháj/ /ciŋ/ /sǔːŋ/ /thɯ̌ŋ/ /sɔ̌ːŋ-mɯ̀ːn/ /kì-loː-wàt/ /chûa-moːŋ/ /rɯ̌ː/ /kɯ̀ap/ /hòk-sìp/ /pɤː-sen/ /doːj/ /thîː/ /roːŋ/ /faj-fáː/ /khà-nàːt/ /jàj/ /làw/ /níː/ 
+# tokenised_transcript =
+# phrase_type = sentence
+# sentence_position = body
+# genre = political_news_article
+# source = https://www.matichonweekly.com/hot-news/article_656027 
+# year = 2023
+1	ทำให้	ทำให้	VERB	_	_	0	root	_	SpaceAfter=No|Gloss=cause|Translit=tham-hâj
+2	ประเทศ	ประเทศ	NOUN	_	_	1	obj	_	SpaceAfter=No|Gloss=country|Translit=pràʔ-thêːt
+3	ไทย	ไทย	PROPN	_	_	2	nmod	_	SpaceAfter=No|Gloss=Thai|Translit=thaj
+4	มี	มี	VERB	_	_	1	xcomp	_	SpaceAfter=No|Gloss=have|Translit=miː
+5	การ	การ	NOUN	_	NounType=Nmlz	4	obl:arg	_	SpaceAfter=No|Gloss=a thing to be done(nominalizer)|Translit=kaːn
+6	สำรอง	สำรอง	VERB	_	_	5	acl	_	SpaceAfter=No|Gloss=backup|Translit=sǎm-rɔːŋ
+7	ไฟฟ้า	ไฟฟ้า	NOUN	_	_	6	obj	_	SpaceAfter=No|Gloss=electricity|Translit=faj-fáː
+8	เกิน	เกิน	VERB	_	_	5	acl	_	SpaceAfter=No|Gloss=exceed|Translit=kɤːn
+9	ความ	ความ	NOUN	_	NounType=Nmlz	8	obl:arg	_	SpaceAfter=No|Gloss=condition(nominalizer)|Translit=khwaːm
+10	ต้องการ	ต้องการ	VERB	_	_	9	acl	_	SpaceAfter=No|Gloss=want|Translit=tɔ̂ŋ-kaːn
+11	ใช้	ใช้	VERB	_	_	10	xcomp	_	SpaceAfter=No|Gloss=use|Translit=cháj
+12	จริง	จริง	ADV	_	_	11	advmod	_	SpaceAfter=No|Gloss=real|Translit=ciŋ
+13	สูง	สูง	VERB	_	_	5	acl	_	SpaceAfter=No|Gloss=high|Translit=sǔːŋ 
+14	ถึง	ถึง	ADP	_	_	15	case	_	Gloss=to|Translit=thɯ̌ŋ
+15	20,000	20,000	NUM	_	_	13	obl	_	Gloss=20,000|Translit=sɔ̌ːŋ-mɯ̀ːn
+16	กิโลวัตต์	กิโลวัตต์	NOUN	_	Foreign=Yes|NounType=Clf	15	clf	_	SpaceAfter=No|Gloss=kilowatt|Translit=kì-loː-wàt
+17	ชั่วโมง	ชั่วโมง	NOUN	_	_	16	flat	_	CorrectSpaceAfter=No|Gloss=hour|Translit=chûa-moːŋ
+18	หรือ	หรือ	CCONJ	_	_	20	cc	_	SpaceAfter=No|Gloss=or|Translit=rɯ̌ː
+19	เกือบ	เกือบ	DET	_	_	20	det	_	Gloss=almost|Translit=kɯ̀ap
+20	60	60	NUM	_	_	15	conj	_	SpaceAfter=No|Gloss=60|Translit=hòk-sìp
+21	%	%	NOUN	_	NounType=Clf	20	clf	_	Gloss=percentage|Translit=pɤː-sen
+22	โดย	โดย	ADP	_	_	24	dep	_	SpaceAfter=No|Gloss=with|Translit=doːj
+23	ที่	ที่	ADP	_	_	24	case	_	SpaceAfter=No|Gloss=at|Translit=thîː
+24	โรง	โรง	NOUN	_	_	4	obl	_	SpaceAfter=No|Gloss=facility|Translit=roːŋ
+25	ไฟฟ้า	ไฟฟ้า	NOUN	_	_	24	nmod	_	SpaceAfter=No|Gloss=electricity|Translit=faj-fáː
+26	ขนาด	ขนาด	NOUN	_	_	24	nmod	_	SpaceAfter=No|Gloss=size|Translit=khà-nàːt
+27	ใหญ่	ใหญ่	VERB	_	_	26	acl	_	SpaceAfter=No|Gloss=big|Translit=jàj
+28	เหล่า	เหล่า	NOUN	_	_	24	nmod	_	SpaceAfter=No|Gloss=group|Translit=làw
+29	นี้	นี้	ADJ	_	_	28	amod	_	Gloss=this|Translit=níː
+
+# sent_id = Thai_Election_ThaiBuildThaiParty_2023_News_Article_41
+# text = แต่ประชาชนต้องจ่ายค่าไฟฟ้าที่ไม่ได้ใช้ ให้นายทุนเหล่านี้ไปฟรี ๆ ถึงปีละ 26,000 ล้านบาท ทั้งที่โรงไฟฟ้าของนายทุนใหญ่ไม่ได้เดินเครื่องผลิตจริงแม้แต่เมกกะวัตต์เดียว
+# text_en = However, the public is still required to pay for unused electricity, effectively handing over about 26 billion baht per year for free to large private investors. These large power plants have not yet operated to produce even a single megawatt.
+# tokenised_text = แต่ ประชาชน ต้อง จ่าย ค่า ไฟฟ้า ที่ ไม่ ได้ ใช้ ให้ นายทุน เหล่า นี้ ไป ฟรี ๆ ถึง ปี ละ 26,000 ล้าน บาท ทั้งที่ โรง ไฟฟ้า ของ นายทุน ใหญ่ ไม่ ได้ เดิน เครื่อง ผลิต จริง แม้แต่ เมกกะวัตต์ เดียว
+# tokenised_translit = /tɛ̀ː/ /pràʔ-chaː-chon/ /tɔ̂ŋ/ /càːj/ /khâː/ /faj-fáː/ /thîː/ /mâj/ /dâj/ /cháj/ /hâj/ /naːj-thun/ /làw/ /níː/ /paj/ /friː/ /friː/ /thɯ̌ŋ/ /piː/ /láʔ/ /sɔ̌ːŋ-mɯ̀ːn-hòk-phan/ /láːn/ /bàːt/ /tháːŋ-thîː/ /roːŋ/ /faj-fáː/ /khɔ̌ːŋ/ /naːj-thun/ /jàj/ /mâj/ /dâj/ /dɤːn/ /khrɯ̂aŋ/ /phà-lìt/ /ciŋ/ /mɛ́ː-tɛ̀ː/ /mék-kàʔ-wàt/ /diaw/
+# tokenised_transcript =
+# phrase_type = sentence
+# sentence_position = body
+# genre = political_news_article
+# source = https://www.matichonweekly.com/hot-news/article_656027 
+# year = 2023
+1	แต่	แต่	ADV	_	_	3	advmod	_	SpaceAfter=No|Gloss=but|Translit=tɛ̀ː
+2	ประชาชน	ประชาชน	NOUN	_	_	3	nsubj	_	SpaceAfter=No|Gloss=population|Translit=pràʔ-chaː-chon
+3	ต้อง	ต้อง	VERB	_	_	0	root	_	SpaceAfter=No|Gloss=must|Translit=tɔ̂ŋ
+4	จ่าย	จ่าย	VERB	_	_	3	xcomp	_	SpaceAfter=No|Gloss=pay|Translit=càːj
+5	ค่า	ค่า	NOUN	_	_	4	obj	_	SpaceAfter=No|Gloss=cost|Translit=khâː
+6	ไฟฟ้า	ไฟฟ้า	NOUN	_	_	5	nmod	_	SpaceAfter=No|Gloss=electricity|Translit=faj-fáː
+7	ที่	ที่	PRON	_	_	10	obj	_	SpaceAfter=No|Gloss=that(REL)|Translit=thîː
+8	ไม่	ไม่	ADV	_	_	9	advmod	_	SpaceAfter=No|Gloss=not|Translit=mâj
+9	ได้	ได้	VERB	_	_	5	acl:relcl	_	SpaceAfter=No|Gloss=get(express the past time)|Translit=dâj
+10	ใช้	ใช้	VERB	_	_	9	xcomp	_	CorrectSpaceAfter=No|Gloss=use|Translit=cháj
+11	ให้	ให้	ADP	_	_	12	case	_	SpaceAfter=No|Gloss=for|Translit=hâj
+12	นายทุน	นายทุน	NOUN	_	_	4	obl	_	SpaceAfter=No|Gloss=capitalist|Translit=naːj-thun
+13	เหล่า	เหล่า	NOUN	_	_	12	nmod	_	SpaceAfter=No|Gloss=group|Translit=làw
+14	นี้	นี้	ADJ	_	_	13	amod	_	SpaceAfter=No|Gloss=this|Translit=níː
+15	ไป	ไป	ADV	_	_	4	advmod	_	SpaceAfter=No|Gloss=go(express aspect)|Translit=paj
+16	ฟรี	ฟรี	ADV	_	_	4	advmod	_	Gloss=free|Translit=friː
+17	ๆ	ๆ	SYM	_	ExtPos=ADV	16	compound:redup	_	Gloss=free|Translit=friː
+18	ถึง	ถึง	VERB	_	_	4	advcl	_	SpaceAfter=No|Gloss=to|Translit=thɯ̌ŋ
+19	ปี	ปี	NOUN	_	_	18	obl:arg	_	SpaceAfter=No|Gloss=year|Translit=piː
+20	ละ	ละ	ADJ	_	_	19	amod	_	Gloss=each|Translit=láʔ
+21	26,000	26,000	NUM	_	_	19	nummod	_	Gloss=26,000|Translit=sɔ̌ːŋ-mɯ̀ːn-hòk-phan
+22	ล้าน	ล้าน	NUM	_	_	21	flat	_	SpaceAfter=No|Gloss=million|Translit=láːn
+23	บาท	บาท	NOUN	_	NounType=Clf	21	clf	_	Gloss=baht|Translit=bàːt
+24	ทั้งที่	ทั้งที่	ADV	_	_	31	advmod	_	SpaceAfter=No|Gloss=despite the fact that|Translit=tháːŋ-thîː
+25	โรง	โรง	NOUN	_	_	31	nsubj	_	SpaceAfter=No|Gloss=facility|Translit=roːŋ
+26	ไฟฟ้า	ไฟฟ้า	NOUN	_	_	25	nmod	_	SpaceAfter=No|Gloss=electricity|Translit=faj-fáː
+27	ของ	ของ	ADP	_	_	28	case	_	SpaceAfter=No|Gloss=of|Translit=khɔ̌ːŋ
+28	นายทุน	นายทุน	NOUN	_	_	25	nmod	_	SpaceAfter=No|Gloss=capitalist|Translit=naːj-thun
+29	ใหญ่	ใหญ่	VERB	_	_	28	acl	_	SpaceAfter=No|Gloss=big|Translit=jàj
+30	ไม่	ไม่	ADV	_	_	31	advmod	_	SpaceAfter=No|Gloss=not|Translit=mâj
+31	ได้	ได้	VERB	_	_	3	advcl	_	SpaceAfter=No|Gloss=get(express the past time)|Translit=dâj
+32	เดิน	เดิน	VERB	_	_	31	xcomp	_	SpaceAfter=No|Gloss=operate|Translit=dɤːn
+33	เครื่อง	เครื่อง	NOUN	_	_	32	obl:arg	_	SpaceAfter=No|Gloss=machine|Translit=khrɯ̂aŋ
+34	ผลิต	ผลิต	VERB	_	_	32	compound:svc	_	SpaceAfter=No|Gloss=produce|Translit=phà-lìt
+35	จริง	จริง	ADV	_	_	34	advmod	_	SpaceAfter=No|Gloss=real|Translit=ciŋ
+36	แม้แต่	แม้แต่	SCONJ	_	_	37	mark	_	SpaceAfter=No|Gloss=even|Translit=mɛ́ː-tɛ̀ː
+37	เมกกะวัตต์	เมกกะวัตต์	NOUN	_	Foreign=Yes	32	advcl	_	SpaceAfter=No|Gloss=megawatt|Translit=mék-kàʔ-wàt 
+38	เดียว	เดียว	ADJ	_	_	37	amod	_	SpaceAfter=No|Gloss=single|Translit=diaw
+
+# newdoc
 # sent_id = Thai_Election_ForThaiParty_2023_NewsArticle_1
 # text = ‘ชลน่าน’ขีดเส้น หากได้เสียง 310 ไม่จับมือใคร โดยเฉพาะฝั่งเผด็จการ
 # text_en = 'Chonlanan' sets a boundary: if they secure 310 votes, they won’t join hands with anyone—especially the dictatorship-aligned camp.
