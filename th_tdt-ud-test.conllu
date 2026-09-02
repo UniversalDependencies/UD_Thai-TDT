@@ -2685,3 +2685,488 @@
 17	ต่อสู้	ต่อสู้	VERB	_	_	13	advcl	_	SpaceAfter=No|Gloss=fight|Translit=
 18	ต่อ	ต่อ	VERB	_	_	17	compound:svc	_	SpaceAfter=No|Gloss=|Translit=
 19	ไป	ไป	ADV	_	_	18	advmod	_	SpaceAfter=No|Gloss=|Translit=
+
+# newdoc
+# sent_id = Thai_Political_News_Article_Lotto_1
+# text = รองโฆษกรัฐบาลย้ำ สำนักงานสลากฯ ยังไม่เปิดจำหน่ายเลขสลาก 3 หลัก ขอประชาชนอย่าหลงเชื่อ
+# text_en = 
+# tokenised_text = รอง โฆษก รัฐบาล ย้ำ สำนักงาน สลาก ฯ ยัง ไม่ เปิด จำหน่าย เลข สลาก 3 หลัก ขอ ประชาชน อย่า หลง เชื่อ
+# tokenised_translit =
+# tokenised_transcript =
+# phrase_type = sentence
+# sentence_position = headline
+# genre = political_news_article
+# source = https://thestandard.co/glo-repeat-not-selling-3-digits/
+# year = 2023
+1	รอง	รอง	NOUN	_	_	4	nsubj	_	SpaceAfter=No|Gloss=|Translit=
+2	โฆษก	โฆษก	NOUN	_	_	1	nmod	_	SpaceAfter=No|Gloss=|Translit=
+3	รัฐบาล	รัฐบาล	NOUN	_	_	2	nmod	_	SpaceAfter=No|Gloss=government|Translit=
+4	ย้ำ	ย้ำ	VERB	_	_	0	root	_	SpaceAfter=No|Gloss=|Translit=
+5	สำนักงาน	สำนักงาน	NOUN	_	_	10	nsubj	_	SpaceAfter=No|Gloss=office|Translit=
+6	สลาก	สลาก	NOUN	_	ExtPos=PROPN	5	nmod	_	SpaceAfter=No|Gloss=|Translit=
+7	ฯ	ฯ	SYM	_	_	6	acl	_	SpaceAfter=No|Gloss=|Translit=
+8	ยัง	ยัง	ADV	_	_	10	advmod	_	SpaceAfter=No|Gloss=still|Translit=
+9	ไม่	ไม่	ADV	_	_	10	advmod	_	SpaceAfter=No|Gloss=not|Translit=
+10	เปิด	เปิด	VERB	_	_	4	ccomp	_	SpaceAfter=No|Gloss=open|Translit=
+11	จำหน่าย	จำหน่าย	VERB	_	_	10	compound:svc	_	SpaceAfter=No|Gloss=|Translit=
+12	เลข	เลข	NOUN	_	_	11	obj	_	SpaceAfter=No|Gloss=number|Translit=
+13	สลาก	สลาก	NOUN	_	_	12	nmod	_	SpaceAfter=No|Gloss=|Translit=
+14	3	3	NUM	_	_	12	nummod	_	SpaceAfter=No|Gloss=3|Translit=
+15	หลัก	หลัก	NOUN	_	NounType=Clf	14	clf	_	SpaceAfter=No|Gloss=|Translit=
+16	ขอ	ขอ	VERB	_	_	10	advcl	_	SpaceAfter=No|Gloss=ask|Translit=
+17	ประชาชน	ประชาชน	NOUN	_	_	16	obj	_	SpaceAfter=No|Gloss=population|Translit=
+18	อย่า	อย่า	ADV	_	_	19	advmod	_	SpaceAfter=No|Gloss=|Translit=
+19	หลง	หลง	VERB	_	_	16	xcomp	_	SpaceAfter=No|Gloss=|Translit=
+20	เชื่อ	เชื่อ	VERB	_	_	19	compound:svc	_	SpaceAfter=No|Gloss=believe|Translit=
+
+# sent_id = Thai_Political_News_Article_Lotto_2
+# text = วันนี้ (6 เมษายน) รัชดา ธนาดิเรก รองโฆษกประจำสำนักนายกรัฐมนตรี กล่าวถึงกรณีที่มีการโพสต์ข้อความระบุว่า “สำนักงานสลากกินแบ่งรัฐบาล เปิดจำหน่ายเลขสลาก 3 หลัก ให้รางวัลตั้งแต่บาทละ 100-1,000 บาท”
+# text_en = 
+# tokenised_text = วัน นี้ ( 6 เมษายน ) รัชดา ธนาดิเรก รอง โฆษก ประจำ สำนัก นายกรัฐมนตรี กล่าว ถึง กรณี ที่ มี การ โพสต์ ข้อความ ระบุ ว่า “ สำนักงาน สลาก กินแบ่ง รัฐบาล เปิด จำหน่าย เลข สลาก 3 หลัก ให้ รางวัล ตั้งแต่ บาท ละ 100 - 1,000 บาท ”
+# tokenised_translit =
+# tokenised_transcript =
+# phrase_type = sentence
+# sentence_position = body
+# genre = political_news_article
+# source = https://thestandard.co/glo-repeat-not-selling-3-digits/
+# year = 2023
+1	วัน	วัน	NOUN	_	_	14	obl	_	SpaceAfter=No|Gloss=day|Translit=
+2	นี้	นี้	ADJ	_	_	1	amod	_	SpaceAfter=No|Gloss=this|Translit=
+3	(	(	PUNCT	_	_	4	punct	_	SpaceAfter=No|Gloss=|Translit=
+4	6	6	NUM	_	_	1	appos	_	SpaceAfter=No|Gloss=6|Translit=
+5	เมษายน	เมษายน	NOUN	_	_	4	nmod	_	SpaceAfter=No|Gloss=March|Translit=
+6	)	)	PUNCT	_	_	4	punct	_	SpaceAfter=No|Gloss=|Translit=
+7	รัชดา	รัชดา	PROPN	_	_	14	nsubj	_	SpaceAfter=No|Gloss=|Translit=
+8	ธนาดิเรก	ธนาดิเรก	PROPN	_	_	7	flat	_	SpaceAfter=No|Gloss=|Translit=
+9	รอง	รอง	NOUN	_	_	7	appos	_	SpaceAfter=No|Gloss=|Translit=
+10	โฆษก	โฆษก	NOUN	_	_	9	nmod	_	SpaceAfter=No|Gloss=|Translit=
+11	ประจำ	ประจำ	VERB	_	_	9	acl	_	SpaceAfter=No|Gloss=|Translit=
+12	สำนัก	สำนัก	NOUN	_	_	11	obl:arg	_	SpaceAfter=No|Gloss=|Translit=
+13	นายกรัฐมนตรี	นายกรัฐมนตรี	PROPN	_	_	12	nmod	_	SpaceAfter=No|Gloss=|Translit=
+14	กล่าว	กล่าว	VERB	_	_	0	root	_	SpaceAfter=No|Gloss=say|Translit=
+15	ถึง	ถึง	ADP	_	_	16	case	_	SpaceAfter=No|Gloss=to|Translit=
+16	กรณี	กรณี	NOUN	_	_	14	obl	_	SpaceAfter=No|Gloss=case|Translit=
+17	ที่	ที่	PRON	_	_	18	dislocated	_	SpaceAfter=No|Gloss=that(REL)|Translit=
+18	มี	มี	VERB	_	_	16	acl:relcl	_	SpaceAfter=No|Gloss=have|Translit=
+19	การ	การ	NOUN	_	NounType=Nmlz	18	nsubj	_	SpaceAfter=No|Gloss=a thing to be done(nominalizer)|Translit=kaːn
+20	โพสต์	โพสต์	VERB	_	Foreign=Yes	19	acl	_	SpaceAfter=No|Gloss=post|Translit=
+21	ข้อความ	ข้อความ	NOUN	_	_	20	obj	_	SpaceAfter=No|Gloss=message|Translit=
+22	ระบุ	ระบุ	VERB	_	_	19	acl	_	SpaceAfter=No|Gloss=|Translit=
+23	ว่า	ว่า	SCONJ	_	_	29	mark	_	SpaceAfter=No|Gloss=that(COMP)|Translit=
+24	“	“	PUNCT	_	_	29	punct	_	SpaceAfter=No|Gloss=|Translit=
+25	สำนักงาน	สำนักงาน	NOUN	_	_	29	nsubj	_	SpaceAfter=No|Gloss=|Translit=
+26	สลาก	สลาก	NOUN	_	ExtPos=PROPN	25	nmod	_	SpaceAfter=No|Gloss=|Translit=
+27	กินแบ่ง	กินแบ่ง	VERB	_	_	26	acl	_	SpaceAfter=No|Gloss=|Translit=
+28	รัฐบาล	รัฐบาล	NOUN	_	_	26	nmod	_	SpaceAfter=No|Gloss=|Translit=
+29	เปิด	เปิด	VERB	_	_	22	ccomp	_	SpaceAfter=No|Gloss=open|Translit=
+30	จำหน่าย	จำหน่าย	VERB	_	_	29	compound:svc	_	SpaceAfter=No|Gloss=|Translit=
+31	เลข	เลข	NOUN	_	_	30	obj	_	SpaceAfter=No|Gloss=|Translit=
+32	สลาก	สลาก	NOUN	_	_	31	nmod	_	SpaceAfter=No|Gloss=|Translit=
+33	3	3	NUM	_	_	31	nummod	_	SpaceAfter=No|Gloss=3|Translit=
+34	หลัก	หลัก	NOUN	_	NounType=Clf	33	clf	_	SpaceAfter=No|Gloss=|Translit=
+35	ให้	ให้	VERB	_	_	31	acl	_	SpaceAfter=No|Gloss=give|Translit=
+36	รางวัล	รางวัล	NOUN	_	_	35	obj	_	SpaceAfter=No|Gloss=reward|Translit=
+37	ตั้งแต่	ตั้งแต่	ADP	_	_	38	case	_	SpaceAfter=No|Gloss=|Translit=
+38	บาท	บาท	NOUN	_	_	35	obl	_	SpaceAfter=No|Gloss=baht|Translit=
+39	ละ	ละ	ADJ	_	_	38	amod	_	SpaceAfter=No|Gloss=|Translit=
+40	100	100	NUM	_	_	38	nummod	_	SpaceAfter=No|Gloss=100|Translit=
+41	-	-	SYM	_	_	42	case	_	SpaceAfter=No|Gloss=to|Translit=
+42	1,000	1,000	NUM	_	_	40	nmod	_	SpaceAfter=No|Gloss=1,000|Translit=
+43	บาท	บาท	NOUN	_	NounType=Clf	40	clf	_	SpaceAfter=No|Gloss=baht|Translit=
+44	”	”	PUNCT	_	_	29	punct	_	SpaceAfter=No|Gloss=|Translit=
+
+# sent_id = Thai_Political_News_Article_Lotto_3
+# text = ต่อมาทางสำนักงานสลากกินแบ่งรัฐบาล กระทรวงการคลัง ชี้แจงว่า ขณะนี้สำนักงานสลากฯ ยังไม่ได้มีการเริ่มดำเนินการใดๆ เกี่ยวกับสลากแบบ N3 (3 หลัก) โดยสลากกินแบ่งรัฐบาลแบบตัวเลข 6 หลัก (L6) และสลากกินแบ่งรัฐบาลแบบตัวเลข 3 หลัก (N3) ยังอยู่ในขั้นตอนออกผลิตภัณฑ์ใหม่ 
+# text_en = 
+# tokenised_text = ต่อ มา ทาง สำนักงาน สลาก กินแบ่ง รัฐบาล กระทรวง การคลัง ชี้แจง ว่า ขณะ นี้ สำนักงาน สลาก ฯ ยัง ไม่ ได้ มี การ เริ่ม ดำเนิน การ ใด ๆ เกี่ยว กับ สลาก แบบ N3 ( 3 หลัก ) โดย สลาก กินแบ่ง รัฐบาล แบบ ตัว เลข 6 หลัก ( L6 ) และ สลาก กินแบ่ง รัฐบาล แบบ ตัว เลข 3 หลัก ( N3 ) ยัง อยู่ ใน ขั้นตอน ออก ผลิตภัณฑ์ ใหม่
+# tokenised_translit =
+# tokenised_transcript =
+# phrase_type = sentence
+# sentence_position = body
+# genre = political_news_article
+# source = https://thestandard.co/glo-repeat-not-selling-3-digits/
+# year = 2023
+1	ต่อ	ต่อ	VERB	_	_	0	root	_	SpaceAfter=No|Gloss=next|Translit=
+2	มา	มา	VERB	_	_	1	compound:svc	_	SpaceAfter=No|Gloss=|Translit=
+3	ทาง	ทาง	NOUN	_	_	10	nsubj	_	SpaceAfter=No|Gloss=|Translit=
+4	สำนักงาน	สำนักงาน	NOUN	_	_	3	nmod	_	SpaceAfter=No|Gloss=|Translit=
+5	สลาก	สลาก	NOUN	_	ExtPos=PROPN	4	nmod	_	SpaceAfter=No|Gloss=|Translit=
+6	กินแบ่ง	กินแบ่ง	VERB	_	_	5	acl	_	SpaceAfter=No|Gloss=|Translit=
+7	รัฐบาล	รัฐบาล	NOUN	_	_	5	nmod	_	SpaceAfter=No|Gloss=|Translit=
+8	กระทรวง	กระทรวง	NOUN	_	_	4	nmod	_	SpaceAfter=No|Gloss=ministry|Translit=
+9	การคลัง	การคลัง	PROPN	_	_	8	nmod	_	SpaceAfter=No|Gloss=|Translit=
+10	ชี้แจง	ชี้แจง	VERB	_	_	1	advcl	_	SpaceAfter=No|Gloss=|Translit=
+11	ว่า	ว่า	SCONJ	_	_	19	mark	_	SpaceAfter=No|Gloss=that(COMP)|Translit=
+12	ขณะ	ขณะ	NOUN	_	_	19	obl	_	SpaceAfter=No|Gloss=|Translit=
+13	นี้	นี้	ADJ	_	_	12	amod	_	SpaceAfter=No|Gloss=this|Translit=
+14	สำนักงาน	สำนักงาน	NOUN	_	_	19	nsubj	_	SpaceAfter=No|Gloss=office|Translit=
+15	สลาก	สลาก	NOUN	_	ExtPos=PROPN	14	nmod	_	SpaceAfter=No|Gloss=|Translit=
+16	ฯ	ฯ	SYM	_	_	15	acl	_	SpaceAfter=No|Gloss=|Translit=
+17	ยัง	ยัง	ADV	_	_	19	advmod	_	SpaceAfter=No|Gloss=still|Translit=
+18	ไม่	ไม่	ADV	_	_	19	advmod	_	SpaceAfter=No|Gloss=not|Translit=
+19	ได้	ได้	VERB	_	_	10	ccomp	_	SpaceAfter=No|Gloss=|Translit=
+20	มี	มี	VERB	_	_	19	xcomp	_	SpaceAfter=No|Gloss=have|Translit=
+21	การ	การ	NOUN	_	NounType=Nmlz	20	obl:arg	_	SpaceAfter=No|Gloss=a thing to be done(nominalizer)|Translit=
+22	เริ่ม	เริ่ม	VERB	_	_	21	acl	_	SpaceAfter=No|Gloss=begin|Translit=
+23	ดำเนิน	ดำเนิน	VERB	_	_	22	xcomp	_	SpaceAfter=No|Gloss=proceed|Translit=
+24	การ	การ	NOUN	_	_	23	obj	_	SpaceAfter=No|Gloss=work|Translit=
+25	ใด	ใด	ADJ	_	_	24	amod	_	SpaceAfter=No|Gloss=|Translit=
+26	ๆ	ๆ	SYM	_	ExtPos=ADJ	25	compound:redup	_	SpaceAfter=No|Gloss=|Translit=
+27	เกี่ยว	เกี่ยว	VERB	_	_	24	acl	_	SpaceAfter=No|Gloss=|Translit=
+28	กับ	กับ	ADP	_	_	29	case	_	SpaceAfter=No|Gloss=with|Translit=
+29	สลาก	สลาก	NOUN	_	_	27	obl	_	SpaceAfter=No|Gloss=|Translit=
+30	แบบ	แบบ	NOUN	_	_	29	nmod	_	SpaceAfter=No|Gloss=|Translit=
+31	N3	N3	PROPN	_	_	30	nmod	_	SpaceAfter=No|Gloss=N3|Translit=
+32	(	(	PUNCT	_	_	33	punct	_	SpaceAfter=No|Gloss=|Translit=
+33	3	3	NUM	_	_	29	appos	_	SpaceAfter=No|Gloss=3|Translit=
+34	หลัก	หลัก	NOUN	_	NounType=Clf	33	clf	_	SpaceAfter=No|Gloss=|Translit=
+35	)	)	PUNCT	_	_	33	punct	_	SpaceAfter=No|Gloss=|Translit=
+36	โดย	โดย	SCONJ	_	_	61	mark	_	SpaceAfter=No|Gloss=with|Translit=
+37	สลาก	สลาก	NOUN	_	_	61	nsubj	_	SpaceAfter=No|Gloss=|Translit=
+38	กินแบ่ง	กินแบ่ง	VERB	_	_	37	acl	_	SpaceAfter=No|Gloss=|Translit=
+39	รัฐบาล	รัฐบาล	NOUN	_	_	37	nmod	_	SpaceAfter=No|Gloss=government|Translit=
+40	แบบ	แบบ	NOUN	_	_	37	nmod	_	SpaceAfter=No|Gloss=|Translit=
+41	ตัว	ตัว	NOUN	_	_	40	nmod	_	SpaceAfter=No|Gloss=body|Translit=
+42	เลข	เลข	NOUN	_	_	41	nmod	_	SpaceAfter=No|Gloss=number|Translit=
+43	6	6	NUM	_	_	41	nummod	_	SpaceAfter=No|Gloss=6|Translit=
+44	หลัก	หลัก	NOUN	_	NounType=Clf	43	clf	_	SpaceAfter=No|Gloss=|Translit=
+45	(	(	PUNCT	_	_	46	punct	_	SpaceAfter=No|Gloss=|Translit=
+46	L6	L6	PROPN	_	_	37	appos	_	SpaceAfter=No|Gloss=L6|Translit=
+47	)	)	PUNCT	_	_	46	punct	_	SpaceAfter=No|Gloss=|Translit=
+48	และ	และ	CCONJ	_	_	49	cc	_	SpaceAfter=No|Gloss=and|Translit=
+49	สลาก	สลาก	NOUN	_	_	37	conj	_	SpaceAfter=No|Gloss=|Translit=
+50	กินแบ่ง	กินแบ่ง	VERB	_	_	49	acl	_	SpaceAfter=No|Gloss=|Translit=
+51	รัฐบาล	รัฐบาล	NOUN	_	_	49	nmod	_	SpaceAfter=No|Gloss=government|Translit=
+52	แบบ	แบบ	NOUN	_	_	49	nmod	_	SpaceAfter=No|Gloss=|Translit=
+53	ตัว	ตัว	NOUN	_	_	52	nmod	_	SpaceAfter=No|Gloss=body|Translit=
+54	เลข	เลข	NOUN	_	_	53	nmod	_	SpaceAfter=No|Gloss=number|Translit=
+55	3	3	NUM	_	_	53	nummod	_	SpaceAfter=No|Gloss=3|Translit=
+56	หลัก	หลัก	NOUN	_	NounType=Clf	55	clf	_	SpaceAfter=No|Gloss=|Translit=
+57	(	(	PUNCT	_	_	58	punct	_	SpaceAfter=No|Gloss=|Translit=
+58	N3	N3	PROPN	_	_	49	appos	_	SpaceAfter=No|Gloss=N3|Translit=
+59	)	)	PUNCT	_	_	58	punct	_	SpaceAfter=No|Gloss=|Translit=
+60	ยัง	ยัง	ADV	_	_	61	advmod	_	SpaceAfter=No|Gloss=still|Translit=
+61	อยู่	อยู่	VERB	_	_	19	advcl	_	SpaceAfter=No|Gloss=stay|Translit=
+62	ใน	ใน	ADP	_	_	63	case	_	SpaceAfter=No|Gloss=in|Translit=
+63	ขั้นตอน	ขั้นตอน	NOUN	_	_	61	obl	_	SpaceAfter=No|Gloss=procedure|Translit=
+64	ออก	ออก	VERB	_	_	63	acl	_	SpaceAfter=No|Gloss=|Translit=
+65	ผลิตภัณฑ์	ผลิตภัณฑ์	NOUN	_	_	64	obl:arg	_	SpaceAfter=No|Gloss=product|Translit=
+66	ใหม่	ใหม่	VERB	_	_	65	acl	_	SpaceAfter=No|Gloss=new|Translit=
+
+# sent_id = Thai_Political_News_Article_Lotto_4
+# text = โดยหลังจากนี้จะต้องไปจัดทำประกาศ กำหนดประเภทและรูปแบบสลากกินแบ่งรัฐบาลรูปแบบใหม่ เพื่อนำมาเสนอให้ที่ประชุมคณะรัฐมนตรีพิจารณาเห็นชอบอีกครั้ง
+# text_en = 
+# tokenised_text = โดย หลัง จาก นี้ จะ ต้อง ไป จัด ทำ ประกาศ กำหนด ประเภท และ รูปแบบ สลาก กินแบ่ง รัฐบาล รูปแบบ ใหม่ เพื่อ นำ มา เสนอ ให้ ที่ ประชุม คณะ รัฐมนตรี พิจารณา เห็นชอบ อีก ครั้ง
+# tokenised_translit =
+# tokenised_transcript =
+# phrase_type = sentence
+# sentence_position = body
+# genre = political_news_article
+# source = https://thestandard.co/glo-repeat-not-selling-3-digits/
+# year = 2023
+1	โดย	โดย	SCONJ	_	_	5	mark	_	SpaceAfter=No|Gloss=|Translit=
+2	หลังจาก	หลังจาก	ADP	_	_	3	case	_	SpaceAfter=No|Gloss=after|Translit=
+3	นี้	นี้	PRON	_	_	5	obl	_	SpaceAfter=No|Gloss=this|Translit=
+4	จะ	จะ	ADV	_	_	5	advmod	_	SpaceAfter=No|Gloss=|Translit=
+5	ต้อง	ต้อง	VERB	_	_	0	root	_	SpaceAfter=No|Gloss=must|Translit=
+6	ไป	ไป	VERB	_	_	5	xcomp	_	SpaceAfter=No|Gloss=go|Translit=
+7	จัด	จัด	VERB	_	_	6	compound:svc	_	SpaceAfter=No|Gloss=|Translit=
+8	ทำ	ทำ	VERB	_	_	7	compound:svc	_	SpaceAfter=No|Gloss=do|Translit=
+9	ประกาศ	ประกาศ	NOUN	_	_	8	obj	_	SpaceAfter=No|Gloss=announce|Translit=
+10	กำหนด	กำหนด	VERB	_	_	6	conj	_	SpaceAfter=No|Gloss=|Translit=
+11	ประเภท	ประเภท	NOUN	_	_	10	obj	_	SpaceAfter=No|Gloss=type|Translit=
+12	และ	และ	CCONJ	_	_	13	cc	_	SpaceAfter=No|Gloss=and|Translit=
+13	รูปแบบ	รูปแบบ	NOUN	_	_	11	conj	_	SpaceAfter=No|Gloss=|Translit=
+14	สลาก	สลาก	NOUN	_	_	11	nmod	_	SpaceAfter=No|Gloss=|Translit=
+15	กินแบ่ง	กินแบ่ง	VERB	_	_	14	acl	_	SpaceAfter=No|Gloss=|Translit=
+16	รัฐบาล	รัฐบาล	NOUN	_	_	14	nmod	_	SpaceAfter=No|Gloss=government|Translit=
+17	รูปแบบ	รูปแบบ	NOUN	_	_	10	xcomp	_	SpaceAfter=No|Gloss=|Translit=
+18	ใหม่	ใหม่	VERB	_	_	17	acl	_	SpaceAfter=No|Gloss=new|Translit=
+19	เพื่อ	เพื่อ	ADP	_	_	20	mark	_	SpaceAfter=No|Gloss=for|Translit=
+20	นำ	นำ	VERB	_	_	6	advcl	_	SpaceAfter=No|Gloss=|Translit=
+21	มา	มา	VERB	_	_	20	compound:svc	_	SpaceAfter=No|Gloss=come|Translit=
+22	เสนอ	เสนอ	VERB	_	_	21	compound:svc	_	SpaceAfter=No|Gloss=|Translit=
+23	ให้	ให้	SCONJ	_	_	28	mark	_	SpaceAfter=No|Gloss=give|Translit=
+24	ที่	ที่	NOUN	_	_	28	nsubj	_	SpaceAfter=No|Gloss=place|Translit=
+25	ประชุม	ประชุม	VERB	_	_	24	acl	_	SpaceAfter=No|Gloss=|Translit=
+26	คณะ	คณะ	NOUN	_	_	24	nmod	_	SpaceAfter=No|Gloss=|Translit=
+27	รัฐมนตรี	รัฐมนตรี	NOUN	_	_	26	nmod	_	SpaceAfter=No|Gloss=|Translit=
+28	พิจารณา	พิจารณา	VERB	_	_	22	advcl	_	SpaceAfter=No|Gloss=consider|Translit=
+29	เห็นชอบ	เห็นชอบ	VERB	_	_	28	conj	_	SpaceAfter=No|Gloss=|Translit=
+30	อีก	อีก	DET	_	_	31	det	_	SpaceAfter=No|Gloss=|Translit=
+31	ครั้ง	ครั้ง	NOUN	_	NounType=Clf	28	obl	_	SpaceAfter=No|Gloss=|Translit=
+
+# sent_id = Thai_Political_News_Article_Lotto_5
+# text = ส่วนรายละเอียดเกี่ยวกับปริมาณสลากที่เหมาะสม ช่วงเวลาในการจำหน่าย ช่องทาง และวิธีการจำหน่าย เป็นเรื่องที่สำนักงานสลากฯ จะพิจารณาต่อไป
+# text_en = 
+# tokenised_text = ส่วน รายละเอียด เกี่ยว กับ ปริมาณ สลาก ที่ เหมาะสม ช่วง เวลา ใน การ จำหน่าย ช่องทาง และ วิธีการ จำหน่าย เป็น เรื่อง ที่ สำนักงาน สลาก ฯ จะ พิจารณา ต่อ ไป
+# tokenised_translit =
+# tokenised_transcript =
+# phrase_type = sentence
+# sentence_position = body
+# genre = political_news_article
+# source = https://thestandard.co/glo-repeat-not-selling-3-digits/
+# year = 2023
+1	ส่วน	ส่วน	NOUN	_	_	19	nsubj	_	SpaceAfter=No|Gloss=|Translit=
+2	รายละเอียด	รายละเอียด	NOUN	_	_	1	nmod	_	SpaceAfter=No|Gloss=detail|Translit=
+3	เกี่ยว	เกี่ยว	VERB	_	_	2	acl	_	SpaceAfter=No|Gloss=|Translit=
+4	กับ	กับ	ADP	_	_	5	case	_	SpaceAfter=No|Gloss=with|Translit=
+5	ปริมาณ	ปริมาณ	NOUN	_	_	3	obl	_	SpaceAfter=No|Gloss=quantity|Translit=
+6	สลาก	สลาก	NOUN	_	_	5	nmod	_	SpaceAfter=No|Gloss=|Translit=
+7	ที่	ที่	PRON	_	_	8	nsubj	_	SpaceAfter=No|Gloss=that(REL)|Translit=
+8	เหมาะสม	เหมาะสม	VERB	_	_	5	acl:relcl	_	SpaceAfter=No|Gloss=appropriate|Translit=
+9	ช่วง	ช่วง	NOUN	_	_	5	conj	_	SpaceAfter=No|Gloss=|Translit=
+10	เวลา	เวลา	NOUN	_	_	9	nmod	_	SpaceAfter=No|Gloss=time|Translit=
+11	ใน	ใน	ADP	_	_	12	case	_	SpaceAfter=No|Gloss=in|Translit=
+12	การ	การ	NOUN	_	NounType=Nmlz	9	nmod	_	SpaceAfter=No|Gloss=a thing to be done(nominalizer)|Translit=kaːn
+13	จำหน่าย	จำหน่าย	VERB	_	_	12	acl	_	SpaceAfter=No|Gloss=|Translit=
+14	ช่องทาง	ช่องทาง	NOUN	_	_	5	conj	_	SpaceAfter=No|Gloss=|Translit=
+15	และ	และ	CCONJ	_	_	16	cc	_	SpaceAfter=No|Gloss=and|Translit=
+16	วิธีการ	วิธีการ	NOUN	_	_	5	conj	_	SpaceAfter=No|Gloss=|Translit=
+17	จำหน่าย	จำหน่าย	VERB	_	_	16	acl	_	SpaceAfter=No|Gloss=|Translit=
+18	เป็น	เป็น	AUX	_	_	19	cop	_	SpaceAfter=No|Gloss=be|Translit=
+19	เรื่อง	เรื่อง	NOUN	_	_	0	root	_	SpaceAfter=No|Gloss=matter|Translit=
+20	ที่	ที่	PRON	_	_	25	obj	_	SpaceAfter=No|Gloss=that(REL)|Translit=
+21	สำนักงาน	สำนักงาน	NOUN	_	_	25	nsubj	_	SpaceAfter=No|Gloss=office|Translit=
+22	สลาก	สลาก	NOUN	_	ExtPos=PROPN	21	nmod	_	SpaceAfter=No|Gloss=|Translit=
+23	ฯ	ฯ	SYM	_	_	22	acl	_	SpaceAfter=No|Gloss=|Translit=
+24	จะ	จะ	ADV	_	_	25	advmod	_	SpaceAfter=No|Gloss=|Translit=
+25	พิจารณา	พิจารณา	VERB	_	_	19	acl:relcl	_	SpaceAfter=No|Gloss=consider|Translit=
+26	ต่อ	ต่อ	VERB	_	_	25	compound:svc	_	SpaceAfter=No|Gloss=|Translit=
+27	ไป	ไป	ADV	_	_	26	advmod	_	SpaceAfter=No|Gloss=|Translit=
+
+# sent_id = Thai_Political_News_Article_Lotto_6
+# text = รัชดากล่าวต่อไปว่า การออกสลากกินแบ่งรัฐบาลแบบตัวเลข 6 หลัก (L6) และสลากกินแบ่งรัฐบาลแบบตัวเลข 3 หลัก (N3) จะเป็นอีกทางเลือกหนึ่งที่สามารถควบคุมราคาสลากกินแบ่งรัฐบาล
+# text_en = 
+# tokenised_text = รัชดา กล่าว ต่อ ไป ว่า การ ออก สลาก กินแบ่ง รัฐบาล แบบ ตัวเลข 6 หลัก ( L6 ) และ สลาก กินแบ่ง รัฐบาล แบบ ตัวเลข 3 หลัก ( N3 ) จะ เป็น อีก ทาง เลือก หนึ่ง ที่ สามารถ ควบคุม ราคา สลาก กินแบ่ง รัฐบาล
+# tokenised_translit =
+# tokenised_transcript = /sà-làːk/ /bɛ̀ːp/ /làk/ /sǎːm/ /ʔen-sǎːm/ /lɛ́ʔ/ /kin-bɛ̀ːŋ/ /rát-thà-baːn/ /tua/ /lêːk/
+# phrase_type = sentence
+# sentence_position = body
+# genre = political_news_article
+# source = https://thestandard.co/glo-repeat-not-selling-3-digits/
+# year = 2023
+1	รัชดา	รัชดา	PROPN	_	_	2	nsubj	_	SpaceAfter=No|Gloss=|Translit=
+2	กล่าว	กล่าว	VERB	_	_	0	root	_	SpaceAfter=No|Gloss=say|Translit=
+3	ต่อ	ต่อ	ADV	_	_	2	advmod	_	SpaceAfter=No|Gloss=|Translit=
+4	ไป	ไป	ADV	_	_	3	advmod	_	SpaceAfter=No|Gloss=|Translit=
+5	ว่า	ว่า	ADP	_	_	34	mark	_	SpaceAfter=No|Gloss=that(COMP)|Translit=
+6	การ	การ	NOUN	_	NounType=Nmlz	34	nsubj	_	SpaceAfter=No|Gloss=a thing to be done(nominalizer)|Translit=
+7	ออก	ออก	VERB	_	_	6	acl	_	SpaceAfter=No|Gloss=|Translit=
+8	สลาก	สลาก	NOUN	_	_	7	obl:arg	_	SpaceAfter=No|Gloss=|Translit=
+9	กินแบ่ง	กินแบ่ง	VERB	_	_	8	acl	_	SpaceAfter=No|Gloss=|Translit=
+10	รัฐบาล	รัฐบาล	NOUN	_	_	8	nmod	_	SpaceAfter=No|Gloss=government|Translit=
+11	แบบ	แบบ	NOUN	_	_	8	nmod	_	SpaceAfter=No|Gloss=|Translit=
+12	ตัว	ตัว	NOUN	_	_	11	nmod	_	SpaceAfter=No|Gloss=body|Translit=
+13	เลข	เลข	NOUN	_	_	12	nmod	_	SpaceAfter=No|Gloss=number|Translit=
+14	6	6	NUM	_	_	12	nummod	_	SpaceAfter=No|Gloss=6|Translit=
+15	หลัก	หลัก	NOUN	_	NounType=Clf	14	clf	_	SpaceAfter=No|Gloss=|Translit=
+16	(	(	PUNCT	_	_	17	punct	_	SpaceAfter=No|Gloss=|Translit=
+17	L6	L6	PROPN	_	_	8	appos	_	SpaceAfter=No|Gloss=L6|Translit=
+18	)	)	PUNCT	_	_	17	punct	_	SpaceAfter=No|Gloss=|Translit=
+19	และ	และ	CCONJ	_	_	20	cc	_	SpaceAfter=No|Gloss=and|Translit=
+20	สลาก	สลาก	NOUN	_	_	8	conj	_	SpaceAfter=No|Gloss=|Translit=
+21	กินแบ่ง	กินแบ่ง	VERB	_	_	20	acl	_	SpaceAfter=No|Gloss=|Translit=
+22	รัฐบาล	รัฐบาล	NOUN	_	_	20	nmod	_	SpaceAfter=No|Gloss=government|Translit=
+23	แบบ	แบบ	NOUN	_	_	20	nmod	_	SpaceAfter=No|Gloss=|Translit=
+24	ตัว	ตัว	NOUN	_	_	23	nmod	_	SpaceAfter=No|Gloss=body|Translit=
+25	เลข	เลข	NOUN	_	_	24	nmod	_	SpaceAfter=No|Gloss=number|Translit=
+26	3	3	NUM	_	_	24	nummod	_	SpaceAfter=No|Gloss=3|Translit=
+27	หลัก	หลัก	NOUN	_	NounType=Clf	26	clf	_	SpaceAfter=No|Gloss=|Translit=
+28	(	(	PUNCT	_	_	29	punct	_	SpaceAfter=No|Gloss=|Translit=
+29	N3	N3	PROPN	_	_	20	appos	_	SpaceAfter=No|Gloss=N3|Translit=
+30	)	)	PUNCT	_	_	29	punct	_	SpaceAfter=No|Gloss=|Translit=
+31	จะ	จะ	ADV	_	_	34	advmod	_	SpaceAfter=No|Gloss=|Translit=
+32	เป็น	เป็น	AUX	_	_	34	cop	_	SpaceAfter=No|Gloss=BE|Translit=
+33	อีก	อีก	DET	_	_	34	det	_	SpaceAfter=No|Gloss=another|Translit=
+34	ทาง	ทาง	NOUN	_	NounType=Clf	2	ccomp	_	SpaceAfter=No|Gloss=way|Translit=
+35	เลือก	เลือก	VERB	_	_	34	acl	_	SpaceAfter=No|Gloss=choose|Translit=
+36	หนึ่ง	หนึ่ง	NUM	_	_	34	nummod	_	SpaceAfter=No|Gloss=one|Translit=
+37	ที่	ที่	PRON	_	_	38	nsubj	_	SpaceAfter=No|Gloss=that(REL)|Translit=
+38	สามารถ	สามารถ	VERB	_	_	34	acl:relcl	_	SpaceAfter=No|Gloss=|Translit=
+39	ควบคุม	ควบคุม	VERB	_	_	38	xcomp	_	SpaceAfter=No|Gloss=control|Translit=
+40	ราคา	ราคา	NOUN	_	_	39	obj	_	SpaceAfter=No|Gloss=price|Translit=
+41	สลาก	สลาก	NOUN	_	_	40	nmod	_	SpaceAfter=No|Gloss=|Translit=
+42	กินแบ่ง	กินแบ่ง	VERB	_	_	41	acl	_	SpaceAfter=No|Gloss=|Translit=
+43	รัฐบาล	รัฐบาล	NOUN	_	_	41	nmod	_	SpaceAfter=No|Gloss=government|Translit=
+
+# sent_id = Thai_Political_News_Article_Lotto_7
+# text = เนื่องจากที่ผ่านมามีการออกผลิตภัณฑ์สลากหลายประเภทก็สามารถช่วยลดราคาสลากกินแบ่งรัฐบาลลงมาได้ อีกทั้งยังช่วยลดปัญหาหวยใต้ดินในทางอ้อม เพราะเป็นตัวเลือกที่ถูกกฎหมาย
+# text_en = 
+# tokenised_text = เนื่อง จาก ที่ ผ่าน มา มี การ ออก ผลิตภัณฑ์ สลาก หลาย ประเภท ก็ สามารถ ช่วย ลด ราคา สลาก กินแบ่ง รัฐบาล ลง มา ได้ อีกทั้ง ยัง ช่วย ลด ปัญหา หวย ใต้ดิน ใน ทาง อ้อม เพราะ เป็น ตัว เลือก ที่ ถูก กฎหมาย
+# tokenised_translit =
+# tokenised_transcript =
+# phrase_type = sentence
+# sentence_position = body
+# genre = political_news_article
+# source = https://thestandard.co/glo-repeat-not-selling-3-digits/
+# year = 2023
+1	เนื่อง	เนื่อง	VERB	_	_	0	root	_	SpaceAfter=No|Gloss=|Translit=
+2	จาก	จาก	ADP	_	_	4	mark	_	SpaceAfter=No|Gloss=from|Translit=
+3	ที่	ที่	PRON	_	_	4	nsubj	_	SpaceAfter=No|Gloss=what|Translit=
+4	ผ่าน	ผ่าน	VERB	_	_	1	advcl	_	SpaceAfter=No|Gloss=pass|Translit=
+5	มา	มา	VERB	_	_	4	compound:svc	_	SpaceAfter=No|Gloss=|Translit=
+6	มี	มี	VERB	_	_	4	advcl	_	SpaceAfter=No|Gloss=have|Translit=
+7	การ	การ	NOUN	_	NounType=Nmlz	6	nsubj	_	SpaceAfter=No|Gloss=a thing to be done(nominalizer)|Translit=
+8	ออก	ออก	VERB	_	_	7	acl	_	SpaceAfter=No|Gloss=|Translit=
+9	ผลิตภัณฑ์	ผลิตภัณฑ์	NOUN	_	_	8	obl:arg	_	SpaceAfter=No|Gloss=product|Translit=
+10	สลาก	สลาก	NOUN	_	_	9	nmod	_	SpaceAfter=No|Gloss=|Translit=
+11	หลาย	หลาย	DET	_	_	12	det	_	SpaceAfter=No|Gloss=several|Translit=
+12	ประเภท	ประเภท	NOUN	_	NounType=Clf	9	nmod	_	SpaceAfter=No|Gloss=type|Translit=
+13	ก็	ก็	ADV	_	_	14	advmod	_	SpaceAfter=No|Gloss=|Translit=
+14	สามารถ	สามารถ	VERB	_	_	6	advcl	_	SpaceAfter=No|Gloss=|Translit=
+15	ช่วย	ช่วย	VERB	_	_	14	xcomp	_	SpaceAfter=No|Gloss=help|Translit=
+16	ลด	ลด	VERB	_	_	15	xcomp	_	SpaceAfter=No|Gloss=decrease|Translit=
+17	ราคา	ราคา	NOUN	_	_	16	obj	_	SpaceAfter=No|Gloss=price|Translit=
+18	สลาก	สลาก	NOUN	_	_	17	nmod	_	SpaceAfter=No|Gloss=|Translit=
+19	กินแบ่ง	กินแบ่ง	VERB	_	_	18	acl	_	SpaceAfter=No|Gloss=|Translit=
+20	รัฐบาล	รัฐบาล	NOUN	_	_	18	nmod	_	SpaceAfter=No|Gloss=government|Translit=
+21	ลง	ลง	VERB	_	_	16	xcomp	_	SpaceAfter=No|Gloss=|Translit=
+22	มา	มา	VERB	_	_	21	compound:svc	_	SpaceAfter=No|Gloss=|Translit=
+23	ได้	ได้	VERB	_	_	15	advcl	_	Gloss=|Translit=
+24	อีกทั้ง	อีกทั้ง	SCONJ	_	_	26	mark	_	SpaceAfter=No|Gloss=|Translit=
+25	ยัง	ยัง	ADV	_	_	26	advmod	_	SpaceAfter=No|Gloss=still|Translit=
+26	ช่วย	ช่วย	VERB	_	_	15	advcl	_	SpaceAfter=No|Gloss=help|Translit=
+27	ลด	ลด	VERB	_	_	26	xcomp	_	SpaceAfter=No|Gloss=reduce|Translit=
+28	ปัญหา	ปัญหา	NOUN	_	_	27	obj	_	SpaceAfter=No|Gloss=problem|Translit=
+29	หวย	หวย	NOUN	_	_	28	nmod	_	SpaceAfter=No|Gloss=lottery|Translit=
+30	ใต้ดิน	ใต้ดิน	VERB	_	_	29	acl	_	SpaceAfter=No|Gloss=|Translit=
+31	ใน	ใน	ADP	_	_	32	case	_	SpaceAfter=No|Gloss=in|Translit=
+32	ทาง	ทาง	NOUN	_	_	27	obl	_	SpaceAfter=No|Gloss=way|Translit=
+33	อ้อม	อ้อม	VERB	_	_	32	acl	_	Gloss=|Translit=
+34	เพราะ	เพราะ	ADP	_	_	36	mark	_	SpaceAfter=No|Gloss=because|Translit=
+35	เป็น	เป็น	AUX	_	_	36	cop	_	SpaceAfter=No|Gloss=be|Translit=
+36	ตัว	ตัว	NOUN	_	_	26	advcl	_	SpaceAfter=No|Gloss=body|Translit=
+37	เลือก	เลือก	VERB	_	_	36	acl	_	SpaceAfter=No|Gloss=choose|Translit=
+38	ที่	ที่	PRON	_	_	39	nsubj	_	SpaceAfter=No|Gloss=that(REL)|Translit=
+39	ถูก	ถูก	VERB	_	_	36	acl:relcl	_	SpaceAfter=No|Gloss=|Translit=
+40	กฎหมาย	กฎหมาย	NOUN	_	_	39	obl:arg	_	SpaceAfter=No|Gloss=law|Translit=
+
+# sent_id = Thai_Political_News_Article_Lotto_8
+# text = อีกทั้งการซื้อสลาก 1 ใบมีสิทธิ์ถูกรางวัลถึง 4 รางวัล คือ 3 ตัวตรง 3 ตัวสลับ 2 ตัวตรง และมีโอกาสถูกรางวัลแจ็กพอต 
+# text_en = 
+# tokenised_text = อีก ทั้ง การ ซื้อ สลาก 1 ใบ มี สิทธิ์ ถูก รางวัล ถึง 4 รางวัล คือ 3 ตัว ตรง 3 ตัว สลับ 2 ตัว ตรง และ มี โอกาส ถูก รางวัล แจ็กพอต
+# tokenised_translit =
+# tokenised_transcript =
+# phrase_type = sentence
+# sentence_position = body
+# genre = political_news_article
+# source = https://thestandard.co/glo-repeat-not-selling-3-digits/
+# year = 2023
+1	อีกทั้ง	อีกทั้ง	SCONJ	_	_	7	mark	_	SpaceAfter=No|Gloss=|Translit=
+2	การ	การ	NOUN	_	NounType=Nmlz	7	nsubj	_	SpaceAfter=No|Gloss=a thing to be done|Translit=
+3	ซื้อ	ซื้อ	VERB	_	_	2	acl	_	SpaceAfter=No|Gloss=buy|Translit=
+4	สลาก	สลาก	NOUN	_	_	3	obj	_	SpaceAfter=No|Gloss=|Translit=
+5	1	1	NUM	_	_	4	nummod	_	SpaceAfter=No|Gloss=1|Translit=
+6	ใบ	ใบ	NOUN	_	NounType=Clf	5	clf	_	SpaceAfter=No|Gloss=leaf|Translit=
+7	มี	มี	VERB	_	_	0	root	_	SpaceAfter=No|Gloss=have|Translit=
+8	สิทธิ์	สิทธิ์	NOUN	_	_	7	obl:arg	_	SpaceAfter=No|Gloss=right|Translit=
+9	ถูก	ถูก	VERB	_	_	8	acl	_	SpaceAfter=No|Gloss=|Translit=
+10	รางวัล	รางวัล	NOUN	_	_	9	obl:arg	_	SpaceAfter=No|Gloss=reward|Translit=
+11	ถึง	ถึง	ADP	_	_	12	case	_	SpaceAfter=No|Gloss=to|Translit=
+12	4	4	NUM	_	_	9	obl	_	SpaceAfter=No|Gloss=4|Translit=
+13	รางวัล	รางวัล	NOUN	_	NounType=Clf	12	clf	_	SpaceAfter=No|Gloss=reward|Translit=
+14	คือ	คือ	CCONJ	_	_	15	cc	_	SpaceAfter=No|Gloss=|Translit=
+15	3	3	NUM	_	_	12	conj	_	SpaceAfter=No|Gloss=3|Translit=
+16	ตัว	ตัว	NOUN	_	NounType=Clf	15	clf	_	SpaceAfter=No|Gloss=body|Translit=
+17	ตรง	ตรง	VERB	_	_	16	acl	_	SpaceAfter=No|Gloss=|Translit=
+18	3	3	NUM	_	_	12	conj	_	SpaceAfter=No|Gloss=3|Translit=
+19	ตัว	ตัว	NOUN	_	NounType=Clf	18	clf	_	SpaceAfter=No|Gloss=body|Translit=
+20	สลับ	สลับ	VERB	_	_	19	acl	_	SpaceAfter=No|Gloss=switch|Translit=
+21	2	2	NUM	_	_	12	conj	_	SpaceAfter=No|Gloss=2|Translit=
+22	ตัว	ตัว	NOUN	_	NounType=Clf	21	clf	_	SpaceAfter=No|Gloss=body|Translit=
+23	ตรง	ตรง	VERB	_	_	22	acl	_	SpaceAfter=No|Gloss=|Translit=
+24	และ	และ	CCONJ	_	_	25	cc	_	SpaceAfter=No|Gloss=and|Translit=
+25	มี	มี	VERB	_	_	7	conj	_	SpaceAfter=No|Gloss=have|Translit=
+26	โอกาส	โอกาส	NOUN	_	_	25	obl:arg	_	SpaceAfter=No|Gloss=opportunity|Translit=
+27	ถูก	ถูก	VERB	_	_	26	acl	_	SpaceAfter=No|Gloss=|Translit=
+28	รางวัล	รางวัล	NOUN	_	_	27	obl:arg	_	SpaceAfter=No|Gloss=reward|Translit=
+29	แจ็กพอต	แจ็กพอต	NOUN	_	Foreign=Yes	28	nmod	_	SpaceAfter=No|Gloss=jackpot|Translit=
+
+# sent_id = Thai_Political_News_Article_Lotto_9
+# text = และในส่วนของช่องทางการจำหน่าย รัชดากล่าวด้วยว่า ขอให้ประชาชนอย่าหลงเชื่อข้อมูลดังกล่าว และขอความร่วมมือไม่ส่งหรือแชร์ข้อมูลดังกล่าวต่อในช่องทางสื่อสังคมออนไลน์ต่างๆ
+# text_en = 
+# tokenised_text = และ ใน ส่วน ของ ช่องทาง การ จำหน่าย รัชดา กล่าว ด้วย ว่า ขอ ให้ ประชาชน อย่า หลงเชื่อ ข้อมูล ดัง กล่าว และ ขอ ความ ร่วมมือ ไม่ ส่ง หรือ แชร์ ข้อมูล ดัง กล่าว ต่อ ใน ช่องทาง สื่อ สังคม ออนไลน์ ต่าง ๆ
+# tokenised_translit =
+# tokenised_transcript =
+# phrase_type = sentence
+# sentence_position = body
+# genre = political_news_article
+# source = https://thestandard.co/glo-repeat-not-selling-3-digits/
+# year = 2023
+1	และ	และ	ADV	_	_	9	advmod	_	SpaceAfter=No|Gloss=and|Translit=
+2	ใน	ใน	ADP	_	_	3	case	_	SpaceAfter=No|Gloss=in|Translit=
+3	ส่วน	ส่วน	NOUN	_	_	9	obl	_	SpaceAfter=No|Gloss=part|Translit=
+4	ของ	ของ	ADP	_	_	5	case	_	SpaceAfter=No|Gloss=of|Translit=
+5	ช่องทาง	ช่องทาง	NOUN	_	_	3	nmod	_	SpaceAfter=No|Gloss=|Translit=
+6	การ	การ	NOUN	_	NounType=Nmlz	5	nmod	_	SpaceAfter=No|Gloss=a thing to be done(nominalizer)|Translit=
+7	จำหน่าย	จำหน่าย	VERB	_	_	6	acl	_	SpaceAfter=No|Gloss=|Translit=
+8	รัชดา	รัชดา	PROPN	_	_	9	nsubj	_	SpaceAfter=No|Gloss=|Translit=
+9	กล่าว	กล่าว	VERB	_	_	0	root	_	SpaceAfter=No|Gloss=say|Translit=
+10	ด้วย	ด้วย	ADV	_	_	9	advmod	_	SpaceAfter=No|Gloss=also|Translit=
+11	ว่า	ว่า	ADP	_	_	12	mark	_	SpaceAfter=No|Gloss=that(COMP)|Translit=
+12	ขอ	ขอ	VERB	_	_	9	ccomp	_	SpaceAfter=No|Gloss=ask|Translit=
+13	ให้	ให้	SCONJ	_	_	16	mark	_	SpaceAfter=No|Gloss=give|Translit=
+14	ประชาชน	ประชาชน	NOUN	_	_	16	nsubj	_	SpaceAfter=No|Gloss=population|Translit=
+15	อย่า	อย่า	ADV	_	_	16	advmod	_	SpaceAfter=No|Gloss=|Translit=
+16	หลง	หลง	VERB	_	_	12	advcl	_	SpaceAfter=No|Gloss=|Translit=
+17	เชื่อ	เชื่อ	VERB	_	_	16	compound:svc	_	SpaceAfter=No|Gloss=believe|Translit=
+18	ข้อมูล	ข้อมูล	NOUN	_	_	17	obj	_	SpaceAfter=No|Gloss=information|Translit=
+19	ดัง	ดัง	ADP	_	_	20	mark	_	SpaceAfter=No|Gloss=as|Translit=
+20	กล่าว	กล่าว	VERB	_	_	18	acl	_	SpaceAfter=No|Gloss=say|Translit=
+21	และ	และ	CCONJ	_	_	22	cc	_	SpaceAfter=No|Gloss=and|Translit=
+22	ขอ	ขอ	VERB	_	_	12	conj	_	SpaceAfter=No|Gloss=ask|Translit=
+23	ความ	ความ	NOUN	_	NounType=Nmlz	22	obj	_	SpaceAfter=No|Gloss=condition(nominalizer)|Translit=
+24	ร่วมมือ	ร่วมมือ	VERB	_	_	23	acl	_	SpaceAfter=No|Gloss=|Translit=
+25	ไม่	ไม่	ADV	_	_	26	advmod	_	SpaceAfter=No|Gloss=not|Translit=
+26	ส่ง	ส่ง	VERB	_	_	22	ccomp	_	SpaceAfter=No|Gloss=send|Translit=
+27	หรือ	หรือ	CCONJ	_	_	28	cc	_	SpaceAfter=No|Gloss=or|Translit=
+28	แชร์	แชร์	VERB	_	Foreign=Yes	26	conj	_	SpaceAfter=No|Gloss=share|Translit=
+29	ข้อมูล	ข้อมูล	NOUN	_	_	26	obj	_	SpaceAfter=No|Gloss=information|Translit=
+30	ดัง	ดัง	ADP	_	_	31	mark	_	SpaceAfter=No|Gloss=as|Translit=
+31	กล่าว	กล่าว	VERB	_	_	29	acl	_	SpaceAfter=No|Gloss=say|Translit=
+32	ต่อ	ต่อ	ADV	_	_	26	advmod	_	SpaceAfter=No|Gloss=|Translit=
+33	ใน	ใน	ADP	_	_	34	case	_	SpaceAfter=No|Gloss=in|Translit=
+34	ช่องทาง	ช่องทาง	NOUN	_	_	26	obl	_	SpaceAfter=No|Gloss=|Translit=
+35	สื่อ	สื่อ	NOUN	_	_	34	nmod	_	SpaceAfter=No|Gloss=media|Translit=
+36	สังคม	สังคม	NOUN	_	_	35	nmod	_	SpaceAfter=No|Gloss=society|Translit=
+37	ออนไลน์	ออนไลน์	ADJ	_	Foreign=Yes	36	amod	_	SpaceAfter=No|Gloss=online|Translit=
+38	ต่าง	ต่าง	ADJ	_	_	34	amod	_	SpaceAfter=No|Gloss=different|Translit=
+39	ๆ	ๆ	SYM	_	ExtPos=ADJ	38	compound:redup	_	SpaceAfter=No|Gloss=different|Translit=
+
+# sent_id = Thai_Political_News_Article_Lotto_10
+# text = เพื่อให้ประชาชนได้รับข้อมูลข่าวสารจากทางสำนักงานสลากกินแบ่งรัฐบาล สามารถติดตามข้อมูลได้ที่เว็บไซต์ www.glo.or.th หรือ โทร. 0 2528 9999
+# text_en = 
+# tokenised_text = เพื่อ ให้ ประชาชน ได้รับ ข้อมูลข่าวสาร จาก ทาง สำนักงาน สลาก กินแบ่ง รัฐบาล สามารถ ติดตาม ข้อมูล ได้ ที่ เว็บไซต์ www.glo.or.th หรือ โทร. 0 2528 9999
+# tokenised_translit =
+# tokenised_transcript =
+# phrase_type = sentence
+# sentence_position = body
+# genre = political_news_article
+# source = https://thestandard.co/glo-repeat-not-selling-3-digits/
+# year = 2023
+1	เพื่อ	เพื่อ	ADP	_	_	2	mark	_	SpaceAfter=No|Gloss=for|Translit=
+2	ให้	ให้	VERB	_	_	14	advcl	_	SpaceAfter=No|Gloss=give|Translit=
+3	ประชาชน	ประชาชน	NOUN	_	_	2	obj	_	SpaceAfter=No|Gloss=population|Translit=
+4	ได้	ได้	VERB	_	_	2	compound:svc	_	SpaceAfter=No|Gloss=|Translit=
+5	รับ	รับ	VERB	_	_	4	compound:svc	_	_
+6	ข้อมูล	ข้อมูล	NOUN	_	_	5	obj	_	SpaceAfter=No|Gloss=|Translit=
+7	ข่าวสาร	ข่าวสาร	NOUN	_	_	6	conj	_	_
+8	จาก	จาก	ADP	_	_	9	case	_	SpaceAfter=No|Gloss=from|Translit=
+9	ทาง	ทาง	NOUN	_	_	5	obl	_	SpaceAfter=No|Gloss=way|Translit=
+10	สำนักงาน	สำนักงาน	NOUN	_	_	9	nmod	_	SpaceAfter=No|Gloss=office|Translit=
+11	สลาก	สลาก	NOUN	_	ExtPos=PROPN	10	nmod	_	SpaceAfter=No|Gloss=|Translit=
+12	กินแบ่ง	กินแบ่ง	VERB	_	_	11	acl	_	SpaceAfter=No|Gloss=|Translit=
+13	รัฐบาล	รัฐบาล	NOUN	_	_	11	nmod	_	SpaceAfter=No|Gloss=government|Translit=
+14	สามารถ	สามารถ	VERB	_	_	0	root	_	SpaceAfter=No|Gloss=|Translit=
+15	ติดตาม	ติดตาม	VERB	_	_	14	xcomp	_	SpaceAfter=No|Gloss=follow|Translit=
+16	ข้อมูล	ข้อมูล	NOUN	_	_	15	obj	_	SpaceAfter=No|Gloss=information|Translit=
+17	ได้	ได้	VERB	_	_	15	advcl	_	SpaceAfter=No|Gloss=|Translit=
+18	ที่	ที่	ADP	_	_	19	case	_	SpaceAfter=No|Gloss=at|Translit=
+19	เว็บไซต์	เว็บไซต์	NOUN	_	Foreign=Yes	15	obl	_	SpaceAfter=No|Gloss=website|Translit=
+20	www.glo.or.th	www.glo.or.th	PROPN	_	_	19	appos	_	SpaceAfter=No|Gloss=|Translit=
+21	หรือ	หรือ	CCONJ	_	_	22	cc	_	SpaceAfter=No|Gloss=or|Translit=
+22	โทร.	โทร.	NOUN	_	Abbr=Yes	19	conj	_	SpaceAfter=No|Gloss=telephone|Translit=
+23	0	0	NUM	_	_	22	appos	_	SpaceAfter=No|Gloss=0|Translit=
+24	2528	2528	NUM	_	_	23	flat	_	SpaceAfter=No|Gloss=2528|Translit=
+25	9999	9999	NUM	_	_	23	flat	_	SpaceAfter=No|Gloss=9999|Translit=
