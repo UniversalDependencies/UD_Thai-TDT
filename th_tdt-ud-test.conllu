@@ -2687,6 +2687,824 @@
 19	ไป	ไป	ADV	_	_	18	advmod	_	SpaceAfter=No|Gloss=|Translit=
 
 # newdoc
+# sent_id = Thai_Political_BhumJaiThai_Party_Narcotics_Drug_1
+# text = ‘ภูมิใจไทย’ ลั่นไม่ปล่อยยาบ้าครองเมือง
+# text_en = 
+# tokenised_text = ‘ ภูมิใจ ไทย ’ ลั่น ไม่ ปล่อย ยา บ้า ครอง เมือง
+# tokenised_translit =
+# tokenised_transcript =
+# phrase_type = sentence
+# sentence_position = headline
+# genre = political_news_article
+# source = https://www.dailynews.co.th/news/2059100/
+# year = 2023
+1	‘	‘	PUNCT	_	_	2	punct	_	SpaceAfter=No|Gloss=|Translit=
+2	ภูมิใจ	ภูมิใจ	VERB	_	ExtPos=PROPN	5	nsubj	_	SpaceAfter=No|Gloss=be proud of|Translit=
+3	ไทย	ไทย	PROPN	_	_	2	obj	_	SpaceAfter=No|Gloss=Thai|Translit=
+4	’	’	PUNCT	_	_	2	punct	_	SpaceAfter=No|Gloss=|Translit=
+5	ลั่น	ลั่น	VERB	_	_	0	root	_	SpaceAfter=No|Gloss=|Translit=
+6	ไม่	ไม่	ADV	_	_	7	advmod	_	SpaceAfter=No|Gloss=not|Translit=
+7	ปล่อย	ปล่อย	VERB	_	_	5	ccomp	_	SpaceAfter=No|Gloss=let|Translit=
+8	ยา	ยา	NOUN	_	_	7	obj	_	SpaceAfter=No|Gloss=medicine|Translit=
+9	บ้า	บ้า	VERB	_	ExtPos=PROPN	8	acl	_	SpaceAfter=No|Gloss=crazy|Translit=
+10	ครอง	ครอง	VERB	_	_	7	compound:svc	_	SpaceAfter=No|Gloss=|Translit=
+11	เมือง	เมือง	NOUN	_	_	10	obj	_	SpaceAfter=No|Gloss=city|Translit=
+
+# sent_id = Thai_Political_BhumJaiThai_Party_Narcotics_Drug_2
+# text = เดินหน้าปรับครอบครองมากกว่า 1 เม็ดเป็นผู้ค้า
+# text_en = 
+# tokenised_text = เดิน หน้า ปรับ ครอบครอง มาก กว่า 1 เม็ด เป็น ผู้ ค้า
+# tokenised_translit =
+# tokenised_transcript =
+# phrase_type = sentence
+# sentence_position = headline
+# genre = political_news_article
+# source = https://www.dailynews.co.th/news/2059100/
+# year = 2023
+1	เดิน	เดิน	VERB	_	_	0	root	_	SpaceAfter=No|Gloss=walk|Translit=
+2	หน้า	หน้า	ADV	_	_	1	advmod	_	SpaceAfter=No|Gloss=forward|Translit=
+3	ปรับ	ปรับ	VERB	_	_	1	advcl	_	SpaceAfter=No|Gloss=|Translit=
+4	ครอบครอง	ครอบครอง	VERB	_	_	3	compound:svc	_	SpaceAfter=No|Gloss=|Translit=
+5	มาก	มาก	VERB	_	_	4	xcomp	_	SpaceAfter=No|Gloss=very|Translit=
+6	กว่า	กว่า	ADP	_	_	7	case	_	SpaceAfter=No|Gloss=than|Translit=
+7	1	1	NUM	_	_	5	obl	_	SpaceAfter=No|Gloss=1|Translit=
+8	เม็ด	เม็ด	NOUN	_	NounType=Clf	7	clf	_	SpaceAfter=No|Gloss=|Translit=
+9	เป็น	เป็น	AUX	_	_	10	cop	_	SpaceAfter=No|Gloss=BE|Translit=
+10	ผู้	ผู้	NOUN	_	_	3	xcomp	_	SpaceAfter=No|Gloss=person|Translit=
+11	ค้า	ค้า	VERB	_	_	10	acl	_	SpaceAfter=No|Gloss=|Translit=
+
+# sent_id = Thai_Political_BhumJaiThai_Party_Narcotics_Drug_3
+# text = “ภท.” ยันไม่ปล่อยให้ยาบ้าครองเมือง
+# text_en = 
+# tokenised_text = “ ภท. ” ยัน ไม่ ปล่อย ให้ ยา บ้า ครอง เมือง
+# tokenised_translit =
+# tokenised_transcript =
+# phrase_type = sentence
+# sentence_position = 
+# genre = political_news_article
+# source = https://www.dailynews.co.th/news/2059100/
+# year = 2023
+1	“	“	PUNCT	_	_	2	punct	_	SpaceAfter=No|Gloss=|Translit=
+2	ภท.	ภท.	PROPN	_	Abbr=Yes	4	nsubj	_	SpaceAfter=No|Gloss=|Translit=
+3	”	”	PUNCT	_	_	2	punct	_	SpaceAfter=No|Gloss=|Translit=
+4	ยัน	ยัน	VERB	_	_	0	root	_	SpaceAfter=No|Gloss=|Translit=
+5	ไม่	ไม่	ADV	_	_	6	advmod	_	SpaceAfter=No|Gloss=not|Translit=
+6	ปล่อย	ปล่อย	VERB	_	_	4	ccomp	_	SpaceAfter=No|Gloss=let|Translit=
+7	ให้	ให้	SCONJ	_	_	10	mark	_	SpaceAfter=No|Gloss=give|Translit=
+8	ยา	ยา	NOUN	_	_	10	nsubj	_	SpaceAfter=No|Gloss=medicine|Translit=
+9	บ้า	บ้า	VERB	_	ExtPos=PROPN	8	acl	_	SpaceAfter=No|Gloss=crazy|Translit=
+10	ครอง	ครอง	VERB	_	_	6	ccomp	_	SpaceAfter=No|Gloss=|Translit=
+11	เมือง	เมือง	NOUN	_	_	10	obj	_	SpaceAfter=No|Gloss=city|Translit=
+
+# sent_id = Thai_Political_BhumJaiThai_Party_Narcotics_Drug_4
+# text = ย้ำเดินหน้าปรับครอบครองยาบ้ามากกว่า 1 เม็ด เป็นผู้ค้า
+# text_en = 
+# tokenised_text = ย้ำ เดิน หน้า ปรับ ครอบครอง ยา บ้า มาก กว่า 1 เม็ด เป็น ผู้ ค้า
+# tokenised_translit =
+# tokenised_transcript =
+# phrase_type = sentence
+# sentence_position = 
+# genre = political_news_article
+# source = https://www.dailynews.co.th/news/2059100/
+# year = 2023
+1	ย้ำ	ย้ำ	VERB	_	_	0	root	_	SpaceAfter=No|Gloss=|Translit=
+2	เดิน	เดิน	VERB	_	_	1	ccomp	_	SpaceAfter=No|Gloss=walk|Translit=
+3	หน้า	หน้า	ADV	_	_	2	advmod	_	SpaceAfter=No|Gloss=forward|Translit=
+4	ปรับ	ปรับ	VERB	_	_	2	advcl	_	SpaceAfter=No|Gloss=|Translit=
+5	ครอบครอง	ครอบครอง	VERB	_	_	4	compound:svc	_	SpaceAfter=No|Gloss=|Translit=
+6	ยา	ยา	NOUN	_	_	5	obj	_	SpaceAfter=No|Gloss=medicine|Translit=
+7	บ้า	บ้า	VERB	_	ExtPos=PROPN	6	acl	_	SpaceAfter=No|Gloss=crazy|Translit=
+8	มาก	มาก	VERB	_	_	5	xcomp	_	SpaceAfter=No|Gloss=very|Translit=
+9	กว่า	กว่า	ADP	_	_	10	case	_	SpaceAfter=No|Gloss=than|Translit=
+10	1	1	NUM	_	_	8	obl	_	SpaceAfter=No|Gloss=1|Translit=
+11	เม็ด	เม็ด	NOUN	_	NounType=Clf	10	clf	_	SpaceAfter=No|Gloss=|Translit=
+12	เป็น	เป็น	AUX	_	_	13	cop	_	SpaceAfter=No|Gloss=BE|Translit=
+13	ผู้	ผู้	NOUN	_	_	4	xcomp	_	SpaceAfter=No|Gloss=person|Translit=
+14	ค้า	ค้า	VERB	_	_	13	acl	_	SpaceAfter=No|Gloss=|Translit=
+
+# sent_id = Thai_Political_BhumJaiThai_Party_Narcotics_Drug_5
+# text = “ศุภชัย” ยกสถิติผู้ต้องโทษคดียาบ้าล้น เหตุกฎหมายไม่เข้ม
+# text_en = 
+# tokenised_text = “ ศุภชัย ” ยก สถิติ ผู้ ต้องโทษ คดี ยา บ้า ล้น เหตุ กฎหมาย ไม่ เข้ม
+# tokenised_translit =
+# tokenised_transcript =
+# phrase_type = sentence
+# sentence_position = 
+# genre = political_news_article
+# source = https://www.dailynews.co.th/news/2059100/
+# year = 2023
+1	“	“	PUNCT	_	_	2	punct	_	SpaceAfter=No|Gloss=|Translit=
+2	ศุภชัย	ศุภชัย	PROPN	_	_	4	nsubj	_	SpaceAfter=No|Gloss=|Translit=
+3	”	”	PUNCT	_	_	2	punct	_	SpaceAfter=No|Gloss=|Translit=
+4	ยก	ยก	VERB	_	_	0	root	_	SpaceAfter=No|Gloss=|Translit=
+5	สถิติ	สถิติ	NOUN	_	_	4	obj	_	SpaceAfter=No|Gloss=|Translit=
+6	ผู้	ผู้	NOUN	_	_	11	nsubj	_	SpaceAfter=No|Gloss=person|Translit=
+7	ต้องโทษ	ต้องโทษ	VERB	_	_	6	acl	_	SpaceAfter=No|Gloss=|Translit=
+8	คดี	คดี	NOUN	_	_	6	nmod	_	SpaceAfter=No|Gloss=|Translit=
+9	ยา	ยา	NOUN	_	_	8	nmod	_	SpaceAfter=No|Gloss=medicine|Translit=
+10	บ้า	บ้า	VERB	_	ExtPos=PROPN	9	acl	_	SpaceAfter=No|Gloss=crazy|Translit=
+11	ล้น	ล้น	VERB	_	_	5	acl	_	SpaceAfter=No|Gloss=|Translit=
+12	เหตุ	เหตุ	NOUN	_	_	15	dislocated	_	SpaceAfter=No|Gloss=reason|Translit=
+13	กฎหมาย	กฎหมาย	NOUN	_	_	15	nsubj	_	SpaceAfter=No|Gloss=laws|Translit=
+14	ไม่	ไม่	ADV	_	_	15	advmod	_	SpaceAfter=No|Gloss=not|Translit=
+15	เข้ม	เข้ม	VERB	_	_	11	advcl	_	SpaceAfter=No|Gloss=|Translit=
+
+# sent_id = Thai_Political_BhumJaiThai_Party_Narcotics_Drug_6
+# text = แฉผู้ค้าพลิ้ว ให้เด็กส่งไม่เกิน 5 เม็ด หลบ ก.ม.
+# text_en = 
+# tokenised_text = แฉ ผู้ ค้า พลิ้ว ให้ เด็ก ส่ง ไม่ เกิน 5 เม็ด หลบ ก.ม.
+# tokenised_translit =
+# tokenised_transcript =
+# phrase_type = sentence
+# sentence_position = 
+# genre = political_news_article
+# source = https://www.dailynews.co.th/news/2059100/
+# year = 2023
+1	แฉ	แฉ	VERB	_	_	0	root	_	SpaceAfter=No|Gloss=|Translit=
+2	ผู้	ผู้	NOUN	_	_	4	nsubj	_	SpaceAfter=No|Gloss=person|Translit=
+3	ค้า	ค้า	VERB	_	_	2	acl	_	SpaceAfter=No|Gloss=|Translit=
+4	พลิ้ว	พลิ้ว	VERB	_	_	1	ccomp	_	SpaceAfter=No|Gloss=|Translit=
+5	ให้	ให้	VERB	_	_	4	advcl	_	SpaceAfter=No|Gloss=give|Translit=
+6	เด็ก	เด็ก	NOUN	_	_	5	obj	_	SpaceAfter=No|Gloss=children|Translit=
+7	ส่ง	ส่ง	VERB	_	_	5	compound:svc	_	SpaceAfter=No|Gloss=send|Translit=
+8	ไม่	ไม่	ADV	_	_	9	advmod	_	SpaceAfter=No|Gloss=not|Translit=
+9	เกิน	เกิน	VERB	_	_	7	xcomp	_	SpaceAfter=No|Gloss=|Translit=
+10	5	5	NUM	_	_	9	obl:arg	_	SpaceAfter=No|Gloss=5|Translit=
+11	เม็ด	เม็ด	NOUN	_	NounType=Clf	10	clf	_	SpaceAfter=No|Gloss=|Translit=
+12	หลบ	หลบ	VERB	_	_	5	advcl	_	SpaceAfter=No|Gloss=|Translit=
+13	ก.ม.	ก.ม.	NOUN	_	Abbr=Yes	12	obl:arg	_	SpaceAfter=No|Gloss=laws|Translit=
+
+# sent_id = Thai_Political_BhumJaiThai_Party_Narcotics_Drug_7
+# text = เผย “อนุทิน” ชงแก้ประกาศ สธ. ให้ครอบครองเกิน 1 เม็ด เป็นผู้ค้าแล้ว มองมาตรการถูกต้อง เพื่อความสงบสังคม
+# text_en = 
+# tokenised_text = เผย “ อนุทิน ” ชง แก้ ประกาศ สธ. ให้ ครอบครอง เกิน 1 เม็ด เป็น ผู้ ค้า แล้ว มอง มาตรการ ถูกต้อง เพื่อ ความ สงบ สังคม
+# tokenised_translit =
+# tokenised_transcript =
+# phrase_type = sentence
+# sentence_position = 
+# genre = political_news_article
+# source = https://www.dailynews.co.th/news/2059100/
+# year = 2023
+1	เผย	เผย	VERB	_	_	0	root	_	SpaceAfter=No|Gloss=|Translit=
+2	“	“	PUNCT	_	_	3	punct	_	SpaceAfter=No|Gloss=|Translit=
+3	อนุทิน	อนุทิน	PROPN	_	_	5	nsubj	_	SpaceAfter=No|Gloss=|Translit=
+4	”	”	PUNCT	_	_	3	punct	_	SpaceAfter=No|Gloss=|Translit=
+5	ชง	ชง	VERB	_	_	1	ccomp	_	SpaceAfter=No|Gloss=|Translit=
+6	แก้	แก้	VERB	_	_	5	xcomp	_	SpaceAfter=No|Gloss=|Translit=
+7	ประกาศ	ประกาศ	NOUN	_	_	6	obj	_	SpaceAfter=No|Gloss=announce|Translit=
+8	สธ.	สธ.	PROPN	_	Abbr=Yes	7	nmod	_	SpaceAfter=No|Gloss=|Translit=
+9	ให้	ให้	VERB	_	_	6	advcl	_	SpaceAfter=No|Gloss=give|Translit=
+10	ครอบครอง	ครอบครอง	VERB	_	_	9	compound:svc	_	SpaceAfter=No|Gloss=|Translit=
+11	เกิน	เกิน	VERB	_	_	10	xcomp	_	SpaceAfter=No|Gloss=|Translit=
+12	1	1	NUM	_	_	11	obl:arg	_	SpaceAfter=No|Gloss=1|Translit=
+13	เม็ด	เม็ด	NOUN	_	NounType=Clf	12	clf	_	SpaceAfter=No|Gloss=|Translit=
+14	เป็น	เป็น	AUX	_	_	15	cop	_	SpaceAfter=No|Gloss=BE|Translit=
+15	ผู้	ผู้	NOUN	_	_	9	xcomp	_	SpaceAfter=No|Gloss=person|Translit=
+16	ค้า	ค้า	VERB	_	_	15	acl	_	SpaceAfter=No|Gloss=|Translit=
+17	แล้ว	แล้ว	ADV	_	_	15	advmod	_	SpaceAfter=No|Gloss=|Translit=
+18	มอง	มอง	VERB	_	_	5	advcl	_	SpaceAfter=No|Gloss=see|Translit=
+19	มาตรการ	มาตรการ	NOUN	_	_	18	obj	_	SpaceAfter=No|Gloss=|Translit=
+20	ถูกต้อง	ถูกต้อง	VERB	_	_	18	xcomp	_	SpaceAfter=No|Gloss=right|Translit=
+21	เพื่อ	เพื่อ	ADP	_	_	22	case	_	SpaceAfter=No|Gloss=for|Translit=
+22	ความ	ความ	NOUN	_	NounType=Nmlz	5	obl	_	SpaceAfter=No|Gloss=condition(nominalizer)|Translit=khwaːm
+23	สงบ	สงบ	VERB	_	_	22	acl	_	SpaceAfter=No|Gloss=peaceful|Translit=
+24	สังคม	สังคม	NOUN	_	_	22	nmod	_	SpaceAfter=No|Gloss=society|Translit=
+
+# sent_id = Thai_Political_BhumJaiThai_Party_Narcotics_Drug_8
+# text = เมื่อวันที่ 3 มี.ค. นายศุภชัย ใจสมุทร ส.ส.บัญชีรายชื่อ  นายทะเบียนพรรคภูมิใจไทย (ภท.) กล่าวผ่านรายการ พรรคภูมิใจไทย พูดแล้วทำ เผยแพร่ทางเฟซบุ๊ก ยูทูบ และ TikTok พรรคภูมิใจไทย ถึงนโยบายด้านการป้องกันและปราบปรามยาเสพติดของพรรคภูมิใจไทยว่า ปัญหาใหญ่ของประเทศไทยในเรื่องยาเสพติด โดยเฉพาะยาบ้า มีการแพร่หลายจำหน่ายกันทั่วทุกอณูของพื้นที่ 
+# text_en = 
+# tokenised_text = เมื่อ วัน ที่ 3 มี.ค. นาย ศุภชัย ใจสมุทร ส.ส. บัญชี ราย ชื่อ นายทะเบียน พรรค ภูมิใจ ไทย ( ภท. ) กล่าว ผ่าน รายการ พรรค ภูมิใจ ไทย พูด แล้ว ทำ เผยแพร่ ทาง เฟซบุ๊ก ยูทูบ และ TikTok พรรค ภูมิใจ ไทย ถึง นโยบาย ด้าน การ ป้องกัน และ ปราบปราม ยา เสพ ติด ของ พรรค ภูมิใจ ไทย ว่า ปัญหา ใหญ่ ของ ประเทศ ไทย ใน เรื่อง ยา เสพ ติด โดย เฉพาะ ยา บ้า มี การ แพร่หลาย จำหน่าย กัน ทั่ว ทุก อณู ของ พื้นที่
+# tokenised_translit =
+# tokenised_transcript =
+# phrase_type = sentence
+# sentence_position = 
+# genre = political_news_article
+# source = https://www.dailynews.co.th/news/2059100/
+# year = 2023
+1	เมื่อ	เมื่อ	NOUN	_	_	20	obl	_	SpaceAfter=No|Gloss=|Translit=
+2	วัน	วัน	NOUN	_	_	1	nmod	_	SpaceAfter=No|Gloss=day|Translit=
+3	ที่	ที่	NOUN	_	_	2	nmod	_	SpaceAfter=No|Gloss=range|Translit=
+4	3	3	NUM	_	_	3	nmod	_	SpaceAfter=No|Gloss=3|Translit=
+5	มี.ค.	มี.ค.	NOUN	_	Abbr=Yes	2	nmod	_	SpaceAfter=No|Gloss=March|Translit=
+6	นาย	นาย	NOUN	_	_	20	nsubj	_	SpaceAfter=No|Gloss=Mister|Translit=
+7	ศุภชัย	ศุภชัย	PROPN	_	_	6	nmod	_	SpaceAfter=No|Gloss=|Translit=
+8	ใจสมุทร	ใจสมุทร	PROPN	_	_	7	flat	_	SpaceAfter=No|Gloss=|Translit=
+9	ส.ส.	สส.	NOUN	_	Abbr=Yes	6	appos	_	SpaceAfter=No|Gloss=|Translit=
+10	บัญชี	บัญชี	NOUN	_	_	9	nmod	_	SpaceAfter=No|Gloss=|Translit=
+11	ราย	ราย	NOUN	_	_	10	nmod	_	SpaceAfter=No|Gloss=|Translit=
+12	ชื่อ	ชื่อ	NOUN	_	_	11	nmod	_	SpaceAfter=No|Gloss=name|Translit=
+13	นายทะเบียน	นายทะเบียน	NOUN	_	_	9	conj	_	SpaceAfter=No|Gloss=|Translit=
+14	พรรค	พรรค	NOUN	_	_	9	nmod	_	SpaceAfter=No|Gloss=party|Translit=
+15	ภูมิใจ	ภูมิใจ	VERB	_	ExtPos=PROPN	14	nmod	_	SpaceAfter=No|Gloss=|Translit=
+16	ไทย	ไทย	PROPN	_	_	15	obj	_	SpaceAfter=No|Gloss=Thai|Translit=
+17	(	(	PUNCT	_	_	18	punct	_	SpaceAfter=No|Gloss=|Translit=
+18	ภท.	ภท.	PROPN	_	Abbr=Yes	15	appos	_	SpaceAfter=No|Gloss=|Translit=
+19	)	)	PUNCT	_	_	18	punct	_	SpaceAfter=No|Gloss=|Translit=
+20	กล่าว	กล่าว	VERB	_	_	0	root	_	SpaceAfter=No|Gloss=say|Translit=
+21	ผ่าน	ผ่าน	ADP	_	_	22	case	_	SpaceAfter=No|Gloss=|Translit=
+22	รายการ	รายการ	NOUN	_	_	20	obl	_	SpaceAfter=No|Gloss=|Translit=
+23	พรรค	พรรค	NOUN	_	_	26	nsubj	_	SpaceAfter=No|Gloss=party|Translit=
+24	ภูมิใจ	ภูมิใจ	VERB	_	_	23	nmod	_	SpaceAfter=No|Gloss=|Translit=
+25	ไทย	ไทย	PROPN	_	_	24	obj	_	SpaceAfter=No|Gloss=Thai|Translit=
+26	พูด	พูด	VERB	_	ExtPos=PROPN	22	nmod	_	SpaceAfter=No|Gloss=say|Translit=
+27	แล้ว	แล้ว	ADV	_	_	26	advmod	_	SpaceAfter=No|Gloss=|Translit=
+28	ทำ	ทำ	VERB	_	_	26	advcl	_	SpaceAfter=No|Gloss=do|Translit=
+29	เผยแพร่	เผยแพร่	VERB	_	_	22	acl	_	SpaceAfter=No|Gloss=|Translit=
+30	ทาง	ทาง	ADP	_	_	31	case	_	SpaceAfter=No|Gloss=|Translit=
+31	เฟซบุ๊ก	เฟซบุ๊ก	PROPN	_	Foreign=Yes	29	obl	_	SpaceAfter=No|Gloss=Facebook|Translit=
+32	ยูทูบ	ยูทูบ	PROPN	_	Foreign=Yes	31	conj	_	SpaceAfter=No|Gloss=Youtube|Translit=
+33	และ	และ	CCONJ	_	_	34	cc	_	SpaceAfter=No|Gloss=and|Translit=
+34	TikTok	TikTok	PROPN	_	Foreign=Yes	31	conj	_	SpaceAfter=No|Gloss=Tiktok|Translit=
+35	พรรค	พรรค	NOUN	_	_	31	nmod	_	SpaceAfter=No|Gloss=party|Translit=
+36	ภูมิใจ	ภูมิใจ	VERB	_	ExtPos=PROPN	35	nmod	_	SpaceAfter=No|Gloss=|Translit=
+37	ไทย	ไทย	PROPN	_	_	36	obj	_	SpaceAfter=No|Gloss=Thai|Translit=
+38	ถึง	ถึง	ADP	_	_	39	case	_	SpaceAfter=No|Gloss=to|Translit=
+39	นโยบาย	นโยบาย	NOUN	_	_	22	conj	_	SpaceAfter=No|Gloss=policy|Translit=
+40	ด้าน	ด้าน	NOUN	_	_	39	nmod	_	SpaceAfter=No|Gloss=|Translit=
+41	การ	การ	NOUN	_	NounType=Nmlz	40	nmod	_	SpaceAfter=No|Gloss=a thing to be done(nominalizer)|Translit=
+42	ป้องกัน	ป้องกัน	VERB	_	_	41	acl	_	SpaceAfter=No|Gloss=prevent|Translit=
+43	และ	และ	CCONJ	_	_	44	cc	_	SpaceAfter=No|Gloss=and|Translit=
+44	ปราบปราม	ปราบปราม	VERB	_	_	42	conj	_	SpaceAfter=No|Gloss=|Translit=
+45	ยา	ยา	NOUN	_	_	42	obj	_	SpaceAfter=No|Gloss=medicine|Translit=
+46	เสพ	เสพ	VERB	_	_	45	acl	_	SpaceAfter=No|Gloss=|Translit=
+47	ติด	ติด	VERB	_	_	46	advcl	_	SpaceAfter=No|Gloss=addict|Translit=
+48	ของ	ของ	ADP	_	_	49	case	_	SpaceAfter=No|Gloss=of|Translit=
+49	พรรค	พรรค	NOUN	_	_	39	nmod	_	SpaceAfter=No|Gloss=party|Translit=
+50	ภูมิใจ	ภูมิใจ	VERB	_	ExtPos=PROPN	49	nmod	_	SpaceAfter=No|Gloss=|Translit=
+51	ไทย	ไทย	PROPN	_	_	50	obj	_	SpaceAfter=No|Gloss=Thai|Translit=
+52	ว่า	ว่า	SCONJ	_	_	67	mark	_	SpaceAfter=No|Gloss=that(COMP)|Translit=
+53	ปัญหา	ปัญหา	NOUN	_	_	67	dislocated	_	SpaceAfter=No|Gloss=problem|Translit=
+54	ใหญ่	ใหญ่	VERB	_	_	53	acl	_	SpaceAfter=No|Gloss=big|Translit=
+55	ของ	ของ	ADP	_	_	56	case	_	SpaceAfter=No|Gloss=of|Translit=
+56	ประเทศ	ประเทศ	NOUN	_	_	53	nmod	_	SpaceAfter=No|Gloss=country|Translit=
+57	ไทย	ไทย	PROPN	_	_	56	nmod	_	SpaceAfter=No|Gloss=Thai|Translit=
+58	ใน	ใน	ADP	_	_	59	case	_	SpaceAfter=No|Gloss=in|Translit=
+59	เรื่อง	เรื่อง	NOUN	_	_	53	nmod	_	SpaceAfter=No|Gloss=story|Translit=
+60	ยา	ยา	NOUN	_	_	59	nmod	_	SpaceAfter=No|Gloss=medicine|Translit=
+61	เสพ	เสพ	VERB	_	_	60	acl	_	SpaceAfter=No|Gloss=|Translit=
+62	ติด	ติด	VERB	_	_	61	advcl	_	SpaceAfter=No|Gloss=addict|Translit=
+63	โดย	โดย	ADP	_	_	64	mark	_	SpaceAfter=No|Gloss=with|Translit=
+64	เฉพาะ	เฉพาะ	VERB	_	_	60	acl	_	SpaceAfter=No|Gloss=|Translit=
+65	ยา	ยา	NOUN	_	_	64	obl:arg	_	SpaceAfter=No|Gloss=medicine|Translit=
+66	บ้า	บ้า	VERB	_	ExtPos=PROPN	65	acl	_	SpaceAfter=No|Gloss=crazy|Translit=
+67	มี	มี	VERB	_	_	20	ccomp	_	SpaceAfter=No|Gloss=have|Translit=
+68	การ	การ	NOUN	_	NounType=Nmlz	67	nsubj	_	SpaceAfter=No|Gloss=a thing to be done(nominalizer)|Translit=
+69	แพร่หลาย	แพร่หลาย	VERB	_	_	68	acl	_	SpaceAfter=No|Gloss=|Translit=
+70	จำหน่าย	จำหน่าย	VERB	_	_	69	conj	_	SpaceAfter=No|Gloss=|Translit=
+71	กัน	กัน	ADV	_	_	69	advmod	_	SpaceAfter=No|Gloss=|Translit=
+72	ทั่ว	ทั่ว	VERB	_	_	69	advcl	_	SpaceAfter=No|Gloss=|Translit=
+73	ทุก	ทุก	DET	_	_	74	det	_	SpaceAfter=No|Gloss=every|Translit=
+74	อณู	อณู	NOUN	_	NounType=Clf	72	obl	_	SpaceAfter=No|Gloss=|Translit=
+75	ของ	ของ	ADP	_	_	76	case	_	SpaceAfter=No|Gloss=of|Translit=
+76	พื้นที่	พื้นที่	NOUN	_	_	74	nmod	_	SpaceAfter=No|Gloss=|Translit=
+
+# sent_id = Thai_Political_BhumJaiThai_Party_Narcotics_Drug_9
+# text = ข้อมูลจากกรมราชทัณฑ์ ระบุว่า ผู้ที่อยู่ในเรือนจำนี้ประมาณ 80% เป็นผู้ต้องขังคดียาเสพติด และในคดียาเสพติดมีถึง 90% เป็นผู้ต้องขังที่มีความผิดในเรื่องของยาบ้า เพราะเราไม่มีมาตรการที่ดีพอในการที่จะทำให้การปราบปรามยาบ้า ต่างจากประเทศเพื่อนบ้านเรา อาทิ มาเลเซีย หรือสิงคโปร์ ที่โทษเกี่ยวกับยาเสพติดร้ายแรง
+# text_en = 
+# tokenised_text = ข้อมูล จาก กรม ราชทัณฑ์ ระบุ ว่า ผู้ ที่ อยู่ ใน เรือนจำ นี้ ประมาณ 80 % เป็น ผู้ ต้องขัง คดี ยา เสพ ติด และ ใน คดี ยา เสพ ติด มี ถึง 90 % เป็น ผู้ ต้องขัง ที่ มี ความ ผิด ใน เรื่อง ของ ยา บ้า เพราะ เรา ไม่ มี มาตรการ ที่ ดี พอ ใน การ ที่ จะ ทำให้ การ ปราบปราม ยา บ้า ต่าง จาก ประเทศ เพื่อนบ้าน เรา อาทิ มาเลเซีย หรือ สิงคโปร์ ที่ โทษ เกี่ยว กับ ยา เสพ ติด ร้ายแรง
+# tokenised_translit =
+# tokenised_transcript =
+# phrase_type = sentence
+# sentence_position = 
+# genre = political_news_article
+# source = https://www.dailynews.co.th/news/2059100/
+# year = 2023
+1	ข้อมูล	ข้อมูล	NOUN	_	_	5	nsubj	_	SpaceAfter=No|Gloss=|Translit=
+2	จาก	จาก	ADP	_	_	3	case	_	SpaceAfter=No|Gloss=from|Translit=
+3	กรม	กรม	NOUN	_	_	1	nmod	_	SpaceAfter=No|Gloss=|Translit=
+4	ราชทัณฑ์	ราชทัณฑ์	PROPN	_	_	3	nmod	_	SpaceAfter=No|Gloss=|Translit=
+5	ระบุ	ระบุ	VERB	_	_	0	root	_	SpaceAfter=No|Gloss=|Translit=
+6	ว่า	ว่า	SCONJ	_	_	17	mark	_	SpaceAfter=No|Gloss=that(REL)|Translit=
+7	ผู้	ผู้	NOUN	_	_	17	nsubj	_	SpaceAfter=No|Gloss=person|Translit=
+8	ที่	ที่	PRON	_	_	9	nsubj	_	SpaceAfter=No|Gloss=that(REL)|Translit=
+9	อยู่	อยู่	VERB	_	_	7	acl:relcl	_	SpaceAfter=No|Gloss=stay|Translit=
+10	ใน	ใน	ADP	_	_	11	case	_	SpaceAfter=No|Gloss=in|Translit=
+11	เรือนจำ	เรือนจำ	NOUN	_	_	9	obl	_	SpaceAfter=No|Gloss=|Translit=
+12	นี้	นี้	ADJ	_	_	11	amod	_	SpaceAfter=No|Gloss=this|Translit=
+13	ประมาณ	ประมาณ	DET	_	_	14	det	_	SpaceAfter=No|Gloss=|Translit=
+14	80	80	NUM	_	_	7	nummod	_	SpaceAfter=No|Gloss=80|Translit=
+15	%	%	SYM	_	NounType=Clf	14	clf	_	SpaceAfter=No|Gloss=percent|Translit=
+16	เป็น	เป็น	AUX	_	_	17	cop	_	SpaceAfter=No|Gloss=BE|Translit=
+17	ผู้	ผู้	NOUN	_	_	5	ccomp	_	SpaceAfter=No|Gloss=person|Translit=
+18	ต้องขัง	ต้องขัง	VERB	_	_	17	acl	_	SpaceAfter=No|Gloss=|Translit=
+19	คดี	คดี	NOUN	_	_	17	nmod	_	SpaceAfter=No|Gloss=|Translit=
+20	ยา	ยา	NOUN	_	_	19	nmod	_	SpaceAfter=No|Gloss=medicine|Translit=
+21	เสพ	เสพ	VERB	_	_	20	acl	_	SpaceAfter=No|Gloss=|Translit=
+22	ติด	ติด	VERB	_	_	21	advcl	_	SpaceAfter=No|Gloss=addict|Translit=
+23	และ	และ	CCONJ	_	_	29	cc	_	SpaceAfter=No|Gloss=and|Translit=
+24	ใน	ใน	ADP	_	_	25	case	_	SpaceAfter=No|Gloss=in|Translit=
+25	คดี	คดี	NOUN	_	_	29	obl	_	SpaceAfter=No|Gloss=|Translit=
+26	ยา	ยา	NOUN	_	_	25	nmod	_	SpaceAfter=No|Gloss=medicine|Translit=
+27	เสพ	เสพ	VERB	_	_	26	acl	_	SpaceAfter=No|Gloss=|Translit=
+28	ติด	ติด	VERB	_	_	27	advcl	_	SpaceAfter=No|Gloss=addict|Translit=
+29	มี	มี	VERB	_	_	17	conj	_	SpaceAfter=No|Gloss=have|Translit=
+30	ถึง	ถึง	VERB	_	_	29	xcomp	_	SpaceAfter=No|Gloss=reach|Translit=
+31	90	90	NUM	_	_	30	obl:arg	_	SpaceAfter=No|Gloss=90|Translit=
+32	%	%	SYM	_	NounType=Clf	31	clf	_	SpaceAfter=No|Gloss=percent|Translit=
+33	เป็น	เป็น	AUX	_	_	34	cop	_	SpaceAfter=No|Gloss=BE|Translit=
+34	ผู้	ผู้	NOUN	_	_	31	acl	_	SpaceAfter=No|Gloss=person|Translit=
+35	ต้องขัง	ต้องขัง	VERB	_	_	34	acl	_	SpaceAfter=No|Gloss=|Translit=
+36	ที่	ที่	PRON	_	_	37	nsubj	_	SpaceAfter=No|Gloss=that(REL)|Translit=
+37	มี	มี	VERB	_	_	34	acl:relcl	_	SpaceAfter=No|Gloss=have|Translit=
+38	ความ	ความ	NOUN	_	NounType=Nmlz	37	obl:arg	_	SpaceAfter=No|Gloss=condition(nominalizer)|Translit=
+39	ผิด	ผิด	VERB	_	_	38	acl	_	SpaceAfter=No|Gloss=wrong|Translit=
+40	ใน	ใน	ADP	_	_	41	case	_	SpaceAfter=No|Gloss=in|Translit=
+41	เรื่อง	เรื่อง	NOUN	_	_	38	nmod	_	SpaceAfter=No|Gloss=story|Translit=
+42	ของ	ของ	ADP	_	_	43	case	_	SpaceAfter=No|Gloss=of|Translit=
+43	ยา	ยา	NOUN	_	_	41	nmod	_	SpaceAfter=No|Gloss=medicine|Translit=
+44	บ้า	บ้า	VERB	_	ExtPos=PROPN	43	acl	_	SpaceAfter=No|Gloss=crazy|Translit=
+45	เพราะ	เพราะ	SCONJ	_	_	48	mark	_	SpaceAfter=No|Gloss=because|Translit=
+46	เรา	เรา	PRON	_	Person=1|PronType=Prs	48	nsubj	_	SpaceAfter=No|Gloss=we|Translit=
+47	ไม่	ไม่	ADV	_	_	48	advmod	_	SpaceAfter=No|Gloss=not|Translit=
+48	มี	มี	VERB	_	_	17	advcl	_	SpaceAfter=No|Gloss=have|Translit=
+49	มาตรการ	มาตรการ	NOUN	_	_	48	obl:arg	_	SpaceAfter=No|Gloss=|Translit=
+50	ที่	ที่	PRON	_	_	51	nsubj	_	SpaceAfter=No|Gloss=that(REL)|Translit=
+51	ดี	ดี	VERB	_	_	49	acl:relcl	_	SpaceAfter=No|Gloss=good|Translit=
+52	พอ	พอ	VERB	_	_	51	advcl	_	SpaceAfter=No|Gloss=enough|Translit=
+53	ใน	ใน	ADP	_	_	54	case	_	SpaceAfter=No|Gloss=in|Translit=
+54	การ	การ	NOUN	_	NounType=Nmlz	51	obl	_	SpaceAfter=No|Gloss=a thing to be done(nominalizer)|Translit=
+55	ที่	ที่	PRON	_	_	57	nsubj	_	SpaceAfter=No|Gloss=that(REL)|Translit=
+56	จะ	จะ	ADV	_	_	57	advmod	_	SpaceAfter=No|Gloss=|Translit=
+57	ทำให้	ทำให้	VERB	_	_	54	acl:relcl	_	SpaceAfter=No|Gloss=|Translit=
+58	การ	การ	NOUN	_	NounType=Nmlz	57	obj	_	SpaceAfter=No|Gloss=a thing to be done(nominalizer)|Translit=
+59	ปราบปราม	ปราบปราม	VERB	_	_	58	acl	_	SpaceAfter=No|Gloss=|Translit=
+60	ยา	ยา	NOUN	_	_	59	obj	_	SpaceAfter=No|Gloss=medicine|Translit=
+61	บ้า	บ้า	VERB	_	ExtPos=PROPN	60	acl	_	SpaceAfter=No|Gloss=crazy|Translit=
+62	ต่าง	ต่าง	VERB	_	_	57	xcomp	_	SpaceAfter=No|Gloss=different|Translit=
+63	จาก	จาก	ADP	_	_	64	case	_	SpaceAfter=No|Gloss=from|Translit=
+64	ประเทศ	ประเทศ	NOUN	_	_	62	obl	_	SpaceAfter=No|Gloss=country|Translit=
+65	เพื่อนบ้าน	เพื่อนบ้าน	NOUN	_	_	64	nmod	_	SpaceAfter=No|Gloss=neighbor|Translit=
+66	เรา	เรา	PRON	_	Person=1|PronType=Prs	64	nmod	_	SpaceAfter=No|Gloss=we|Translit=
+67	อาทิ	อาทิ	ADP	_	_	68	case	_	SpaceAfter=No|Gloss=|Translit=
+68	มาเลเซีย	มาเลเซีย	PROPN	_	Foreign=Yes	64	nmod	_	SpaceAfter=No|Gloss=Malaysia|Translit=
+69	หรือ	หรือ	CCONJ	_	_	70	cc	_	SpaceAfter=No|Gloss=or|Translit=
+70	สิงคโปร์	สิงคโปร์	PROPN	_	Foreign=Yes	68	conj	_	SpaceAfter=No|Gloss=Singapore|Translit=
+71	ที่	ที่	PRON	_	_	78	obl	_	SpaceAfter=No|Gloss=that(REL)|Translit=
+72	โทษ	โทษ	NOUN	_	_	78	nsubj	_	SpaceAfter=No|Gloss=|Translit=
+73	เกี่ยว	เกี่ยว	VERB	_	_	72	acl	_	SpaceAfter=No|Gloss=|Translit=
+74	กับ	กับ	ADP	_	_	75	case	_	SpaceAfter=No|Gloss=with|Translit=
+75	ยา	ยา	NOUN	_	_	73	obl	_	SpaceAfter=No|Gloss=medicine|Translit=
+76	เสพ	เสพ	VERB	_	_	75	acl	_	SpaceAfter=No|Gloss=|Translit=
+77	ติด	ติด	VERB	_	_	76	advcl	_	SpaceAfter=No|Gloss=addict|Translit=
+78	ร้ายแรง	ร้ายแรง	VERB	_	_	68	acl:relcl	_	SpaceAfter=No|Gloss=severe|Translit=
+
+# sent_id = Thai_Political_BhumJaiThai_Party_Narcotics_Drug_10
+# text = โทษส่วนใหญ่คือ ประหารชีวิต ทำให้คดีอาชญากรรมเกี่ยวกับเรื่องยาเสพติดไม่มีอะไรเลย เพราะความเข้มแข็งของกฎหมาย และมาตรการที่เข้มข้น
+# text_en = 
+# tokenised_text = โทษ ส่วน ใหญ่ คือ ประหารชีวิต ทำให้ คดี อาชญากรรม เกี่ยว กับ เรื่อง ยา เสพ ติด ไม่ มี อะไร เลย เพราะ ความ เข้มแข็ง ของ กฎหมาย และ มาตรการ ที่ เข้มข้น
+# tokenised_translit =
+# tokenised_transcript =
+# phrase_type = sentence
+# sentence_position = 
+# genre = political_news_article
+# source = https://www.dailynews.co.th/news/2059100/
+# year = 2023
+1	โทษ	โทษ	NOUN	_	_	7	nsubj	_	SpaceAfter=No|Gloss=|Translit=
+2	ส่วน	ส่วน	NOUN	_	_	1	nmod	_	SpaceAfter=No|Gloss=|Translit=
+3	ใหญ่	ใหญ่	VERB	_	_	2	acl	_	SpaceAfter=No|Gloss=big|Translit=
+4	คือ	คือ	CCONJ	_	_	5	cc	_	SpaceAfter=No|Gloss=|Translit=
+5	ประหาร	ประหาร	VERB	_	_	1	conj	_	SpaceAfter=No|Gloss=kill|Translit=
+6	ชีวิต	ชีวิต	NOUN	_	_	5	obj	_	SpaceAfter=No|Gloss=life|Translit=
+7	ทำให้	ทำให้	VERB	_	_	0	root	_	SpaceAfter=No|Gloss=|Translit=
+8	คดี	คดี	NOUN	_	_	7	obj	_	SpaceAfter=No|Gloss=|Translit=
+9	อาชญากรรม	อาชญากรรม	NOUN	_	_	8	nmod	_	SpaceAfter=No|Gloss=|Translit=
+10	เกี่ยว	เกี่ยว	VERB	_	_	8	acl	_	SpaceAfter=No|Gloss=|Translit=
+11	กับ	กับ	ADP	_	_	12	case	_	SpaceAfter=No|Gloss=with|Translit=
+12	เรื่อง	เรื่อง	NOUN	_	_	10	obl	_	SpaceAfter=No|Gloss=story|Translit=
+13	ยา	ยา	NOUN	_	_	12	nmod	_	SpaceAfter=No|Gloss=medicine|Translit=
+14	เสพ	เสพ	VERB	_	_	13	acl	_	SpaceAfter=No|Gloss=|Translit=
+15	ติด	ติด	VERB	_	_	14	advcl	_	SpaceAfter=No|Gloss=addict|Translit=
+16	ไม่	ไม่	ADV	_	_	17	advmod	_	SpaceAfter=No|Gloss=not|Translit=
+17	มี	มี	VERB	_	_	7	xcomp	_	SpaceAfter=No|Gloss=have|Translit=
+18	อะไร	อะไร	PRON	_	_	17	obl:arg	_	SpaceAfter=No|Gloss=anything|Translit=
+19	เลย	เลย	ADV	_	_	17	advmod	_	SpaceAfter=No|Gloss=completely|Translit=
+20	เพราะ	เพราะ	ADP	_	_	21	case	_	SpaceAfter=No|Gloss=because|Translit=
+21	ความ	ความ	NOUN	_	NounType=Nmlz	7	obl	_	SpaceAfter=No|Gloss=condition(nominalizer)|Translit=
+22	เข้มแข็ง	เข้มแข็ง	VERB	_	_	21	acl	_	SpaceAfter=No|Gloss=|Translit=
+23	ของ	ของ	ADP	_	_	24	case	_	SpaceAfter=No|Gloss=of|Translit=
+24	กฎหมาย	กฎหมาย	NOUN	_	_	21	nmod	_	SpaceAfter=No|Gloss=laws|Translit=
+25	และ	และ	CCONJ	_	_	26	cc	_	SpaceAfter=No|Gloss=and|Translit=
+26	มาตรการ	มาตรการ	NOUN	_	_	24	conj	_	SpaceAfter=No|Gloss=|Translit=
+27	ที่	ที่	PRON	_	_	28	nsubj	_	SpaceAfter=No|Gloss=that(REL)|Translit=
+28	เข้มข้น	เข้มข้น	VERB	_	_	24	acl:relcl	_	SpaceAfter=No|Gloss=|Translit=
+
+# sent_id = Thai_Political_BhumJaiThai_Party_Narcotics_Drug_11
+# text = นายศุภชัย กล่าวว่า ขณะที่ประเทศเราค่อนข้างอะลุ่มอล่วย กฎหมายฉบับใหม่ออกมาว่า ใครครอบครองไว้ไม่เกิน 5 เม็ด ให้ตำรวจสันนิษฐานว่า มีไว้เพื่อเสพ แต่ถ้าเกิน 5 เม็ดขึ้นไป คือผู้ค้า
+# text_en = Mr. Supachai said that while Thailand has been relatively lenient, a new law was issued stating that anyone possessing no more than five methamphetamine pills would be presumed by the police to possess them for personal use. However, possession of more than five pills would classify the person as a drug dealer.
+# tokenised_text = นาย ศุภชัย กล่าว ว่า ขณะ ที่ ประเทศ เรา ค่อนข้าง อะลุ่มอล่วย กฎหมาย ฉบับ ใหม่ ออก มา ว่า ใคร ครอบครอง ไว้ ไม่ เกิน 5 เม็ด ให้ ตำรวจ สันนิษฐาน ว่า มี ไว้ เพื่อ เสพ แต่ ถ้า เกิน 5 เม็ด ขึ้น ไป คือ ผู้ ค้า
+# tokenised_translit =
+# tokenised_transcript =
+# phrase_type = sentence
+# sentence_position = 
+# genre = political_news_article
+# source = https://www.dailynews.co.th/news/2059100/
+# year = 2023
+1	นาย	นาย	NOUN	_	_	3	nsubj	_	SpaceAfter=No|Gloss=Mister|Translit=
+2	ศุภชัย	ศุภชัย	PROPN	_	_	1	nmod	_	SpaceAfter=No|Gloss=|Translit=
+3	กล่าว	กล่าว	VERB	_	_	0	root	_	SpaceAfter=No|Gloss=say|Translit=
+4	ว่า	ว่า	SCONJ	_	_	14	mark	_	SpaceAfter=No|Gloss=that(COMP)|Translit=
+5	ขณะ	ขณะ	NOUN	_	_	14	obl	_	SpaceAfter=No|Gloss=|Translit=
+6	ที่	ที่	PRON	_	_	10	obl	_	SpaceAfter=No|Gloss=that(REL)|Translit=
+7	ประเทศ	ประเทศ	NOUN	_	_	10	nsubj	_	SpaceAfter=No|Gloss=country|Translit=
+8	เรา	เรา	PRON	_	Person=1|PronType=Prs	7	nmod	_	SpaceAfter=No|Gloss=we|Translit=
+9	ค่อนข้าง	ค่อนข้าง	ADV	_	_	10	advmod	_	SpaceAfter=No|Gloss=|Translit=
+10	อะลุ่มอล่วย	อะลุ่มอล่วย	VERB	_	_	5	acl:relcl	_	SpaceAfter=No|Gloss=|Translit=
+11	กฎหมาย	กฎหมาย	NOUN	_	_	14	nsubj	_	SpaceAfter=No|Gloss=laws|Translit=
+12	ฉบับ	ฉบับ	NOUN	_	_	11	nmod	_	SpaceAfter=No|Gloss=|Translit=
+13	ใหม่	ใหม่	VERB	_	_	12	acl	_	SpaceAfter=No|Gloss=new|Translit=
+14	ออก	ออก	VERB	_	_	3	ccomp	_	SpaceAfter=No|Gloss=|Translit=
+15	มา	มา	ADV	_	_	14	advmod	_	SpaceAfter=No|Gloss=|Translit=
+16	ว่า	ว่า	SCONJ	_	_	18	mark	_	SpaceAfter=No|Gloss=that(COMP)|Translit=
+17	ใคร	ใคร	PRON	_	_	18	nsubj	_	SpaceAfter=No|Gloss=anyone|Translit=
+18	ครอบครอง	ครอบครอง	VERB	_	_	14	ccomp	_	SpaceAfter=No|Gloss=|Translit=
+19	ไว้	ไว้	ADV	_	_	18	advmod	_	SpaceAfter=No|Gloss=|Translit=
+20	ไม่	ไม่	ADV	_	_	21	advmod	_	SpaceAfter=No|Gloss=not|Translit=
+21	เกิน	เกิน	VERB	_	_	18	advcl	_	SpaceAfter=No|Gloss=|Translit=
+22	5	5	NUM	_	_	21	obl:arg	_	SpaceAfter=No|Gloss=5|Translit=
+23	เม็ด	เม็ด	NOUN	_	NounType=Clf	22	clf	_	SpaceAfter=No|Gloss=|Translit=
+24	ให้	ให้	VERB	_	_	18	advcl	_	SpaceAfter=No|Gloss=give|Translit=
+25	ตำรวจ	ตำรวจ	NOUN	_	_	24	obj	_	SpaceAfter=No|Gloss=police|Translit=
+26	สันนิษฐาน	สันนิษฐาน	VERB	_	_	24	compound:svc	_	SpaceAfter=No|Gloss=|Translit=
+27	ว่า	ว่า	SCONJ	_	_	28	mark	_	SpaceAfter=No|Gloss=that(COMP)|Translit=
+28	มี	มี	VERB	_	_	26	ccomp	_	SpaceAfter=No|Gloss=have|Translit=
+29	ไว้	ไว้	ADV	_	_	28	advmod	_	SpaceAfter=No|Gloss=|Translit=
+30	เพื่อ	เพื่อ	ADP	_	_	31	mark	_	SpaceAfter=No|Gloss=for|Translit=
+31	เสพ	เสพ	VERB	_	_	28	advcl	_	SpaceAfter=No|Gloss=|Translit=
+32	แต่	แต่	CCONJ	_	_	34	cc	_	SpaceAfter=No|Gloss=but|Translit=
+33	ถ้า	ถ้า	ADP	_	_	34	mark	_	SpaceAfter=No|Gloss=if|Translit=
+34	เกิน	เกิน	VERB	_	_	18	conj	_	SpaceAfter=No|Gloss=|Translit=
+35	5	5	NUM	_	_	34	obl:arg	_	SpaceAfter=No|Gloss=5|Translit=
+36	เม็ด	เม็ด	NOUN	_	NounType=Clf	35	clf	_	SpaceAfter=No|Gloss=|Translit=
+37	ขึ้น	ขึ้น	ADV	_	_	34	advmod	_	SpaceAfter=No|Gloss=|Translit=
+38	ไป	ไป	ADV	_	_	37	advmod	_	SpaceAfter=No|Gloss=|Translit=
+39	คือ	คือ	CCONJ	_	_	40	cc	_	SpaceAfter=No|Gloss=|Translit=
+40	ผู้	ผู้	NOUN	_	_	34	conj	_	SpaceAfter=No|Gloss=person|Translit=
+41	ค้า	ค้า	VERB	_	_	40	acl	_	SpaceAfter=No|Gloss=|Translit=
+
+# sent_id = Thai_Political_BhumJaiThai_Party_Narcotics_Drug_12
+# text = ในที่สุดผู้ค้า ก็หลบเลี่ยงโดยแทนที่จะค้ากันหลายสิบเม็ด 100 เม็ด ก็เปลี่ยนใหม่เป็นส่งของกันไม่เกิน หน้า 2 จาก 25 เม็ด แล้วให้เด็กจะเป็นคนส่ง
+# text_en = Eventually, traffickers adapted by avoiding transactions involving dozens or hundreds of pills and instead limiting each delivery to fewer than five pills, using children as couriers.
+# tokenised_text = ใน ที่สุด ผู้ ค้า ก็ หลบเลี่ยง โดย แทน ที่ จะ ค้า กัน หลาย สิบ เม็ด 100 เม็ด ก็ เปลี่ยน ใหม่ เป็น ส่ง ของ กัน ไม่ เกิน หน้า 2 จาก 25 เม็ด แล้ว ให้ เด็ก จะ เป็น คน ส่ง
+# tokenised_translit =
+# tokenised_transcript =
+# phrase_type = sentence
+# sentence_position = 
+# genre = political_news_article
+# source = https://www.dailynews.co.th/news/2059100/
+# year = 2023
+1	ใน	_	ADP	_	_	2	case	_	_
+2	ที่	_	NOUN	_	_	7	obl	_	_
+3	สุด	_	VERB	_	_	2	acl	_	_
+4	ผู้	_	NOUN	_	_	7	nsubj	_	_
+5	ค้า	_	VERB	_	_	4	acl	_	_
+6	ก็	_	ADV	_	_	7	advmod	_	_
+7	หลบเลี่ยง	_	VERB	_	_	0	root	_	_
+8	โดย	_	ADP	_	_	9	mark	_	_
+9	แทน	_	VERB	_	_	7	advcl	_	_
+10	ที่	_	ADP	_	_	12	mark	_	_
+11	จะ	_	ADV	_	_	12	advmod	_	_
+12	ค้า	_	VERB	_	_	9	advcl	_	_
+13	กัน	_	ADV	_	_	12	advmod	_	_
+14	หลาย	_	DET	_	_	15	det	_	_
+15	สิบ	_	NUM	_	_	12	obj	_	_
+16	เม็ด	_	NOUN	_	_	15	clf	_	_
+17	100	_	NUM	_	_	15	conj	_	_
+18	เม็ด	_	NOUN	_	_	17	clf	_	_
+19	ก็	_	ADV	_	_	20	advmod	_	_
+20	เปลี่ยน	_	VERB	_	_	9	advcl	_	_
+21	ใหม่	_	ADV	_	_	20	advmod	_	_
+22	เป็น	_	ADP	_	_	23	mark	_	_
+23	ส่ง	_	VERB	_	_	20	advcl	_	_
+24	ของ	_	NOUN	_	_	23	obj	_	_
+25	กัน	_	ADV	_	_	23	advmod	_	_
+26	ไม่	_	ADV	_	_	27	advmod	_	_
+27	เกิน	_	VERB	_	_	23	advcl	_	_
+28	หน้า	_	X	_	_	27	dep	_	_
+29	2	_	NUM	_	_	27	obl:arg	_	_
+30	จาก	_	ADP	_	_	31	case	_	_
+31	25	_	NUM	_	_	29	nmod	_	_
+32	เม็ด	_	NOUN	_	_	31	clf	_	_
+33	แล้ว	_	ADV	_	_	34	advmod	_	_
+34	ให้	_	VERB	_	_	23	advcl	_	_
+35	เด็ก	_	NOUN	_	_	34	obj	_	_
+36	จะ	_	ADV	_	_	38	advmod	_	_
+37	เป็น	_	AUX	_	_	38	cop	_	_
+38	คน	_	NOUN	_	_	34	xcomp	_	_
+39	ส่ง	_	VERB	_	_	38	acl	_	_
+
+# sent_id = Thai_Political_BhumJaiThai_Party_Narcotics_Drug_13
+# text = วันนี้ยาบ้าก่อให้เกิดความเสียหายอย่างมาก 
+# text_en = Today, methamphetamine has caused enormous damage.
+# tokenised_text = วัน นี้ ยา บ้า ก่อ ให้ เกิด ความ เสียหาย อย่าง มาก
+# tokenised_translit =
+# tokenised_transcript =
+# phrase_type = sentence
+# sentence_position = 
+# genre = political_news_article
+# source = https://www.dailynews.co.th/news/2059100/
+# year = 2023
+1	วัน	วัน	NOUN	_	_	5	obl	_	SpaceAfter=No|Gloss=day|Translit=
+2	นี้	นี้	ADJ	_	_	1	amod	_	SpaceAfter=No|Gloss=this|Translit=
+3	ยา	ยา	NOUN	_	_	5	nsubj	_	SpaceAfter=No|Gloss=medicine|Translit=
+4	บ้า	บ้า	VERB	_	ExtPos=PROPN	3	acl	_	SpaceAfter=No|Gloss=crazy|Translit=
+5	ก่อ	ก่อ	VERB	_	_	0	root	_	SpaceAfter=No|Gloss=|Translit=
+6	ให้	ให้	VERB	_	_	5	compound:svc	_	SpaceAfter=No|Gloss=give|Translit=
+7	เกิด	เกิด	VERB	_	_	6	compound:svc	_	SpaceAfter=No|Gloss=|Translit=
+8	ความ	ความ	NOUN	_	NounType=Nmlz	7	obl:arg	_	SpaceAfter=No|Gloss=condition(nominalizer)|Translit=
+9	เสียหาย	เสียหาย	VERB	_	_	8	acl	_	SpaceAfter=No|Gloss=|Translit=
+10	อย่าง	อย่าง	NOUN	_	_	7	obl	_	SpaceAfter=No|Gloss=|Translit=
+11	มาก	มาก	VERB	_	_	10	acl	_	SpaceAfter=No|Gloss=very|Translit=
+
+# sent_id = Thai_Political_BhumJaiThai_Party_Narcotics_Drug_14
+# text = มีข่าวคนเมายาบ้า คลั่งยาทำร้ายผู้อื่น ทำร้ายตัวเอง ทำร้ายคนในครอบครัว เกิดขึ้นวนไปวนมา
+# text_en = News reports of people under the influence of meth committing violent acts against others, themselves, and family members continue to appear repeatedly.
+# tokenised_text = มี ข่าว คน เมา ยา บ้า คลั่ง ยา ทำร้าย ผู้ อื่น ทำร้าย ตัว เอง ทำร้าย คน ใน ครอบครัว เกิด ขึ้น วน ไป วน มา
+# tokenised_translit =
+# tokenised_transcript =
+# phrase_type = sentence
+# sentence_position = 
+# genre = political_news_article
+# source = https://www.dailynews.co.th/news/2059100/
+# year = 2023
+1	มี	มี	VERB	_	_	0	root	_	SpaceAfter=No|Gloss=have|Translit=
+2	ข่าว	ข่าว	NOUN	_	_	1	nsubj	_	SpaceAfter=No|Gloss=news|Translit=
+3	คน	คน	NOUN	_	_	2	nmod	_	SpaceAfter=No|Gloss=person|Translit=
+4	เมา	เมา	VERB	_	_	3	acl	_	SpaceAfter=No|Gloss=|Translit=
+5	ยา	ยา	NOUN	_	_	4	obl:arg	_	SpaceAfter=No|Gloss=medicine|Translit=
+6	บ้า	บ้า	VERB	_	ExtPos=PROPN	5	acl	_	SpaceAfter=No|Gloss=crazy|Translit=
+7	คลั่ง	คลั่ง	VERB	_	_	4	advcl	_	SpaceAfter=No|Gloss=|Translit=
+8	ยา	ยา	NOUN	_	_	7	obl:arg	_	SpaceAfter=No|Gloss=medicine|Translit=
+9	ทำร้าย	ทำร้าย	VERB	_	_	7	advcl	_	SpaceAfter=No|Gloss=|Translit=
+10	ผู้	ผู้	NOUN	_	_	9	obj	_	SpaceAfter=No|Gloss=person|Translit=
+11	อื่น	อื่น	ADJ	_	_	10	amod	_	SpaceAfter=No|Gloss=|Translit=
+12	ทำร้าย	ทำร้าย	VERB	_	_	9	conj	_	SpaceAfter=No|Gloss=|Translit=
+13	ตัว	ตัว	NOUN	_	_	12	obj	_	SpaceAfter=No|Gloss=body|Translit=
+14	เอง	เอง	ADJ	_	_	13	amod	_	SpaceAfter=No|Gloss=|Translit=
+15	ทำร้าย	ทำร้าย	VERB	_	_	9	conj	_	SpaceAfter=No|Gloss=|Translit=
+16	คน	คน	NOUN	_	_	15	obj	_	SpaceAfter=No|Gloss=person|Translit=
+17	ใน	ใน	ADP	_	_	18	case	_	SpaceAfter=No|Gloss=in|Translit=
+18	ครอบครัว	ครอบครัว	NOUN	_	_	16	nmod	_	SpaceAfter=No|Gloss=family|Translit=
+19	เกิด	เกิด	VERB	_	_	2	acl	_	SpaceAfter=No|Gloss=|Translit=
+20	ขึ้น	ขึ้น	ADV	_	_	19	advmod	_	SpaceAfter=No|Gloss=|Translit=
+21	วน	วน	VERB	_	_	19	compound:svc	_	SpaceAfter=No|Gloss=|Translit=
+22	ไป	ไป	VERB	_	_	21	compound:svc	_	SpaceAfter=No|Gloss=go|Translit=
+23	วน	วน	VERB	_	_	21	conj	_	SpaceAfter=No|Gloss=|Translit=
+24	มา	มา	VERB	_	_	23	compound:svc	_	SpaceAfter=No|Gloss=come|Translit=
+
+# sent_id = Thai_Political_BhumJaiThai_Party_Narcotics_Drug_15
+# text = เรื่องยาบ้าไม่ว่ารัฐบาลชุดไหนพูดเหมือนกันหมด แต่ไม่มีมาตรการที่เข้มแข็ง
+# text_en = Every government talks about the meth problem in much the same way, yet no strong measures have been implemented.
+# tokenised_text = เรื่อง ยา บ้า ไม่ว่า รัฐบาล ชุด ไหน พูด เหมือน กัน หมด แต่ ไม่ มี มาตรการ ที่ เข้มแข็ง
+# tokenised_translit =
+# tokenised_transcript =
+# phrase_type = sentence
+# sentence_position = 
+# genre = political_news_article
+# source = https://www.dailynews.co.th/news/2059100/
+# year = 2023
+1	เรื่อง	เรื่อง	NOUN	_	_	5	dislocated	_	SpaceAfter=No|Gloss=story|Translit=
+2	ยา	ยา	NOUN	_	_	1	nmod	_	SpaceAfter=No|Gloss=medicine|Translit=
+3	บ้า	บ้า	VERB	_	ExtPos=PROPN	2	acl	_	SpaceAfter=No|Gloss=crazy|Translit=
+4	ไม่	ไม่	ADV	_	_	5	advmod	_	SpaceAfter=No|Gloss=not|Translit=
+5	ว่า	ว่า	VERB	_	_	0	root	_	SpaceAfter=No|Gloss=|Translit=
+6	รัฐบาล	รัฐบาล	NOUN	_	_	5	orphan	_	SpaceAfter=No|Gloss=government|Translit=
+7	ชุด	ชุด	NOUN	_	NounType=Clf	6	clf	_	SpaceAfter=No|Gloss=|Translit=
+8	ไหน	ไหน	ADJ	_	_	7	amod	_	SpaceAfter=No|Gloss=|Translit=
+9	พูด	พูด	VERB	_	_	6	advcl	_	SpaceAfter=No|Gloss=say|Translit=
+10	เหมือน	เหมือน	VERB	_	_	9	advcl	_	SpaceAfter=No|Gloss=|Translit=
+11	กัน	กัน	ADV	_	_	10	advmod	_	SpaceAfter=No|Gloss=|Translit=
+12	หมด	หมด	VERB	_	_	10	advcl	_	SpaceAfter=No|Gloss=|Translit=
+13	แต่	แต่	CCONJ	_	_	15	cc	_	SpaceAfter=No|Gloss=but|Translit=
+14	ไม่	ไม่	ADV	_	_	15	advmod	_	SpaceAfter=No|Gloss=not|Translit=
+15	มี	มี	VERB	_	_	9	conj	_	SpaceAfter=No|Gloss=have|Translit=
+16	มาตรการ	มาตรการ	NOUN	_	_	15	obl:arg	_	SpaceAfter=No|Gloss=|Translit=
+17	ที่	ที่	PRON	_	_	18	nsubj	_	SpaceAfter=No|Gloss=that(REL)|Translit=
+18	เข้มแข็ง	เข้มแข็ง	VERB	_	_	16	acl:relcl	_	SpaceAfter=No|Gloss=|Translit=
+
+# sent_id = Thai_Political_BhumJaiThai_Party_Narcotics_Drug_16
+# text = วันนี้ถึงเวลาแล้วที่ต้องทำให้ทันกล ทันเกม ของผู้ค้า โดย นายอนุทิน ชาญวีรกูล หัวหน้าพรรคภูมิใจไทย ซึ่งเป็น รมว.สาธารณสุข ได้เสนอประกาศกระทรวงสาธารณสุขต่อคณะรัฐมนตรี (ครม.) ไปแล้ว
+# text_en = Now, he said, it is time to stay ahead of traffickers’ tactics and schemes. Mr. Anutin Charnvirakul, leader of the Bhumjaithai Party and Minister of Public Health, has already proposed a new Ministry of Public Health regulation to the Cabinet.
+# tokenised_text = วัน นี้ ถึง เวลา แล้ว ที่ ต้อง ทำให้ ทัน กล ทัน เกม ของ ผู้ ค้า โดย นาย อนุทิน ชาญวีรกูล หัวหน้า พรรค ภูมิใจ ไทย ซึ่ง เป็น รมว. สาธารณสุข ได้ เสนอ ประกาศ กระทรวง สาธารณสุข ต่อ คณะ รัฐมนตรี ( ครม. ) ไป แล้ว
+# tokenised_translit =
+# tokenised_transcript =
+# phrase_type = sentence
+# sentence_position = 
+# genre = political_news_article
+# source = https://www.dailynews.co.th/news/2059100/
+# year = 2023
+1	วัน	วัน	NOUN	_	_	3	obl	_	SpaceAfter=No|Gloss=day|Translit=
+2	นี้	นี้	ADJ	_	_	1	amod	_	SpaceAfter=No|Gloss=this|Translit=
+3	ถึง	ถึง	VERB	_	_	0	root	_	SpaceAfter=No|Gloss=arrive|Translit=
+4	เวลา	เวลา	VERB	_	_	3	obl:arg	_	SpaceAfter=No|Gloss=time|Translit=
+5	แล้ว	แล้ว	ADV	_	_	3	advmod	_	SpaceAfter=No|Gloss=|Translit=
+6	ที่	ที่	SCONJ	_	_	7	mark	_	SpaceAfter=No|Gloss=that(COMP)|Translit=
+7	ต้อง	ต้อง	VERB	_	_	3	ccomp	_	SpaceAfter=No|Gloss=must|Translit=
+8	ทำให้	ทำให้	VERB	_	_	7	xcomp	_	SpaceAfter=No|Gloss=|Translit=
+9	ทัน	ทัน	VERB	_	_	8	xcomp	_	SpaceAfter=No|Gloss=|Translit=
+10	กล	กล	NOUN	_	_	9	obl:arg	_	SpaceAfter=No|Gloss=|Translit=
+11	ทัน	ทัน	VERB	_	_	9	conj	_	SpaceAfter=No|Gloss=|Translit=
+12	เกม	เกม	NOUN	_	Foreign=Yes	11	obl:arg	_	SpaceAfter=No|Gloss=game|Translit=
+13	ของ	ของ	ADP	_	_	14	case	_	SpaceAfter=No|Gloss=of|Translit=
+14	ผู้	ผู้	NOUN	_	_	12	nmod	_	SpaceAfter=No|Gloss=person|Translit=
+15	ค้า	ค้า	VERB	_	_	14	acl	_	SpaceAfter=No|Gloss=|Translit=
+16	โดย	โดย	SCONJ	_	_	28	mark	_	SpaceAfter=No|Gloss=by|Translit=
+17	นาย	นาย	NOUN	_	_	28	nsubj	_	SpaceAfter=No|Gloss=Mister|Translit=
+18	อนุทิน	อนุทิน	PROPN	_	_	17	nmod	_	SpaceAfter=No|Gloss=|Translit=
+19	ชาญวีรกูล	ชาญวีรกูล	PROPN	_	_	18	flat	_	SpaceAfter=No|Gloss=|Translit=
+20	หัวหน้า	หัวหน้า	NOUN	_	_	17	appos	_	SpaceAfter=No|Gloss=chief|Translit=
+21	พรรค	พรรค	NOUN	_	_	20	nmod	_	SpaceAfter=No|Gloss=party|Translit=
+22	ภูมิใจ	ภูมิใจ	VERB	_	ExtPos=PROPN	21	nmod	_	SpaceAfter=No|Gloss=|Translit=
+23	ไทย	ไทย	PROPN	_	_	22	obj	_	SpaceAfter=No|Gloss=Thai|Translit=
+24	ซึ่ง	ซึ่ง	PRON	_	_	26	nsubj	_	SpaceAfter=No|Gloss=that(REL)|Translit=
+25	เป็น	เป็น	AUX	_	_	26	cop	_	SpaceAfter=No|Gloss=BE|Translit=
+26	รมว.	รมว.	NOUN	_	Abbr=Yes	17	acl:relcl	_	SpaceAfter=No|Gloss=|Translit=
+27	สาธารณสุข	สาธารณสุข	PROPN	_	_	26	nmod	_	SpaceAfter=No|Gloss=|Translit=
+28	ได้	ได้	VERB	_	_	7	ccomp	_	SpaceAfter=No|Gloss=|Translit=
+29	เสนอ	เสนอ	VERB	_	_	28	xcomp	_	SpaceAfter=No|Gloss=|Translit=
+30	ประกาศ	ประกาศ	NOUN	_	_	29	obj	_	SpaceAfter=No|Gloss=announcement|Translit=
+31	กระทรวง	กระทรวง	NOUN	_	_	30	nmod	_	SpaceAfter=No|Gloss=|Translit=
+32	สาธารณสุข	สาธารณสุข	PROPN	_	_	31	nmod	_	SpaceAfter=No|Gloss=|Translit=
+33	ต่อ	ต่อ	ADP	_	_	34	case	_	SpaceAfter=No|Gloss=to|Translit=
+34	คณะ	คณะ	NOUN	_	_	29	obl	_	SpaceAfter=No|Gloss=|Translit=
+35	รัฐมนตรี	รัฐมนตรี	NOUN	_	_	34	nmod	_	SpaceAfter=No|Gloss=|Translit=
+36	(	(	PUNCT	_	_	37	punct	_	SpaceAfter=No|Gloss=|Translit=
+37	ครม.	ครม.	NOUN	_	Abbr=Yes	34	appos	_	SpaceAfter=No|Gloss=|Translit=
+38	)	)	PUNCT	_	_	37	punct	_	SpaceAfter=No|Gloss=|Translit=
+39	ไป	ไป	ADV	_	_	29	advmod	_	SpaceAfter=No|Gloss=|Translit=
+40	แล้ว	แล้ว	ADV	_	_	39	advmod	_	SpaceAfter=No|Gloss=|Translit=
+
+# sent_id = Thai_Political_BhumJaiThai_Party_Narcotics_Drug_17
+# text = เปลี่ยนเกณฑ์ใหม่ให้สันนิษฐานว่าแค่ 1 เม็ด คือการมีไว้เสพ ซึ่งโทษก็เบา
+# text_en = The proposal would change the criteria so that possession of just one pill would be presumed to be for personal use, which carries a lighter penalty.
+# tokenised_text = เปลี่ยน เกณฑ์ ใหม่ ให้ สันนิษฐาน ว่า แค่ 1 เม็ด คือ การ มี ไว้ เสพ ซึ่ง โทษ ก็ เบา 
+# tokenised_translit =
+# tokenised_transcript = /plìan/ /keːn/ /màj/ /hâj/ /sǎn-ní-thǎːn/ /wâː/ /kɛ̂ː/ /nɯ̀ŋ/ /mét/ /khɯː/ /kaːn/ /miː/ /wáj/ /sèːp/ /sɯ̂ŋ/ /thôːt/ /kɔ̂ː/ /baw/
+# phrase_type = sentence
+# sentence_position = 
+# genre = political_news_article
+# source = https://www.dailynews.co.th/news/2059100/
+# year = 2023
+1	เปลี่ยน	_	VERB	_	_	0	root	_	_
+2	เกณฑ์	_	NOUN	_	_	1	obj	_	_
+3	ใหม่	_	ADV	_	_	1	advmod	_	_
+4	ให้	_	VERB	_	_	1	advcl	_	_
+5	สันนิษฐาน	_	VERB	_	_	4	compound:svc	_	_
+6	ว่า	_	SCONJ	_	_	8	mark	_	_
+7	แค่	_	DET	_	_	8	det	_	_
+8	1	_	NUM	_	_	5	ccomp	_	_
+9	เม็ด	_	NOUN	_	_	8	clf	_	_
+10	คือ	_	CCONJ	_	_	11	cc	_	_
+11	การ	_	NOUN	_	_	8	conj	_	_
+12	มี	_	VERB	_	_	11	acl	_	_
+13	ไว้	_	ADV	_	_	12	advmod	_	_
+14	เสพ	_	VERB	_	_	12	advcl	_	_
+15	ซึ่ง	_	SCONJ	_	_	18	mark	_	_
+16	โทษ	_	NOUN	_	_	18	nsubj	_	_
+17	ก็	_	ADV	_	_	18	advmod	_	_
+18	เบา	_	VERB	_	_	8	orphan	_	_
+
+# sent_id = Thai_Political_BhumJaiThai_Party_Narcotics_Drug_18
+# text = เกิน 1 เม็ดหรือ 2 เม็ดขึ้นไป ถือว่าเป็นผู้ค้า แล้วให้ไปสู้คดีว่า คุณค้ายาหรือไม่
+# text_en = Possession of more than one or two pills, however, would be considered evidence of drug trafficking, leaving the accused to prove in court whether or not they were actually dealing drugs.
+# tokenised_text = เกิน 1 เม็ด หรือ 2 เม็ด ขึ้น ไป ถือ ว่า เป็น ผู้ ค้า แล้ว ให้ ไป สู้ คดี ว่า คุณ ค้า ยา หรือ ไม่
+# tokenised_translit =
+# tokenised_transcript =
+# phrase_type = sentence
+# sentence_position = 
+# genre = political_news_article
+# source = https://www.dailynews.co.th/news/2059100/
+# year = 2023
+1	เกิน	เกิน	VERB	_	_	0	root	_	SpaceAfter=No|Gloss=|Translit=
+2	1	1	NUM	_	_	1	obl:arg	_	SpaceAfter=No|Gloss=1|Translit=
+3	เม็ด	เม็ด	NOUN	_	NounType=Clf	2	clf	_	SpaceAfter=No|Gloss=|Translit=
+4	หรือ	หรือ	CCONJ	_	_	5	cc	_	SpaceAfter=No|Gloss=or|Translit=
+5	2	2	NUM	_	_	2	conj	_	SpaceAfter=No|Gloss=2|Translit=
+6	เม็ด	เม็ด	NOUN	_	NounType=Clf	5	clf	_	SpaceAfter=No|Gloss=|Translit=
+7	ขึ้น	ขึ้น	ADV	_	_	1	advmod	_	SpaceAfter=No|Gloss=|Translit=
+8	ไป	ไป	ADV	_	_	7	advmod	_	SpaceAfter=No|Gloss=|Translit=
+9	ถือ	ถือ	VERB	_	_	1	advcl	_	SpaceAfter=No|Gloss=|Translit=
+10	ว่า	ว่า	SCONJ	_	_	12	mark	_	SpaceAfter=No|Gloss=that(COMP)|Translit=
+11	เป็น	เป็น	AUX	_	_	12	cop	_	SpaceAfter=No|Gloss=BE|Translit=
+12	ผู้	ผู้	NOUN	_	_	9	xcomp	_	SpaceAfter=No|Gloss=person|Translit=
+13	ค้า	ค้า	VERB	_	_	12	acl	_	SpaceAfter=No|Gloss=|Translit=
+14	แล้ว	แล้ว	ADV	_	_	15	advmod	_	SpaceAfter=No|Gloss=|Translit=
+15	ให้	ให้	VERB	_	_	9	advcl	_	SpaceAfter=No|Gloss=give|Translit=
+16	ไป	ไป	VERB	_	_	15	compound:svc	_	SpaceAfter=No|Gloss=go|Translit=
+17	สู้คดี	สู้คดี	VERB	_	_	16	compound:svc	_	SpaceAfter=No|Gloss=|Translit=
+18	ว่า	ว่า	SCONJ	_	_	20	mark	_	SpaceAfter=No|Gloss=that(COMP)|Translit=
+19	คุณ	คุณ	PRON	_	Person=2|PronType=Prs	20	nsubj	_	SpaceAfter=No|Gloss=you|Translit=
+20	ค้า	ค้า	VERB	_	_	17	xcomp	_	SpaceAfter=No|Gloss=|Translit=
+21	ยา	ยา	NOUN	_	_	20	obj	_	SpaceAfter=No|Gloss=medicine|Translit=
+22	หรือ	หรือ	CCONJ	_	_	23	cc	_	SpaceAfter=No|Gloss=or|Translit=
+23	ไม่	ไม่	ADV	_	_	20	conj	_	SpaceAfter=No|Gloss=not|Translit=
+
+# sent_id = Thai_Political_BhumJaiThai_Party_Narcotics_Drug_19
+# text = “เราต้องบังคับใช้กฎหมายเข้มขึ้น ด้วยมาตรการที่เข้มแข็ง จากไม่เกิน 5 เม็ด เหลือ 1 เม็ด
+# text_en = 
+# tokenised_text = “ เรา ต้อง บังคับ ใช้ กฎหมาย เข้ม ขึ้น ด้วย มาตรการ ที่ เข้มแข็ง จาก ไม่ เกิน 5 เม็ด เหลือ 1 เม็ด
+# tokenised_translit =
+# tokenised_transcript =
+# phrase_type = sentence
+# sentence_position = 
+# genre = political_news_article
+# source = https://www.dailynews.co.th/news/2059100/
+# year = 2023
+1	“	“	PUNCT	_	_	3	punct	_	SpaceAfter=No|Gloss=|Translit=
+2	เรา	เรา	PRON	_	Person=1|PronType=Prs	3	nsubj	_	SpaceAfter=No|Gloss=we|Translit=
+3	ต้อง	ต้อง	VERB	_	_	0	root	_	SpaceAfter=No|Gloss=must|Translit=
+4	บังคับ	บังคับ	VERB	_	_	3	xcomp	_	SpaceAfter=No|Gloss=force|Translit=
+5	ใช้	ใช้	VERB	_	_	4	compound:svc	_	SpaceAfter=No|Gloss=use|Translit=
+6	กฎหมาย	กฎหมาย	NOUN	_	_	5	obj	_	SpaceAfter=No|Gloss=laws|Translit=
+7	เข้ม	เข้ม	VERB	_	_	5	advcl	_	SpaceAfter=No|Gloss=|Translit=
+8	ขึ้น	ขึ้น	ADV	_	_	7	advmod	_	SpaceAfter=No|Gloss=|Translit=
+9	ด้วย	ด้วย	ADP	_	_	10	case	_	SpaceAfter=No|Gloss=with|Translit=
+10	มาตรการ	มาตรการ	NOUN	_	_	5	obl	_	SpaceAfter=No|Gloss=|Translit=
+11	ที่	ที่	PRON	_	_	12	nsubj	_	SpaceAfter=No|Gloss=that(REL)|Translit=
+12	เข้มแข็ง	เข้มแข็ง	VERB	_	_	10	acl:relcl	_	SpaceAfter=No|Gloss=|Translit=
+13	จาก	จาก	ADP	_	_	15	mark	_	SpaceAfter=No|Gloss=from|Translit=
+14	ไม่	ไม่	ADV	_	_	15	advmod	_	SpaceAfter=No|Gloss=not|Translit=
+15	เกิน	เกิน	VERB	_	_	18	advcl	_	SpaceAfter=No|Gloss=|Translit=
+16	5	5	NUM	_	_	15	obl:arg	_	SpaceAfter=No|Gloss=5|Translit=
+17	เม็ด	เม็ด	NOUN	_	NounType=Clf	16	clf	_	SpaceAfter=No|Gloss=|Translit=
+18	เหลือ	เหลือ	VERB	_	_	10	acl	_	SpaceAfter=No|Gloss=|Translit=
+19	1	1	NUM	_	_	18	obl:arg	_	SpaceAfter=No|Gloss=1|Translit=
+20	เม็ด	เม็ด	NOUN	_	NounType=Clf	19	clf	_	SpaceAfter=No|Gloss=|Translit=
+
+# sent_id = Thai_Political_BhumJaiThai_Party_Narcotics_Drug_20
+# text = การกำหนดให้มากกว่า 1 เม็ด เป็นผู้ค้า เป็นเรื่องที่ถูกต้อง และเป็นสิ่งที่จะทำให้สังคมนี้มีความสงบ
+# text_en = 
+# tokenised_text = การ กำหนด ให้ มาก กว่า 1 เม็ด เป็น ผู้ ค้า เป็น เรื่อง ที่ ถูกต้อง และ เป็น สิ่ง ที่ จะ ทำให้ สังคม นี้ มี ความ สงบ
+# tokenised_translit =
+# tokenised_transcript =
+# phrase_type = sentence
+# sentence_position = 
+# genre = political_news_article
+# source = https://www.dailynews.co.th/news/2059100/
+# year = 2023
+1	การ	การ	NOUN	_	NounType=Nmlz	12	nsubj	_	SpaceAfter=No|Gloss=a thing to be done(nominalizer)|Translit=
+2	กำหนด	กำหนด	VERB	_	_	1	acl	_	SpaceAfter=No|Gloss=|Translit=
+3	ให้	ให้	VERB	_	_	2	compound:svc	_	SpaceAfter=No|Gloss=give|Translit=
+4	มาก	มาก	VERB	_	_	3	xcomp	_	SpaceAfter=No|Gloss=very|Translit=
+5	กว่า	กว่า	ADP	_	_	6	case	_	SpaceAfter=No|Gloss=than|Translit=
+6	1	1	NUM	_	_	4	obl	_	SpaceAfter=No|Gloss=1|Translit=
+7	เม็ด	เม็ด	NOUN	_	NounType=Clf	6	clf	_	SpaceAfter=No|Gloss=|Translit=
+8	เป็น	เป็น	AUX	_	_	9	cop	_	SpaceAfter=No|Gloss=BE|Translit=
+9	ผู้	ผู้	NOUN	_	_	2	xcomp	_	SpaceAfter=No|Gloss=person|Translit=
+10	ค้า	ค้า	VERB	_	_	9	acl	_	SpaceAfter=No|Gloss=|Translit=
+11	เป็น	เป็น	AUX	_	_	12	cop	_	SpaceAfter=No|Gloss=BE|Translit=
+12	เรื่อง	เรื่อง	NOUN	_	_	0	root	_	SpaceAfter=No|Gloss=story|Translit=
+13	ที่	ที่	PRON	_	_	14	nsubj	_	SpaceAfter=No|Gloss=that(REL)|Translit=
+14	ถูกต้อง	ถูกต้อง	VERB	_	_	12	acl:relcl	_	SpaceAfter=No|Gloss=|Translit=
+15	และ	และ	CCONJ	_	_	17	cc	_	SpaceAfter=No|Gloss=and|Translit=
+16	เป็น	เป็น	AUX	_	_	17	cop	_	SpaceAfter=No|Gloss=BE|Translit=
+17	สิ่ง	สิ่ง	NOUN	_	_	12	conj	_	SpaceAfter=No|Gloss=thing|Translit=
+18	ที่	ที่	PRON	_	_	20	nsubj	_	SpaceAfter=No|Gloss=that(REL)|Translit=
+19	จะ	จะ	ADV	_	_	20	advmod	_	SpaceAfter=No|Gloss=|Translit=
+20	ทำให้	ทำให้	VERB	_	_	17	acl:relcl	_	SpaceAfter=No|Gloss=|Translit=
+21	สังคม	สังคม	NOUN	_	_	20	obj	_	SpaceAfter=No|Gloss=society|Translit=
+22	นี้	นี้	ADJ	_	_	21	amod	_	SpaceAfter=No|Gloss=this|Translit=
+23	มี	มี	VERB	_	_	20	xcomp	_	SpaceAfter=No|Gloss=have|Translit=
+24	ความ	ความ	NOUN	_	NounType=Nmlz	23	obl:arg	_	SpaceAfter=No|Gloss=condition(nominalizer)|Translit=
+25	สงบ	สงบ	VERB	_	_	24	acl	_	SpaceAfter=No|Gloss=peaceful|Translit=
+
+# sent_id = Thai_Political_BhumJaiThai_Party_Narcotics_Drug_21
+# text = ผมยืนยันว่า สิ่งที่เราทำทั้งหมด ภูมิใจไทย เป็นพรรคที่จะไม่ยอมให้ยาบ้าครองเมือง” นายศุภชัย กล่าว
+# text_en = 
+# tokenised_text = ผม ยืนยัน ว่า สิ่ง ที่ เรา ทำ ทั้งหมด ภูมิใจ ไทย เป็น พรรค ที่ จะ ไม่ ยอม ให้ ยา บ้า ครอง เมือง ” นาย ศุภชัย กล่าว
+# tokenised_translit =
+# tokenised_transcript =
+# phrase_type = sentence
+# sentence_position = 
+# genre = political_news_article
+# source = https://www.dailynews.co.th/news/2059100/
+# year = 2023
+1	ผม	ผม	PRON	_	Person=1|PronType=Prs	2	nsubj	_	SpaceAfter=No|Gloss=I|Translit=
+2	ยืนยัน	ยืนยัน	VERB	_	_	25	ccomp	_	SpaceAfter=No|Gloss=insist|Translit=
+3	ว่า	ว่า	SCONJ	_	_	12	mark	_	SpaceAfter=No|Gloss=that(COMP)|Translit=
+4	สิ่ง	สิ่ง	NOUN	_	_	12	dislocated	_	SpaceAfter=No|Gloss=thing|Translit=
+5	ที่	ที่	PRON	_	_	7	obj	_	SpaceAfter=No|Gloss=that(REL)|Translit=
+6	เรา	เรา	PRON	_	Person=1|PronType=Prs	7	nsubj	_	SpaceAfter=No|Gloss=we|Translit=
+7	ทำ	ทำ	VERB	_	_	4	acl:relcl	_	SpaceAfter=No|Gloss=do|Translit=
+8	ทั้งหมด	ทั้งหมด	ADV	_	_	7	advmod	_	SpaceAfter=No|Gloss=|Translit=
+9	ภูมิใจ	ภูมิใจ	VERB	_	ExtPos=PROPN	12	nsubj	_	SpaceAfter=No|Gloss=|Translit=
+10	ไทย	ไทย	PROPN	_	_	9	obj	_	SpaceAfter=No|Gloss=Thai|Translit=
+11	เป็น	เป็น	AUX	_	_	12	cop	_	SpaceAfter=No|Gloss=BE|Translit=
+12	พรรค	พรรค	NOUN	_	_	2	ccomp	_	SpaceAfter=No|Gloss=party|Translit=
+13	ที่	ที่	PRON	_	_	16	nsubj	_	SpaceAfter=No|Gloss=that(REL)|Translit=
+14	จะ	จะ	ADV	_	_	16	advmod	_	SpaceAfter=No|Gloss=|Translit=
+15	ไม่	ไม่	ADV	_	_	16	advmod	_	SpaceAfter=No|Gloss=not|Translit=
+16	ยอม	ยอม	VERB	_	_	12	acl:relcl	_	SpaceAfter=No|Gloss=|Translit=
+17	ให้	ให้	VERB	_	_	16	compound:svc	_	SpaceAfter=No|Gloss=|Translit=
+18	ยา	ยา	NOUN	_	_	17	obj	_	SpaceAfter=No|Gloss=medicine|Translit=
+19	บ้า	บ้า	VERB	_	ExtPos=PROPN	18	acl	_	SpaceAfter=No|Gloss=crazy|Translit=
+20	ครอง	ครอง	VERB	_	_	17	xcomp	_	SpaceAfter=No|Gloss=|Translit=
+21	เมือง	เมือง	NOUN	_	_	20	obj	_	SpaceAfter=No|Gloss=city|Translit=
+22	”	”	PUNCT	_	_	2	punct	_	SpaceAfter=No|Gloss=|Translit=
+23	นาย	นาย	NOUN	_	_	25	nsubj	_	SpaceAfter=No|Gloss=Mister|Translit=
+24	ศุภชัย	ศุภชัย	PROPN	_	_	23	nmod	_	SpaceAfter=No|Gloss=|Translit=
+25	กล่าว	กล่าว	VERB	_	_	0	root	_	SpaceAfter=No|Gloss=say|Translit=
+
+# newdoc
 # sent_id = Thai_Political_News_Article_Lotto_1
 # text = รองโฆษกรัฐบาลย้ำ สำนักงานสลากฯ ยังไม่เปิดจำหน่ายเลขสลาก 3 หลัก ขอประชาชนอย่าหลงเชื่อ
 # text_en = 
