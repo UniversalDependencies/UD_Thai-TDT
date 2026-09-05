@@ -1,5 +1,5 @@
 # newdoc
-# sent_id = Thai_Election_ThaiBuildThaiParty_2023_News_Article_1
+# sent_id = Thai_Election_ThaiBuildThaiParty_2023_News1_1
 # text = “สุดารัตน์” ประกาศกลางเวทีปราศรัยใหญ่ดอนเมือง “แก้ ทุกข์ มหานคร” ทันทีทั้งฝุ่นพิษ น้ำท่วมซ้ำซาก
 # text_en = “Sudarat” announces on stage at a major rally in Don Mueang: “Solve Bangkok’s suffering immediately,” tackling both toxic air pollution and recurring flooding.
 # tokenised_text = “ สุดารัตน์ ” ประกาศ กลาง เวที ปราศรัย ใหญ่ ดอนเมือง “ แก้ ทุกข์ มหานคร ” ทันที ทั้ง ฝุ่น พิษ น้ำ ท่วม ซ้ำซาก
@@ -18,7 +18,7 @@
 6	เวที	เวที	NOUN	_	_	4	obl	_	SpaceAfter=No|Gloss=stage|Translit=weː-thiː
 7	ปราศรัย	ปราศรัย	VERB	_	_	6	acl	_	SpaceAfter=No|Gloss=address|Translit=praː-sǎj
 8	ใหญ่	ใหญ่	VERB	_	_	6	acl	_	SpaceAfter=No|Gloss=big|Translit=jàj
-9	ดอนเมือง	ดอนเมือง	PROPN	_	_	6	nmod	_	SpaceAfter=No|Gloss=|Translit=dɔːn-mɯaŋ
+9	ดอนเมือง	ดอนเมือง	PROPN	_	_	6	nmod	_	Gloss=Don Mueang|Translit=dɔːn-mɯaŋ
 10	“	“	PUNCT	_	_	11	punct	_	SpaceAfter=No
 11	แก้	แก้	VERB	_	ExtPos=PROPN	4	obj	_	Gloss=solve|Translit=kɛ̂ː
 12	ทุกข์	ทุกข์	NOUN	_	_	11	obj	_	Gloss=suffer|Translit=thúk
@@ -32,7 +32,7 @@
 20	ท่วม	ท่วม	VERB	_	_	19	acl	_	SpaceAfter=No|Gloss=flood|Translit=thûam
 21	ซ้ำซาก	ซ้ำซาก	ADV	_	_	20	advmod	_	Gloss=repeat|Translit=sám-sâːk
 
-# sent_id = Thai_Election_ThaiBuildThaiParty_2023_News_Article_2
+# sent_id = Thai_Election_ThaiBuildThaiParty_2023_News1_2
 # text = เผยแพร่ วันอาทิตย์ที่ 12 มีนาคม พ.ศ.2566
 # text_en = (The news article) is publicised on Sunday 12th March 2023.
 # tokenised_text = เผยแพร่ วัน อาทิตย์ ที่ 12 มีนาคม พ.ศ. 2566
@@ -52,7 +52,7 @@
 7	พ.ศ.	พ.ศ.	NOUN	_	Abbr=Yes	6	nmod	_	SpaceAfter=No|CorrectSpaceAfter=Yes|Gloss=Buddhist Era|Translit=phɔː-sɔ̌ː
 8	2566	2566	NUM	_	_	7	nmod	_	Gloss=2566|Translit=sɔ̌ːŋ-phan-hâː-rɔ́j-hòk-sìp-hòk
 
-# sent_id = Thai_Election_ThaiBuildThaiParty_2023_News_Article_3
+# sent_id = Thai_Election_ThaiBuildThaiParty_2023_News1_3
 # text = ไทยสร้างไทยดอนเมือง “พรึบ” เวทีปราศรัยกว่า 3,000 คน
 # text_en = The Thai Build Thai Party draws a crowd of over 3,000 at its Don Mueang rally.
 # tokenised_text = ไทย สร้าง ไทย ดอนเมือง “ พรึบ ” เวที ปราศรัย กว่า 3,000 คน
@@ -66,7 +66,7 @@
 1	ไทย	ไทย	PROPN	_	_	2	nsubj	_	SpaceAfter=No|Gloss=Thai|Translit=thaj
 2	สร้าง	สร้าง	VERB	_	ExtPos=PROPN	6	dislocated	_	SpaceAfter=No|Gloss=build|Translit=sâːŋ
 3	ไทย	ไทย	PROPN	_	_	2	obj	_	SpaceAfter=No|Gloss=Thai|Translit=thaj
-4	ดอนเมือง	ดอนเมือง	PROPN	_	ExtPos=PROPN	2	nmod	_	SpaceAfter=No|Gloss=Don Mueang|Translit=dɔːn-mɯaŋ
+4	ดอนเมือง	ดอนเมือง	PROPN	_	_	2	nmod	_	Gloss=Don Mueang|Translit=dɔːn-mɯaŋ
 5	“	“	PUNCT	_	_	6	punct	_	SpaceAfter=No
 6	พรึบ	พรึบ	VERB	_	_	0	root	_	SpaceAfter=No|Gloss=pack with|Translit=phrɯ̂p
 7	”	”	PUNCT	_	_	6	punct	_	_
@@ -76,7 +76,7 @@
 11	3,000	3,000	NUM	_	_	6	nsubj	_	Gloss=3,000|Translit=sǎːm-phan
 12	คน	คน	NOUN	_	NounType=Clf	11	clf	_	Gloss=person|Translit=khon
 
-# sent_id = Thai_Election_ThaiBuildThaiParty_2023_News_Article_4
+# sent_id = Thai_Election_ThaiBuildThaiParty_2023_News1_4
 # text = “สุดารัตน์” ประกาศ “แก้ ทุกข์ มหานคร” ทันทีทั้งฝุ่นพิษ น้ำท่วมซ้ำซาก
 # text_en = Sudarat announces a plan to “solve Bangkok’s suffering” immediately by tackling toxic air pollution and recurring flooding.
 # tokenised_text = “ สุดารัตน์ ” ประกาศ “ แก้ ทุกข์ มหานคร ” ทันที ทั้ง ฝุ่น พิษ น้ำ ท่วม ซ้ำซาก
@@ -104,7 +104,7 @@
 15	ท่วม	ท่วม	VERB	_	_	14	acl	_	SpaceAfter=No|Gloss=flood|Translit=thûam
 16	ซ้ำซาก	ซ้ำซาก	ADV	_	_	15	advmod	_	Gloss=repeat|Translit=sám-sâːk
 
-# sent_id = Thai_Election_ThaiBuildThaiParty_2023_News_Article_5
+# sent_id = Thai_Election_ThaiBuildThaiParty_2023_News1_5
 # text = ดันศึกษา Project สร้างเขื่อนในอ่าวไทย ก่อนกรุงเทพฯ จะจมบาดาลใน 10 ปีข้างหน้า จากสภาวะโลกร้อน
 # text_en = (She also) pushes for a study on constructing a seawall in the Gulf of Thailand before Bangkok faces the risk of sinking within the next 10 years due to global warming.
 # tokenised_text = ดัน ศึกษา Project สร้าง เขื่อน ใน อ่าว ไทย ก่อน กรุงเทพ ฯ จะ จม บาดาล ใน 10 ปี ข้าง หน้า จาก สภาวะ โลก ร้อน
@@ -117,8 +117,8 @@
 # year = 2023
 1	ดัน	ดัน	VERB	_	_	0	root	_	SpaceAfter=No|Gloss=push|Translit=dan
 2	ศึกษา	ศึกษา	VERB	_	_	1	compound:svc	_	Gloss=study|Translit=sɯ̀k-sǎː
-3	Project	Project	NOUN	_	Foreign=Yes	2	obj	_	Gloss=Project|Translit=phroː-cèk
-4	สร้าง	สร้าง	VERB	_	ExtPos=PROPN	3	nmod	_	SpaceAfter=No|Gloss=build|Translit=sâːŋ
+3	Project	Project	NOUN	_	ExtPos=PROPN|Foreign=Yes	2	obj	_	Gloss=Project|Translit=phroː-cèk
+4	สร้าง	สร้าง	VERB	_	_	3	nmod	_	SpaceAfter=No|Gloss=build|Translit=sâːŋ
 5	เขื่อน	เขื่อน	NOUN	_	_	4	obj	_	SpaceAfter=No|Gloss=dam|Translit=khɯ̀an
 6	ใน	ใน	ADP	_	_	7	case	_	SpaceAfter=No|Gloss=in|Translit=naj
 7	อ่าว	อ่าว	NOUN	_	_	4	obl	_	SpaceAfter=No|Gloss=gulf|Translit=ʔàːw
@@ -139,7 +139,7 @@
 22	โลก	โลก	NOUN	_	_	21	nmod	_	SpaceAfter=No|Gloss=earth|Translit=lôːk
 23	ร้อน	ร้อน	VERB	_	_	22	acl	_	Gloss=hot|Translit=rɔ́ːn
 
-# sent_id = Thai_Election_ThaiBuildThaiParty_2023_News_Article_6
+# sent_id = Thai_Election_ThaiBuildThaiParty_2023_News1_6
 # text = พร้อมใช้เทคโนโลยี ลุยจัดการปัญหา
 # text_en = (She said) (the party) is ready to use technology to address these issues.
 # tokenised_text = พร้อม ใช้ เทคโนโลยี ลุย จัดการ ปัญหา
@@ -157,7 +157,7 @@
 5	จัดการ	จัดการ	VERB	_	_	4	compound:svc	_	SpaceAfter=No|Gloss=manage|Translit=càt-kaːn
 6	ปัญหา	ปัญหา	NOUN	_	_	5	obj	_	Gloss=problem|Translit=pan-hǎː
 
-# sent_id = Thai_Election_ThaiBuildThaiParty_2023_News_Article_7
+# sent_id = Thai_Election_ThaiBuildThaiParty_2023_News1_7
 # text = การันตีบอกลา ฝุ่นพิษภายใน 3 ปีต้องจบ
 # text_en = (She) pledges that toxic smog will be eliminated within three years.
 # tokenised_text = การันตี บอก ลา ฝุ่น พิษ ภาย ใน 3 ปี ต้อง จบ
@@ -180,7 +180,7 @@
 10	ต้อง	ต้อง	VERB	_	_	3	ccomp	_	SpaceAfter=No|Gloss=must|Translit=tɔ̂ŋ
 11	จบ	จบ	VERB	_	_	10	xcomp	_	Gloss=end|Translit=còp
 
-# sent_id = Thai_Election_ThaiBuildThaiParty_2023_News_Article_8
+# sent_id = Thai_Election_ThaiBuildThaiParty_2023_News1_8
 # text = ชู “เก่ง การุณ” นักสู้เพื่อประชาธิปไตยตัวจริง
 # text_en = (She) highlights and admires “Keng Karun” as a true democratic fighter.
 # tokenised_text = ชู “ เก่ง การุณ ” นัก สู้ เพื่อ ประชาธิปไตย ตัว จริง
@@ -203,7 +203,7 @@
 10	ตัว	ตัว	NOUN	_	_	6	nmod	_	SpaceAfter=No|Gloss=person|Translit=tua
 11	จริง	จริง	VERB	_	_	10	acl	_	Gloss=real|Translit=ciŋ
 
-# sent_id = Thai_Election_ThaiBuildThaiParty_2023_News_Article_9
+# sent_id = Thai_Election_ThaiBuildThaiParty_2023_News1_9
 # text = อ้อนคนดอนเมือง เลือกเก่ง คนที่ไม่เคยทิ้งชาวดอนเมือง
 # text_en = (She) appeals to Don Mueang voters to choose Keng, someone who has never abandoned the people of Don Mueang.
 # tokenised_text = อ้อน คน ดอนเมือง เลือก เก่ง คน ที่ ไม่ เคย ทิ้ง ชาว ดอนเมือง
@@ -227,7 +227,7 @@
 11	ชาว	ชาว	NOUN	_	_	10	obj	_	SpaceAfter=No|Gloss=folk|Translit=chaːw
 12	ดอนเมือง	ดอนเมือง	PROPN	_	_	11	nmod	_	SpaceAfter=No|Gloss=Don Mueang|Translit=dɔːn-mɯaŋ
 
-# sent_id = Thai_Election_ThaiBuildThaiParty_2023_News_Article_10
+# sent_id = Thai_Election_ThaiBuildThaiParty_2023_News1_10
 # text = 16.00น.ที่ ชุมชนปิ่นเจริญ 2 เขตดอนเมือง คุณหญิงสุดารัตน์ เกยุราพันธุ์ หัวหน้าพรรค น.ต.ศิธาทิวารี เลขาธิการพรรค นายสุพันธุ์ มงคลสุธี รองหัวหน้าพรรค น.อ.อนุดิษฐ์ นาครทรรพ ผอ.สำนักงานปราบโกง นายการุณ โหสกุล ว่าที่ผู้สมัคร ส.ส.เขตดอนเมือง พรรคไทยสร้างไทย ขึ้นเวทีปราศรัย “แก้ ทุกข์ มหานคร กทม.”พบปะพี่น้องประชาชนชาวดอนเมือง ที่ปิ่นเจริญ 2 ซึ่งมีพี่น้องชาวดอนเมืองแห่ฟังกว่า 3,000 คน
 # text_en = At 4:00 p.m. at Pin Charoen 2 community in Don Mueang district, Lady Sudarat Keyuraphan, leader of the party, along with Sqn.Ldr. Sitha Tiwari, party secretary; Mister Supant Mongkolsuthree, deputy party leader; Gp.Capt. Anudith Nakornthap, director of the Anti-Corruption Office; and Mister Karun Hosakul, a prospective MP candidate for Don Mueang representing the Thai Build Thai Party, took the stage to deliver a speech titled “Solve Bangkok’s Suffering", (and) met with local residents at Pin Charoen 2, where more than 3,000 people from Don Mueang gathered to attend.
 # tokenised_text = 16.00 น. ที่ ชุมชน ปิ่นเจริญ 2 เขต ดอนเมือง คุณหญิง สุดารัตน์ เกยุราพันธุ์ หัวหน้า พรรค น.ต. ศิธา ทิวารี เลขาธิการ พรรค นาย สุพันธุ์ มงคลสุธี รอง หัวหน้า พรรค น.อ. อนุดิษฐ์ นาครทรรพ ผอ. สำนักงาน ปราบ โกง นาย การุณ โหสกุล ว่าที่ ผู้ สมัคร ส.ส. เขต ดอนเมือง พรรค ไทย สร้าง ไทย ขึ้น เวที ปราศรัย “ แก้ ทุกข์ มหานคร กทม. ” พบปะ พี่ น้อง ประชาชน ชาว ดอนเมือง ที่ ปิ่นเจริญ 2 ซึ่ง มี พี่ น้อง ชาว ดอนเมือง แห่ ฟัง กว่า 3,000 คน
@@ -275,7 +275,7 @@
 35	ว่าที่	ว่าที่	NOUN	_	_	32	appos	_	SpaceAfter=No|Gloss=prospective|Translit=wâː-thîː
 36	ผู้	ผู้	NOUN	_	_	35	nmod	_	SpaceAfter=No|Gloss=person|Translit=phûː
 37	สมัคร	สมัคร	VERB	_	_	36	acl	_	CorrectSpaceAfter=No|Gloss=apply|Translit=sà-màk
-38	ส.ส.	ส.ส.	NOUN	_	Abbr=Yes	37	obj	_	SpaceAfter=No|CorrectSpaceAfter=Yes|Gloss=Member of the House of Representatives|Translit=sɔ̌ː-sɔ̌ː
+38	ส.ส.	ส.ส.	NOUN	_	Abbr=Yes	37	obl:arg	_	SpaceAfter=No|CorrectSpaceAfter=Yes|Gloss=Member of the House of Representatives|Translit=sɔ̌ː-sɔ̌ː
 39	เขต	เขต	NOUN	_	_	38	nmod	_	SpaceAfter=No|Gloss=district|Translit=khèːt
 40	ดอนเมือง	ดอนเมือง	PROPN	_	_	39	nmod	_	SpaceAfter=No|Gloss=Don Mueang|Translit=dɔːn-mɯaŋ
 41	พรรค	พรรค	NOUN	_	_	38	nmod	_	SpaceAfter=No|Gloss=party|Translit=phák
@@ -312,7 +312,7 @@
 72	3,000	3,000	NUM	_	_	65	nummod	_	Gloss=3,000|Translit=sǎːm-phan
 73	คน	คน	NOUN	_	NounType=Clf	72	clf	_	Gloss=person|Translit=khon
 
-# sent_id = Thai_Election_ThaiBuildThaiParty_2023_News_Article_11
+# sent_id = Thai_Election_ThaiBuildThaiParty_2023_News1_11
 # text = คุณหญิงสุดารัตน์ กล่าวว่า ลงพื้นที่ดอนเมืองครั้งใดอบอุ่นหัวใจทุกครั้ง 
 # text_en = Lady Sudarat said that every time she visited Don Mueang, it warmed her heart.
 # tokenised_text = คุณหญิง สุดารัตน์ กล่าว ว่า ลง พื้นที่ ดอนเมือง ครั้ง ใด อบอุ่น หัวใจ ทุก ครั้ง 
@@ -337,7 +337,7 @@
 12	ทุก	ทุก	DET	_	_	13	det	_	SpaceAfter=No|Gloss=every|Translit=thúk
 13	ครั้ง	ครั้ง	NOUN	_	NounType=Clf	10	obl	_	Gloss=time|Translit=khráŋ
 
-# sent_id = Thai_Election_ThaiBuildThaiParty_2023_News_Article_12
+# sent_id = Thai_Election_ThaiBuildThaiParty_2023_News1_12
 # text = มีความผูกพันกับพี่น้องชาวดอนเมืองเนื่องจากเป็นส.ส.ครั้งแรกในพื้นที่แห่งนี้
 # text_en = (She) felt a deep bond with the local residents, as this was where she had been first elected as an MP.
 # tokenised_text = มี ความ ผูกพัน กับ พี่ น้อง ชาว ดอนเมือง เนื่อง จาก เป็น ส.ส. ครั้ง แรก ใน พื้นที่ แห่ง นี้
@@ -367,7 +367,7 @@
 17	แห่ง	แห่ง	NOUN	_	_	16	nmod	_	SpaceAfter=No|Gloss=place|Translit=hɛ̀ːŋ
 18	นี้	นี้	ADJ	_	_	17	amod	_	Gloss=this|Translit=níː
 
-# sent_id = Thai_Election_ThaiBuildThaiParty_2023_News_Article_13
+# sent_id = Thai_Election_ThaiBuildThaiParty_2023_News1_13
 # text = เห็นปัญหาเห็นความทุกข์ยากและคอยดูแลช่วยเหลือกันมาตลอด
 # text_en = (She) witnessed their problems and hardships and consistently supported and helped them.
 # tokenised_text = เห็น ปัญหา เห็น ความ ทุกข์ ยาก และ คอย ดูแล ช่วยเหลือ กัน มา ตลอด
@@ -392,7 +392,7 @@
 12	มา	มา	ADV	_	_	9	advmod	_	SpaceAfter=No|Gloss=come(express aspect)|Translit=maː
 13	ตลอด	ตลอด	VERB	_	_	9	advcl	_	Gloss=throughout|Translit=tà-lɔːt
 
-# sent_id = Thai_Election_ThaiBuildThaiParty_2023_News_Article_14
+# sent_id = Thai_Election_ThaiBuildThaiParty_2023_News1_14
 # text = ได้ผลักดันหลายนโยบายจนสำเร็จเป็นรูปธรรม แต่ก็ยังมีอีกหลากหลายปัญหาที่เกิดขึ้นและยังไม่ได้รับการแก้ไขอย่างจริงจัง
 # text_en = (She) pushed forward many policies that led to tangible results, but many issues still remained and had yet to be seriously addressed.
 # tokenised_text = ได้ ผลักดัน หลาย นโยบาย จน สำเร็จ เป็น รูปธรรม แต่ ก็ ยัง มี อีก หลากหลาย ปัญหา ที่ เกิด ขึ้น และ ยัง ไม่ ได้ รับ การ แก้ไข อย่าง จริงจัง
@@ -431,7 +431,7 @@
 26	อย่าง	อย่าง	NOUN	_	_	25	obl	_	SpaceAfter=No|Gloss=way|Translit=jàːŋ
 27	จริงจัง	จริงจัง	VERB	_	_	26	acl	_	Gloss=serious|Translit=ciŋ-caŋ
 
-# sent_id = Thai_Election_ThaiBuildThaiParty_2023_News_Article_15
+# sent_id = Thai_Election_ThaiBuildThaiParty_2023_News1_15
 # text = เช่น ปัญหาฝุ่นพิษPM2.5 ผู้รับผิดชอบไม่ใส่ใจแก้ปัญหาอย่างจริงจัง ทำให้ปัญหาหนักหน่วงมากขึ้นทุกปี
 # text_en = For example, regarding the PM2.5 air pollution problem, those responsible have not paid serious attention to solving the issue, causing it to worsen every year.
 # tokenised_text = เช่น ปัญหา ฝุ่น พิษ PM 2.5 ผู้ รับผิดชอบ ไม่ ใส่ใจ แก้ ปัญหา อย่าง จริงจัง ทำให้ ปัญหา หนักหน่วง มาก ขึ้น ทุก ปี
@@ -459,12 +459,12 @@
 15	ทำให้	ทำให้	VERB	_	_	10	advcl	_	SpaceAfter=No|Gloss=cause|Translit=tham-hâj
 16	ปัญหา	ปัญหา	NOUN	_	_	15	obj	_	SpaceAfter=No|Gloss=problem|Translit=pan-hǎː
 17	หนักหน่วง	หนักหน่วง	VERB	_	_	15	xcomp	_	SpaceAfter=No|Gloss=severe|Translit=nàk-nùaŋ
-18	มาก	มาก	ADV	_	_	17	advmod	_	SpaceAfter=No|Gloss=very|Translit=mâːk
+18	มาก	มาก	VERB	_	_	17	advcl	_	SpaceAfter=No|Gloss=very|Translit=mâːk
 19	ขึ้น	ขึ้น	ADV	_	_	18	advmod	_	SpaceAfter=No|Gloss=upward(used for emphasis)|Translit=khɯ̂n
 20	ทุก	ทุก	DET	_	_	21	det	_	SpaceAfter=No|Gloss=every|Translit=thúk
 21	ปี	ปี	NOUN	_	NounType=Clf	15	obl	_	Gloss=year|Translit=piː
 
-# sent_id = Thai_Election_ThaiBuildThaiParty_2023_News_Article_16
+# sent_id = Thai_Election_ThaiBuildThaiParty_2023_News1_16
 # text = หลายสัปดาห์ที่ผ่านมา ฝุ่นพิษเกินค่ามาตรฐาน กระทบสุขภาพของประชาชน 
 # text_en = In recent weeks, pollution levels have exceeded standard limits, affecting people’s health.
 # tokenised_text = หลาย สัปดาห์ ที่ ผ่าน มา ฝุ่น พิษ เกิน ค่า มาตรฐาน กระทบ สุขภาพ ของ ประชาชน
@@ -483,14 +483,14 @@
 6	ฝุ่น	ฝุ่น	NOUN	_	_	8	nsubj	_	SpaceAfter=No|Gloss=dust|Translit=fùn
 7	พิษ	พิษ	NOUN	_	_	6	nmod	_	SpaceAfter=No|Gloss=poison|Translit=phít
 8	เกิน	เกิน	VERB	_	_	0	root	_	SpaceAfter=No|Gloss=exceed|Translit=kɤːn
-9	ค่า	ค่า	NOUN	_	_	8	obl	_	SpaceAfter=No|Gloss=level|Translit=khâː
+9	ค่า	ค่า	NOUN	_	_	8	obl:arg	_	SpaceAfter=No|Gloss=level|Translit=khâː
 10	มาตรฐาน	มาตรฐาน	NOUN	_	_	9	nmod	_	Gloss=standard|Translit=mâːt-trà-thǎːn
 11	กระทบ	กระทบ	VERB	_	_	8	advcl	_	SpaceAfter=No|Gloss=affect|Translit=kràʔ-thop
 12	สุขภาพ	สุขภาพ	NOUN	_	_	11	obj	_	SpaceAfter=No|Gloss=health|Translit=sùk-khà-phaːp
 13	ของ	ของ	ADP	_	_	14	case	_	SpaceAfter=No|Gloss=of|Translit=khɔ̌ːŋ
 14	ประชาชน	ประชาชน	NOUN	_	_	12	nmod	_	Gloss=population|Translit=pràʔ-chaː-chon
 
-# sent_id = Thai_Election_ThaiBuildThaiParty_2023_News_Article_17
+# sent_id = Thai_Election_ThaiBuildThaiParty_2023_News1_17
 # text = ซึ่งถือเป็นเมืองที่มีคุณภาพอากาศแย่ติดท๊อปของโลกต่อเนื่องทุกปี
 # text_en = This has made it one of the cities with consistently among the worst air quality in the world each year.
 # tokenised_text = ซึ่ง ถือ เป็น เมือง ที่ มี คุณภาพ อากาศ แย่ ติด ท๊อป ของ โลก ต่อ เนื่อง ทุก ปี
@@ -519,7 +519,7 @@
 16	ทุก	ทุก	DET	_	_	17	det	_	SpaceAfter=No|Gloss=every|Translit=thúk
 17	ปี	ปี	NOUN	_	NounType=Clf	14	obl	_	Gloss=year|Translit=piː
 
-# sent_id = Thai_Election_ThaiBuildThaiParty_2023_News_Article_18
+# sent_id = Thai_Election_ThaiBuildThaiParty_2023_News1_18
 # text = ดังนั้นพรรคไทยสร้างไทยจึงขอประกาศว่า “การแก้ไขปัญหาฝุ่นพิษต้องเป็นวาระแห่งชาติ ”
 # text_en = Therefore, the Thai Build Thai Party declared “solving the PM2.5 pollution problem must be a national agenda.”
 # tokenised_text = ดัง นั้น พรรค ไทย สร้าง ไทย จึง ขอ ประกาศ ว่า “ การ แก้ไข ปัญหา ฝุ่น พิษ ต้อง เป็น วาระ แห่ง ชาติ ”
@@ -553,7 +553,7 @@
 21	ชาติ	ชาติ	NOUN	_	_	19	nmod	_	CorrectSpaceAfter=No|Gloss=nation|Translit=châːt
 22	”	”	PUNCT	_	_	17	punct	_	_
 
-# sent_id = Thai_Election_ThaiBuildThaiParty_2023_News_Article_19
+# sent_id = Thai_Election_ThaiBuildThaiParty_2023_News1_19
 # text = และหากไทยสร้างไทยเป็นรัฐบาล สิ่งที่ต้องทำทันทีคือการห้ามรถที่มีควันดำวิ่งในท้องถนนเขตกรุงเทพฯ โดยเฉพาะรถขนส่งสาธารณะและรถบรรทุก รวมถึงการขนถ่ายสินค้าต้องทำได้เฉพาะเขตที่อยู่นอกเมืองเท่านั้น
 # text_en = If the Thai Build Thai Party were to form a government, one of the immediate actions would be to ban vehicles emitting black smoke from operating on roads in Bangkok, especially public transport vehicles and trucks. In addition, the loading and unloading of goods would need to be restricted to areas outside the city.
 # tokenised_text = และ หาก ไทย สร้าง ไทย เป็น รัฐบาล สิ่ง ที่ ต้อง ทำ ทันที คือ การ ห้าม รถ ที่ มี ควัน ดำ วิ่ง ใน ท้อง ถนน เขต กรุงเทพ ฯ โดย เฉพาะ รถ ขน ส่ง สาธารณะ และ รถ บรรทุก รวม ถึง การ ขน ถ่าย สินค้า ต้อง ทำ ได้ เฉพาะ เขต ที่ อยู่ นอก เมือง เท่า นั้น
@@ -618,7 +618,7 @@
 52	เท่า	เท่า	VERB	_	_	47	acl	_	SpaceAfter=No|Gloss=equal|Translit=nán
 53	นั้น	นั้น	PRON	_	_	52	obj	_	Gloss=equal|Translit=nán
 
-# sent_id = Thai_Election_ThaiBuildThaiParty_2023_News_Article_20
+# sent_id = Thai_Election_ThaiBuildThaiParty_2023_News1_20
 # text = พร้อมเข้มงวดการตรวจสภาพรถก่อนที่จะอนุญาตให้มีการต่อภาษีประจำปี
 # text_en = Strict vehicle inspections would also be enforced before allowing annual tax renewal.
 # tokenised_text = พร้อม เข้มงวด การ ตรวจ สภาพ รถ ก่อน ที่ จะ อนุญาต ให้ มี การ ต่อ ภาษี ประจำ ปี
@@ -647,7 +647,7 @@
 16	ประจำ	ประจำ	VERB	_	_	15	acl	_	SpaceAfter=No|Gloss=regular|Translit=pràʔ-cam
 17	ปี	ปี	NOUN	_	_	16	obl:arg	_	Gloss=year|Translit=piː
 
-# sent_id = Thai_Election_ThaiBuildThaiParty_2023_News_Article_21
+# sent_id = Thai_Election_ThaiBuildThaiParty_2023_News1_21
 # text = ใช้มาตรการ เหลื่อมเวลาการทำงาน และเวลาเรียน หรือ Work from home และ Learn from home ในองค์กรหรือโรงเรียนที่สามารถทำได้ เพื่อลดการปล่อยควันดำ ซึ่งเป็นสาเหตุของฝุ่นพิษ
 # text_en = Measures such as staggered working hours and school schedules, as well as Work from Home and Learn from Home policies, would be implemented in organizations and schools where possible to reduce black smoke emissions, which are a major cause of air pollution.
 # tokenised_text = ใช้ มาตรการ เหลื่อม เวลา การ ทำงาน และ เวลา เรียน หรือ Work from home และ Learn from home ใน องค์กร หรือ โรงเรียน ที่ สามารถ ทำ ได้ เพื่อ ลด การ ปล่อย ควัน ดำ ซึ่ง เป็น สาเหตุ ของ ฝุ่น พิษ
@@ -696,7 +696,7 @@
 36	ฝุ่น	ฝุ่น	NOUN	_	_	34	nmod	_	SpaceAfter=No|Gloss=dust|Translit=fùn
 37	พิษ	พิษ	NOUN	_	_	36	nmod	_	Gloss=poison|Translit=phít
 
-# sent_id = Thai_Election_ThaiBuildThaiParty_2023_News_Article_22
+# sent_id = Thai_Election_ThaiBuildThaiParty_2023_News1_22
 # text = รวมถึงต้องเข้มงวด การก่อสร้างรถไฟฟ้าหรือการก่อสร้างโครงการขนาดใหญ่ที่ปล่อยปละละเลย จนทำให้เกิดฝุ่นพิษ และการใช้ฝนเทียมเพื่อชำระฝุ่นพิษในวันที่มีค่าฝุ่นสูงเกินกว่ามาตรฐาน
 # text_en = There must also be stricter control over the construction of electric rail systems and large-scale projects that have been often poorly managed and contribute to dust pollution. Furthermore, artificial rain should be used to help reduce pollution levels on days when air quality exceeds safe standards.
 # tokenised_text = รวม ถึง ต้อง เข้มงวด การ ก่อสร้าง รถ ไฟฟ้า หรือ การ ก่อสร้าง โครงการ ขนาด ใหญ่ ที่ ปล่อยปละละเลย จน ทำให้ เกิด ฝุ่น พิษ และ การ ใช้ ฝน เทียม เพื่อ ชำระ ฝุ่น พิษ ใน วัน ที่ มี ค่า ฝุ่น สูง เกิน กว่า มาตรฐาน
@@ -749,7 +749,7 @@
 40	กว่า	กว่า	ADP	_	_	41	case	_	SpaceAfter=No|Gloss=than|Translit=kwàː
 41	มาตรฐาน	มาตรฐาน	NOUN	_	_	39	obl	_	Gloss=standard|Translit=mâːt-trà-thǎːn
 
-# sent_id = Thai_Election_ThaiBuildThaiParty_2023_News_Article_23
+# sent_id = Thai_Election_ThaiBuildThaiParty_2023_News1_23
 # text = ส่วนมาตรการระยะยาว จะต้องปรับเปลี่ยนรถสาธารณะ รถมอเตอร์ไซค์ รวมถึงรถยนต์ที่มีสภาพเก่าให้เป็น EV โดยมีภาครัฐเป็นผู้สนับสนุน
 # text_en = In the long term, public transport, motorcycles, and older vehicles must be converted to electric vehicles (EVs), with government support.
 # tokenised_text = ส่วน มาตรการ ระยะ ยาว จะ ต้อง ปรับ เปลี่ยน รถ สาธารณะ รถ มอเตอร์ไซค์ รวม ถึง รถยนต์ ที่ มี สภาพ เก่า ให้ เป็น EV โดย มี ภาค รัฐ เป็น ผู้ สนับสนุน
@@ -790,7 +790,7 @@
 28	ผู้	ผู้	NOUN	_	_	25	acl	_	SpaceAfter=No|Gloss=person|Translit=phûː
 29	สนับสนุน	สนับสนุน	VERB	_	_	28	acl	_	Gloss=support|Translit=sà-nàp-sà-nǔn
 
-# sent_id = Thai_Election_ThaiBuildThaiParty_2023_News_Article_24
+# sent_id = Thai_Election_ThaiBuildThaiParty_2023_News1_24
 # text = นอกจากนี้จะต้องส่งเสริมให้ภาคการเกษตร ได้เข้าถึงเครื่องมือเพื่อกำจัดเศษซากวัชพืช ที่เหลือใช้ เพื่อนำมาสร้างประโยชน์สร้างรายได้ ซึ่งจะช่วยลดการเผาอันก่อให้เกิดฝุ่นพิษตามมาได้
 # text_en = In addition, the agricultural sector should be supported in gaining access to tools for managing and processing leftover crop residues and weeds, turning them into useful products and generating income. This would help reduce open burning, which contributes to air pollution.
 # tokenised_text = นอกจาก นี้ จะ ต้อง ส่งเสริม ให้ ภาค การ เกษตร ได้ เข้า ถึง เครื่องมือ เพื่อ กำจัด เศษซาก วัชพืช ที่ เหลือใช้ เพื่อ นำ มา สร้าง ประโยชน์ สร้าง รายได้ ซึ่ง จะ ช่วย ลด การ เผา อัน ก่อ ให้ เกิด ฝุ่น พิษ ตาม มา ได้
@@ -810,7 +810,7 @@
 7	ภาค	ภาค	NOUN	_	_	10	nsubj	_	SpaceAfter=No|Gloss=sector|Translit=phâːk
 8	การ	การ	NOUN	_	_	7	nmod	_	SpaceAfter=No|Gloss=work|Translit=kaːn
 9	เกษตร	เกษตร	NOUN	_	_	8	nmod	_	CorrectSpaceAfter=No|Gloss=agriculture|Translit=kà-sèːt
-10	ได้	ได้	VERB	_	_	5	advcl	_	SpaceAfter=No|Gloss=get(express a possible opportunity)|Translit=dâj
+10	ได้	ได้	VERB	_	_	5	ccomp	_	SpaceAfter=No|Gloss=get(express a possible opportunity)|Translit=dâj
 11	เข้า	เข้า	VERB	_	_	10	xcomp	_	SpaceAfter=No|Gloss=enter|Translit=khâw
 12	ถึง	ถึง	ADP	_	_	13	case	_	SpaceAfter=No|Gloss=to|Translit=thɯ̌ŋ
 13	เครื่องมือ	เครื่องมือ	NOUN	_	_	11	obl	_	SpaceAfter=No|Gloss=tool|Translit=khrɯ̂aŋ-mɯː
@@ -837,13 +837,13 @@
 34	ก่อ	ก่อ	VERB	_	_	31	acl:relcl	_	SpaceAfter=No|Gloss=cause|Translit=kɔ̀ː
 35	ให้	ให้	VERB	_	_	34	compound:svc	_	SpaceAfter=No|Gloss=give|Translit=hâj
 36	เกิด	เกิด	VERB	_	_	35	compound:svc	_	SpaceAfter=No|Gloss=happen|Translit=kɤ̀ːt
-37	ฝุ่น	ฝุ่น	NOUN	_	_	36	obj	_	SpaceAfter=No|Gloss=dust|Translit=fùn
+37	ฝุ่น	ฝุ่น	NOUN	_	_	36	obl:arg	_	SpaceAfter=No|Gloss=dust|Translit=fùn
 38	พิษ	พิษ	NOUN	_	_	37	nmod	_	SpaceAfter=No|Gloss=poison|Translit=phít
 39	ตาม	ตาม	VERB	_	_	37	acl	_	SpaceAfter=No|Gloss=follow|Translit=taːm
 40	มา	มา	VERB	_	_	39	compound:svc	_	SpaceAfter=No|Gloss=come|Translit=maː
 41	ได้	ได้	VERB	_	_	39	advcl	_	Gloss=get(express potential or permission)|Translit=dâj
 
-# sent_id = Thai_Election_ThaiBuildThaiParty_2023_News_Article_25
+# sent_id = Thai_Election_ThaiBuildThaiParty_2023_News1_25
 # text = ส่วนปัญหาและความทุกข์ของพี่น้องอีกเรื่องที่สำคัญคือปัญหาน้ำท่วมซึ่งจากรายงานของ “กรีนพีซ” ระบุว่าในอีก 10 ปีข้างหน้ากรุงเทพมหานครมีโอกาสถูกน้ำท่วม เนื่องมาจากสภาวะโลกร้อนและการละลายของน้ำแข็งขั้วโลกหนุนให้น้ำทะเลสูง
 # text_en = Another major issue and source of hardship for the people is flooding. According to a report by Greenpeace, Bangkok could face severe flooding within the next 10 years due to global warming and rising sea levels caused by melting polar ice.
 # tokenised_text = ส่วน ปัญหา และ ความ ทุกข์ ของ พี่ น้อง อีก เรื่อง ที่ สำคัญ คือ ปัญหา น้ำ ท่วม ซึ่ง จาก รายงาน ของ “ กรีนพีซ ” ระบุ ว่า ใน อีก 10 ปี ข้าง หน้า กรุงเทพมหานคร มี โอกาส ถูก น้ำ ท่วม เนื่อง มา จาก สภาวะ โลก ร้อน และ การ ละลาย ของ น้ำแข็ง ขั้ว โลก หนุน ให้ น้ำ ทะเล สูง
@@ -910,7 +910,7 @@
 54	ทะเล	ทะเล	NOUN	_	_	53	nmod	_	SpaceAfter=No|Gloss=sea|Translit=tháʔ-leː
 55	สูง	สูง	VERB	_	_	52	compound:svc	_	Gloss=high|Translit=sǔːŋ
 
-# sent_id = Thai_Election_ThaiBuildThaiParty_2023_News_Article_26
+# sent_id = Thai_Election_ThaiBuildThaiParty_2023_News1_26
 # text = พรรคไทยสร้างไทย จึงเตรียมศึกษาเรื่องการสร้างเขื่อนกั้นอ่าวไทย โดยหยิบยกกรณีศึกษา Delta Works ในเนเธอร์แลนด์มาศึกษาอย่างจริงจัง 
 # text_en = The Thai Build Thai Party is therefore preparing to study the construction of a dam in the Gulf of Thailand, drawing seriously on the Delta Works in the Netherlands as a case study.
 # tokenised_text = พรรค ไทย สร้าง ไทย จึง เตรียม ศึกษา เรื่อง การ สร้าง เขื่อน กั้น อ่าว ไทย โดย หยิบยก กรณี ศึกษา Delta Works ใน เนเธอร์แลนด์ มา ศึกษา อย่าง จริงจัง
@@ -948,7 +948,7 @@
 25	อย่าง	อย่าง	NOUN	_	_	24	obl	_	SpaceAfter=No|Gloss=way|Translit=jàːŋ
 26	จริงจัง	จริงจัง	VERB	_	_	25	advcl	_	Gloss=serious|Translit=ciŋ-caŋ
 
-# sent_id = Thai_Election_ThaiBuildThaiParty_2023_News_Article_27
+# sent_id = Thai_Election_ThaiBuildThaiParty_2023_News1_27
 # text = เพื่อไม่ให้กระทบเศรษฐกิจของประเทศและความเป็นอยู่ของพี่น้องชาวกรุงเทพฯ จึงต้องเร่งศึกษาตั้งแต่วันนี้
 # text_en = This is to prevent negative impacts on the country’s economy and the livelihoods of Bangkok residents, making it necessary to begin such studies immediately.
 # tokenised_text = เพื่อ ไม่ ให้ กระทบ เศรษฐกิจ ของ ประเทศ และ ความ เป็นอยู่ ของ พี่ น้อง ชาว กรุงเทพ ฯ จึง ต้อง เร่ง ศึกษา ตั้งแต่ วัน นี้
@@ -983,7 +983,7 @@
 22	วัน	วัน	NOUN	_	_	20	obl	_	SpaceAfter=No|Gloss=day|Translit=wan
 23	นี้	นี้	ADJ	_	_	22	amod	_	Gloss=this|Translit=níː
 
-# sent_id = Thai_Election_ThaiBuildThaiParty_2023_News_Article_28
+# sent_id = Thai_Election_ThaiBuildThaiParty_2023_News1_28
 # text = คุณหญิงสุดารัตน์ยังกล่าวถึง นายการุณ โหสกุลซึ่งถือเป็นนักต่อสู้เพื่อประชาธิปไตย จนถูกตั้งข้อหา ก่อการร้ายจนถึงวันนี้ ก็ยังต้องต่อสู้ตามกระบวนการ
 # text_en = Lady Sudarat also spoke about Mister Karun Hosakul, describing him as a fighter for democracy who has faced terrorism charges and continued to fight his case through legal processes to this day.
 # tokenised_text = คุณหญิง สุดารัตน์ ยัง กล่าว ถึง นาย การุณ โหสกุล ซึ่ง ถือ เป็น นัก ต่อสู้ เพื่อ ประชาธิปไตย จน ถูก ตั้ง ข้อหา ก่อ การ ร้าย จน ถึง วัน นี้ ก็ ยัง ต้อง ต่อสู้ ตาม กระบวนการ
@@ -1027,7 +1027,7 @@
 31	ตาม	ตาม	ADP	_	_	32	case	_	SpaceAfter=No|Gloss=according to|Translit=taːm
 32	กระบวนการ	กระบวนการ	NOUN	_	_	30	obl	_	Gloss=process|Translit=kràʔ-buan-kaːn
 
-# sent_id = Thai_Election_ThaiBuildThaiParty_2023_News_Article_29
+# sent_id = Thai_Election_ThaiBuildThaiParty_2023_News1_29
 # text = นอกจากนี้ยังเป็นคนที่มีจิตวิญญาณรับใช้พี่น้องชาวดอนเมืองมาอย่างยาวนาน 
 # text_en = (She) added that he had long been dedicated to serving the people of Don Mueang, with a strong spirit of public service.
 # tokenised_text = นอกจาก นี้ ยัง เป็น คน ที่ มี จิต วิญญาณ รับใช้ พี่ น้อง ชาว ดอนเมือง มา อย่าง ยาว นาน 
@@ -1057,7 +1057,7 @@
 17	ยาว	ยาว	VERB	_	_	16	acl	_	SpaceAfter=No|Gloss=long|Translit=jaːw
 18	นาน	นาน	VERB	_	_	17	flat	_	Gloss=long time|Translit=naːn
 
-# sent_id = Thai_Election_ThaiBuildThaiParty_2023_News_Article_30
+# sent_id = Thai_Election_ThaiBuildThaiParty_2023_News1_30
 # text = เป็นคนที่ทุ่มเททำงานเรียกใช้ได้ทุกพื้นที่ทุกเวลา 
 # text_en = (She said that he) was hardworking, always available anywhere and anytime.
 # tokenised_text = เป็น คน ที่ ทุ่มเท ทำงาน เรียก ใช้ ได้ ทุก พื้นที่ ทุก เวลา 
@@ -1081,7 +1081,7 @@
 11	ทุก	ทุก	DET	_	_	12	det	_	SpaceAfter=No|Gloss=every|Translit=thúk
 12	เวลา	เวลา	NOUN	_	NounType=Clf	10	conj	_	Gloss=time|Translit=weː-laː
 
-# sent_id = Thai_Election_ThaiBuildThaiParty_2023_News_Article_31
+# sent_id = Thai_Election_ThaiBuildThaiParty_2023_News1_31
 # text = เป็นคนทำงานจริงจังจริงใจ 
 # text_en = (She said that he) also worked with sincerity and commitment.
 # tokenised_text = เป็น คน ทำงาน จริงจัง จริงใจ 
@@ -1098,7 +1098,7 @@
 4	จริงจัง	จริงจัง	VERB	_	_	3	advcl	_	SpaceAfter=No|Gloss=serious|Translit=ciŋ-caŋ
 5	จริงใจ	จริงใจ	VERB	_	_	4	conj	_	Gloss=sincere|Translit=ciŋ-caj
 
-# sent_id = Thai_Election_ThaiBuildThaiParty_2023_News_Article_32
+# sent_id = Thai_Election_ThaiBuildThaiParty_2023_News1_32
 # text = ไม่เคยทอดทิ้งพี่น้องชาวดอนเมืองยามยากลำบาก ตามสโลแกนที่ว่า “ดอนเมืองไม่ทิ้งกัน การุณไม่ทิ้งใคร”
 # text_en = (She said that he) has never abandoned the people of Don Mueang in difficult times under the slogan, “Don Mueang stands together, Karun leaves no one behind.”
 # tokenised_text = ไม่ เคย ทอดทิ้ง พี่ น้อง ชาว ดอนเมือง ยาม ยาก ลำบาก ตาม สโลแกน ที่ ว่า “ ดอนเมือง ไม่ ทิ้ง กัน การุณ ไม่ ทิ้ง ใคร ”
@@ -1134,7 +1134,7 @@
 23	ใคร	ใคร	PRON	_	_	22	obj	_	SpaceAfter=No|Gloss=anyone|Translit=khraj
 24	”	”	PUNCT	_	_	18	punct	_	_
 
-# sent_id = Thai_Election_ThaiBuildThaiParty_2023_News_Article_33
+# sent_id = Thai_Election_ThaiBuildThaiParty_2023_News1_33
 # text = จึงมั่นใจว่านายการุณ จะสามารถปักธงในเขตดอนเมืองได้อีกครั้ง และจะเป็นอีกหนึ่งกำลังของไทยสร้างไทยที่ช่วยกันสร้างทางรอดให้กับประเทศไทยได้
 # text_en = (She) expressed confidence that Mister Karun would once again win in the Don Mueang constituency and become another key force in the Thai Build Thai Party in helping to create a path forward for Thailand.
 # tokenised_text = จึง มั่นใจ ว่า นาย การุณ จะ สามารถ ปัก ธง ใน เขต ดอนเมือง ได้ อีก ครั้ง และ จะ เป็น อีก หนึ่ง กำลัง ของ ไทย สร้าง ไทย ที่ ช่วย กัน สร้าง ทาง รอด ให้ กับ ประเทศ ไทย ได้
@@ -1182,7 +1182,7 @@
 35	ไทย	ไทย	PROPN	_	_	34	nmod	_	SpaceAfter=No|Gloss=Thai|Translit=thaj
 36	ได้	ได้	VERB	_	_	29	advcl	_	SpaceAfter=No|Gloss=get(express potential or permission)|Translit=dâj
 
-# sent_id = Thai_Election_ThaiBuildThaiParty_2023_News_Article_34
+# sent_id = Thai_Election_ThaiBuildThaiParty_2023_News1_34
 # text = ด้าน น.อ.อนุดิษฐ์ ประกาศลดค่าใช้จ่ายให้พี่น้องประชาชน โดยเฉพาะค่าไฟฟ้าที่แพงแสนแพง
 # text_en = Capt Anudith announced a policy to reduce expenses for the people, especially the extremely high electricity costs.
 # tokenised_text = ด้าน น.อ. อนุดิษฐ์ ประกาศ ลด ค่า ใช้ จ่าย ให้ พี่ น้อง ประชาชน โดย เฉพาะ ค่า ไฟฟ้า ที่ แพง แสน แพง
@@ -1214,7 +1214,7 @@
 19	แสน	แสน	ADV	_	_	20	advmod	_	SpaceAfter=No|Gloss=extremely|Translit=sɛ̌ːn
 20	แพง	แพง	VERB	_	_	18	advcl	_	Gloss=expensive|Translit=phɛːŋ
 
-# sent_id = Thai_Election_ThaiBuildThaiParty_2023_News_Article_35
+# sent_id = Thai_Election_ThaiBuildThaiParty_2023_News1_35
 # text = หากเลือกไทยสร้างไทยให้เป็นรัฐบาล ขอประกาศลดค่าไฟฟ้าทันที ให้เหลือไม่เกิน 3.5บาท/หน่วย
 # text_en = If the Thai Build Thai Party was elected to form the government, he promised to immediately reduce electricity prices to no more than 3.5 baht per unit.
 # tokenised_text = หาก เลือก ไทย สร้าง ไทย ให้ เป็น รัฐบาล ขอ ประกาศ ลด ค่า ไฟฟ้า ทันที ให้ เหลือ ไม่ เกิน 3.5 บาท / หน่วย
@@ -1248,7 +1248,7 @@
 21	/	_	SYM	_	_	22	case	_	SpaceAfter=No|Gloss=per|Translit=tɔ̀ː
 22	หน่วย	หน่วย	NOUN	_	_	19	nmod	_	Gloss=unit|Translit=nùaj
 
-# sent_id = Thai_Election_ThaiBuildThaiParty_2023_News_Article_36
+# sent_id = Thai_Election_ThaiBuildThaiParty_2023_News1_36
 # text = เรามั่นใจเราพูดจริง ทำได้
 # text_en = We are confident that we mean what we say and can truly achieve it.
 # tokenised_text = เรา มั่นใจ เรา พูด จริง ทำ ได้
@@ -1267,7 +1267,7 @@
 6	ทำ	ทำ	VERB	_	_	4	conj	_	SpaceAfter=No|Gloss=do|Translit=tham
 7	ได้	ได้	VERB	_	_	6	advcl	_	Gloss=get(express potential or permission)|Translit=dâj
 
-# sent_id = Thai_Election_ThaiBuildThaiParty_2023_News_Article_37
+# sent_id = Thai_Election_ThaiBuildThaiParty_2023_News1_37
 # text = เลือกไทยสร้างไทย ค่าไฟถูกลงแน่
 # text_en = Vote for the Thai Build Thai Party, and electricity bills will definitely be lower.
 # tokenised_text = เลือก ไทย สร้าง ไทย ค่า ไฟ ถูก ลง แน่
@@ -1288,7 +1288,7 @@
 8	ลง	ลง	ADV	_	_	7	advmod	_	SpaceAfter=No|Gloss=more|Translit=loŋ
 9	แน่	แน่	ADV	_	_	7	advmod	_	Gloss=certain|Translit=nɛ̂ː
 
-# sent_id = Thai_Election_ThaiBuildThaiParty_2023_News_Article_38
+# sent_id = Thai_Election_ThaiBuildThaiParty_2023_News1_38
 # text = เพราะประเทศถูกปล้นค่าไฟฟ้า เพื่อไปสร้างความร่ำรวยให้นายทุน ทำให้คนไทยต้องจ่ายค่าไฟแพงกว่าความเป็นจริง 
 # text_en = This is because the country has been robbed through electricity pricing to enrich capitalists, forcing Thai people to pay more than the actual cost.
 # tokenised_text = เพราะ ประเทศ ถูก ปล้น ค่า ไฟฟ้า เพื่อ ไป สร้าง ความ ร่ำรวย ให้ นายทุน ทำให้ คน ไทย ต้อง จ่าย ค่า ไฟ แพง กว่า ความ เป็น จริง 
@@ -1325,7 +1325,7 @@
 24	เป็น	เป็น	VERB	_	_	23	acl	_	SpaceAfter=No|Gloss=BE|Translit=pen
 25	จริง	จริง	VERB	_	_	24	compound:svc	_	Gloss=true|Translit=ciŋ
 
-# sent_id = Thai_Election_ThaiBuildThaiParty_2023_News_Article_39
+# sent_id = Thai_Election_ThaiBuildThaiParty_2023_News1_39
 # text = โดยรัฐฯ เอื้อนายทุนโรงไฟฟ้า ทำสัญญาผลิตไฟล่วงหน้าเกินจำเป็น สูงถึง 53,000 กิโลวัตต์ชั่วโมง แต่ประชาชนใช้ไฟฟ้าจริง ๆ ไม่เคยเกิน 33,000 กิโลวัตต์ชั่วโมง
 # text_en = The government has favored private power producers by signing contracts for electricity generation far beyond actual demand—up to 53,000 kilowatt-hours, while real consumption has never exceeded 33,000 kilowatt-hours.
 # tokenised_text = โดย รัฐ ฯ เอื้อ นายทุน โรง ไฟฟ้า ทำ สัญญา ผลิต ไฟ ล่วงหน้า เกิน จำเป็น สูง ถึง 53,000 กิโลวัตต์ ชั่วโมง แต่ ประชาชน ใช้ ไฟฟ้า จริง ๆ ไม่ เคย เกิน 33,000 กิโลวัตต์ ชั่วโมง
@@ -1368,7 +1368,7 @@
 30	กิโลวัตต์	กิโลวัตต์	NOUN	_	Foreign=Yes|NounType=Clf	29	clf	_	SpaceAfter=No|Gloss=kilowatt|Translit=kì-loː-wàt
 31	ชั่วโมง	ชั่วโมง	NOUN	_	_	30	flat	_	Gloss=hour|Translit=chûa-moːŋ
 
-# sent_id = Thai_Election_ThaiBuildThaiParty_2023_News_Article_40
+# sent_id = Thai_Election_ThaiBuildThaiParty_2023_News1_40
 # text = ทำให้ประเทศไทยมีการสำรองไฟฟ้าเกินความต้องการใช้จริงสูงถึง 20,000 กิโลวัตต์ชั่วโมง หรือเกือบ 60% โดยที่โรงไฟฟ้าขนาดใหญ่เหล่านี้ 
 # text_en = As a result, Thailand has an electricity reserve exceeding actual demand by as much as 20,000 kilowatt-hours, or nearly 60% at the large power plants.
 # tokenised_text = ทำให้ ประเทศ ไทย มี การ สำรอง ไฟฟ้า เกิน ความ ต้องการ ใช้ จริง สูง ถึง 20,000 กิโลวัตต์ ชั่วโมง หรือ เกือบ 60 % โดย ที่ โรง ไฟฟ้า ขนาด ใหญ่ เหล่า นี้ 
@@ -1409,7 +1409,7 @@
 28	เหล่า	เหล่า	NOUN	_	_	24	nmod	_	SpaceAfter=No|Gloss=group|Translit=làw
 29	นี้	นี้	ADJ	_	_	28	amod	_	Gloss=this|Translit=níː
 
-# sent_id = Thai_Election_ThaiBuildThaiParty_2023_News_Article_41
+# sent_id = Thai_Election_ThaiBuildThaiParty_2023_News1_41
 # text = แต่ประชาชนต้องจ่ายค่าไฟฟ้าที่ไม่ได้ใช้ ให้นายทุนเหล่านี้ไปฟรี ๆ ถึงปีละ 26,000 ล้านบาท ทั้งที่โรงไฟฟ้าของนายทุนใหญ่ไม่ได้เดินเครื่องผลิตจริงแม้แต่เมกกะวัตต์เดียว
 # text_en = However, the public is still required to pay for unused electricity, effectively handing over about 26 billion baht per year for free to large private investors. These large power plants have not yet operated to produce even a single megawatt.
 # tokenised_text = แต่ ประชาชน ต้อง จ่าย ค่า ไฟฟ้า ที่ ไม่ ได้ ใช้ ให้ นายทุน เหล่า นี้ ไป ฟรี ๆ ถึง ปี ละ 26,000 ล้าน บาท ทั้งที่ โรง ไฟฟ้า ของ นายทุน ใหญ่ ไม่ ได้ เดิน เครื่อง ผลิต จริง แม้แต่ เมกกะวัตต์ เดียว
@@ -1456,11 +1456,11 @@
 34	ผลิต	ผลิต	VERB	_	_	32	compound:svc	_	SpaceAfter=No|Gloss=produce|Translit=phà-lìt
 35	จริง	จริง	ADV	_	_	34	advmod	_	SpaceAfter=No|Gloss=real|Translit=ciŋ
 36	แม้แต่	แม้แต่	SCONJ	_	_	37	mark	_	SpaceAfter=No|Gloss=even|Translit=mɛ́ː-tɛ̀ː
-37	เมกกะวัตต์	เมกกะวัตต์	NOUN	_	Foreign=Yes	32	advcl	_	SpaceAfter=No|Gloss=megawatt|Translit=mék-kàʔ-wàt 
+37	เมกกะวัตต์	เมกกะวัตต์	NOUN	_	Foreign=Yes	32	orphan	_	SpaceAfter=No|Gloss=megawatt|Translit=mék-kàʔ-wàt 
 38	เดียว	เดียว	ADJ	_	_	37	amod	_	SpaceAfter=No|Gloss=single|Translit=diaw
 
 # newdoc
-# sent_id = Thai_Election_ForThaiParty_2023_NewsArticle_1
+# sent_id = Thai_Election_ForThaiParty_2023_News2_1
 # text = ‘ชลน่าน’ขีดเส้น หากได้เสียง 310 ไม่จับมือใคร โดยเฉพาะฝั่งเผด็จการ
 # text_en = 'Chonlanan' sets a boundary: if they secure 310 votes, they won’t join hands with anyone—especially the dictatorship-aligned camp.
 # tokenised_text = ‘ ชลน่าน ’ ขีดเส้น หาก ได้ เสียง 310 ไม่ จับ มือ ใคร โดย เฉพาะ ฝั่ง เผด็จการ
@@ -1488,7 +1488,7 @@
 15	ฝั่ง	ฝั่ง	NOUN	_	_	14	obl:arg	_	SpaceAfter=No|Gloss=side|Translit=fàŋ
 16	เผด็จการ	เผด็จการ	NOUN	_	_	15	nmod	_	Gloss=dictatorship|Translit=phà-dèt-kaːn
 
-# sent_id = Thai_Election_ForThaiParty_2023_NewsArticle_2
+# sent_id = Thai_Election_ForThaiParty_2023_News2_2
 # text = เผยแพร่	วันอาทิตย์ที่ 12 มีนาคม พ.ศ.2566
 # text_en = (The news article) is publicised on Sunday 12th March 2023.
 # tokenised_text = เผยแพร่ วัน อาทิตย์ ที่ 12 มีนาคม พ.ศ. 2566
@@ -1508,7 +1508,7 @@
 7	พ.ศ.	พ.ศ.	NOUN	_	Abbr=Yes	6	nmod	_	SpaceAfter=No|CorrectSpaceAfter=Yes|Gloss=Buddhist Era|Translit=phɔː-sɔ̌ː
 8	2566	2566	NUM	_	_	7	nmod	_	Gloss=2566|Translit=sɔ̌ːŋ-phan-hâː-rɔ́j-hòk-sìp-hòk
 
-# sent_id = Thai_Election_ForThaiParty_2023_NewsArticle_3
+# sent_id = Thai_Election_ForThaiParty_2023_News2_3
 # text = เมื่อเวลา 12.00 น. วันที่ 12 มีนาคม ที่อาคารวังเป็ดร่วมใจ อ.บางระกำ จ.พิษณุโลก น.ส.แพทองธาร ชินวัตร หัวหน้าครอบครัวเพื่อไทย ให้สัมภาษณ์ถึงความมั่นใจได้ส.ส.พิษณุโลก ยกจังหวัดว่า เรามั่นใจในเรื่องดังกล่าว 
 # text_en = At 12:00 p.m. on March 12, at Wang Ped Ruamjai Building in Bang Rakam District, Phitsanulok Province, Ms. Paetongtarn Shinawatra, head of the Pheu Thai family, gave an interview about her confidence in winning all MP seats in Phitsanulok. She said that we were confident about this.
 # tokenised_text = เมื่อ เวลา 12.00 น. วัน ที่ 12 มีนาคม ที่ อาคาร วังเป็ดร่วมใจ อ. บางระกำ จ. พิษณุโลก น.ส. แพทองธาร ชินวัตร หัวหน้า ครอบครัว เพื่อ ไทย ให้ สัมภาษณ์ ถึง ความ มั่นใจ ได้ ส.ส. พิษณุโลก ยก จังหวัด ว่า เรา มั่นใจ ใน เรื่อง ดัง กล่าว
@@ -1559,7 +1559,7 @@
 38	ดัง	ดัง	ADP	_	_	39	mark	_	SpaceAfter=No|Gloss=as|Translit=daŋ
 39	กล่าว	กล่าว	VERB	_	_	37	acl	_	Gloss=say|Translit=klàːw
 
-# sent_id = Thai_Election_ForThaiParty_2023_NewsArticle_4
+# sent_id = Thai_Election_ForThaiParty_2023_News2_4
 # text = เรานำนโยบายมาเสนอให้ประชาชนและว่าที่ผู้สมัครเองก็ทำงานอย่างหนัก
 # text_en = (She said that) we were presenting our policies to the people. (She said that) and our prospective candidates were working very hard
 # tokenised_text = เรา นำ นโยบาย มา เสนอ ให้ ประชาชน และ ว่าที่ ผู้ สมัคร เอง ก็ ทำงาน อย่าง หนัก
@@ -1587,7 +1587,7 @@
 15	อย่าง	อย่าง	NOUN	_	_	14	obl	_	SpaceAfter=No|Gloss=as|Translit=jàːŋ
 16	หนัก	หนัก	VERB	_	_	15	acl	_	Gloss=heavy|Translit=nàk
 
-# sent_id = Thai_Election_ForThaiParty_2023_NewsArticle_5
+# sent_id = Thai_Election_ForThaiParty_2023_News2_5
 # text = เราจึงมั่นใจและมีกำลังใจอย่างมาก
 # text_en = (She said that) that’s why we were very confident and greatly encouraged.
 # tokenised_text = เรา จึง มั่นใจ และ มี กำลังใจ อย่าง มาก
@@ -1607,7 +1607,7 @@
 7	อย่าง	อย่าง	NOUN	_	_	5	obl	_	SpaceAfter=No|Gloss=as|Translit=jàːŋ
 8	มาก	มาก	VERB	_	_	7	acl	_	Gloss=very|Translit=mâːk
 
-# sent_id = Thai_Election_ForThaiParty_2023_NewsArticle_6
+# sent_id = Thai_Election_ForThaiParty_2023_News2_6
 # text = เมื่อถามถึงกรณี นายนิยม ช่างพินิจ อดีตส.ส.เพื่อไทยย้ายไปสังกัดพรรคภูมิใจไทย (ภท.) จะสามารถแลนด์สไลด์ได้หรือไม่ 
 # text_en = (The reporter) asked if a landslide victory would still be possible, as Mister Niyom Changphinit, a former Pheu Thai MP moved to join the Bhumjaithai Party.
 # tokenised_text = เมื่อ ถาม ถึง กรณี นาย นิยม ช่างพินิจ อดีต ส.ส. เพื่อ ไทย ย้าย ไป สังกัด พรรค ภูมิใจ ไทย ( ภท. ) จะ สามารถ แลนด์สไลด์ ได้ หรือ ไม่
@@ -1645,7 +1645,7 @@
 25	หรือ	หรือ	CCONJ	_	_	26	cc	_	SpaceAfter=No|Gloss=or|Translit=rɯ̌ː
 26	ไม่	ไม่	ADV	_	_	22	conj	_	Gloss=not|Translit=mâj
 
-# sent_id = Thai_Election_ForThaiParty_2023_NewsArticle_7
+# sent_id = Thai_Election_ForThaiParty_2023_News2_7
 # text = น.ส.แพทองธาร กล่าวว่า ว่าที่ผู้สมัครที่จะลงเขตนี้ก็เป็นคนที่ประชาชนรู้จักดีอยู่แล้ว 
 # text_en = Ms. Paetongtarn said that the prospective candidates to run in this district were already well known among the people.
 # tokenised_text = น.ส. แพทองธาร กล่าว ว่า ว่าที่ ผู้ สมัคร ที่ จะ ลง เขต นี้ ก็ เป็น คน ที่ ประชาชน รู้จัก ดี อยู่ แล้ว
@@ -1678,7 +1678,7 @@
 20	อยู่	อยู่	ADV	_	_	18	advmod	_	SpaceAfter=No|Gloss=stay(express aspect)|Translit=jùː
 21	แล้ว	แล้ว	ADV	_	_	18	advmod	_	Gloss=already|Translit=lɛ́ːw
 
-# sent_id = Thai_Election_ForThaiParty_2023_NewsArticle_8
+# sent_id = Thai_Election_ForThaiParty_2023_News2_8
 # text = แน่นอนว่าเราต้องเพิ่มเติมเรื่องการแนะนำว่าเรามาแบบนี้ตั้งใจแบบนี้เพื่อให้ส.ส.ของเราเข้ามาทำงานในสภาฯเพื่อผลักดันนโยบาย เพื่อพี่น้องประชาชน 
 # text_en = (She said that) it was certain that we would need to further explain that we had come with clear intentions — how and why we were coming — so that our MPs could enter the Parliament to work and push forward the policies for the benefit of the people.
 # tokenised_text = แน่นอน ว่า เรา ต้อง เพิ่ม เติม เรื่อง การ แนะนำ ว่า เรา มา แบบ นี้ ตั้งใจ แบบ นี้ เพื่อ ให้ ส.ส. ของ เรา เข้า มา ทำงาน ใน สภา ฯ เพื่อ ผลักดัน นโยบาย เพื่อ พี่ น้อง ประชาชน
@@ -1725,7 +1725,7 @@
 34	น้อง	น้อง	NOUN	_	_	33	flat	_	SpaceAfter=No|Gloss=younger sibling|Translit=nɔ́ːŋ
 35	ประชาชน	ประชาชน	NOUN	_	_	33	appos	_	Gloss=population|Translit=pràʔ-chaː-chon
 
-# sent_id = Thai_Election_ForThaiParty_2023_NewsArticle_9
+# sent_id = Thai_Election_ForThaiParty_2023_News2_9
 # text = ฉะนั้นเรามั่นใจมากๆ
 # text_en = (She said that) we were therefore very confident.
 # tokenised_text = ฉะนั้น เรา มั่นใจ มาก ๆ
@@ -1742,7 +1742,7 @@
 4	มาก	มาก	VERB	_	_	3	advcl	_	SpaceAfter=No|CorrectSpaceAfter=Yes|Gloss=very|Translit=mâːk
 5	ๆ	ๆ	SYM	_	ExtPos=VERB	4	compound:redup	_	Gloss=very|Translit=mâːk
 
-# sent_id = Thai_Election_ForThaiParty_2023_NewsArticle_10
+# sent_id = Thai_Election_ForThaiParty_2023_News2_10
 # text = ด้าน นพ.ชลน่าน ศรีแก้ว ส.ส.น่าน และหัวหน้าพรรคเพื่อไทย (พท.) ให้สัมภาษณ์กรณีประกาศไม่จับมือกับพรรคพลังประชารัฐ (พปชร.) ว่า เรื่องนี้มีกระแสมาปิดกั้นยุทธศาสตร์แลนด์สไลด์ของพรรค พท.ที่เราประกาศไว้
 # text_en = Dr. Chonlanan Srikaew, MP for Nan Province and leader of the Pheu Thai Party (PT), gave an interview regarding the party’s announcement not to join hands with the Palang Pracharath Party (PPRP), saying that there has been a movement to block the Pheu Thai Party’s landslide strategy that had been previously announced.
 # tokenised_text = ด้าน นพ. ชลน่าน ศรีแก้ว ส.ส. น่าน และ หัวหน้า พรรค เพื่อ ไทย ( พท. ) ให้ สัมภาษณ์ กรณี ประกาศ ไม่ จับ มือ กับ พรรค พลัง ประชา รัฐ ( พปชร. ) ว่า เรื่อง นี้ มี กระแส มา ปิด กั้น ยุทธศาสตร์ แลนด์สไลด์ ของ พรรค พท. ที่ เรา ประกาศ ไว้
@@ -1800,7 +1800,7 @@
 45	ประกาศ	ประกาศ	VERB	_	_	38	acl:relcl	_	SpaceAfter=No|Gloss=announce|Translit=pràʔ-kàːt
 46	ไว้	ไว้	ADV	_	_	45	advmod	_	Gloss=keep(placed after a verb to emphasise and/or complete the meaning of the verb)|Translit=wáj
 
-# sent_id = Thai_Election_ForThaiParty_2023_NewsArticle_11
+# sent_id = Thai_Election_ForThaiParty_2023_News2_11
 # text = ทั้งนี้ หากพี่น้องสนับสนุนเราตามที่ประกาศไว้ว่าจะได้ ส.ส. 310 เสียง เราประกาศชัดไม่จับมือกับใครโดยเฉพาะฟากฝั่งที่มาจากเผด็จการ 
 # text_en = (He said that) if the public supported us (the Pheu Thai Party) as targeted—winning 310 seats, we clearly declared we would not form a coalition with any party, especially those aligned with the authoritarian side.
 # tokenised_text = ทั้ง นี้ หาก พี่ น้อง สนับสนุน เรา ตาม ที่ ประกาศ ไว้ ว่า จะ ได้ ส.ส. 310 เสียง เรา ประกาศ ชัด ไม่ จับ มือ กับ ใคร โดย เฉพาะ ฟาก ฝั่ง ที่ มา จาก เผด็จการ
@@ -1845,7 +1845,7 @@
 32	จาก	จาก	ADP	_	_	33	case	_	SpaceAfter=No|Gloss=from|Translit=càːk
 33	เผด็จการ	เผด็จการ	NOUN	_	_	31	obl	_	Gloss=dictatorship|Translit=phà-dèt-kaːn
 
-# sent_id = Thai_Election_ForThaiParty_2023_NewsArticle_12
+# sent_id = Thai_Election_ForThaiParty_2023_News2_12
 # text = เรื่องนี้เป็นเรื่องที่ต้องพูด เพราะไม่อยากให้กระพือข่าวเอาเรื่องนี้มาทำลายพรรคเรา
 # text_en = He added that this needed to be stated clearly to prevent rumors from being spread in a way that could damage the party.
 # tokenised_text = เรื่อง นี้ เป็น เรื่อง ที่ ต้อง พูด เพราะ ไม่ อยาก ให้ กระพือ ข่าว เอา เรื่อง นี้ มา ทำลาย พรรค เรา
@@ -1877,7 +1877,7 @@
 19	พรรค	พรรค	NOUN	_	_	18	obj	_	SpaceAfter=No|Gloss=Party|Translit=phák
 20	เรา	เรา	PRON	_	Person=1|PronType=Prs	19	nmod	_	Gloss=we|Translit=raw
 
-# sent_id = Thai_Election_ForThaiParty_2023_NewsArticle_13
+# sent_id = Thai_Election_ForThaiParty_2023_News2_13
 # text = ถามย้ำว่า หลังเลือกตั้งยืนยันว่าจะไม่จับมือใช่หรือไม่ 
 # text_en = (The reporter) asked again if after the election, he would confirm that there would be no alliance.
 # tokenised_text = ถาม ย้ำ ว่า หลัง เลือกตั้ง ยืนยัน ว่า จะ ไม่ จับ มือ ใช่ หรือ ไม่
@@ -1903,7 +1903,7 @@
 13	หรือ	หรือ	CCONJ	_	_	14	cc	_	SpaceAfter=No|Gloss=or|Translit=rɯ̌ː
 14	ไม่	ไม่	ADV	_	_	12	conj	_	Gloss=not|Translit=mâj
 
-# sent_id = Thai_Election_ForThaiParty_2023_NewsArticle_14
+# sent_id = Thai_Election_ForThaiParty_2023_News2_14
 # text = นพ.ชลน่าน กล่าวว่า หากเราได้ 310 เสียงไม่มีความจำเป็น
 # text_en = Dr. Chonlanan said that if the party secured 310 seats, there would be no need.
 # tokenised_text = นพ. ชลน่าน กล่าว ว่า หาก เรา ได้ 310 เสียง ไม่ มี ความ จำเป็น
@@ -1928,7 +1928,7 @@
 12	ความ	ความ	NOUN	_	NounType=Nmlz	11	nsubj	_	SpaceAfter=No|Gloss=condition(nominalizer)Person=1|PronType=Prs|Translit=khwaːm
 13	จำเป็น	จำเป็น	VERB	_	_	12	acl	_	Gloss=necessary|Translit=cam-pen
 
-# sent_id = Thai_Election_ForThaiParty_2023_NewsArticle_15
+# sent_id = Thai_Election_ForThaiParty_2023_News2_15
 # text = ถามต่อว่า หากได้ไม่ถึง 310 เสียงจะทำอย่างไร 
 # text_en = (The reporter) asked further what would happen if the party did not reach 310 seats.
 # tokenised_text = ถาม ต่อ ว่า หาก ได้ ไม่ ถึง 310 เสียง จะ ทำ อย่าง ไร
@@ -1953,7 +1953,7 @@
 12	อย่าง	อย่าง	NOUN	_	_	11	obj	_	SpaceAfter=No|Gloss=manner|Translit=jàːŋ
 13	ไร	ไร	ADJ	_	_	12	amod	_	Gloss=what|Translit=raj
 
-# sent_id = Thai_Election_ForThaiParty_2023_NewsArticle_16
+# sent_id = Thai_Election_ForThaiParty_2023_News2_16
 # text = นพ.ชลน่าน กล่าวว่า อยู่ที่ผลการเลือกตั้งของประชาชน ซึ่งเราก็ต้องมาดูตัวเลข และพรรคที่ประชาชนมอบความไว้วางใจให้เป็นลำดับถัดจากเราว่าเป็นพรรคไหนอย่างไร
 # text_en = Dr. Chonlanan said that it would depend on the election results decided by the people. (He said that)the party would need to look at the numbers and consider which party the public had given the next level of trust after us, and how things stood.
 # tokenised_text = นพ. ชลน่าน กล่าว ว่า อยู่ ที่ ผล การ เลือกตั้ง ของ ประชาชน ซึ่ง เรา ก็ ต้อง มา ดู ตัว เลข และ พรรค ที่ ประชาชน มอบ ความ ไว้วางใจ ให้ เป็น ลำดับ ถัด จาก เรา ว่า เป็น พรรค ไหน อย่าง ไร
@@ -2003,7 +2003,7 @@
 37	อย่าง	อย่าง	NOUN	_	_	35	conj	_	SpaceAfter=No|Gloss=type|Translit=jàːŋ
 38	ไร	ไร	ADJ	_	_	37	amod	_	Gloss=what|Translit=raj
 
-# sent_id = Thai_Election_ForThaiParty_2023_NewsArticle_17
+# sent_id = Thai_Election_ForThaiParty_2023_News2_17
 # text = เรายึดมั่นอุดมการณ์ประชาธิปไตยที่สามารถทำงานร่วมกันได้ 
 # text_en = (He added that) we remained committed to democratic principles and were willing to work with the parties that shared those ideals.
 # tokenised_text = เรา ยึดมั่น อุดมการณ์ ประชาธิปไตย ที่ สามารถ ทำงาน ร่วม กัน ได้
@@ -2025,7 +2025,7 @@
 9	กัน	กัน	ADV	_	_	8	advmod	_	SpaceAfter=No|Gloss=together|Translit=kan
 10	ได้	ได้	VERB	_	_	7	advcl	_	Gloss=get(express potential or permission)|Translit=dâj
 
-# sent_id = Thai_Election_ForThaiParty_2023_NewsArticle_18
+# sent_id = Thai_Election_ForThaiParty_2023_News2_18
 # text = ขณะที่ นายเศรษฐา ทวีสิน ประธานที่ปรึกษาหัวหน้าครอบครัวเพื่อไทย ให้สัมภาษณ์ถึงการขึ้นเวทีปราศรัยวันที่สองว่า ตนตื่นเต้น และดีใจ ทราบซึ้งใจที่ประชาชาชนให้การต้อนรับที่ดี 
 # text_en = Meanwhile, Mr. Srettha Thavisin, Chairman of the Advisory Board of the family of the Pheu Thai Party, gave an interview about taking the stage on the second day of the rally, saying that he was excited and happy, and deeply touched by the warm reception from the public.
 # tokenised_text = ขณะ ที่ นาย เศรษฐา ทวีสิน ประธาน ที่ ปรึกษา หัวหน้า ครอบครัว เพื่อ ไทย ให้ สัมภาษณ์ ถึง การ ขึ้น เวที ปราศรัย วัน ที่ สอง ว่า ตน ตื่นเต้น และ ดีใจ ทราบซึ้ง ใจ ที่ ประชาชาชน ให้ การ ต้อนรับ ที่ ดี
@@ -2073,7 +2073,7 @@
 35	ที่	ที่	PRON	_	_	36	nsubj	_	SpaceAfter=No|Gloss=that(REL)|Translit=thîː
 36	ดี	ดี	VERB	_	_	33	acl:relcl	_	Gloss=good|Translit=diː
 
-# sent_id = Thai_Election_ForThaiParty_2023_NewsArticle_19
+# sent_id = Thai_Election_ForThaiParty_2023_News2_19
 # text = ตนมีหัวหน้าพรรค และแกนนำพรรคคนอื่นๆ เป็นแรงบัลดาลใจ 
 # text_en = He added that the party leader and other key party figures served as his inspiration.
 # tokenised_text = ตน มี หัวหน้า พรรค และ แกนนำ พรรค คน อื่น ๆ เป็น แรง บัลดาลใจ
@@ -2098,7 +2098,7 @@
 12	แรง	แรง	NOUN	_	_	3	acl	_	SpaceAfter=No|Gloss=power|Translit=rɛːŋ
 13	บัลดาลใจ	บันดาลใจ	VERB	_	Typo=Yes	12	acl	_	CorrectForm=บันดาล|Gloss=inspire|Translit=ban-daːn-jaj
 
-# sent_id = Thai_Election_ForThaiParty_2023_NewsArticle_20
+# sent_id = Thai_Election_ForThaiParty_2023_News2_20
 # text = ทุกท่านให้กำลังใจและให้การช่วยเหลือเต็มที่
 # text_en = (He added that) everyone had given (him) full encouragement and support.
 # tokenised_text = ทุก ท่าน ให้ กำลังใจ และ ให้ การ ช่วยเหลือ เต็มที่
@@ -2119,7 +2119,7 @@
 8	ช่วยเหลือ	ช่วยเหลือ	VERB	_	_	7	acl	_	SpaceAfter=No|Gloss=help|Translit=chûaj-lɯ̌a
 9	เต็มที่	เต็มที่	VERB	_	_	6	advcl	_	Gloss=fully|Translit=tem-thîː
 
-# sent_id = Thai_Election_ForThaiParty_2023_NewsArticle_21
+# sent_id = Thai_Election_ForThaiParty_2023_News2_21
 # text = ผู้สื่อข่าวถามว่า วันนี้ขึ้นเวทีที่สองพูดได้ดุดันขึ้น
 # text_en = The reporter asked if Mr. Srettha's speech on the second day was more forceful.
 # tokenised_text = ผู้ สื่อ ข่าว ถาม ว่า วัน นี้ ขึ้น เวที ที่ สอง พูด ได้ ดุดัน ขึ้น
@@ -2146,7 +2146,7 @@
 14	ดุดัน	ดุดัน	VERB	_	_	12	advcl	_	SpaceAfter=No|Gloss=forceful|Translit=dù-dan
 15	ขึ้น	ขึ้น	ADV	_	_	14	advmod	_	Gloss=upward(used for emphasis)|Translit=khɯ̂n
 
-# sent_id = Thai_Election_ForThaiParty_2023_NewsArticle_22
+# sent_id = Thai_Election_ForThaiParty_2023_News2_22
 # text = นายเศรษฐา กล่าวว่า คงมาจากความอัดอั้นตันใจ 
 # text_en = Mr. Srettha said that it likely came from pent-up frustration.
 # tokenised_text = นาย เศรษฐา กล่าว ว่า คง มา จาก ความ อัดอั้นตันใจ
@@ -2167,7 +2167,7 @@
 8	ความ	ความ	NOUN	_	NounType=Nmlz	6	obl	_	SpaceAfter=No|Gloss=condition(nominalizer)|Translit=khwaːm
 9	อัดอั้นตันใจ	อัดอั้นตันใจ	VERB	_	_	8	acl	_	Gloss=deeply frustrated|Translit=ʔàt-ʔân-tan-caj
 
-# sent_id = Thai_Election_ForThaiParty_2023_NewsArticle_23
+# sent_id = Thai_Election_ForThaiParty_2023_News2_23
 # text = ถามต่อว่า พอได้ปราศรัยแล้วเริ่มติดใจการขึ้นเวทีแล้วหรือยัง
 # text_en = (The reporter) asked further if he had started to enjoy speaking on stage after giving speeches.
 # tokenised_text = ถาม ต่อ ว่า พอ ได้ ปราศรัย แล้ว เริ่ม ติดใจ การ ขึ้น เวที แล้ว หรือ ยัง
@@ -2194,7 +2194,7 @@
 14	หรือ	หรือ	CCONJ	_	_	15	cc	_	SpaceAfter=No|Gloss=or|Translit=rɯ̌ː
 15	ยัง	ยัง	ADV	_	_	9	conj	_	Gloss=yet|Translit=jaŋ
 
-# sent_id = Thai_Election_ForThaiParty_2023_NewsArticle_24
+# sent_id = Thai_Election_ForThaiParty_2023_News2_24
 # text = นายเศรษฐา กล่าวว่า “มันเป็นหน้าที่ ที่พรรคมอบหมายให้ และเป็นหน้าที่ที่เราต้องมาขยายนโยบายให้ประชาชนทราบถึงอนาคตว่าหากเลือกพรรคเพื่อไทยมาเราจะทำอะไรให้เขาได้บ้าง”
 # text_en = Mr. Srettha said that it was a duty assigned to me by the party, and it was a responsibility to further explain our policies to the public, so that they could understand the future — what we could do for them if they voted the Pheu Thai Party.
 # tokenised_text = นาย เศรษฐา กล่าว ว่า “ มัน เป็น หน้าที่ ที่ พรรค มอบหมาย ให้ และ เป็น หน้าที่ ที่ เรา ต้อง มา ขยาย นโยบาย ให้ ประชาชน ทราบ ถึง อนาคต ว่า หาก เลือก พรรค เพื่อ ไทย มา เรา จะ ทำ อะไร ให้ เขา ได้ บ้าง ”
@@ -2249,7 +2249,7 @@
 42	”	”	PUNCT	_	_	8	punct	_	_
 
 # newdoc
-# sent_id = Tawan_Bam_Thai_Political_2023_NewsArticle_1
+# sent_id = Tawan_Bam_Thai_Political_2023_News4_1
 # text = เลิกอดอาหารแล้ว
 # text_en = 
 # tokenised_text = เลิก อด อาหาร แล้ว
@@ -2265,7 +2265,7 @@
 3	อาหาร	อาหาร	NOUN	_	_	2	obj	_	SpaceAfter=No|Gloss=food|Translit=
 4	แล้ว	แล้ว	ADV	_	_	1	advmod	_	SpaceAfter=No|Gloss=|Translit=
 
-# sent_id = Tawan_Bam_Thai_Political_2023_NewsArticle_2
+# sent_id = Tawan_Bam_Thai_Political_2023_News4_2
 # text = "ตะวัน-แบม" ขอรักษาชีวิตเพื่อต่อสู้ทางการเมืองต่อ
 # text_en = 
 # tokenised_text = " ตะวัน - แบม " ขอ รักษา ชีวิต เพื่อ ต่อสู้ ทาง การเมือง ต่อ
@@ -2290,7 +2290,7 @@
 12	การเมือง	การเมือง	NOUN	_	_	11	nmod	_	SpaceAfter=No|Gloss=|Translit=
 13	ต่อ	ต่อ	VERB	_	_	10	compound:svc	_	SpaceAfter=No|Gloss=|Translit=
 
-# sent_id = Tawan_Bam_Thai_Political_2023_NewsArticle_3
+# sent_id = Tawan_Bam_Thai_Political_2023_News4_3
 # text = "ตะวัน-แบม" ประกาศแจ้งเลิกอดอาหารแล้ว และจะรับการรักษาเพื่อนำเอาชีวิตไปต่อสู้ต่อไป เนื่องจากยังคงไม่ได้รับการตอบรับจากศาล
 # text_en = 
 # tokenised_text = " ตะวัน - แบม " ประกาศ แจ้ง เลิก อด อาหาร แล้ว และ จะ รับ การ รักษา เพื่อ นำ เอา ชีวิต ไป ต่อสู้ ต่อ ไป เนื่อง จาก ยัง คง ไม่ ได้ รับ การ ตอบรับ จาก ศาล
@@ -2337,7 +2337,7 @@
 34	จาก	จาก	ADP	_	_	35	case	_	SpaceAfter=No|Gloss=from|Translit=
 35	ศาล	ศาล	NOUN	_	_	32	nmod	_	SpaceAfter=No|Gloss=|Translit=
 
-# sent_id = Tawan_Bam_Thai_Political_2023_NewsArticle_4
+# sent_id = Tawan_Bam_Thai_Political_2023_News4_4
 # text = วันที่ 11 มีนาคม 2566 นางสาวทานตะวัน ตัวตุลานนท์ (ตะวัน) ชี้แจงผ่านเฟซบุ๊ก Tawan Tantawan ระบุว่า คำชี้แจงกรณีนางสาวทานตะวัน ตัวตุลานนท์ (ตะวัน) และนางสาวอรวรรณ ภู่พงษ์ (แบม) ประจำวันที่ 11 มีนาคม พ.ศ. 2566 หลังจากที่แบมและตะวัน กลับเข้ารักษาตัวที่โรงพยาบาลธรรมศาสตร์ ขณะนี้อาการของทั้งคู่ยังอยู่ในการดูแลของแพทย์อย่างใกลัชิด โดยแพทย์และผู้เกี่ยวข้องมีความกังวลเรื่องการทำงานของไตและอวัยวะอื่นซึ่งได้รับผลกระทบจากการอดอาหารและน้ำมาเป็นเวลานาน
 # text_en = 
 # tokenised_text = วัน ที่ 11 มีนาคม 2566 นางสาว ทานตะวัน ตัวตุลานนท์ ( ตะวัน ) ชี้แจง ผ่าน เฟซบุ๊ก Tawan Tantawan ระบุ ว่า คำ ชี้แจง กรณี นางสาว ทานตะวัน ตัวตุลานนท์ ( ตะวัน ) และ นางสาว อรวรรณ ภู่พงษ์ ( แบม ) ประจำ วัน ที่ 11 มีนาคม พ.ศ. 2566 หลังจาก ที่ แบม และ ตะวัน กลับ เข้า รักษา ตัว ที่ โรงพยาบาล ธรรมศาสตร์ ขณะ นี้ อาการ ของ ทั้ง คู่ ยัง อยู่ ใน การ ดูแล ของ แพทย์ อย่าง ใกลัชิด โดย แพทย์ และ ผู้ เกี่ยวข้อง มี ความ กังวล เรื่อง การ ทำงาน ของ ไต และ อวัยวะ อื่น ซึ่ง ได้ รับ ผล กระทบ จาก การ อด อาหาร และ น้ำ มา เป็น เวลา นาน
@@ -2448,7 +2448,7 @@
 98	เวลา	เวลา	NOUN	_	_	92	obl	_	SpaceAfter=No|Gloss=time|Translit=
 99	นาน	นาน	VERB	_	_	98	acl	_	SpaceAfter=No|Gloss=|Translit=
 
-# sent_id = Tawan_Bam_Thai_Political_2023_NewsArticle_5
+# sent_id = Tawan_Bam_Thai_Political_2023_News4_5
 # text = ตะวันและแบมขอแจ้งต่อสาธารณชนว่าพวกเธอได้เลิกอด อาหารแล้ว และจะรับการรักษาเพื่อนำเอาชีวิตไปต่อสู้ต่อไป เนื่องจากยังคงไม่ได้รับการตอบรับจากศาล
 # text_en = 
 # tokenised_text = ตะวัน และ แบม ขอ แจ้ง ต่อ สาธารณชน ว่า พวก เธอ ได้ เลิก อด อาหาร แล้ว และ จะ รับ การ รักษา เพื่อ นำ เอา ชีวิต ไป ต่อสู้ ต่อ ไป เนื่อง จาก ยัง คง ไม่ ได้ รับ การ ตอบรับ จาก ศาล
@@ -2499,7 +2499,7 @@
 38	จาก	จาก	ADP	_	_	39	case	_	SpaceAfter=No|Gloss=from|Translit=
 39	ศาล	ศาล	NOUN	_	_	36	nmod	_	SpaceAfter=No|Gloss=|Translit=
 
-# sent_id = Tawan_Bam_Thai_Political_2023_NewsArticle_6
+# sent_id = Tawan_Bam_Thai_Political_2023_News4_6
 # text = สำหรับร่างกายของพวกเธอนั้น พวกเธอตอบโต้ได้ ตื่นรู้ตัวดี พูดคุยเหมาะสมกับบริบท 
 # text_en = 
 # tokenised_text = สำหรับ ร่างกาย ของ พวก เธอ นั้น พวก เธอ ตอบโต้ ได้ ตื่น รู้ตัว ดี พูด คุย เหมาะสม กับ บริบท
@@ -2528,7 +2528,7 @@
 16	กับ	กับ	ADP	_	_	17	case	_	SpaceAfter=No|Gloss=with|Translit=
 17	บริบท	บริบท	NOUN	_	_	15	obl	_	SpaceAfter=No|Gloss=context|Translit=
 
-# sent_id = Tawan_Bam_Thai_Political_2023_NewsArticle_7
+# sent_id = Tawan_Bam_Thai_Political_2023_News4_7
 # text = และในขณะนี้แม้พ้นขีดอันตรายต่อชีวิตแล้ว ก็คาดว่าต้องใช้เวลาอีกระยะหนึ่งในการดูแลรักษาที่โรงพยาบาลธรรมศาสตร์
 # text_en = 
 # tokenised_text = และ ใน ขณะ นี้ แม้ พ้น ขีด อันตราย ต่อ ชีวิต แล้ว ก็ คาด ว่า ต้อง ใช้ เวลา อีก ระยะ หนึ่ง ใน การ ดูแล รักษา ที่ โรงพยาบาล ธรรมศาสตร์
@@ -2567,7 +2567,7 @@
 26	โรงพยาบาล	โรงพยาบาล	NOUN	_	_	22	nmod	_	SpaceAfter=No|Gloss=hospital|Translit=
 27	ธรรมศาสตร์	ธรรมศาสตร์	PROPN	_	_	26	nmod	_	SpaceAfter=No|Gloss=|Translit=
 
-# sent_id = Tawan_Bam_Thai_Political_2023_NewsArticle_8
+# sent_id = Tawan_Bam_Thai_Political_2023_News4_8
 # text = ตะวันและแบมยังคงกังวลเมื่อได้รับข่าวว่ามีผู้ต้องหาทางการเมืองถูกจับกุมคุมขังเพิ่มขึ้นและการพิจารณาคดีของศาลสำหรับจำเลยในคดีมาตรา 112 กรณีสถานทูตเยอรมันไม่ได้รับโอกาสในการต่อสู้คดี 
 # text_en = 
 # tokenised_text = ตะวัน และ แบม ยัง คง กังวล เมื่อ ได้ รับ ข่าว ว่า มี ผู้ ต้องหา ทาง การเมือง ถูก จับกุม คุมขัง เพิ่ม ขึ้น และ การ พิจารณา คดี ของ ศาล สำหรับ จำเลย ใน คดี มาตรา 112 กรณี สถานทูต เยอรมัน ไม่ ได้ รับ โอกาส ใน การ ต่อสู้ คดี
@@ -2623,7 +2623,7 @@
 43	ต่อสู้	ต่อสู้	VERB	_	_	42	acl	_	SpaceAfter=No|Gloss=fight|Translit=
 44	คดี	คดี	NOUN	_	_	43	obl:arg	_	SpaceAfter=No|Gloss=|Translit=
 
-# sent_id = Tawan_Bam_Thai_Political_2023_NewsArticle_9
+# sent_id = Tawan_Bam_Thai_Political_2023_News4_9
 # text = ซึ่งตะวันและแบมเห็นว่ามันเป็นการพิสูจน์ว่าข้อเรียกร้องของเธอทั้งสองเป็นสิ่งถูกต้อง
 # text_en = 
 # tokenised_text = ซึ่ง ตะวัน และ แบม เห็น ว่า มัน เป็น การ พิสูจน์ ว่า ข้อ เรียกร้อง ของ เธอ ทั้ง สอง เป็น สิ่ง ถูกต้อง
@@ -2655,7 +2655,7 @@
 19	สิ่ง	_	NOUN	_	_	10	ccomp	_	SpaceAfter=No|Gloss=thing|Translit=
 20	ถูกต้อง	_	VERB	_	_	19	acl	_	SpaceAfter=No|Gloss=right|Translit=
 
-# sent_id = Tawan_Bam_Thai_Political_2023_NewsArticle_10
+# sent_id = Tawan_Bam_Thai_Political_2023_News4_10
 # text = สุดท้ายนี้ทั้งคู่บอกว่า แม้ไม่มีพวกเธอขอให้ทุกคนต่อสู้ต่อไป
 # text_en = 
 # tokenised_text = สุด ท้าย นี้ ทั้ง คู่ บอก ว่า แม้ ไม่ มี พวก เธอ ขอ ให้ ทุก คน ต่อสู้ ต่อ ไป
@@ -2687,7 +2687,7 @@
 19	ไป	ไป	ADV	_	_	18	advmod	_	SpaceAfter=No|Gloss=|Translit=
 
 # newdoc
-# sent_id = Thai_Political_BhumJaiThai_Party_Narcotics_Drug_1
+# sent_id = Thai_Political_BhumJaiThai_Party_Narcotics_Drug_News6_1
 # text = ‘ภูมิใจไทย’ ลั่นไม่ปล่อยยาบ้าครองเมือง
 # text_en = 
 # tokenised_text = ‘ ภูมิใจ ไทย ’ ลั่น ไม่ ปล่อย ยา บ้า ครอง เมือง
@@ -2710,7 +2710,7 @@
 10	ครอง	ครอง	VERB	_	_	7	compound:svc	_	SpaceAfter=No|Gloss=|Translit=
 11	เมือง	เมือง	NOUN	_	_	10	obj	_	SpaceAfter=No|Gloss=city|Translit=
 
-# sent_id = Thai_Political_BhumJaiThai_Party_Narcotics_Drug_2
+# sent_id = Thai_Political_BhumJaiThai_Party_Narcotics_Drug_News6_2
 # text = เดินหน้าปรับครอบครองมากกว่า 1 เม็ดเป็นผู้ค้า
 # text_en = 
 # tokenised_text = เดิน หน้า ปรับ ครอบครอง มาก กว่า 1 เม็ด เป็น ผู้ ค้า
@@ -2733,7 +2733,7 @@
 10	ผู้	ผู้	NOUN	_	_	3	xcomp	_	SpaceAfter=No|Gloss=person|Translit=
 11	ค้า	ค้า	VERB	_	_	10	acl	_	SpaceAfter=No|Gloss=|Translit=
 
-# sent_id = Thai_Political_BhumJaiThai_Party_Narcotics_Drug_3
+# sent_id = Thai_Political_BhumJaiThai_Party_Narcotics_Drug_News6_3
 # text = “ภท.” ยันไม่ปล่อยให้ยาบ้าครองเมือง
 # text_en = 
 # tokenised_text = “ ภท. ” ยัน ไม่ ปล่อย ให้ ยา บ้า ครอง เมือง
@@ -2756,7 +2756,7 @@
 10	ครอง	ครอง	VERB	_	_	6	ccomp	_	SpaceAfter=No|Gloss=|Translit=
 11	เมือง	เมือง	NOUN	_	_	10	obj	_	SpaceAfter=No|Gloss=city|Translit=
 
-# sent_id = Thai_Political_BhumJaiThai_Party_Narcotics_Drug_4
+# sent_id = Thai_Political_BhumJaiThai_Party_Narcotics_Drug_News6_4
 # text = ย้ำเดินหน้าปรับครอบครองยาบ้ามากกว่า 1 เม็ด เป็นผู้ค้า
 # text_en = 
 # tokenised_text = ย้ำ เดิน หน้า ปรับ ครอบครอง ยา บ้า มาก กว่า 1 เม็ด เป็น ผู้ ค้า
@@ -2782,7 +2782,7 @@
 13	ผู้	ผู้	NOUN	_	_	4	xcomp	_	SpaceAfter=No|Gloss=person|Translit=
 14	ค้า	ค้า	VERB	_	_	13	acl	_	SpaceAfter=No|Gloss=|Translit=
 
-# sent_id = Thai_Political_BhumJaiThai_Party_Narcotics_Drug_5
+# sent_id = Thai_Political_BhumJaiThai_Party_Narcotics_Drug_News6_5
 # text = “ศุภชัย” ยกสถิติผู้ต้องโทษคดียาบ้าล้น เหตุกฎหมายไม่เข้ม
 # text_en = 
 # tokenised_text = “ ศุภชัย ” ยก สถิติ ผู้ ต้องโทษ คดี ยา บ้า ล้น เหตุ กฎหมาย ไม่ เข้ม
@@ -2809,7 +2809,7 @@
 14	ไม่	ไม่	ADV	_	_	15	advmod	_	SpaceAfter=No|Gloss=not|Translit=
 15	เข้ม	เข้ม	VERB	_	_	11	advcl	_	SpaceAfter=No|Gloss=|Translit=
 
-# sent_id = Thai_Political_BhumJaiThai_Party_Narcotics_Drug_6
+# sent_id = Thai_Political_BhumJaiThai_Party_Narcotics_Drug_News6_6
 # text = แฉผู้ค้าพลิ้ว ให้เด็กส่งไม่เกิน 5 เม็ด หลบ ก.ม.
 # text_en = 
 # tokenised_text = แฉ ผู้ ค้า พลิ้ว ให้ เด็ก ส่ง ไม่ เกิน 5 เม็ด หลบ ก.ม.
@@ -2834,7 +2834,7 @@
 12	หลบ	หลบ	VERB	_	_	5	advcl	_	SpaceAfter=No|Gloss=|Translit=
 13	ก.ม.	ก.ม.	NOUN	_	Abbr=Yes	12	obl:arg	_	SpaceAfter=No|Gloss=laws|Translit=
 
-# sent_id = Thai_Political_BhumJaiThai_Party_Narcotics_Drug_7
+# sent_id = Thai_Political_BhumJaiThai_Party_Narcotics_Drug_News6_7
 # text = เผย “อนุทิน” ชงแก้ประกาศ สธ. ให้ครอบครองเกิน 1 เม็ด เป็นผู้ค้าแล้ว มองมาตรการถูกต้อง เพื่อความสงบสังคม
 # text_en = 
 # tokenised_text = เผย “ อนุทิน ” ชง แก้ ประกาศ สธ. ให้ ครอบครอง เกิน 1 เม็ด เป็น ผู้ ค้า แล้ว มอง มาตรการ ถูกต้อง เพื่อ ความ สงบ สังคม
@@ -2870,7 +2870,7 @@
 23	สงบ	สงบ	VERB	_	_	22	acl	_	SpaceAfter=No|Gloss=peaceful|Translit=
 24	สังคม	สังคม	NOUN	_	_	22	nmod	_	SpaceAfter=No|Gloss=society|Translit=
 
-# sent_id = Thai_Political_BhumJaiThai_Party_Narcotics_Drug_8
+# sent_id = Thai_Political_BhumJaiThai_Party_Narcotics_Drug_News6_8
 # text = เมื่อวันที่ 3 มี.ค. นายศุภชัย ใจสมุทร ส.ส.บัญชีรายชื่อ  นายทะเบียนพรรคภูมิใจไทย (ภท.) กล่าวผ่านรายการ พรรคภูมิใจไทย พูดแล้วทำ เผยแพร่ทางเฟซบุ๊ก ยูทูบ และ TikTok พรรคภูมิใจไทย ถึงนโยบายด้านการป้องกันและปราบปรามยาเสพติดของพรรคภูมิใจไทยว่า ปัญหาใหญ่ของประเทศไทยในเรื่องยาเสพติด โดยเฉพาะยาบ้า มีการแพร่หลายจำหน่ายกันทั่วทุกอณูของพื้นที่ 
 # text_en = 
 # tokenised_text = เมื่อ วัน ที่ 3 มี.ค. นาย ศุภชัย ใจสมุทร ส.ส. บัญชี ราย ชื่อ นายทะเบียน พรรค ภูมิใจ ไทย ( ภท. ) กล่าว ผ่าน รายการ พรรค ภูมิใจ ไทย พูด แล้ว ทำ เผยแพร่ ทาง เฟซบุ๊ก ยูทูบ และ TikTok พรรค ภูมิใจ ไทย ถึง นโยบาย ด้าน การ ป้องกัน และ ปราบปราม ยา เสพ ติด ของ พรรค ภูมิใจ ไทย ว่า ปัญหา ใหญ่ ของ ประเทศ ไทย ใน เรื่อง ยา เสพ ติด โดย เฉพาะ ยา บ้า มี การ แพร่หลาย จำหน่าย กัน ทั่ว ทุก อณู ของ พื้นที่
@@ -2958,7 +2958,7 @@
 75	ของ	ของ	ADP	_	_	76	case	_	SpaceAfter=No|Gloss=of|Translit=
 76	พื้นที่	พื้นที่	NOUN	_	_	74	nmod	_	SpaceAfter=No|Gloss=|Translit=
 
-# sent_id = Thai_Political_BhumJaiThai_Party_Narcotics_Drug_9
+# sent_id = Thai_Political_BhumJaiThai_Party_Narcotics_Drug_News6_9
 # text = ข้อมูลจากกรมราชทัณฑ์ ระบุว่า ผู้ที่อยู่ในเรือนจำนี้ประมาณ 80% เป็นผู้ต้องขังคดียาเสพติด และในคดียาเสพติดมีถึง 90% เป็นผู้ต้องขังที่มีความผิดในเรื่องของยาบ้า เพราะเราไม่มีมาตรการที่ดีพอในการที่จะทำให้การปราบปรามยาบ้า ต่างจากประเทศเพื่อนบ้านเรา อาทิ มาเลเซีย หรือสิงคโปร์ ที่โทษเกี่ยวกับยาเสพติดร้ายแรง
 # text_en = 
 # tokenised_text = ข้อมูล จาก กรม ราชทัณฑ์ ระบุ ว่า ผู้ ที่ อยู่ ใน เรือนจำ นี้ ประมาณ 80 % เป็น ผู้ ต้องขัง คดี ยา เสพ ติด และ ใน คดี ยา เสพ ติด มี ถึง 90 % เป็น ผู้ ต้องขัง ที่ มี ความ ผิด ใน เรื่อง ของ ยา บ้า เพราะ เรา ไม่ มี มาตรการ ที่ ดี พอ ใน การ ที่ จะ ทำให้ การ ปราบปราม ยา บ้า ต่าง จาก ประเทศ เพื่อนบ้าน เรา อาทิ มาเลเซีย หรือ สิงคโปร์ ที่ โทษ เกี่ยว กับ ยา เสพ ติด ร้ายแรง
@@ -3048,7 +3048,7 @@
 77	ติด	ติด	VERB	_	_	76	advcl	_	SpaceAfter=No|Gloss=addict|Translit=
 78	ร้ายแรง	ร้ายแรง	VERB	_	_	68	acl:relcl	_	SpaceAfter=No|Gloss=severe|Translit=
 
-# sent_id = Thai_Political_BhumJaiThai_Party_Narcotics_Drug_10
+# sent_id = Thai_Political_BhumJaiThai_Party_Narcotics_Drug_News6_10
 # text = โทษส่วนใหญ่คือ ประหารชีวิต ทำให้คดีอาชญากรรมเกี่ยวกับเรื่องยาเสพติดไม่มีอะไรเลย เพราะความเข้มแข็งของกฎหมาย และมาตรการที่เข้มข้น
 # text_en = 
 # tokenised_text = โทษ ส่วน ใหญ่ คือ ประหารชีวิต ทำให้ คดี อาชญากรรม เกี่ยว กับ เรื่อง ยา เสพ ติด ไม่ มี อะไร เลย เพราะ ความ เข้มแข็ง ของ กฎหมาย และ มาตรการ ที่ เข้มข้น
@@ -3088,7 +3088,7 @@
 27	ที่	ที่	PRON	_	_	28	nsubj	_	SpaceAfter=No|Gloss=that(REL)|Translit=
 28	เข้มข้น	เข้มข้น	VERB	_	_	24	acl:relcl	_	SpaceAfter=No|Gloss=|Translit=
 
-# sent_id = Thai_Political_BhumJaiThai_Party_Narcotics_Drug_11
+# sent_id = Thai_Political_BhumJaiThai_Party_Narcotics_Drug_News6_11
 # text = นายศุภชัย กล่าวว่า ขณะที่ประเทศเราค่อนข้างอะลุ่มอล่วย กฎหมายฉบับใหม่ออกมาว่า ใครครอบครองไว้ไม่เกิน 5 เม็ด ให้ตำรวจสันนิษฐานว่า มีไว้เพื่อเสพ แต่ถ้าเกิน 5 เม็ดขึ้นไป คือผู้ค้า
 # text_en = Mr. Supachai said that while Thailand has been relatively lenient, a new law was issued stating that anyone possessing no more than five methamphetamine pills would be presumed by the police to possess them for personal use. However, possession of more than five pills would classify the person as a drug dealer.
 # tokenised_text = นาย ศุภชัย กล่าว ว่า ขณะ ที่ ประเทศ เรา ค่อนข้าง อะลุ่มอล่วย กฎหมาย ฉบับ ใหม่ ออก มา ว่า ใคร ครอบครอง ไว้ ไม่ เกิน 5 เม็ด ให้ ตำรวจ สันนิษฐาน ว่า มี ไว้ เพื่อ เสพ แต่ ถ้า เกิน 5 เม็ด ขึ้น ไป คือ ผู้ ค้า
@@ -3141,7 +3141,7 @@
 40	ผู้	ผู้	NOUN	_	_	34	conj	_	SpaceAfter=No|Gloss=person|Translit=
 41	ค้า	ค้า	VERB	_	_	40	acl	_	SpaceAfter=No|Gloss=|Translit=
 
-# sent_id = Thai_Political_BhumJaiThai_Party_Narcotics_Drug_12
+# sent_id = Thai_Political_BhumJaiThai_Party_Narcotics_Drug_News6_12
 # text = ในที่สุดผู้ค้า ก็หลบเลี่ยงโดยแทนที่จะค้ากันหลายสิบเม็ด 100 เม็ด ก็เปลี่ยนใหม่เป็นส่งของกันไม่เกิน หน้า 2 จาก 25 เม็ด แล้วให้เด็กจะเป็นคนส่ง
 # text_en = Eventually, traffickers adapted by avoiding transactions involving dozens or hundreds of pills and instead limiting each delivery to fewer than five pills, using children as couriers.
 # tokenised_text = ใน ที่สุด ผู้ ค้า ก็ หลบเลี่ยง โดย แทน ที่ จะ ค้า กัน หลาย สิบ เม็ด 100 เม็ด ก็ เปลี่ยน ใหม่ เป็น ส่ง ของ กัน ไม่ เกิน หน้า 2 จาก 25 เม็ด แล้ว ให้ เด็ก จะ เป็น คน ส่ง
@@ -3192,7 +3192,7 @@
 38	คน	_	NOUN	_	_	34	xcomp	_	_
 39	ส่ง	_	VERB	_	_	38	acl	_	_
 
-# sent_id = Thai_Political_BhumJaiThai_Party_Narcotics_Drug_13
+# sent_id = Thai_Political_BhumJaiThai_Party_Narcotics_Drug_News6_13
 # text = วันนี้ยาบ้าก่อให้เกิดความเสียหายอย่างมาก 
 # text_en = Today, methamphetamine has caused enormous damage.
 # tokenised_text = วัน นี้ ยา บ้า ก่อ ให้ เกิด ความ เสียหาย อย่าง มาก
@@ -3215,7 +3215,7 @@
 10	อย่าง	อย่าง	NOUN	_	_	7	obl	_	SpaceAfter=No|Gloss=|Translit=
 11	มาก	มาก	VERB	_	_	10	acl	_	SpaceAfter=No|Gloss=very|Translit=
 
-# sent_id = Thai_Political_BhumJaiThai_Party_Narcotics_Drug_14
+# sent_id = Thai_Political_BhumJaiThai_Party_Narcotics_Drug_News6_14
 # text = มีข่าวคนเมายาบ้า คลั่งยาทำร้ายผู้อื่น ทำร้ายตัวเอง ทำร้ายคนในครอบครัว เกิดขึ้นวนไปวนมา
 # text_en = News reports of people under the influence of meth committing violent acts against others, themselves, and family members continue to appear repeatedly.
 # tokenised_text = มี ข่าว คน เมา ยา บ้า คลั่ง ยา ทำร้าย ผู้ อื่น ทำร้าย ตัว เอง ทำร้าย คน ใน ครอบครัว เกิด ขึ้น วน ไป วน มา
@@ -3251,7 +3251,7 @@
 23	วน	วน	VERB	_	_	21	conj	_	SpaceAfter=No|Gloss=|Translit=
 24	มา	มา	VERB	_	_	23	compound:svc	_	SpaceAfter=No|Gloss=come|Translit=
 
-# sent_id = Thai_Political_BhumJaiThai_Party_Narcotics_Drug_15
+# sent_id = Thai_Political_BhumJaiThai_Party_Narcotics_Drug_News6_15
 # text = เรื่องยาบ้าไม่ว่ารัฐบาลชุดไหนพูดเหมือนกันหมด แต่ไม่มีมาตรการที่เข้มแข็ง
 # text_en = Every government talks about the meth problem in much the same way, yet no strong measures have been implemented.
 # tokenised_text = เรื่อง ยา บ้า ไม่ว่า รัฐบาล ชุด ไหน พูด เหมือน กัน หมด แต่ ไม่ มี มาตรการ ที่ เข้มแข็ง
@@ -3281,7 +3281,7 @@
 17	ที่	ที่	PRON	_	_	18	nsubj	_	SpaceAfter=No|Gloss=that(REL)|Translit=
 18	เข้มแข็ง	เข้มแข็ง	VERB	_	_	16	acl:relcl	_	SpaceAfter=No|Gloss=|Translit=
 
-# sent_id = Thai_Political_BhumJaiThai_Party_Narcotics_Drug_16
+# sent_id = Thai_Political_BhumJaiThai_Party_Narcotics_Drug_News6_16
 # text = วันนี้ถึงเวลาแล้วที่ต้องทำให้ทันกล ทันเกม ของผู้ค้า โดย นายอนุทิน ชาญวีรกูล หัวหน้าพรรคภูมิใจไทย ซึ่งเป็น รมว.สาธารณสุข ได้เสนอประกาศกระทรวงสาธารณสุขต่อคณะรัฐมนตรี (ครม.) ไปแล้ว
 # text_en = Now, he said, it is time to stay ahead of traffickers’ tactics and schemes. Mr. Anutin Charnvirakul, leader of the Bhumjaithai Party and Minister of Public Health, has already proposed a new Ministry of Public Health regulation to the Cabinet.
 # tokenised_text = วัน นี้ ถึง เวลา แล้ว ที่ ต้อง ทำให้ ทัน กล ทัน เกม ของ ผู้ ค้า โดย นาย อนุทิน ชาญวีรกูล หัวหน้า พรรค ภูมิใจ ไทย ซึ่ง เป็น รมว. สาธารณสุข ได้ เสนอ ประกาศ กระทรวง สาธารณสุข ต่อ คณะ รัฐมนตรี ( ครม. ) ไป แล้ว
@@ -3333,7 +3333,7 @@
 39	ไป	ไป	ADV	_	_	29	advmod	_	SpaceAfter=No|Gloss=|Translit=
 40	แล้ว	แล้ว	ADV	_	_	39	advmod	_	SpaceAfter=No|Gloss=|Translit=
 
-# sent_id = Thai_Political_BhumJaiThai_Party_Narcotics_Drug_17
+# sent_id = Thai_Political_BhumJaiThai_Party_Narcotics_Drug_News6_17
 # text = เปลี่ยนเกณฑ์ใหม่ให้สันนิษฐานว่าแค่ 1 เม็ด คือการมีไว้เสพ ซึ่งโทษก็เบา
 # text_en = The proposal would change the criteria so that possession of just one pill would be presumed to be for personal use, which carries a lighter penalty.
 # tokenised_text = เปลี่ยน เกณฑ์ ใหม่ ให้ สันนิษฐาน ว่า แค่ 1 เม็ด คือ การ มี ไว้ เสพ ซึ่ง โทษ ก็ เบา 
@@ -3363,7 +3363,7 @@
 17	ก็	_	ADV	_	_	18	advmod	_	_
 18	เบา	_	VERB	_	_	8	orphan	_	_
 
-# sent_id = Thai_Political_BhumJaiThai_Party_Narcotics_Drug_18
+# sent_id = Thai_Political_BhumJaiThai_Party_Narcotics_Drug_News6_18
 # text = เกิน 1 เม็ดหรือ 2 เม็ดขึ้นไป ถือว่าเป็นผู้ค้า แล้วให้ไปสู้คดีว่า คุณค้ายาหรือไม่
 # text_en = Possession of more than one or two pills, however, would be considered evidence of drug trafficking, leaving the accused to prove in court whether or not they were actually dealing drugs.
 # tokenised_text = เกิน 1 เม็ด หรือ 2 เม็ด ขึ้น ไป ถือ ว่า เป็น ผู้ ค้า แล้ว ให้ ไป สู้ คดี ว่า คุณ ค้า ยา หรือ ไม่
@@ -3398,7 +3398,7 @@
 22	หรือ	หรือ	CCONJ	_	_	23	cc	_	SpaceAfter=No|Gloss=or|Translit=
 23	ไม่	ไม่	ADV	_	_	20	conj	_	SpaceAfter=No|Gloss=not|Translit=
 
-# sent_id = Thai_Political_BhumJaiThai_Party_Narcotics_Drug_19
+# sent_id = Thai_Political_BhumJaiThai_Party_Narcotics_Drug_News6_19
 # text = “เราต้องบังคับใช้กฎหมายเข้มขึ้น ด้วยมาตรการที่เข้มแข็ง จากไม่เกิน 5 เม็ด เหลือ 1 เม็ด
 # text_en = 
 # tokenised_text = “ เรา ต้อง บังคับ ใช้ กฎหมาย เข้ม ขึ้น ด้วย มาตรการ ที่ เข้มแข็ง จาก ไม่ เกิน 5 เม็ด เหลือ 1 เม็ด
@@ -3430,7 +3430,7 @@
 19	1	1	NUM	_	_	18	obl:arg	_	SpaceAfter=No|Gloss=1|Translit=
 20	เม็ด	เม็ด	NOUN	_	NounType=Clf	19	clf	_	SpaceAfter=No|Gloss=|Translit=
 
-# sent_id = Thai_Political_BhumJaiThai_Party_Narcotics_Drug_20
+# sent_id = Thai_Political_BhumJaiThai_Party_Narcotics_Drug_News6_20
 # text = การกำหนดให้มากกว่า 1 เม็ด เป็นผู้ค้า เป็นเรื่องที่ถูกต้อง และเป็นสิ่งที่จะทำให้สังคมนี้มีความสงบ
 # text_en = 
 # tokenised_text = การ กำหนด ให้ มาก กว่า 1 เม็ด เป็น ผู้ ค้า เป็น เรื่อง ที่ ถูกต้อง และ เป็น สิ่ง ที่ จะ ทำให้ สังคม นี้ มี ความ สงบ
@@ -3467,7 +3467,7 @@
 24	ความ	ความ	NOUN	_	NounType=Nmlz	23	obl:arg	_	SpaceAfter=No|Gloss=condition(nominalizer)|Translit=
 25	สงบ	สงบ	VERB	_	_	24	acl	_	SpaceAfter=No|Gloss=peaceful|Translit=
 
-# sent_id = Thai_Political_BhumJaiThai_Party_Narcotics_Drug_21
+# sent_id = Thai_Political_BhumJaiThai_Party_Narcotics_Drug_News6_21
 # text = ผมยืนยันว่า สิ่งที่เราทำทั้งหมด ภูมิใจไทย เป็นพรรคที่จะไม่ยอมให้ยาบ้าครองเมือง” นายศุภชัย กล่าว
 # text_en = 
 # tokenised_text = ผม ยืนยัน ว่า สิ่ง ที่ เรา ทำ ทั้งหมด ภูมิใจ ไทย เป็น พรรค ที่ จะ ไม่ ยอม ให้ ยา บ้า ครอง เมือง ” นาย ศุภชัย กล่าว
@@ -3505,7 +3505,7 @@
 25	กล่าว	กล่าว	VERB	_	_	0	root	_	SpaceAfter=No|Gloss=say|Translit=
 
 # newdoc
-# sent_id = Thai_Political_News_Article_Lotto_1
+# sent_id = Thai_Political_News_Article_Lotto_News7_1
 # text = รองโฆษกรัฐบาลย้ำ สำนักงานสลากฯ ยังไม่เปิดจำหน่ายเลขสลาก 3 หลัก ขอประชาชนอย่าหลงเชื่อ
 # text_en = 
 # tokenised_text = รอง โฆษก รัฐบาล ย้ำ สำนักงาน สลาก ฯ ยัง ไม่ เปิด จำหน่าย เลข สลาก 3 หลัก ขอ ประชาชน อย่า หลง เชื่อ
@@ -3537,7 +3537,7 @@
 19	หลง	หลง	VERB	_	_	16	xcomp	_	SpaceAfter=No|Gloss=|Translit=
 20	เชื่อ	เชื่อ	VERB	_	_	19	compound:svc	_	SpaceAfter=No|Gloss=believe|Translit=
 
-# sent_id = Thai_Political_News_Article_Lotto_2
+# sent_id = Thai_Political_News_Article_Lotto_News7_2
 # text = วันนี้ (6 เมษายน) รัชดา ธนาดิเรก รองโฆษกประจำสำนักนายกรัฐมนตรี กล่าวถึงกรณีที่มีการโพสต์ข้อความระบุว่า “สำนักงานสลากกินแบ่งรัฐบาล เปิดจำหน่ายเลขสลาก 3 หลัก ให้รางวัลตั้งแต่บาทละ 100-1,000 บาท”
 # text_en = 
 # tokenised_text = วัน นี้ ( 6 เมษายน ) รัชดา ธนาดิเรก รอง โฆษก ประจำ สำนัก นายกรัฐมนตรี กล่าว ถึง กรณี ที่ มี การ โพสต์ ข้อความ ระบุ ว่า “ สำนักงาน สลาก กินแบ่ง รัฐบาล เปิด จำหน่าย เลข สลาก 3 หลัก ให้ รางวัล ตั้งแต่ บาท ละ 100 - 1,000 บาท ”
@@ -3593,7 +3593,7 @@
 43	บาท	บาท	NOUN	_	NounType=Clf	40	clf	_	SpaceAfter=No|Gloss=baht|Translit=
 44	”	”	PUNCT	_	_	29	punct	_	SpaceAfter=No|Gloss=|Translit=
 
-# sent_id = Thai_Political_News_Article_Lotto_3
+# sent_id = Thai_Political_News_Article_Lotto_News7_3
 # text = ต่อมาทางสำนักงานสลากกินแบ่งรัฐบาล กระทรวงการคลัง ชี้แจงว่า ขณะนี้สำนักงานสลากฯ ยังไม่ได้มีการเริ่มดำเนินการใดๆ เกี่ยวกับสลากแบบ N3 (3 หลัก) โดยสลากกินแบ่งรัฐบาลแบบตัวเลข 6 หลัก (L6) และสลากกินแบ่งรัฐบาลแบบตัวเลข 3 หลัก (N3) ยังอยู่ในขั้นตอนออกผลิตภัณฑ์ใหม่ 
 # text_en = 
 # tokenised_text = ต่อ มา ทาง สำนักงาน สลาก กินแบ่ง รัฐบาล กระทรวง การคลัง ชี้แจง ว่า ขณะ นี้ สำนักงาน สลาก ฯ ยัง ไม่ ได้ มี การ เริ่ม ดำเนิน การ ใด ๆ เกี่ยว กับ สลาก แบบ N3 ( 3 หลัก ) โดย สลาก กินแบ่ง รัฐบาล แบบ ตัว เลข 6 หลัก ( L6 ) และ สลาก กินแบ่ง รัฐบาล แบบ ตัว เลข 3 หลัก ( N3 ) ยัง อยู่ ใน ขั้นตอน ออก ผลิตภัณฑ์ ใหม่
@@ -3671,7 +3671,7 @@
 65	ผลิตภัณฑ์	ผลิตภัณฑ์	NOUN	_	_	64	obl:arg	_	SpaceAfter=No|Gloss=product|Translit=
 66	ใหม่	ใหม่	VERB	_	_	65	acl	_	SpaceAfter=No|Gloss=new|Translit=
 
-# sent_id = Thai_Political_News_Article_Lotto_4
+# sent_id = Thai_Political_News_Article_Lotto_News7_4
 # text = โดยหลังจากนี้จะต้องไปจัดทำประกาศ กำหนดประเภทและรูปแบบสลากกินแบ่งรัฐบาลรูปแบบใหม่ เพื่อนำมาเสนอให้ที่ประชุมคณะรัฐมนตรีพิจารณาเห็นชอบอีกครั้ง
 # text_en = 
 # tokenised_text = โดย หลัง จาก นี้ จะ ต้อง ไป จัด ทำ ประกาศ กำหนด ประเภท และ รูปแบบ สลาก กินแบ่ง รัฐบาล รูปแบบ ใหม่ เพื่อ นำ มา เสนอ ให้ ที่ ประชุม คณะ รัฐมนตรี พิจารณา เห็นชอบ อีก ครั้ง
@@ -3714,7 +3714,7 @@
 30	อีก	อีก	DET	_	_	31	det	_	SpaceAfter=No|Gloss=|Translit=
 31	ครั้ง	ครั้ง	NOUN	_	NounType=Clf	28	obl	_	SpaceAfter=No|Gloss=|Translit=
 
-# sent_id = Thai_Political_News_Article_Lotto_5
+# sent_id = Thai_Political_News_Article_Lotto_News7_5
 # text = ส่วนรายละเอียดเกี่ยวกับปริมาณสลากที่เหมาะสม ช่วงเวลาในการจำหน่าย ช่องทาง และวิธีการจำหน่าย เป็นเรื่องที่สำนักงานสลากฯ จะพิจารณาต่อไป
 # text_en = 
 # tokenised_text = ส่วน รายละเอียด เกี่ยว กับ ปริมาณ สลาก ที่ เหมาะสม ช่วง เวลา ใน การ จำหน่าย ช่องทาง และ วิธีการ จำหน่าย เป็น เรื่อง ที่ สำนักงาน สลาก ฯ จะ พิจารณา ต่อ ไป
@@ -3753,7 +3753,7 @@
 26	ต่อ	ต่อ	VERB	_	_	25	compound:svc	_	SpaceAfter=No|Gloss=|Translit=
 27	ไป	ไป	ADV	_	_	26	advmod	_	SpaceAfter=No|Gloss=|Translit=
 
-# sent_id = Thai_Political_News_Article_Lotto_6
+# sent_id = Thai_Political_News_Article_Lotto_News7_6
 # text = รัชดากล่าวต่อไปว่า การออกสลากกินแบ่งรัฐบาลแบบตัวเลข 6 หลัก (L6) และสลากกินแบ่งรัฐบาลแบบตัวเลข 3 หลัก (N3) จะเป็นอีกทางเลือกหนึ่งที่สามารถควบคุมราคาสลากกินแบ่งรัฐบาล
 # text_en = 
 # tokenised_text = รัชดา กล่าว ต่อ ไป ว่า การ ออก สลาก กินแบ่ง รัฐบาล แบบ ตัวเลข 6 หลัก ( L6 ) และ สลาก กินแบ่ง รัฐบาล แบบ ตัวเลข 3 หลัก ( N3 ) จะ เป็น อีก ทาง เลือก หนึ่ง ที่ สามารถ ควบคุม ราคา สลาก กินแบ่ง รัฐบาล
@@ -3808,7 +3808,7 @@
 42	กินแบ่ง	กินแบ่ง	VERB	_	_	41	acl	_	SpaceAfter=No|Gloss=|Translit=
 43	รัฐบาล	รัฐบาล	NOUN	_	_	41	nmod	_	SpaceAfter=No|Gloss=government|Translit=
 
-# sent_id = Thai_Political_News_Article_Lotto_7
+# sent_id = Thai_Political_News_Article_Lotto_News7_7
 # text = เนื่องจากที่ผ่านมามีการออกผลิตภัณฑ์สลากหลายประเภทก็สามารถช่วยลดราคาสลากกินแบ่งรัฐบาลลงมาได้ อีกทั้งยังช่วยลดปัญหาหวยใต้ดินในทางอ้อม เพราะเป็นตัวเลือกที่ถูกกฎหมาย
 # text_en = 
 # tokenised_text = เนื่อง จาก ที่ ผ่าน มา มี การ ออก ผลิตภัณฑ์ สลาก หลาย ประเภท ก็ สามารถ ช่วย ลด ราคา สลาก กินแบ่ง รัฐบาล ลง มา ได้ อีกทั้ง ยัง ช่วย ลด ปัญหา หวย ใต้ดิน ใน ทาง อ้อม เพราะ เป็น ตัว เลือก ที่ ถูก กฎหมาย
@@ -3860,7 +3860,7 @@
 39	ถูก	ถูก	VERB	_	_	36	acl:relcl	_	SpaceAfter=No|Gloss=|Translit=
 40	กฎหมาย	กฎหมาย	NOUN	_	_	39	obl:arg	_	SpaceAfter=No|Gloss=law|Translit=
 
-# sent_id = Thai_Political_News_Article_Lotto_8
+# sent_id = Thai_Political_News_Article_Lotto_News7_8
 # text = อีกทั้งการซื้อสลาก 1 ใบมีสิทธิ์ถูกรางวัลถึง 4 รางวัล คือ 3 ตัวตรง 3 ตัวสลับ 2 ตัวตรง และมีโอกาสถูกรางวัลแจ็กพอต 
 # text_en = 
 # tokenised_text = อีก ทั้ง การ ซื้อ สลาก 1 ใบ มี สิทธิ์ ถูก รางวัล ถึง 4 รางวัล คือ 3 ตัว ตรง 3 ตัว สลับ 2 ตัว ตรง และ มี โอกาส ถูก รางวัล แจ็กพอต
@@ -3901,7 +3901,7 @@
 28	รางวัล	รางวัล	NOUN	_	_	27	obl:arg	_	SpaceAfter=No|Gloss=reward|Translit=
 29	แจ็กพอต	แจ็กพอต	NOUN	_	Foreign=Yes	28	nmod	_	SpaceAfter=No|Gloss=jackpot|Translit=
 
-# sent_id = Thai_Political_News_Article_Lotto_9
+# sent_id = Thai_Political_News_Article_Lotto_News7_9
 # text = และในส่วนของช่องทางการจำหน่าย รัชดากล่าวด้วยว่า ขอให้ประชาชนอย่าหลงเชื่อข้อมูลดังกล่าว และขอความร่วมมือไม่ส่งหรือแชร์ข้อมูลดังกล่าวต่อในช่องทางสื่อสังคมออนไลน์ต่างๆ
 # text_en = 
 # tokenised_text = และ ใน ส่วน ของ ช่องทาง การ จำหน่าย รัชดา กล่าว ด้วย ว่า ขอ ให้ ประชาชน อย่า หลงเชื่อ ข้อมูล ดัง กล่าว และ ขอ ความ ร่วมมือ ไม่ ส่ง หรือ แชร์ ข้อมูล ดัง กล่าว ต่อ ใน ช่องทาง สื่อ สังคม ออนไลน์ ต่าง ๆ
@@ -3918,11 +3918,11 @@
 4	ของ	ของ	ADP	_	_	5	case	_	SpaceAfter=No|Gloss=of|Translit=
 5	ช่องทาง	ช่องทาง	NOUN	_	_	3	nmod	_	SpaceAfter=No|Gloss=|Translit=
 6	การ	การ	NOUN	_	NounType=Nmlz	5	nmod	_	SpaceAfter=No|Gloss=a thing to be done(nominalizer)|Translit=
-7	จำหน่าย	จำหน่าย	VERB	_	_	6	acl	_	SpaceAfter=No|Gloss=|Translit=
+7	จำหน่าย	จำหน่าย	VERB	_	_	6	acl	_	Gloss=|Translit=
 8	รัชดา	รัชดา	PROPN	_	_	9	nsubj	_	SpaceAfter=No|Gloss=|Translit=
 9	กล่าว	กล่าว	VERB	_	_	0	root	_	SpaceAfter=No|Gloss=say|Translit=
 10	ด้วย	ด้วย	ADV	_	_	9	advmod	_	SpaceAfter=No|Gloss=also|Translit=
-11	ว่า	ว่า	ADP	_	_	12	mark	_	SpaceAfter=No|Gloss=that(COMP)|Translit=
+11	ว่า	ว่า	ADP	_	_	12	mark	_	Gloss=that(COMP)|Translit=
 12	ขอ	ขอ	VERB	_	_	9	ccomp	_	SpaceAfter=No|Gloss=ask|Translit=
 13	ให้	ให้	SCONJ	_	_	16	mark	_	SpaceAfter=No|Gloss=give|Translit=
 14	ประชาชน	ประชาชน	NOUN	_	_	16	nsubj	_	SpaceAfter=No|Gloss=population|Translit=
@@ -3931,7 +3931,7 @@
 17	เชื่อ	เชื่อ	VERB	_	_	16	compound:svc	_	SpaceAfter=No|Gloss=believe|Translit=
 18	ข้อมูล	ข้อมูล	NOUN	_	_	17	obj	_	SpaceAfter=No|Gloss=information|Translit=
 19	ดัง	ดัง	ADP	_	_	20	mark	_	SpaceAfter=No|Gloss=as|Translit=
-20	กล่าว	กล่าว	VERB	_	_	18	acl	_	SpaceAfter=No|Gloss=say|Translit=
+20	กล่าว	กล่าว	VERB	_	_	18	acl	_	Gloss=say|Translit=
 21	และ	และ	CCONJ	_	_	22	cc	_	SpaceAfter=No|Gloss=and|Translit=
 22	ขอ	ขอ	VERB	_	_	12	conj	_	SpaceAfter=No|Gloss=ask|Translit=
 23	ความ	ความ	NOUN	_	NounType=Nmlz	22	obj	_	SpaceAfter=No|Gloss=condition(nominalizer)|Translit=
@@ -3949,10 +3949,10 @@
 35	สื่อ	สื่อ	NOUN	_	_	34	nmod	_	SpaceAfter=No|Gloss=media|Translit=
 36	สังคม	สังคม	NOUN	_	_	35	nmod	_	SpaceAfter=No|Gloss=society|Translit=
 37	ออนไลน์	ออนไลน์	ADJ	_	Foreign=Yes	36	amod	_	SpaceAfter=No|Gloss=online|Translit=
-38	ต่าง	ต่าง	ADJ	_	_	34	amod	_	SpaceAfter=No|Gloss=different|Translit=
-39	ๆ	ๆ	SYM	_	ExtPos=ADJ	38	compound:redup	_	SpaceAfter=No|Gloss=different|Translit=
+38	ต่าง	ต่าง	ADJ	_	_	34	amod	_	SpaceAfter=No|CorrectSpaceAfter=Yes|Gloss=different|Translit=
+39	ๆ	ๆ	SYM	_	ExtPos=ADJ	38	compound:redup	_	Gloss=different|Translit=
 
-# sent_id = Thai_Political_News_Article_Lotto_10
+# sent_id = Thai_Political_News_Article_Lotto_News7_10
 # text = เพื่อให้ประชาชนได้รับข้อมูลข่าวสารจากทางสำนักงานสลากกินแบ่งรัฐบาล สามารถติดตามข้อมูลได้ที่เว็บไซต์ www.glo.or.th หรือ โทร. 0 2528 9999
 # text_en = 
 # tokenised_text = เพื่อ ให้ ประชาชน ได้รับ ข้อมูลข่าวสาร จาก ทาง สำนักงาน สลาก กินแบ่ง รัฐบาล สามารถ ติดตาม ข้อมูล ได้ ที่ เว็บไซต์ www.glo.or.th หรือ โทร. 0 2528 9999
@@ -3975,16 +3975,18 @@
 10	สำนักงาน	สำนักงาน	NOUN	_	_	9	nmod	_	SpaceAfter=No|Gloss=office|Translit=
 11	สลาก	สลาก	NOUN	_	ExtPos=PROPN	10	nmod	_	SpaceAfter=No|Gloss=|Translit=
 12	กินแบ่ง	กินแบ่ง	VERB	_	_	11	acl	_	SpaceAfter=No|Gloss=|Translit=
-13	รัฐบาล	รัฐบาล	NOUN	_	_	11	nmod	_	SpaceAfter=No|Gloss=government|Translit=
+13	รัฐบาล	รัฐบาล	NOUN	_	_	11	nmod	_	Gloss=government|Translit=
 14	สามารถ	สามารถ	VERB	_	_	0	root	_	SpaceAfter=No|Gloss=|Translit=
 15	ติดตาม	ติดตาม	VERB	_	_	14	xcomp	_	SpaceAfter=No|Gloss=follow|Translit=
 16	ข้อมูล	ข้อมูล	NOUN	_	_	15	obj	_	SpaceAfter=No|Gloss=information|Translit=
 17	ได้	ได้	VERB	_	_	15	advcl	_	SpaceAfter=No|Gloss=|Translit=
 18	ที่	ที่	ADP	_	_	19	case	_	SpaceAfter=No|Gloss=at|Translit=
-19	เว็บไซต์	เว็บไซต์	NOUN	_	Foreign=Yes	15	obl	_	SpaceAfter=No|Gloss=website|Translit=
-20	www.glo.or.th	www.glo.or.th	PROPN	_	_	19	appos	_	SpaceAfter=No|Gloss=|Translit=
-21	หรือ	หรือ	CCONJ	_	_	22	cc	_	SpaceAfter=No|Gloss=or|Translit=
-22	โทร.	โทร.	NOUN	_	Abbr=Yes	19	conj	_	SpaceAfter=No|Gloss=telephone|Translit=
-23	0	0	NUM	_	_	22	appos	_	SpaceAfter=No|Gloss=0|Translit=
-24	2528	2528	NUM	_	_	23	flat	_	SpaceAfter=No|Gloss=2528|Translit=
-25	9999	9999	NUM	_	_	23	flat	_	SpaceAfter=No|Gloss=9999|Translit=
+19	เว็บไซต์	เว็บไซต์	NOUN	_	Foreign=Yes	15	obl	_	Gloss=website|Translit=
+20	www.glo.or.th	www.glo.or.th	PROPN	_	_	19	appos	_	Gloss=|Translit=
+21	หรือ	หรือ	CCONJ	_	_	22	cc	_	Gloss=or|Translit=
+22	โทร.	โทร.	NOUN	_	Abbr=Yes	19	conj	_	Gloss=telephone|Translit=
+23	0	0	NUM	_	_	22	appos	_	Gloss=0|Translit=
+24	2528	2528	NUM	_	_	23	flat	_	Gloss=2528|Translit=
+25	9999	9999	NUM	_	_	23	flat	_	Gloss=9999|Translit=
+
+# newdoc
