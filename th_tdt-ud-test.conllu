@@ -3548,50 +3548,51 @@
 # genre = political_news_article
 # source = https://thestandard.co/glo-repeat-not-selling-3-digits/
 # year = 2023
-1	วัน	วัน	NOUN	_	_	14	obl	_	SpaceAfter=No|Gloss=day|Translit=
+1	วัน	วัน	NOUN	_	_	15	obl	_	SpaceAfter=No|Gloss=day|Translit=
 2	นี้	นี้	ADJ	_	_	1	amod	_	SpaceAfter=No|Gloss=this|Translit=
 3	(	(	PUNCT	_	_	4	punct	_	SpaceAfter=No|Gloss=|Translit=
 4	6	6	NUM	_	_	1	appos	_	SpaceAfter=No|Gloss=6|Translit=
 5	เมษายน	เมษายน	NOUN	_	_	4	nmod	_	SpaceAfter=No|Gloss=March|Translit=
 6	)	)	PUNCT	_	_	4	punct	_	SpaceAfter=No|Gloss=|Translit=
-7	รัชดา	รัชดา	PROPN	_	_	14	nsubj	_	SpaceAfter=No|Gloss=|Translit=
+7	รัชดา	รัชดา	PROPN	_	_	15	nsubj	_	SpaceAfter=No|Gloss=|Translit=
 8	ธนาดิเรก	ธนาดิเรก	PROPN	_	_	7	flat	_	SpaceAfter=No|Gloss=|Translit=
 9	รอง	รอง	NOUN	_	_	7	appos	_	SpaceAfter=No|Gloss=|Translit=
 10	โฆษก	โฆษก	NOUN	_	_	9	nmod	_	SpaceAfter=No|Gloss=|Translit=
 11	ประจำ	ประจำ	VERB	_	_	9	acl	_	SpaceAfter=No|Gloss=|Translit=
 12	สำนัก	สำนัก	NOUN	_	_	11	obl:arg	_	SpaceAfter=No|Gloss=|Translit=
-13	นายกรัฐมนตรี	นายกรัฐมนตรี	PROPN	_	_	12	nmod	_	SpaceAfter=No|Gloss=|Translit=
-14	กล่าว	กล่าว	VERB	_	_	0	root	_	SpaceAfter=No|Gloss=say|Translit=
-15	ถึง	ถึง	ADP	_	_	16	case	_	SpaceAfter=No|Gloss=to|Translit=
-16	กรณี	กรณี	NOUN	_	_	14	obl	_	SpaceAfter=No|Gloss=case|Translit=
-17	ที่	ที่	PRON	_	_	18	dislocated	_	SpaceAfter=No|Gloss=that(REL)|Translit=
-18	มี	มี	VERB	_	_	16	acl:relcl	_	SpaceAfter=No|Gloss=have|Translit=
-19	การ	การ	NOUN	_	NounType=Nmlz	18	nsubj	_	SpaceAfter=No|Gloss=a thing to be done(nominalizer)|Translit=kaːn
-20	โพสต์	โพสต์	VERB	_	Foreign=Yes	19	acl	_	SpaceAfter=No|Gloss=post|Translit=
-21	ข้อความ	ข้อความ	NOUN	_	_	20	obj	_	SpaceAfter=No|Gloss=message|Translit=
-22	ระบุ	ระบุ	VERB	_	_	19	acl	_	SpaceAfter=No|Gloss=|Translit=
-23	ว่า	ว่า	SCONJ	_	_	29	mark	_	SpaceAfter=No|Gloss=that(COMP)|Translit=
-24	“	“	PUNCT	_	_	29	punct	_	SpaceAfter=No|Gloss=|Translit=
-25	สำนักงาน	สำนักงาน	NOUN	_	_	29	nsubj	_	SpaceAfter=No|Gloss=|Translit=
-26	สลาก	สลาก	NOUN	_	ExtPos=PROPN	25	nmod	_	SpaceAfter=No|Gloss=|Translit=
-27	กินแบ่ง	กินแบ่ง	VERB	_	_	26	acl	_	SpaceAfter=No|Gloss=|Translit=
-28	รัฐบาล	รัฐบาล	NOUN	_	_	26	nmod	_	SpaceAfter=No|Gloss=|Translit=
-29	เปิด	เปิด	VERB	_	_	22	ccomp	_	SpaceAfter=No|Gloss=open|Translit=
-30	จำหน่าย	จำหน่าย	VERB	_	_	29	compound:svc	_	SpaceAfter=No|Gloss=|Translit=
-31	เลข	เลข	NOUN	_	_	30	obj	_	SpaceAfter=No|Gloss=|Translit=
-32	สลาก	สลาก	NOUN	_	_	31	nmod	_	SpaceAfter=No|Gloss=|Translit=
-33	3	3	NUM	_	_	31	nummod	_	SpaceAfter=No|Gloss=3|Translit=
-34	หลัก	หลัก	NOUN	_	NounType=Clf	33	clf	_	SpaceAfter=No|Gloss=|Translit=
-35	ให้	ให้	VERB	_	_	31	acl	_	SpaceAfter=No|Gloss=give|Translit=
-36	รางวัล	รางวัล	NOUN	_	_	35	obj	_	SpaceAfter=No|Gloss=reward|Translit=
-37	ตั้งแต่	ตั้งแต่	ADP	_	_	38	case	_	SpaceAfter=No|Gloss=|Translit=
-38	บาท	บาท	NOUN	_	_	35	obl	_	SpaceAfter=No|Gloss=baht|Translit=
-39	ละ	ละ	ADJ	_	_	38	amod	_	SpaceAfter=No|Gloss=|Translit=
-40	100	100	NUM	_	_	38	nummod	_	SpaceAfter=No|Gloss=100|Translit=
-41	-	-	SYM	_	_	42	case	_	SpaceAfter=No|Gloss=to|Translit=
-42	1,000	1,000	NUM	_	_	40	nmod	_	SpaceAfter=No|Gloss=1,000|Translit=
-43	บาท	บาท	NOUN	_	NounType=Clf	40	clf	_	SpaceAfter=No|Gloss=baht|Translit=
-44	”	”	PUNCT	_	_	29	punct	_	SpaceAfter=No|Gloss=|Translit=
+13	นายก	นายก	NOUN	_	ExtPos=PROPN	12	nmod	_	SpaceAfter=No|Gloss=|Translit=
+14	รัฐมนตรี	รัฐมนตรี	NOUN	_	_	13	nmod	_	SpaceAfter=No|Gloss=|Translit=
+15	กล่าว	กล่าว	VERB	_	_	0	root	_	SpaceAfter=No|Gloss=say|Translit=
+16	ถึง	ถึง	ADP	_	_	17	case	_	SpaceAfter=No|Gloss=to|Translit=
+17	กรณี	กรณี	NOUN	_	_	15	obl	_	SpaceAfter=No|Gloss=case|Translit=
+18	ที่	ที่	PRON	_	_	19	dislocated	_	SpaceAfter=No|Gloss=that(REL)|Translit=
+19	มี	มี	VERB	_	_	17	acl:relcl	_	SpaceAfter=No|Gloss=have|Translit=
+20	การ	การ	NOUN	_	NounType=Nmlz	19	nsubj	_	SpaceAfter=No|Gloss=a thing to be done(nominalizer)|Translit=kaːn
+21	โพสต์	โพสต์	VERB	_	Foreign=Yes	20	acl	_	SpaceAfter=No|Gloss=post|Translit=
+22	ข้อความ	ข้อความ	NOUN	_	_	21	obj	_	SpaceAfter=No|Gloss=message|Translit=
+23	ระบุ	ระบุ	VERB	_	_	20	acl	_	SpaceAfter=No|Gloss=|Translit=
+24	ว่า	ว่า	SCONJ	_	_	30	mark	_	SpaceAfter=No|Gloss=that(COMP)|Translit=
+25	“	“	PUNCT	_	_	30	punct	_	SpaceAfter=No|Gloss=|Translit=
+26	สำนักงาน	สำนักงาน	NOUN	_	_	30	nsubj	_	SpaceAfter=No|Gloss=|Translit=
+27	สลาก	สลาก	NOUN	_	ExtPos=PROPN	26	nmod	_	SpaceAfter=No|Gloss=|Translit=
+28	กินแบ่ง	กินแบ่ง	VERB	_	_	27	acl	_	SpaceAfter=No|Gloss=|Translit=
+29	รัฐบาล	รัฐบาล	NOUN	_	_	27	nmod	_	SpaceAfter=No|Gloss=|Translit=
+30	เปิด	เปิด	VERB	_	_	23	ccomp	_	SpaceAfter=No|Gloss=open|Translit=
+31	จำหน่าย	จำหน่าย	VERB	_	_	30	compound:svc	_	SpaceAfter=No|Gloss=|Translit=
+32	เลข	เลข	NOUN	_	_	31	obj	_	SpaceAfter=No|Gloss=|Translit=
+33	สลาก	สลาก	NOUN	_	_	32	nmod	_	SpaceAfter=No|Gloss=|Translit=
+34	3	3	NUM	_	_	32	nummod	_	SpaceAfter=No|Gloss=3|Translit=
+35	หลัก	หลัก	NOUN	_	NounType=Clf	34	clf	_	SpaceAfter=No|Gloss=|Translit=
+36	ให้	ให้	VERB	_	_	32	acl	_	SpaceAfter=No|Gloss=give|Translit=
+37	รางวัล	รางวัล	NOUN	_	_	36	obj	_	SpaceAfter=No|Gloss=reward|Translit=
+38	ตั้งแต่	ตั้งแต่	ADP	_	_	39	case	_	SpaceAfter=No|Gloss=|Translit=
+39	บาท	บาท	NOUN	_	_	36	obl	_	SpaceAfter=No|Gloss=baht|Translit=
+40	ละ	ละ	ADJ	_	_	39	amod	_	SpaceAfter=No|Gloss=|Translit=
+41	100	100	NUM	_	_	39	nummod	_	SpaceAfter=No|Gloss=100|Translit=
+42	-	-	SYM	_	_	43	case	_	SpaceAfter=No|Gloss=to|Translit=
+43	1,000	1,000	NUM	_	_	41	nmod	_	SpaceAfter=No|Gloss=1,000|Translit=
+44	บาท	บาท	NOUN	_	NounType=Clf	41	clf	_	SpaceAfter=No|Gloss=baht|Translit=
+45	”	”	PUNCT	_	_	30	punct	_	SpaceAfter=No|Gloss=|Translit=
 
 # sent_id = Thai_Political_News_Article_Lotto_News7_3
 # text = ต่อมาทางสำนักงานสลากกินแบ่งรัฐบาล กระทรวงการคลัง ชี้แจงว่า ขณะนี้สำนักงานสลากฯ ยังไม่ได้มีการเริ่มดำเนินการใดๆ เกี่ยวกับสลากแบบ N3 (3 หลัก) โดยสลากกินแบ่งรัฐบาลแบบตัวเลข 6 หลัก (L6) และสลากกินแบ่งรัฐบาลแบบตัวเลข 3 หลัก (N3) ยังอยู่ในขั้นตอนออกผลิตภัณฑ์ใหม่ 
