@@ -3991,3 +3991,635 @@
 25	9999	9999	NUM	_	_	23	flat	_	Gloss=9999|Translit=
 
 # newdoc
+# sent_id = Thai_Political_People_Party_News15_1
+# text = ปชน. โยนอำนาจปธ.สภา บรรจุวาระโหวต ‘หนู’ 
+# text_en = 
+# tokenised_text = ปชน. โยน อำนาจ ปธ. สภา บรรจุ วาระ โหวต ‘ หนู ’
+# tokenised_translit =
+# tokenised_transcript =
+# phrase_type = sentence
+# sentence_position = headline
+# genre = political_news_article
+# source = https://www.matichon.co.th/politics/news_5352797
+# year = 2025
+1	ปชน.	_	PROPN	_	Abbr=Yes	2	nsubj	_	Gloss=|Translit=
+2	โยน	โยน	VERB	_	_	0	root	_	SpaceAfter=No|Gloss=|Translit=
+3	อำนาจ	อำนาจ	NOUN	_	_	2	obj	_	SpaceAfter=No|Gloss=power|Translit=
+4	ปธ.	_	NOUN	_	Abbr=Yes	2	iobj	_	SpaceAfter=No|Gloss=|Translit=
+5	สภา	สภา	NOUN	_	_	4	nmod	_	Gloss=|Translit=
+6	บรรจุ	บรรจุ	VERB	_	_	2	advcl	_	SpaceAfter=No|Gloss=|Translit=
+7	วาระ	วาระ	NOUN	_	_	6	obj	_	SpaceAfter=No|Gloss=|Translit=
+8	โหวต	โหวต	VERB	_	Foreign=Yes	7	acl	_	Gloss=vote|Translit=
+9	‘	‘	PUNCT	_	_	10	punct	_	SpaceAfter=No
+10	หนู	หนู	PROPN	_	_	8	obj	_	SpaceAfter=No|Gloss=Noo|Translit=
+11	’	’	PUNCT	_	_	10	punct	_	
+
+# sent_id = Thai_Political_People_Party_News15_2
+# text = ไม่เห็นด้วยพรรคเล็ก แจ้งจับ 112 ภูมิธรรม
+# text_en = 
+# tokenised_text = ไม่ เห็น ด้วย พรรค เล็ก แจ้ง จับ 112 ภูมิธรรม
+# tokenised_translit =
+# tokenised_transcript =
+# phrase_type = sentence
+# sentence_position = headline
+# genre = political_news_article
+# source = https://www.matichon.co.th/politics/news_5352797
+# year = 2025
+1	ไม่	ไม่	ADV	_	_	2	advmod	_	SpaceAfter=No|Gloss=not|Translit=
+2	เห็น	เห็น	VERB	_	_	0	root	_	SpaceAfter=No|Gloss=see|Translit=
+3	ด้วย	ด้วย	ADV	_	_	2	advmod	_	SpaceAfter=No|Gloss=also|Translit=
+4	พรรค	พรรค	NOUN	_	_	6	nsubj	_	SpaceAfter=No|Gloss=party|Translit=
+5	เล็ก	เล็ก	VERB	_	_	4	acl	_	Gloss=small|Translit=
+6	แจ้ง	แจ้ง	VERB	_	_	2	ccomp	_	SpaceAfter=No|Gloss=|Translit=
+7	จับ	จับ	VERB	_	_	6	xcomp	_	Gloss=catch|Translit=
+8	112	112	NUM	_	_	7	obl	_	Gloss=112|Translit=
+9	ภูมิธรรม	ภูมิธรรม	PROPN	_	_	7	obj	_	Gloss=|Translit=
+
+# sent_id = Thai_Political_People_Party_News15_3
+# text = วันที่ 3 กันยายน 2568 - 16:23 น.
+# text_en = 
+# tokenised_text = วัน ที่ 3 กันยายน 2568 - 16:23 น.
+# tokenised_translit =
+# tokenised_transcript =
+# phrase_type = sentence
+# sentence_position = dateline
+# genre = political_news_article
+# source = https://www.matichon.co.th/politics/news_5352797
+# year = 2025
+1	วัน	วัน	NOUN	_	_	0	root	_	SpaceAfter=No|Gloss=day|Translit=
+2	ที่	ที่	NOUN	_	_	1	nmod	_	Gloss=|Translit=
+3	3	3	NUM	_	_	2	nmod	_	Gloss=3|Translit=
+4	กันยายน	กันยายน	NOUN	_	_	1	nmod	_	Gloss=September|Translit=
+5	2568	2568	NUM	_	_	4	nmod	_	Gloss=2568|Translit=
+6	-	-	SYM	_	_	7	case	_	Gloss=|Translit=
+7	16:23	16:23	NUM	_	_	1	nmod	_	Gloss=16:23|Translit=
+8	น.	น.	NOUN	_	Abbr=Yes	7	nmod	_	Gloss=o'clock|Translit=
+
+# sent_id = Thai_Political_People_Party_News15_4
+# text = ‘ปชน.’ ลั่น พร้อมสู้ศึกเลือกตั้งหากยุบสภาสำเร็จ
+# text_en = 
+# tokenised_text = ‘ ปชน. ’ ลั่น พร้อม สู้ ศึก เลือกตั้ง หาก ยุบ สภา สำเร็จ
+# tokenised_translit =
+# tokenised_transcript =
+# phrase_type = sentence
+# sentence_position = 
+# genre = political_news_article
+# source = https://www.matichon.co.th/politics/news_5352797
+# year = 2025
+1	‘	‘	PUNCT	_	_	2	punct	_	SpaceAfter=No|Gloss=|Translit=
+2	ปชน.	ปชน.	PROPN	_	Abbr=Yes	4	nsubj	_	SpaceAfter=No|Gloss=|Translit=
+3	’	’	PUNCT	_	_	2	punct	_	_
+4	ลั่น	ลั่น	VERB	_	_	0	root	_	Gloss=|Translit=
+5	พร้อม	พร้อม	VERB	_	_	4	ccomp	_	SpaceAfter=No|Gloss=be ready|Translit=
+6	สู้	สู้	VERB	_	_	5	xcomp	_	SpaceAfter=No|Gloss=fight|Translit=
+7	ศึก	ศึก	NOUN	_	_	6	obl:arg	_	SpaceAfter=No|Gloss=|Translit=
+8	เลือกตั้ง	เลือกตั้ง	VERB	_	_	7	acl	_	SpaceAfter=No|Gloss=|Translit=
+9	หาก	หาก	ADP	_	_	10	mark	_	SpaceAfter=No|Gloss=if|Translit=
+10	ยุบ	ยุบ	VERB	_	_	5	advcl	_	SpaceAfter=No|Gloss=|Translit=
+11	สภา	สภา	NOUN	_	_	10	obj	_	SpaceAfter=No|Gloss=|Translit=
+12	สำเร็จ	สำเร็จ	VERB	_	_	10	advcl	_	Gloss=|Translit=
+
+# sent_id = Thai_Political_People_Party_News15_5
+# text = มองสอดคล้องกับที่เรียกร้องมาตลอด 2 เดือน
+# text_en = 
+# tokenised_text = มอง สอดคล้อง กับ ที่ เรียกร้อง มา ตลอด 2 เดือน
+# tokenised_translit =
+# tokenised_transcript =
+# phrase_type = sentence
+# sentence_position = 
+# genre = political_news_article
+# source = https://www.matichon.co.th/politics/news_5352797
+# year = 2025
+1	มอง	มอง	VERB	_	_	0	root	_	SpaceAfter=No|Gloss=look|Translit=
+2	สอดคล้อง	สอดคล้อง	VERB	_	_	1	ccomp	_	SpaceAfter=No|Gloss=|Translit=
+3	กับ	กับ	ADP	_	_	5	mark	_	SpaceAfter=No|Gloss=with|Translit=
+4	ที่	ที่	PRON	_	_	5	nsubj	_	SpaceAfter=No|Gloss=|Translit=
+5	เรียกร้อง	เรียกร้อง	VERB	_	_	2	advcl	_	SpaceAfter=No|Gloss=|Translit=
+6	มา	มา	ADV	_	_	5	advmod	_	SpaceAfter=No|Gloss=|Translit=
+7	ตลอด	ตลอด	VERB	_	_	5	advcl	_	Gloss=|Translit=
+8	2	2	NUM	_	_	7	obl	_	Gloss=2|Translit=
+9	เดือน	เดือน	NOUN	_	NounType=Clf	8	clf	_	Gloss=month|Translit=
+
+# sent_id = Thai_Political_People_Party_News15_6
+# text = ชี้ เป็นอำนาจประธานสภา วินิจฉัยเลือกนายกฯ คนใหม่ต้องชะลอหรือไม่
+# text_en = 
+# tokenised_text = ชี้ เป็น อำนาจ ประธาน สภา วินิจฉัย เลือก นายก ฯ คน ใหม่ ต้อง ชะลอ หรือ ไม่
+# tokenised_translit =
+# tokenised_transcript =
+# phrase_type = sentence
+# sentence_position = 
+# genre = political_news_article
+# source = https://www.matichon.co.th/politics/news_5352797
+# year = 2025
+1	ชี้	ชี้	VERB	_	_	0	root	_	Gloss=|Translit=
+2	เป็น	เป็น	AUX	_	_	3	cop	_	SpaceAfter=No|Gloss=|Translit=
+3	อำนาจ	อำนาจ	NOUN	_	_	1	ccomp	_	SpaceAfter=No|Gloss=power|Translit=
+4	ประธาน	ประธาน	NOUN	_	_	3	nmod	_	SpaceAfter=No|Gloss=|Translit=
+5	สภา	สภา	NOUN	_	_	4	nmod	_	Gloss=|Translit=
+6	วินิจฉัย	วินิจฉัย	VERB	_	_	4	acl	_	SpaceAfter=No|Gloss=|Translit=
+7	เลือก	เลือก	VERB	_	_	6	xcomp	_	SpaceAfter=No|Gloss=choose|Translit=
+8	นายก	นายก	NOUN	_	_	7	obj	_	SpaceAfter=No|Gloss=|Translit=
+9	ฯ	_	PUNCT	_	_	8	nmod	_	Gloss=|Translit=
+10	คน	คน	NOUN	_	NounType=Clf	8	clf	_	SpaceAfter=No|Gloss=person|Translit=
+11	ใหม่	ใหม่	VERB	_	_	10	acl	_	SpaceAfter=No|Gloss=new|Translit=
+12	ต้อง	ต้อง	VERB	_	_	6	advcl	_	SpaceAfter=No|Gloss=must|Translit=
+13	ชะลอ	ชะลอ	VERB	_	_	12	xcomp	_	SpaceAfter=No|Gloss=|Translit=
+14	หรือ	หรือ	CCONJ	_	_	15	cc	_	SpaceAfter=No|Gloss=or|Translit=
+15	ไม่	ไม่	ADV	_	_	12	conj	_	Gloss=not|Translit=
+
+# sent_id = Thai_Political_People_Party_News15_7
+# text = บอก ไม่เห็นด้วยฟ้อง ‘ภูมิธรรม’ ม.112
+# text_en = 
+# tokenised_text = บอก ไม่ เห็น ด้วย ฟ้อง ‘ ภูมิธรรม ’ ม. 112
+# tokenised_translit =
+# tokenised_transcript =
+# phrase_type = sentence
+# sentence_position = 
+# genre = political_news_article
+# source = https://www.matichon.co.th/politics/news_5352797
+# year = 2025
+1	บอก	บอก	VERB	_	_	0	root	_	Gloss=tell|Translit=
+2	ไม่	ไม่	ADV	_	_	3	advmod	_	SpaceAfter=No|Gloss=not|Translit=
+3	เห็น	เห็น	VERB	_	_	1	ccomp	_	SpaceAfter=No|Gloss=see|Translit=
+4	ด้วย	ด้วย	ADV	_	_	3	advmod	_	SpaceAfter=No|Gloss=also|Translit=
+5	ฟ้อง	ฟ้อง	VERB	_	_	3	ccomp	_	Gloss=|Translit=
+6	‘	‘	PUNCT	_	_	7	punct	_	SpaceAfter=No
+7	ภูมิธรรม	ภูมิธรรม	PROPN	_	_	5	obj	_	SpaceAfter=No|Gloss=|Translit=
+8	’	’	PUNCT	_	_	7	punct	_	_
+9	ม.	ม.	NOUN	_	Abbr=Yes	5	obl	_	Gloss=|Translit=
+10	112	112	NUM	_	_	9	nmod	_	Gloss=112|Translit=
+
+# sent_id = Thai_Political_People_Party_News15_8
+# text = เมื่อวันที่ 3 กันยายน นายพริษฐ์ วัชรสินธุ ส.ส.บัญชีรายชื่อและโฆษกพรรคประชาชน กล่าวว่า พรรคประชาชนยืนยันมาตลอด 2 เดือนที่ผ่านมา ว่าการยุบสภา เลือกตั้งใหม่ และคืนอำนาจให้กับประชาชน เป็นทางออกที่ดีที่สุดสำหรับประเทศ เพื่อให้เรามีรัฐบาลที่มีเสถียรภาพ ความชอบธรรมทางการเมือง และศักยภาพในการสรรหาทีมบริหารที่มีความสามารถ ในการมาแก้ปัญหาสำคัญของประเทศ ทั้งด้านเศรษฐกิจ สังคม และความมั่นคง
+# text_en = 
+# tokenised_text = เมื่อ วัน ที่ 3 กันยายน นาย พริษฐ์ วัชรสินธุ ส.ส. บัญชี ราย ชื่อ และ โฆษก พรรค ประชาชน กล่าว ว่า พรรค ประชาชน ยืนยัน มา ตลอด 2 เดือน ที่ ผ่าน มา ว่า การ ยุบ สภา เลือกตั้ง ใหม่ และ คืน อำนาจ ให้ กับ ประชาชน เป็น ทางออก ที่ ดี ที่ สุด สำหรับ ประเทศ เพื่อ ให้ เรา มี รัฐบาล ที่ มี เสถียรภาพ ความ ชอบธรรม ทาง การเมือง และ ศักยภาพ ใน การ สรรหา ทีม บริหาร ที่ มี ความ สามารถ ใน การ มา แก้ ปัญหา สำคัญ ของ ประเทศ ทั้ง ด้าน เศรษฐกิจ สังคม และ ความ มั่นคง
+# tokenised_translit =
+# tokenised_transcript =
+# phrase_type = sentence
+# sentence_position = 
+# genre = political_news_article
+# source = https://www.matichon.co.th/politics/news_5352797
+# year = 2025
+1	เมื่อ	เมื่อ	NOUN	_	_	17	obl	_	SpaceAfter=No|Gloss=|Translit=
+2	วัน	วัน	NOUN	_	_	1	nmod	_	SpaceAfter=No|Gloss=day|Translit=
+3	ที่	ที่	NOUN	_	_	2	nmod	_	Gloss=|Translit=
+4	3	3	NUM	_	_	3	nmod	_	Gloss=3|Translit=
+5	กันยายน	กันยายน	NOUN	_	_	2	nmod	_	Gloss=September|Translit=
+6	นาย	นาย	NOUN	_	_	17	nsubj	_	SpaceAfter=No|Gloss=Mister|Translit=
+7	พริษฐ์	พริษฐ์	PROPN	_	_	6	nmod	_	Gloss=|Translit=
+8	วัชรสินธุ	วัชรสินธุ	PROPN	_	_	7	flat	_	Gloss=|Translit=
+9	ส.ส.	_	NOUN	_	_	6	appos	_	SpaceAfter=No|Gloss=|Translit=
+10	บัญชี	บัญชี	NOUN	_	_	9	nmod	_	SpaceAfter=No|Gloss=|Translit=
+11	ราย	ราย	NOUN	_	_	10	nmod	_	SpaceAfter=No|Gloss=|Translit=
+12	ชื่อ	ชื่อ	NOUN	_	_	11	nmod	_	SpaceAfter=No|Gloss=name|Translit=
+13	และ	และ	CCONJ	_	_	14	cc	_	SpaceAfter=No|Gloss=and|Translit=
+14	โฆษก	โฆษก	NOUN	_	_	9	conj	_	SpaceAfter=No|Gloss=|Translit=
+15	พรรค	พรรค	NOUN	_	_	14	nmod	_	SpaceAfter=No|Gloss=party|Translit=
+16	ประชาชน	ประชาชน	NOUN	_	ExtPos=PROPN	15	nmod	_	Gloss=population|Translit=
+17	กล่าว	กล่าว	VERB	_	_	0	root	_	SpaceAfter=No|Gloss=say|Translit=
+18	ว่า	ว่า	SCONJ	_	_	21	mark	_	Gloss=that(COMP)|Translit=
+19	พรรค	พรรค	NOUN	_	_	21	nsubj	_	SpaceAfter=No|Gloss=party|Translit=
+20	ประชาชน	ประชาชน	NOUN	_	ExtPos=PROPN	19	nmod	_	SpaceAfter=No|Gloss=population|Translit=
+21	ยืนยัน	ยืนยัน	VERB	_	_	17	ccomp	_	SpaceAfter=No|Gloss=insist|Translit=
+22	มา	มา	ADV	_	_	21	advmod	_	SpaceAfter=No|Gloss=|Translit=
+23	ตลอด	ตลอด	VERB	_	_	21	advcl	_	Gloss=|Translit=
+24	2	2	NUM	_	_	23	obl	_	Gloss=2|Translit=
+25	เดือน	เดือน	NOUN	_	NounType=Clf	24	clf	_	SpaceAfter=No|Gloss=month|Translit=
+26	ที่	ที่	PRON	_	_	27	nsubj	_	SpaceAfter=No|Gloss=that(REL)|Translit=
+27	ผ่าน	ผ่าน	VERB	_	_	24	acl:relcl	_	SpaceAfter=No|Gloss=pass|Translit=
+28	มา	มา	VERB	_	_	27	compound:svc	_	Gloss=come|Translit=
+29	ว่า	ว่า	SCONJ	_	_	42	mark	_	SpaceAfter=No|Gloss=that(COMP)|Translit=
+30	การ	การ	NOUN	_	NounType=Nmlz	42	nsubj	_	SpaceAfter=No|Gloss=|Translit=
+31	ยุบ	ยุบ	VERB	_	_	30	acl	_	SpaceAfter=No|Gloss=|Translit=
+32	สภา	สภา	NOUN	_	_	31	obj	_	Gloss=|Translit=
+33	เลือกตั้ง	เลือกตั้ง	VERB	_	_	31	advcl	_	SpaceAfter=No|Gloss=|Translit=
+34	ใหม่	ใหม่	ADV	_	_	33	advmod	_	Gloss=new|Translit=
+35	และ	และ	CCONJ	_	_	36	cc	_	SpaceAfter=No|Gloss=and|Translit=
+36	คืน	คืน	VERB	_	_	33	conj	_	SpaceAfter=No|Gloss=|Translit=
+37	อำนาจ	อำนาจ	NOUN	_	_	36	obj	_	SpaceAfter=No|Gloss=power|Translit=
+38	ให้	ให้	VERB	_	_	36	compound:svc	_	SpaceAfter=No|Gloss=give|Translit=
+39	กับ	กับ	ADP	_	_	40	case	_	SpaceAfter=No|Gloss=with|Translit=
+40	ประชาชน	ประชาชน	NOUN	_	_	38	obl	_	Gloss=population|Translit=
+41	เป็น	เป็น	AUX	_	_	42	cop	_	SpaceAfter=No|Gloss=be|Translit=
+42	ทางออก	ทางออก	NOUN	_	_	21	ccomp	_	SpaceAfter=No|Gloss=exit|Translit=
+43	ที่	ที่	PRON	_	_	44	nsubj	_	SpaceAfter=No|Gloss=that(REL)|Translit=
+44	ดี	ดี	VERB	_	_	42	acl:relcl	_	SpaceAfter=No|Gloss=good|Translit=
+45	ที่	ที่	SCONJ	_	_	46	mark	_	SpaceAfter=No|Gloss=that(COMP)|Translit=
+46	สุด	สุด	VERB	_	_	44	advcl	_	SpaceAfter=No|Gloss=|Translit=
+47	สำหรับ	สำหรับ	ADP	_	_	48	case	_	SpaceAfter=No|Gloss=for|Translit=
+48	ประเทศ	ประเทศ	NOUN	_	_	44	obl	_	Gloss=country|Translit=
+49	เพื่อ	เพื่อ	ADP	_	_	50	mark	_	SpaceAfter=No|Gloss=for|Translit=
+50	ให้	ให้	VERB	_	_	42	obl	_	SpaceAfter=No|Gloss=allow|Translit=
+51	เรา	เรา	PRON	_	Person=1|PronType=Prs	50	obj	_	SpaceAfter=No|Gloss=we|Translit=
+52	มี	มี	VERB	_	_	50	compound:svc	_	SpaceAfter=No|Gloss=have|Translit=
+53	รัฐบาล	รัฐบาล	NOUN	_	_	52	obl:arg	_	SpaceAfter=No|Gloss=government|Translit=
+54	ที่	ที่	PRON	_	_	55	nsubj	_	SpaceAfter=No|Gloss=that(REL)|Translit=
+55	มี	มี	VERB	_	_	53	acl:relcl	_	SpaceAfter=No|Gloss=have|Translit=
+56	เสถียรภาพ	เสถียรภาพ	NOUN	_	_	55	obl:arg	_	Gloss=|Translit=
+57	ความ	ความ	NOUN	_	NounType=Nmlz	56	conj	_	SpaceAfter=No|Gloss=|Translit=
+58	ชอบธรรม	ชอบธรรม	VERB	_	_	57	acl	_	SpaceAfter=No|Gloss=|Translit=
+59	ทาง	ทาง	NOUN	_	_	57	nmod	_	SpaceAfter=No|Gloss=|Translit=
+60	การเมือง	การเมือง	NOUN	_	_	59	nmod	_	Gloss=|Translit=
+61	และ	และ	CCONJ	_	_	62	cc	_	SpaceAfter=No|Gloss=and|Translit=
+62	ศักยภาพ	ศักยภาพ	NOUN	_	_	56	conj	_	SpaceAfter=No|Gloss=potential|Translit=
+63	ใน	ใน	ADP	_	_	64	case	_	SpaceAfter=No|Gloss=in|Translit=
+64	การ	การ	NOUN	_	NounType=Nmlz	62	nmod	_	SpaceAfter=No|Gloss=|Translit=
+65	สรรหา	สรรหา	VERB	_	_	64	acl	_	SpaceAfter=No|Gloss=|Translit=
+66	ทีม	ทีม	NOUN	_	Foreign=Yes	65	obj	_	SpaceAfter=No|Gloss=team|Translit=
+67	บริหาร	บริหาร	VERB	_	_	66	acl	_	SpaceAfter=No|Gloss=|Translit=
+68	ที่	ที่	PRON	_	_	69	nsubj	_	SpaceAfter=No|Gloss=that(REL)|Translit=
+69	มี	มี	VERB	_	_	66	acl:relcl	_	SpaceAfter=No|Gloss=have|Translit=
+70	ความ	ความ	NOUN	_	NounType=Nmlz	69	obl:arg	_	SpaceAfter=No|Gloss=|Translit=
+71	สามารถ	สามารถ	VERB	_	_	70	acl	_	Gloss=be able|Translit=
+72	ใน	ใน	ADP	_	_	73	case	_	SpaceAfter=No|Gloss=in|Translit=
+73	การ	การ	NOUN	_	NounType=Nmlz	70	nmod	_	SpaceAfter=No|Gloss=|Translit=
+74	มา	มา	VERB	_	_	73	acl	_	SpaceAfter=No|Gloss=come|Translit=
+75	แก้	แก้	VERB	_	_	74	compound:svc	_	SpaceAfter=No|Gloss=solve|Translit=
+76	ปัญหา	ปัญหา	NOUN	_	_	75	obj	_	SpaceAfter=No|Gloss=problem|Translit=
+77	สำคัญ	สำคัญ	VERB	_	_	76	acl	_	SpaceAfter=No|Gloss=important|Translit=
+78	ของ	ของ	ADP	_	_	79	case	_	SpaceAfter=No|Gloss=of|Translit=
+79	ประเทศ	ประเทศ	NOUN	_	_	76	nmod	_	Gloss=country|Translit=
+80	ทั้ง	ทั้ง	ADP	_	_	81	case	_	SpaceAfter=No|Gloss=both|Translit=
+81	ด้าน	ด้าน	NOUN	_	_	76	nmod	_	SpaceAfter=No|Gloss=side|Translit=
+82	เศรษฐกิจ	เศรษฐกิจ	NOUN	_	_	81	nmod	_	Gloss=economy|Translit=
+83	สังคม	สังคม	NOUN	_	_	82	conj	_	SpaceAfter=No|Gloss=society|Translit=
+84	และ	และ	CCONJ	_	_	85	cc	_	SpaceAfter=No|Gloss=and|Translit=
+85	ความ	ความ	NOUN	_	NounType=Nmlz	82	conj	_	SpaceAfter=No|Gloss=|Translit=
+86	มั่นคง	มั่นคง	VERB	_	_	85	acl	_	Gloss=|Translit=
+
+# sent_id = Thai_Political_People_Party_News15_9
+# text = ในเมื่อ นายภูมิธรรม เวชยชัย ผู้ปฏิบัติหน้าที่แทนนายกรัฐมนตรี ซึ่งมีอำนาจยุบสภา ยังคงยืนยันว่ายังไม่ได้มีการดำเนินการยุบสภาแต่อย่างใด จนถึงวินาทีสุดท้าย
+# text_en = 
+# tokenised_text = ใน เมื่อ นาย ภูมิธรรม เวชยชัย ผู้ ปฏิบัติ หน้าที่ แทน นายก รัฐมนตรี ซึ่ง มี อำนาจ ยุบ สภา ยัง คง ยืนยัน ว่า ยัง ไม่ ได้ มี การ ดำเนิน การ ยุบ สภา แต่ อย่าง ใด จน ถึง วินาที สุดท้าย
+# tokenised_translit =
+# tokenised_transcript =
+# phrase_type = sentence
+# sentence_position = 
+# genre = political_news_article
+# source = https://www.matichon.co.th/politics/news_5352797
+# year = 2025
+1	ใน	ใน	ADP	_	_	2	case	_	SpaceAfter=No|Gloss=in|Translit=
+2	เมื่อ	เมื่อ	NOUN	_	_	19	obl	_	Gloss=|Translit=
+3	นาย	นาย	NOUN	_	_	19	nsubj	_	SpaceAfter=No|Gloss=Mister|Translit=
+4	ภูมิธรรม	ภูมิธรรม	PROPN	_	_	3	nmod	_	Gloss=|Translit=
+5	เวชยชัย	เวชยชัย	PROPN	_	_	4	flat	_	Gloss=|Translit=
+6	ผู้	ผู้	NOUN	_	_	3	appos	_	SpaceAfter=No|Gloss=person|Translit=
+7	ปฏิบัติ	ปฏิบัติ	VERB	_	_	6	acl	_	SpaceAfter=No|Gloss=perform|Translit=
+8	หน้าที่	หน้าที่	NOUN	_	_	7	obj	_	SpaceAfter=No|Gloss=|Translit=
+9	แทน	แทน	VERB	_	_	7	compound:svc	_	SpaceAfter=No|Gloss=|Translit=
+10	นายก	นายก	NOUN	_	_	9	obj	_	SpaceAfter=No|Gloss=|Translit=
+11	รัฐมนตรี	รัฐมนตรี	NOUN	_	_	10	nmod	_	Gloss=|Translit=
+12	ซึ่ง	ซึ่ง	PRON	_	_	13	nsubj	_	SpaceAfter=No|Gloss=that(REL)|Translit=
+13	มี	มี	VERB	_	_	6	acl:relcl	_	SpaceAfter=No|Gloss=have|Translit=
+14	อำนาจ	อำนาจ	NOUN	_	_	13	obl:arg	_	SpaceAfter=No|Gloss=power|Translit=
+15	ยุบ	ยุบ	VERB	_	_	14	acl	_	SpaceAfter=No|Gloss=|Translit=
+16	สภา	สภา	NOUN	_	_	15	obj	_	Gloss=|Translit=
+17	ยัง	ยัง	ADV	_	_	19	advmod	_	SpaceAfter=No|Gloss=still|Translit=
+18	คง	คง	ADV	_	_	19	advmod	_	SpaceAfter=No|Gloss=|Translit=
+19	ยืนยัน	ยืนยัน	VERB	_	_	0	root	_	SpaceAfter=No|Gloss=insist|Translit=
+20	ว่า	ว่า	SCONJ	_	_	23	mark	_	SpaceAfter=No|Gloss=that(COMP)|Translit=
+21	ยัง	ยัง	ADV	_	_	23	advmod	_	SpaceAfter=No|Gloss=still|Translit=
+22	ไม่	ไม่	ADV	_	_	23	advmod	_	SpaceAfter=No|Gloss=not|Translit=
+23	ได้	ได้	VERB	_	_	19	ccomp	_	SpaceAfter=No|Gloss=|Translit=
+24	มี	มี	VERB	_	_	23	xcomp	_	SpaceAfter=No|Gloss=have|Translit=
+25	การ	การ	NOUN	_	NounType=Nmlz	24	nsubj	_	SpaceAfter=No|Gloss=|Translit=
+26	ดำเนิน	ดำเนิน	VERB	_	_	25	acl	_	SpaceAfter=No|Gloss=|Translit=
+27	การ	การ	NOUN	_	_	26	obj	_	SpaceAfter=No|Gloss=|Translit=
+28	ยุบ	ยุบ	VERB	_	_	27	acl	_	SpaceAfter=No|Gloss=|Translit=
+29	สภา	สภา	NOUN	_	_	28	obj	_	SpaceAfter=No|Gloss=|Translit=
+30	แต่	แต่	ADP	_	_	31	case	_	SpaceAfter=No|Gloss=|Translit=
+31	อย่าง	อย่าง	NOUN	_	_	23	obl	_	SpaceAfter=No|Gloss=|Translit=
+32	ใด	ใด	ADJ	_	_	31	amod	_	Gloss=|Translit=
+33	จน	จน	ADP	_	_	34	mark	_	SpaceAfter=No|Gloss=until|Translit=
+34	ถึง	ถึง	VERB	_	_	23	advcl	_	SpaceAfter=No|Gloss=|Translit=
+35	วินาที	วินาที	NOUN	_	_	34	obl:arg	_	SpaceAfter=No|Gloss=second|Translit=
+36	สุด	สุด	VERB	_	_	35	acl	_	SpaceAfter=No|Gloss=|Translit=
+37	ท้าย	ท้าย	NOUN	_	_	36	obl:arg	_	Gloss=end|Translit=
+
+# sent_id = Thai_Political_People_Party_News15_10
+# text = ทางพรรคประชาชนจึงตัดสินใจเดินหน้าแถลงจุดยืนเรื่องการใช้กระบวนการเลือกนายกฯคนใหม่ เพื่อหานายกฯมายุบสภาตามเงื่อนไข 3 ข้อของพรรคประชาชน
+# text_en = 
+# tokenised_text = ทาง พรรค ประชาชน จึง ตัดสินใจ เดิน หน้า แถลง จุดยืน เรื่อง การ ใช้ กระบวนการ เลือก นายก ฯ คน ใหม่ เพื่อ หา นายก ฯ มา ยุบ สภา ตาม เงื่อนไข 3 ข้อ ของ พรรค ประชาชน
+# tokenised_translit =
+# tokenised_transcript =
+# phrase_type = sentence
+# sentence_position = 
+# genre = political_news_article
+# source = https://www.matichon.co.th/politics/news_5352797
+# year = 2025
+1	ทาง	ทาง	NOUN	_	_	5	nsubj	_	SpaceAfter=No|Gloss=|Translit=
+2	พรรค	พรรค	NOUN	_	_	1	nmod	_	SpaceAfter=No|Gloss=party|Translit=
+3	ประชาชน	ประชาชน	NOUN	_	ExtPos=PROPN	2	nmod	_	SpaceAfter=No|Gloss=population|Translit=
+4	จึง	จึง	ADV	_	_	5	advmod	_	SpaceAfter=No|Gloss=|Translit=
+5	ตัดสินใจ	ตัดสินใจ	VERB	_	_	0	root	_	SpaceAfter=No|Gloss=decide|Translit=
+6	เดิน	เดิน	VERB	_	_	5	xcomp	_	SpaceAfter=No|Gloss=walk|Translit=
+7	หน้า	หน้า	ADV	_	_	6	advmod	_	SpaceAfter=No|Gloss=|Translit=
+8	แถลง	แถลง	VERB	_	_	6	advcl	_	SpaceAfter=No|Gloss=|Translit=
+9	จุดยืน	จุดยืน	NOUN	_	_	8	obj	_	SpaceAfter=No|Gloss=|Translit=
+10	เรื่อง	เรื่อง	NOUN	_	_	9	nmod	_	SpaceAfter=No|Gloss=|Translit=
+11	การ	การ	NOUN	_	NounType=Nmlz	10	nmod	_	SpaceAfter=No|Gloss=|Translit=
+12	ใช้	ใช้	VERB	_	_	11	acl	_	SpaceAfter=No|Gloss=use|Translit=
+13	กระบวนการ	กระบวนการ	NOUN	_	_	12	obj	_	SpaceAfter=No|Gloss=|Translit=
+14	เลือก	เลือก	VERB	_	_	12	advcl	_	SpaceAfter=No|Gloss=choose|Translit=
+15	นายก	นายก	NOUN	_	_	14	obj	_	SpaceAfter=No|Gloss=|Translit=
+16	ฯ	_	PUNCT	_	_	15	nmod	_	SpaceAfter=No|Gloss=|Translit=
+17	คน	คน	NOUN	_	NounType=Clf	15	clf	_	SpaceAfter=No|Gloss=person|Translit=
+18	ใหม่	ใหม่	VERB	_	_	17	acl	_	SpaceAfter=No|Gloss=new|Translit=
+19	เพื่อ	เพื่อ	ADP	_	_	20	mark	_	SpaceAfter=No|Gloss=for|Translit=
+20	หา	หา	VERB	_	_	14	advcl	_	SpaceAfter=No|Gloss=find|Translit=
+21	นายก	นายก	NOUN	_	_	20	obj	_	SpaceAfter=No|Gloss=|Translit=
+22	ฯ	_	PUNCT	_	_	21	nmod	_	SpaceAfter=No|Gloss=|Translit=
+23	มา	มา	VERB	_	_	20	compound:svc	_	SpaceAfter=No|Gloss=come|Translit=
+24	ยุบ	ยุบ	VERB	_	_	23	compound:svc	_	SpaceAfter=No|Gloss=|Translit=
+25	สภา	สภา	NOUN	_	_	24	obj	_	SpaceAfter=No|Gloss=|Translit=
+26	ตาม	ตาม	ADP	_	_	27	case	_	SpaceAfter=No|Gloss=following|Translit=
+27	เงื่อนไข	เงื่อนไข	NOUN	_	_	24	obl	_	SpaceAfter=No|Gloss=condition|Translit=
+28	3	3	NUM	_	_	27	nummod	_	SpaceAfter=No|Gloss=3|Translit=
+29	ข้อ	ข้อ	NOUN	_	NounType=Clf	28	clf	_	SpaceAfter=No|Gloss=|Translit=
+30	ของ	ของ	ADP	_	_	31	case	_	SpaceAfter=No|Gloss=of|Translit=
+31	พรรค	พรรค	NOUN	_	_	27	nmod	_	SpaceAfter=No|Gloss=party|Translit=
+32	ประชาชน	ประชาชน	NOUN	_	ExtPos=PROPN	31	nmod	_	SpaceAfter=No|Gloss=population|Translit=
+
+# sent_id = Thai_Political_People_Party_News15_11
+# text = หลังจากการแถลงของพรรคประชาชน นายภูมิธรรมได้ออกมาแถลงโดยให้สัมภาษณ์เป็นครั้งแรกว่าได้ดำเนินการทูลเกล้าฯยุบสภาเป็นที่เรียบร้อยแล้ว
+# text_en = 
+# tokenised_text = หลังจาก การ แถลง ของ พรรค ประชาชน นาย ภูมิธรรม ได้ ออก มา แถลง โดย ให้ สัมภาษณ์ เป็น ครั้ง แรก ว่า ได้ ดำเนิน การ ทูลเกล้า ฯ ยุบ สภา เป็น ที่ เรียบร้อย แล้ว
+# tokenised_translit =
+# tokenised_transcript =
+# phrase_type = sentence
+# sentence_position = 
+# genre = political_news_article
+# source = https://www.matichon.co.th/politics/news_5352797
+# year = 2025
+1	หลังจาก	หลังจาก	ADP	_	_	2	case	_	SpaceAfter=No|Gloss=after|Translit=
+2	การ	การ	NOUN	_	NounType=Nmlz	9	obl	_	SpaceAfter=No|Gloss=of|Translit=
+3	แถลง	แถลง	VERB	_	_	2	acl	_	SpaceAfter=No|Gloss=|Translit=
+4	ของ	ของ	ADP	_	_	5	case	_	SpaceAfter=No|Gloss=of|Translit=
+5	พรรค	พรรค	NOUN	_	_	2	nmod	_	SpaceAfter=No|Gloss=party|Translit=
+6	ประชาชน	ประชาชน	NOUN	_	ExtPos=PROPN	5	nmod	_	Gloss=population|Translit=
+7	นาย	นาย	NOUN	_	_	9	nmod	_	SpaceAfter=No|Gloss=Mister|Translit=
+8	ภูมิธรรม	ภูมิธรรม	PROPN	_	_	7	nmod	_	SpaceAfter=No|Gloss=|Translit=
+9	ได้	ได้	VERB	_	_	0	root	_	SpaceAfter=No|Gloss=|Translit=
+10	ออก	ออก	VERB	_	_	9	xcomp	_	SpaceAfter=No|Gloss=|Translit=
+11	มา	มา	VERB	_	_	10	compound:svc	_	SpaceAfter=No|Gloss=come|Translit=
+12	แถลง	แถลง	VERB	_	_	11	compound:svc	_	SpaceAfter=No|Gloss=|Translit=
+13	โดย	โดย	ADP	_	_	14	mark	_	SpaceAfter=No|Gloss=by|Translit=
+14	ให้	ให้	VERB	_	_	12	advcl	_	SpaceAfter=No|Gloss=give|Translit=
+15	สัมภาษณ์	สัมภาษณ์	VERB	_	_	14	compound:svc	_	SpaceAfter=No|Gloss=interview|Translit=
+16	เป็น	เป็น	ADP	_	_	17	case	_	SpaceAfter=No|Gloss=be|Translit=
+17	ครั้ง	ครั้ง	NOUN	_	_	15	obl	_	SpaceAfter=No|Gloss=|Translit=
+18	แรก	แรก	ADJ	_	_	17	amod	_	SpaceAfter=No|Gloss=first|Translit=
+19	ว่า	ว่า	SCONJ	_	_	20	mark	_	SpaceAfter=No|Gloss=that(COMP)|Translit=
+20	ได้	ได้	VERB	_	_	15	ccomp	_	SpaceAfter=No|Gloss=|Translit=
+21	ดำเนิน	ดำเนิน	VERB	_	_	20	xcomp	_	SpaceAfter=No|Gloss=|Translit=
+22	การ	การ	NOUN	_	NounType=Nmlz	21	obj	_	SpaceAfter=No|Gloss=|Translit=
+23	ทูลเกล้า	ทูลเกล้า	VERB	_	Polite=Form	22	acl	_	SpaceAfter=No|Gloss=|Translit=
+24	ฯ	_	SYM	_	_	23	flat	_	SpaceAfter=No|Gloss=|Translit=
+25	ยุบ	ยุบ	VERB	_	_	21	advcl	_	SpaceAfter=No|Gloss=|Translit=
+26	สภา	สภา	NOUN	_	_	25	obj	_	SpaceAfter=No|Gloss=|Translit=
+27	เป็น	เป็น	ADP	_	_	29	mark	_	SpaceAfter=No|Gloss=be|Translit=
+28	ที่	ที่	PRON	_	_	29	nsubj	_	SpaceAfter=No|Gloss=that|Translit=
+29	เรียบร้อย	เรียบร้อย	VERB	_	_	20	advcl	_	SpaceAfter=No|Gloss=|Translit=
+30	แล้ว	แล้ว	ADV	_	_	29	advmod	_	Gloss=|Translit=
+
+# sent_id = Thai_Political_People_Party_News15_12
+# text = ทางพรรคประชาชนยินดีหากการยุบสภาสำเร็จและอำนาจกลับคืนสู่ประชาชนตามที่เราได้เรียกร้องมาโดยตลอด 
+# text_en = 
+# tokenised_text = ทาง พรรค ประชาชน ยินดี หาก การ ยุบ สภา สำเร็จ และ อำนาจ กลับ คืน สู่ ประชาชน ตาม ที่ เรา ได้ เรียกร้อง มา โดย ตลอด
+# tokenised_translit =
+# tokenised_transcript =
+# phrase_type = sentence
+# sentence_position = 
+# genre = political_news_article
+# source = https://www.matichon.co.th/politics/news_5352797
+# year = 2025
+1	ทาง	ทาง	NOUN	_	_	4	nsubj	_	SpaceAfter=No|Gloss=|Translit=
+2	พรรค	พรรค	NOUN	_	_	1	nmod	_	SpaceAfter=No|Gloss=party|Translit=
+3	ประชาชน	ประชาชน	NOUN	_	ExtPos=PROPN	2	nmod	_	SpaceAfter=No|Gloss=population|Translit=
+4	ยินดี	ยินดี	VERB	_	_	0	root	_	SpaceAfter=No|Gloss=|Translit=
+5	หาก	หาก	ADP	_	_	9	mark	_	SpaceAfter=No|Gloss=if|Translit=
+6	การ	การ	NOUN	_	NounType=Nmlz	9	nsubj	_	SpaceAfter=No|Gloss=|Translit=
+7	ยุบ	ยุบ	VERB	_	_	6	acl	_	SpaceAfter=No|Gloss=|Translit=
+8	สภา	สภา	NOUN	_	_	7	obj	_	SpaceAfter=No|Gloss=|Translit=
+9	สำเร็จ	สำเร็จ	VERB	_	_	4	advcl	_	SpaceAfter=No|Gloss=|Translit=
+10	และ	และ	CCONJ	_	_	12	cc	_	SpaceAfter=No|Gloss=and|Translit=
+11	อำนาจ	อำนาจ	NOUN	_	_	12	nsubj	_	SpaceAfter=No|Gloss=power|Translit=
+12	กลับ	กลับ	VERB	_	_	9	conj	_	SpaceAfter=No|Gloss=|Translit=
+13	คืน	คืน	VERB	_	_	12	compound:svc	_	SpaceAfter=No|Gloss=return|Translit=
+14	สู่	สู่	ADP	_	_	15	case	_	SpaceAfter=No|Gloss=to|Translit=
+15	ประชาชน	ประชาชน	NOUN	_	_	12	obl	_	SpaceAfter=No|Gloss=population|Translit=
+16	ตาม	ตาม	ADP	_	_	19	mark	_	SpaceAfter=No|Gloss=following|Translit=
+17	ที่	ที่	PRON	_	_	20	obj	_	SpaceAfter=No|Gloss=that|Translit=
+18	เรา	เรา	PRON	_	Person=1|PronType=Prs	19	nsubj	_	SpaceAfter=No|Gloss=we|Translit=
+19	ได้	ได้	VERB	_	_	9	advcl	_	SpaceAfter=No|Gloss=|Translit=
+20	เรียกร้อง	เรียกร้อง	VERB	_	_	19	xcomp	_	SpaceAfter=No|Gloss=|Translit=
+21	มา	มา	ADV	_	_	20	advmod	_	SpaceAfter=No|Gloss=|Translit=
+22	โดย	โดย	ADP	_	_	23	mark	_	SpaceAfter=No|Gloss=|Translit=
+23	ตลอด	ตลอด	VERB	_	_	20	advcl	_	Gloss=|Translit=
+
+# sent_id = Thai_Political_People_Party_News15_13
+# text = และเราพร้อมจะเดินหน้าสู่สนามเลือกตั้ง เพื่อนำเสนอนโยบายและบุคลากรของเรา ในการขอโอกาสจากประชาชนเข้ามาบริหารประเทศ
+# text_en = 
+# tokenised_text = และ เรา พร้อม จะ เดิน หน้า สู่ สนาม เลือกตั้ง เพื่อ นำ เสนอ นโยบาย และ บุคลากร ของ เรา ใน การ ขอ โอกาส จาก ประชาชน เข้า มา บริหาร ประเทศ
+# tokenised_translit =
+# tokenised_transcript =
+# phrase_type = sentence
+# sentence_position = 
+# genre = political_news_article
+# source = https://www.matichon.co.th/politics/news_5352797
+# year = 2025
+1	และ	และ	ADV	_	_	3	advmod	_	SpaceAfter=No|Gloss=and|Translit=
+2	เรา	เรา	PRON	_	Person=1|PronType=Prs	3	nsubj	_	SpaceAfter=No|Gloss=we|Translit=
+3	พร้อม	พร้อม	VERB	_	_	0	root	_	SpaceAfter=No|Gloss=be ready|Translit=
+4	จะ	จะ	ADV	_	_	5	advmod	_	SpaceAfter=No|Gloss=|Translit=
+5	เดิน	เดิน	VERB	_	_	3	xcomp	_	SpaceAfter=No|Gloss=walk|Translit=
+6	หน้า	หน้า	ADV	_	_	5	advmod	_	SpaceAfter=No|Gloss=|Translit=
+7	สู่	สู่	ADP	_	_	8	case	_	SpaceAfter=No|Gloss=to|Translit=
+8	สนาม	สนาม	NOUN	_	_	5	obl	_	SpaceAfter=No|Gloss=|Translit=
+9	เลือกตั้ง	เลือกตั้ง	VERB	_	_	8	acl	_	Gloss=|Translit=
+10	เพื่อ	เพื่อ	ADP	_	_	11	mark	_	SpaceAfter=No|Gloss=for|Translit=
+11	นำ	นำ	VERB	_	_	5	advcl	_	SpaceAfter=No|Gloss=bring|Translit=
+12	เสนอ	เสนอ	VERB	_	_	11	compound:svc	_	SpaceAfter=No|Gloss=offer|Translit=
+13	นโยบาย	นโยบาย	NOUN	_	_	12	obj	_	SpaceAfter=No|Gloss=policy|Translit=
+14	และ	และ	CCONJ	_	_	15	cc	_	SpaceAfter=No|Gloss=and|Translit=
+15	บุคลากร	บุคลากร	NOUN	_	_	13	conj	_	SpaceAfter=No|Gloss=|Translit=
+16	ของ	ของ	ADP	_	_	17	case	_	SpaceAfter=No|Gloss=of|Translit=
+17	เรา	เรา	PRON	_	Person=1|PronType=Prs	15	nmod	_	Gloss=we|Translit=
+18	ใน	ใน	ADP	_	_	19	case	_	SpaceAfter=No|Gloss=in|Translit=
+19	การ	การ	NOUN	_	NounType=Nmlz	12	obl	_	SpaceAfter=No|Gloss=|Translit=
+20	ขอ	ขอ	VERB	_	_	19	acl	_	SpaceAfter=No|Gloss=ask|Translit=
+21	โอกาส	โอกาส	NOUN	_	_	20	obj	_	SpaceAfter=No|Gloss=opportunity|Translit=
+22	จาก	จาก	ADP	_	_	23	case	_	SpaceAfter=No|Gloss=from|Translit=
+23	ประชาชน	ประชาชน	NOUN	_	_	20	obl	_	SpaceAfter=No|Gloss=population|Translit=
+24	เข้า	เข้า	VERB	_	_	20	advcl	_	SpaceAfter=No|Gloss=|Translit=
+25	มา	มา	VERB	_	_	24	compound:svc	_	SpaceAfter=No|Gloss=come|Translit=
+26	บริหาร	บริหาร	VERB	_	_	25	compound:svc	_	SpaceAfter=No|Gloss=|Translit=
+27	ประเทศ	ประเทศ	NOUN	_	_	26	obj	_	Gloss=country|Translit=
+
+# sent_id = Thai_Political_People_Party_News15_14
+# text = หลังจากนี้ กระบวนการพิจารณาให้ความเห็นชอบนายกรัฐมนตรีคนใหม่โดยสภาผู้แทนราษฎร จะต้องชะลอไปก่อนหรือไม่อย่างไร
+# text_en = 
+# tokenised_text = หลังจาก นี้ กระบวนการ พิจารณา ให้ ความ เห็นชอบ นายก รัฐมนตรี คน ใหม่ โดย สภา ผู้ แทน ราษฎร จะ ต้อง ชะลอ ไป ก่อน หรือ ไม่ อย่าง ไร
+# tokenised_translit =
+# tokenised_transcript =
+# phrase_type = sentence
+# sentence_position = 
+# genre = political_news_article
+# source = https://www.matichon.co.th/politics/news_5352797
+# year = 2025
+1	หลังจาก	หลังจาก	ADP	_	_	2	case	_	SpaceAfter=No|Gloss=after|Translit=
+2	นี้	นี้	PRON	_	_	18	obl	_	Gloss=this|Translit=
+3	กระบวนการ	กระบวนการ	NOUN	_	_	18	nsubj	_	SpaceAfter=No|Gloss=|Translit=
+4	พิจารณา	พิจารณา	VERB	_	_	3	acl	_	SpaceAfter=No|Gloss=consider|Translit=
+5	ให้	ให้	VERB	_	_	4	xcomp	_	SpaceAfter=No|Gloss=give|Translit=
+6	ความ	ความ	NOUN	_	NounType=Nmlz	5	obj	_	SpaceAfter=No|Gloss=|Translit=
+7	เห็นชอบ	เห็นชอบ	VERB	_	_	6	acl	_	SpaceAfter=No|Gloss=|Translit=
+8	นายก	นายก	NOUN	_	_	5	iobj	_	SpaceAfter=No|Gloss=|Translit=
+9	รัฐมนตรี	รัฐมนตรี	NOUN	_	_	8	nmod	_	SpaceAfter=No|Gloss=|Translit=
+10	คน	คน	NOUN	_	NounType=Clf	8	clf	_	SpaceAfter=No|Gloss=person|Translit=
+11	ใหม่	ใหม่	VERB	_	_	10	acl	_	SpaceAfter=No|Gloss=|Translit=
+12	โดย	โดย	ADP	_	_	13	case	_	SpaceAfter=No|Gloss=new|Translit=
+13	สภา	สภา	NOUN	_	_	4	obl	_	SpaceAfter=No|Gloss=|Translit=
+14	ผู้	ผู้	NOUN	_	_	13	nmod	_	SpaceAfter=No|Gloss=person|Translit=
+15	แทน	แทน	VERB	_	_	14	acl	_	SpaceAfter=No|Gloss=|Translit=
+16	ราษฎร	ราษฎร	NOUN	_	_	15	obj	_	Gloss=|Translit=
+17	จะ	จะ	ADV	_	_	18	advmod	_	SpaceAfter=No|Gloss=|Translit=
+18	ต้อง	ต้อง	VERB	_	_	0	root	_	SpaceAfter=No|Gloss=must|Translit=
+19	ชะลอ	ชะลอ	VERB	_	_	18	xcomp	_	SpaceAfter=No|Gloss=|Translit=
+20	ไป	ไป	ADV	_	_	19	advmod	_	SpaceAfter=No|Gloss=|Translit=
+21	ก่อน	ก่อน	ADV	_	_	19	advmod	_	SpaceAfter=No|Gloss=|Translit=
+22	หรือ	หรือ	CCONJ	_	_	23	cc	_	SpaceAfter=No|Gloss=or|Translit=
+23	ไม่	ไม่	ADV	_	_	19	conj	_	SpaceAfter=No|Gloss=not|Translit=
+24	อย่าง	อย่าง	NOUN	_	_	19	obl	_	SpaceAfter=No|Gloss=|Translit=
+25	ไร	ไร	ADJ	_	_	24	amod	_	Gloss=|Translit=
+
+# sent_id = Thai_Political_People_Party_News15_15
+# text = พรรคประชาชนเห็นว่าเป็นดุลยพินิจและอำนาจของประธานสภาผู้แทนราษฎร ที่จะต้องดำเนินการให้เป็นไปตามบทบัญญัติในรัฐธรรมนูญและข้อบังคับการประชุมสภา
+# text_en = 
+# tokenised_text = พรรค ประชาชน เห็น ว่า เป็น ดุลยพินิจ และ อำนาจ ของ ประธาน สภา ผู้ แทน ราษฎร ที่ จะ ต้อง ดำเนิน การ ให้ เป็นไป ตาม บท บัญญัติ ใน รัฐธรรมนูญ และ ข้อ บังคับ การ ประชุม สภา
+# tokenised_translit =
+# tokenised_transcript =
+# phrase_type = sentence
+# sentence_position = 
+# genre = political_news_article
+# source = https://www.matichon.co.th/politics/news_5352797
+# year = 2025
+1	พรรค	พรรค	NOUN	_	_	3	nsubj	_	SpaceAfter=No|Gloss=party|Translit=
+2	ประชาชน	ประชาชน	NOUN	_	ExtPos=PROPN	1	nmod	_	SpaceAfter=No|Gloss=population|Translit=
+3	เห็น	เห็น	VERB	_	_	0	root	_	SpaceAfter=No|Gloss=see|Translit=
+4	ว่า	ว่า	SCONJ	_	_	6	mark	_	SpaceAfter=No|Gloss=that(COMP)|Translit=
+5	เป็น	เป็น	AUX	_	_	6	cop	_	SpaceAfter=No|Gloss=be|Translit=
+6	ดุลยพินิจ	ดุลยพินิจ	NOUN	_	_	3	ccomp	_	SpaceAfter=No|Gloss=|Translit=
+7	และ	และ	CCONJ	_	_	8	cc	_	SpaceAfter=No|Gloss=and|Translit=
+8	อำนาจ	อำนาจ	NOUN	_	_	6	conj	_	SpaceAfter=No|Gloss=power|Translit=
+9	ของ	ของ	ADP	_	_	10	case	_	SpaceAfter=No|Gloss=of|Translit=
+10	ประธาน	ประธาน	NOUN	_	_	8	nmod	_	SpaceAfter=No|Gloss=|Translit=
+11	สภา	สภา	NOUN	_	_	10	nmod	_	SpaceAfter=No|Gloss=|Translit=
+12	ผู้	ผู้	NOUN	_	_	11	nmod	_	SpaceAfter=No|Gloss=person|Translit=
+13	แทน	แทน	VERB	_	_	12	acl	_	SpaceAfter=No|Gloss=|Translit=
+14	ราษฎร	ราษฎร	NOUN	_	_	13	obj	_	Gloss=|Translit=
+15	ที่	ที่	PRON	_	_	17	nsubj	_	SpaceAfter=No|Gloss=that(REL)|Translit=
+16	จะ	จะ	ADV	_	_	17	advmod	_	SpaceAfter=No|Gloss=|Translit=
+17	ต้อง	ต้อง	VERB	_	_	10	acl:relcl	_	SpaceAfter=No|Gloss=must|Translit=
+18	ดำเนิน	ดำเนิน	VERB	_	_	17	xcomp	_	SpaceAfter=No|Gloss=|Translit=
+19	การ	การ	NOUN	_	_	18	obj	_	SpaceAfter=No|Gloss=|Translit=
+20	ให้	ให้	VERB	_	_	18	xcomp	_	SpaceAfter=No|Gloss=give|Translit=
+21	เป็นไป	เป็นไป	VERB	_	_	20	compound:svc	_	SpaceAfter=No|Gloss=|Translit=
+22	ตาม	ตาม	ADP	_	_	23	case	_	SpaceAfter=No|Gloss=following|Translit=
+23	บท	บท	NOUN	_	_	21	obl	_	SpaceAfter=No|Gloss=|Translit=
+24	บัญญัติ	บัญญัติ	NOUN	_	_	23	nmod	_	SpaceAfter=No|Gloss=|Translit=
+25	ใน	ใน	ADP	_	_	26	case	_	SpaceAfter=No|Gloss=in|Translit=
+26	รัฐธรรมนูญ	รัฐธรรมนูญ	NOUN	_	_	23	nmod	_	SpaceAfter=No|Gloss=|Translit=
+27	และ	และ	CCONJ	_	_	28	cc	_	SpaceAfter=No|Gloss=and|Translit=
+28	ข้อ	ข้อ	NOUN	_	_	26	conj	_	SpaceAfter=No|Gloss=|Translit=
+29	บังคับ	บังคับ	VERB	_	_	28	acl	_	SpaceAfter=No|Gloss=|Translit=
+30	การ	การ	NOUN	_	NounType=Nmlz	28	nmod	_	SpaceAfter=No|Gloss=|Translit=
+31	ประชุม	ประชุม	VERB	_	_	30	acl	_	SpaceAfter=No|Gloss=|Translit=
+32	สภา	สภา	NOUN	_	_	30	nmod	_	Gloss=|Translit=
+
+# sent_id = Thai_Political_People_Party_News15_16
+# text = นายพริษฐ์กล่าวว่า พรรคประชาชนต้องยืนยันว่าแม้หลายฝ่ายย่อมมีความเห็นทางกฎหมายที่แตกต่างกันได้เรื่องอำนาจในการยุบสภา แต่เราไม่เห็นด้วยกับกรณีที่ นายสุรทิน พิจารณ์ ส.ส.พรรคประชาธิปไตยใหม่ (ปธม.) หรือใครก็ตาม ที่จะเลือกใช้วิธีแจ้งความเอาผิด คุณภูมิธรรม เวชยชัย รักษาการนายกรัฐมนตรี ในความผิดตามมาตรา 112 เกี่ยวกับกรณีดังกล่าว
+# text_en = 
+# tokenised_text = นาย พริษฐ์ กล่าว ว่า พรรค ประชาชน ต้อง ยืนยัน ว่า แม้ หลาย ฝ่าย ย่อม มี ความ เห็น ทาง กฎหมาย ที่ แตกต่าง กัน ได้ เรื่อง อำนาจ ใน การ ยุบ สภา แต่ เรา ไม่ เห็น ด้วย กับ กรณี ที่ นาย สุรทิน พิจารณ์ ส.ส. พรรค ประชาธิปไตย ใหม่ ( ปธม. ) หรือ ใคร ก็ ตาม ที่ จะ เลือก ใช้ วิธี แจ้งความ เอาผิด คุณ ภูมิธรรม เวชยชัย รักษาการ นายก รัฐมนตรี ใน ความ ผิด ตาม มาตรา 112 เกี่ยว กับ กรณี ดัง กล่าว
+# tokenised_translit =
+# tokenised_transcript =
+# phrase_type = sentence
+# sentence_position = 
+# genre = political_news_article
+# source = https://www.matichon.co.th/politics/news_5352797
+# year = 2025
+1	นาย	นาย	NOUN	_	_	3	nsubj	_	SpaceAfter=No|Gloss=Mister|Translit=
+2	พริษฐ์	พริษฐ์	PROPN	_	_	1	nmod	_	SpaceAfter=No|Gloss=|Translit=
+3	กล่าว	กล่าว	VERB	_	_	0	root	_	SpaceAfter=No|Gloss=say|Translit=
+4	ว่า	ว่า	SCONJ	_	_	7	mark	_	Gloss=that(COMP)|Translit=
+5	พรรค	พรรค	NOUN	_	_	7	nsubj	_	SpaceAfter=No|Gloss=party|Translit=
+6	ประชาชน	ประชาชน	NOUN	_	ExtPos=PROPN	5	nmod	_	SpaceAfter=No|Gloss=population|Translit=
+7	ต้อง	ต้อง	VERB	_	_	3	ccomp	_	SpaceAfter=No|Gloss=must|Translit=
+8	ยืนยัน	ยืนยัน	VERB	_	_	7	xcomp	_	SpaceAfter=No|Gloss=insist|Translit=
+9	ว่า	ว่า	SCONJ	_	_	31	mark	_	SpaceAfter=No|Gloss=that(COMP)|Translit=
+10	แม้	แม้	SCONJ	_	_	14	mark	_	SpaceAfter=No|Gloss=|Translit=
+11	หลาย	หลาย	DET	_	_	12	det	_	SpaceAfter=No|Gloss=several|Translit=
+12	ฝ่าย	ฝ่าย	NOUN	_	NounType=Clf	14	nsubj	_	SpaceAfter=No|Gloss=|Translit=
+13	ย่อม	ย่อม	ADV	_	_	14	advmod	_	SpaceAfter=No|Gloss=|Translit=
+14	มี	มี	VERB	_	_	31	advcl	_	SpaceAfter=No|Gloss=have|Translit=
+15	ความเห็น	ความเห็น	NOUN	_	_	14	obl:arg	_	SpaceAfter=No|Gloss=opinion|Translit=
+16	ทาง	ทาง	ADP	_	_	17	case	_	SpaceAfter=No|Gloss=|Translit=
+17	กฎหมาย	กฎหมาย	NOUN	_	_	15	nmod	_	SpaceAfter=No|Gloss=law|Translit=
+18	ที่	ที่	PRON	_	_	19	nsubj	_	SpaceAfter=No|Gloss=that(REL)|Translit=
+19	แตกต่าง	แตกต่าง	VERB	_	_	15	acl:relcl	_	SpaceAfter=No|Gloss=be different|Translit=
+20	กัน	กัน	ADV	_	_	19	advmod	_	SpaceAfter=No|Gloss=|Translit=
+21	ได้	ได้	VERB	_	_	19	advcl	_	SpaceAfter=No|Gloss=|Translit=
+22	เรื่อง	เรื่อง	NOUN	_	_	15	nmod	_	SpaceAfter=No|Gloss=|Translit=
+23	อำนาจ	อำนาจ	NOUN	_	_	22	nmod	_	SpaceAfter=No|Gloss=power|Translit=
+24	ใน	ใน	ADP	_	_	25	case	_	SpaceAfter=No|Gloss=in|Translit=
+25	การ	การ	NOUN	_	NounType=Nmlz	23	nmod	_	SpaceAfter=No|Gloss=|Translit=
+26	ยุบ	ยุบ	VERB	_	_	25	acl	_	SpaceAfter=No|Gloss=|Translit=
+27	สภา	สภา	NOUN	_	_	26	obj	_	SpaceAfter=No|Gloss=|Translit=
+28	แต่	แต่	ADV	_	_	31	advmod	_	SpaceAfter=No|Gloss=but|Translit=
+29	เรา	เรา	PRON	_	Person=1|PronType=Prs	31	nsubj	_	SpaceAfter=No|Gloss=we|Translit=
+30	ไม่	ไม่	ADV	_	_	31	advmod	_	SpaceAfter=No|Gloss=not|Translit=
+31	เห็น	เห็น	VERB	_	_	8	ccomp	_	SpaceAfter=No|Gloss=see|Translit=
+32	ด้วย	ด้วย	ADV	_	_	31	advmod	_	SpaceAfter=No|Gloss=also|Translit=
+33	กับ	กับ	ADP	_	_	34	case	_	SpaceAfter=No|Gloss=with|Translit=
+34	กรณี	กรณี	NOUN	_	_	31	obl	_	SpaceAfter=No|Gloss=case|Translit=
+35	ที่	ที่	PRON	_	_	34	dep	_	Gloss=|Translit=
+36	นาย	นาย	NOUN	_	_	34	nmod	_	SpaceAfter=No|Gloss=Mister|Translit=
+37	สุรทิน	สุรทิน	PROPN	_	_	36	nmod	_	Gloss=|Translit=
+38	พิจารณ์	พิจารณ์	PROPN	_	_	37	flat	_	Gloss=|Translit=
+39	ส.ส.	_	NOUN	_	Abbr=Yes	36	appos	_	SpaceAfter=No|Gloss=|Translit=
+40	พรรค	พรรค	NOUN	_	_	39	nmod	_	SpaceAfter=No|Gloss=party|Translit=
+41	ประชาธิปไตย	ประชาธิปไตย	NOUN	_	ExtPos=PROPN	40	nmod	_	SpaceAfter=No|Gloss=democracy|Translit=
+42	ใหม่	ใหม่	VERB	_	_	41	acl	_	Gloss=new|Translit=
+43	(	(	PUNCT	_	_	44	punct	_	SpaceAfter=No
+44	ปธม.	ปธม.	PROPN	_	Abbr=Yes	41	appos	_	SpaceAfter=No|Gloss=|Translit=
+45	)	)	PUNCT	_	_	44	punct	_	_
+46	หรือ	หรือ	CCONJ	_	_	47	cc	_	SpaceAfter=No|Gloss=or|Translit=
+47	ใคร	ใคร	PRON	_	_	36	conj	_	SpaceAfter=No|Gloss=|Translit=
+48	ก็	ก็	ADP	_	_	49	mark	_	SpaceAfter=No|Gloss=|Translit=
+49	ตาม	ตาม	VERB	_	_	47	acl	_	Gloss=|Translit=
+50	ที่	ที่	PRON	_	_	52	nsubj	_	SpaceAfter=No|Gloss=that(REL)|Translit=
+51	จะ	จะ	ADV	_	_	52	advmod	_	SpaceAfter=No|Gloss=|Translit=
+52	เลือก	เลือก	VERB	_	_	36	acl:relcl	_	SpaceAfter=No|Gloss=choose|Translit=
+53	ใช้	ใช้	VERB	_	_	52	xcomp	_	SpaceAfter=No|Gloss=use|Translit=
+54	วิธี	วิธี	NOUN	_	_	53	obj	_	SpaceAfter=No|Gloss=method|Translit=
+55	แจ้งความ	แจ้งความ	VERB	_	_	54	acl	_	SpaceAfter=No|Gloss=|Translit=
+56	เอาผิด	เอาผิด	VERB	_	_	53	advcl	_	Gloss=|Translit=
+57	คุณ	คุณ	NOUN	_	Polite=Form	56	obj	_	SpaceAfter=No|Gloss=|Translit=
+58	ภูมิธรรม	ภูมิธรรม	PROPN	_	_	57	nmod	_	Gloss=|Translit=
+59	เวชยชัย	เวชยชัย	PROPN	_	_	58	flat	_	Gloss=|Translit=
+60	รักษาการ	รักษาการ	VERB	_	_	57	acl	_	SpaceAfter=No|Gloss=|Translit=
+61	นายก	นายก	NOUN	_	_	60	obl:arg	_	SpaceAfter=No|Gloss=|Translit=
+62	รัฐมนตรี	รัฐมนตรี	NOUN	_	_	61	nmod	_	Gloss=|Translit=
+63	ใน	ใน	ADP	_	_	64	case	_	SpaceAfter=No|Gloss=in|Translit=
+64	ความ	ความ	NOUN	_	NounType=Nmlz	56	obl	_	SpaceAfter=No|Gloss=|Translit=
+65	ผิด	ผิด	VERB	_	_	64	acl	_	SpaceAfter=No|Gloss=be wrong|Translit=
+66	ตาม	ตาม	ADP	_	_	67	case	_	SpaceAfter=No|Gloss=following|Translit=
+67	มาตรา	มาตรา	NOUN	_	_	64	nmod	_	Gloss=|Translit=
+68	112	112	NUM	_	_	67	nmod	_	Gloss=|Translit=
+69	เกี่ยว	เกี่ยว	VERB	_	_	64	acl	_	SpaceAfter=No|Gloss=|Translit=
+70	กับ	กับ	ADP	_	_	71	case	_	SpaceAfter=No|Gloss=with|Translit=
+71	กรณี	กรณี	NOUN	_	_	69	obl	_	SpaceAfter=No|Gloss=case|Translit=
+72	ดัง	ดัง	ADP	_	_	73	mark	_	SpaceAfter=No|Gloss=as|Translit=
+73	กล่าว	กล่าว	VERB	_	_	71	acl	_	Gloss=say|Translit=
+
+# newdoc
