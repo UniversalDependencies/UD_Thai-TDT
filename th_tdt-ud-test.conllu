@@ -70,7 +70,7 @@
 5	“	“	PUNCT	_	_	6	punct	_	SpaceAfter=No
 6	พรึบ	พรึบ	VERB	_	_	0	root	_	SpaceAfter=No|Gloss=pack with|Translit=phrɯ̂p
 7	”	”	PUNCT	_	_	6	punct	_	_
-8	เวที	เวที	NOUN	_	_	6	obl	_	SpaceAfter=No|Gloss=stage|Translit=weː-thiː
+8	เวที	เวที	NOUN	_	_	6	obl:arg	_	SpaceAfter=No|Gloss=stage|Translit=weː-thiː
 9	ปราศรัย	ปราศรัย	VERB	_	_	8	acl	_	SpaceAfter=No|Gloss=address|Translit=praː-sǎj
 10	กว่า	กว่า	DET	_	_	11	det	_	Gloss=more-than|Translit=kwàː
 11	3,000	3,000	NUM	_	_	6	nsubj	_	Gloss=3,000|Translit=sǎːm-phan
@@ -128,7 +128,7 @@
 11	ฯ	ฯ	SYM	_	_	10	nmod	_	_
 12	จะ	จะ	ADV	_	_	13	advmod	_	SpaceAfter=No|Gloss=will(express the future time)|Translit=càʔ
 13	จม	จม	VERB	_	_	1	advcl	_	SpaceAfter=No|Gloss=sink|Translit=com
-14	บาดาล	บาดาล	NOUN	_	_	13	obl	_	SpaceAfter=No|Gloss=subterranean|Translit=baː-daːn
+14	บาดาล	บาดาล	NOUN	_	_	13	obl:arg	_	SpaceAfter=No|Gloss=subterranean|Translit=baː-daːn
 15	ใน	ใน	ADP	_	_	16	case	_	Gloss=in|Translit=naj
 16	10	10	NUM	_	_	13	obl	_	Gloss=10|Translit=sìp
 17	ปี	ปี	NOUN	_	NounType=Clf	16	clf	_	SpaceAfter=No|Gloss=year|Translit=piː
@@ -3989,6 +3989,965 @@
 23	0	0	NUM	_	_	22	appos	_	Gloss=0|Translit=
 24	2528	2528	NUM	_	_	23	flat	_	Gloss=2528|Translit=
 25	9999	9999	NUM	_	_	23	flat	_	Gloss=9999|Translit=
+
+# newdoc
+# sent_id = Thai_Political_Cambodia_Thai_News13_1
+# text = “มาริษ” ถึงสวีเดน เป็นสักขีพยานซื้อเครื่องบิน Grippen E/F
+# text_en = 
+# tokenised_text = “ มาริษ ” ถึง สวีเดน เป็น สักขีพยาน ซื้อ เครื่องบิน Grippen E / F
+# tokenised_translit =
+# tokenised_transcript =
+# phrase_type = sentence
+# sentence_position = 
+# genre = political_news_article
+# source = https://www.thairath.co.th/news/politic/2878514#goog_rewarded
+# year = 2025
+1	“	“	PUNCT	_	_	2	punct	_	SpaceAfter=No
+2	มาริษ	มาริษ	PROPN	_	_	4	nsubj	_	SpaceAfter=No|Gloss=|Translit=
+3	”	”	PUNCT	_	_	2	punct	_	_
+4	ถึง	ถึง	VERB	_	_	0	root	_	SpaceAfter=No|Gloss=arrive|Translit=
+5	สวีเดน	สวีเดน	PROPN	_	Foreign=Yes	4	obl:arg	_	Gloss=Sweden|Translit=
+6	เป็น	เป็น	AUX	_	_	7	cop	_	SpaceAfter=No|Gloss=be|Translit=
+7	สักขีพยาน	สักขีพยาน	NOUN	_	_	4	advcl	_	SpaceAfter=No|Gloss=|Translit=
+8	ซื้อ	ซื้อ	VERB	_	_	7	advcl	_	SpaceAfter=No|Gloss=buy|Translit=
+9	เครื่องบิน	เครื่องบิน	NOUN	_	_	8	obj	_	Gloss=airplane|Translit=
+10	Grippen	Gripen	PROPN	_	Typo=Yes	9	nmod	_	CorrectForm=Gripen|Gloss=Gripen|Translit=
+11	E	E	PROPN	_	_	10	nmod	_	SpaceAfter=No|Gloss=|Translit=
+12	/	/	SYM	_	_	13	cc	_	SpaceAfter=No
+13	F	F	PROPN	_	_	11	conj	_	Gloss=|Translit=
+
+# sent_id = Thai_Political_Cambodia_Thai_News13_2
+# text = พร้อมแจงเหตุไทย-กัมพูชา
+# text_en = 
+# tokenised_text = พร้อม แจง เหตุ ไทย - กัมพูชา
+# tokenised_translit =
+# tokenised_transcript =
+# phrase_type = sentence
+# sentence_position = 
+# genre = political_news_article
+# source = https://www.thairath.co.th/news/politic/2878514#goog_rewarded
+# year = 2025
+1	พร้อม	พร้อม	VERB	_	_	0	root	_	SpaceAfter=No|Gloss=be ready|Translit=
+2	แจง	แจง	VERB	_	_	1	xcomp	_	SpaceAfter=No|Gloss=|Translit=
+3	เหตุ	เหตุ	NOUN	_	_	2	obj	_	SpaceAfter=No|Gloss=cause|Translit=
+4	ไทย	ไทย	PROPN	_	_	3	nmod	_	SpaceAfter=No|Gloss=Thailand|Translit=
+5	-	-	SYM	_	_	6	cc	_	SpaceAfter=No
+6	กัมพูชา	กัมพูชา	PROPN	_	_	4	conj	_	Gloss=Cambodia|Translit=
+
+# sent_id = Thai_Political_Cambodia_Thai_News13_3
+# text = รมว.ต่างประเทศ ถึงสวีเดน เป็นสักขีพยานลงนามซื้อเครื่องบินรบ Grippen E/F 
+# text_en = 
+# tokenised_text = รมว. ต่าง ประเทศ ถึง สวีเดน เป็น สักขีพยาน ลงนาม ซื้อ เครื่องบิน รบ Grippen E / F
+# tokenised_translit =
+# tokenised_transcript =
+# phrase_type = sentence
+# sentence_position = 
+# genre = political_news_article
+# source = https://www.thairath.co.th/news/politic/2878514#goog_rewarded
+# year = 2025
+1	รมว.	รมว.	NOUN	_	Abbr=Yes	4	nsubj	_	SpaceAfter=No|Gloss=|Translit=
+2	ต่าง	ต่าง	VERB	_	ExtPos=PROPN	1	nmod	_	SpaceAfter=No|Gloss=be different|Translit=
+3	ประเทศ	ประเทศ	NOUN	_	_	2	obl:arg	_	Gloss=country|Translit=
+4	ถึง	ถึง	VERB	_	_	0	root	_	SpaceAfter=No|Gloss=arrive|Translit=
+5	สวีเดน	สวีเดน	PROPN	_	Foreign=Yes	4	obl:arg	_	Gloss=Sweden|Translit=
+6	เป็น	เป็น	AUX	_	_	7	cop	_	SpaceAfter=No|Gloss=be|Translit=
+7	สักขีพยาน	สักขีพยาน	NOUN	_	_	4	advcl	_	SpaceAfter=No|Gloss=|Translit=
+8	ลงนาม	ลงนาม	VERB	_	_	7	advcl	_	SpaceAfter=No|Gloss=|Translit=
+9	ซื้อ	ซื้อ	VERB	_	_	8	advcl	_	SpaceAfter=No|Gloss=buy|Translit=
+10	เครื่องบิน	เครื่องบิน	NOUN	_	_	9	obj	_	SpaceAfter=No|Gloss=airplane|Translit=
+11	รบ	รบ	VERB	_	_	10	acl	_	Gloss=|Translit=
+12	Grippen	Gripen	PROPN	_	Typo=Yes	10	nmod	_	Gloss=|Translit=
+13	E	E	PROPN	_	_	12	nmod	_	SpaceAfter=No|Gloss=|Translit=
+14	/	/	SYM	_	_	15	cc	_	SpaceAfter=No|Gloss=|Translit=
+15	F	F	PROPN	_	_	13	conj	_	Gloss=|Translit=
+
+# sent_id = Thai_Political_Cambodia_Thai_News13_4
+# text = พร้อมแจงสถานการณ์ไทย-กัมพูชา
+# text_en = 
+# tokenised_text = พร้อม แจง สถานการณ์ ไทย - กัมพูชา
+# tokenised_translit =
+# tokenised_transcript =
+# phrase_type = sentence
+# sentence_position = 
+# genre = political_news_article
+# source = https://www.thairath.co.th/news/politic/2878514#goog_rewarded
+# year = 2025
+1	พร้อม	พร้อม	VERB	_	_	0	root	_	SpaceAfter=No|Gloss=be ready|Translit=
+2	แจง	แจง	VERB	_	_	1	xcomp	_	SpaceAfter=No|Gloss=|Translit=
+3	สถานการณ์	สถานการณ์	NOUN	_	_	2	obj	_	SpaceAfter=No|Gloss=situation|Translit=
+4	ไทย	ไทย	PROPN	_	_	3	nmod	_	SpaceAfter=No|Gloss=Thailand|Translit=
+5	-	-	SYM	_	_	6	cc	_	SpaceAfter=No
+6	กัมพูชา	กัมพูชา	PROPN	_	_	4	conj	_	Gloss=Cambodia|Translit=
+
+# sent_id = Thai_Political_Cambodia_Thai_News13_5
+# text = ย้ำ ไทยแค่ป้องกันตัวเอง ก่อนมุ่งหน้าสวิตเซอร์แลนด์แฉกัมพูชาใช้ทุ่นระเบิด
+# text_en = 
+# tokenised_text = ย้ำ ไทย แค่ ป้องกัน ตัว เอง ก่อน มุ่ง หน้า สวิตเซอร์แลนด์ แฉ กัมพูชา ใช้ ทุ่น ระเบิด
+# tokenised_translit =
+# tokenised_transcript =
+# phrase_type = sentence
+# sentence_position = 
+# genre = political_news_article
+# source = https://www.thairath.co.th/news/politic/2878514#goog_rewarded
+# year = 2025
+1	ย้ำ	ย้ำ	VERB	_	_	0	root	_	Gloss=|Translit=
+2	ไทย	ไทย	PROPN	_	_	4	nsubj	_	SpaceAfter=No|Gloss=Thailand|Translit=
+3	แค่	แค่	ADV	_	_	4	advmod	_	SpaceAfter=No|Gloss=only|Translit=
+4	ป้องกัน	ป้องกัน	VERB	_	_	1	ccomp	_	SpaceAfter=No|Gloss=protect|Translit=
+5	ตัว	ตัว	NOUN	_	_	4	obj	_	SpaceAfter=No|Gloss=person|Translit=
+6	เอง	เอง	ADJ	_	_	5	amod	_	Gloss=|Translit=
+7	ก่อน	ก่อน	ADP	_	_	8	mark	_	SpaceAfter=No|Gloss=before|Translit=
+8	มุ่ง	มุ่ง	VERB	_	_	1	advcl	_	SpaceAfter=No|Gloss=|Translit=
+9	หน้า	หน้า	ADV	_	_	8	advmod	_	SpaceAfter=No|Gloss=|Translit=
+10	สวิตเซอร์แลนด์	สวิตเซอร์แลนด์	PROPN	_	Foreign=Yes	8	obl:arg	_	SpaceAfter=No|Gloss=Switzerland|Translit=
+11	แฉ	แฉ	VERB	_	_	8	advcl	_	SpaceAfter=No|Gloss=|Translit=
+12	กัมพูชา	กัมพูชา	PROPN	_	_	13	nsubj	_	SpaceAfter=No|Gloss=Cambodia|Translit=
+13	ใช้	ใช้	VERB	_	_	11	ccomp	_	SpaceAfter=No|Gloss=use|Translit=
+14	ทุ่น	ทุ่น	NOUN	_	_	13	obj	_	SpaceAfter=No|Gloss=|Translit=
+15	ระเบิด	ระเบิด	VERB	_	_	14	acl	_	Gloss=explode|Translit=
+
+# sent_id = Thai_Political_Cambodia_Thai_News13_6
+# text = วันที่ 24 สิงหาคม 2568 นายมาริษ เสงี่ยมพงษ์ รัฐมนตรีว่าการกระทรวงการต่างประเทศ ให้สัมภาษณ์ในโอกาสเดินทางเยือนราชอาณาจักรสวีเดนอย่างเป็นทางการ ตามคำเชิญของ นางมารีอา มัลเมอร์ สเตเนอร์การ์ด รัฐมนตรีว่าการกระทรวงการต่างประเทศสวีเดน เพื่อเป็นสักขีพยานในการลงนามซื้อเครื่องบินรบ Grippen E/F ของกองทัพอากาศ กับบริษัท Saab ว่า จะใช้โอกาสนี้พูดคุยทำความเข้าใจสถานการณ์ระหว่างไทยกับกัมพูชาด้วย เพราะสวีเดนเป็นอีกหนึ่งประเทศที่ให้ความสำคัญเรื่องสิทธิมนุษยชนเป็นอย่างมาก
+# text_en = 
+# tokenised_text = วัน ที่ 24 สิงหาคม 2568 นาย มาริษ เสงี่ยมพงษ์ รัฐมนตรี ว่าการ กระทรวง การ ต่าง ประเทศ ให้ สัมภาษณ์ ใน โอกาส เดินทาง เยือน ราชอาณาจักร สวีเดน อย่าง เป็น ทางการ ตาม คำ เชิญ ของ นาง มารีอา มัลเมอร์ สเตเนอร์การ์ด รัฐมนตรี ว่าการ กระทรวง การ ต่าง ประเทศ สวีเดน เพื่อ เป็น สักขีพยาน ใน การ ลงนาม ซื้อ เครื่องบิน รบ Grippen E / F ของ กองทัพ อากาศ กับ บริษัท Saab ว่า จะ ใช้ โอกาส นี้ พูด คุย ทำ ความ เข้าใจ สถานการณ์ ระหว่าง ไทย กับ กัมพูชา ด้วย เพราะ สวีเดน เป็น อีก หนึ่ง ประเทศ ที่ ให้ ความ สำคัญ เรื่อง สิทธิมนุษยชน เป็น อย่าง มาก
+# tokenised_translit =
+# tokenised_transcript =
+# phrase_type = sentence
+# sentence_position = 
+# genre = political_news_article
+# source = https://www.thairath.co.th/news/politic/2878514#goog_rewarded
+# year = 2025
+1	วัน	วัน	NOUN	_	_	15	obl	_	SpaceAfter=No|Gloss=day|Translit=
+2	ที่	ที่	NOUN	_	_	1	nmod	_	Gloss=|Translit=
+3	24	24	NUM	_	_	2	nmod	_	Gloss=24|Translit=
+4	สิงหาคม	สิงหาคม	NOUN	_	_	1	nmod	_	Gloss=August|Translit=
+5	2568	2568	NUM	_	_	4	nmod	_	Gloss=2568|Translit=
+6	นาย	นาย	NOUN	_	_	15	nsubj	_	SpaceAfter=No|Gloss=Mister|Translit=
+7	มาริษ	มาริษ	PROPN	_	_	6	nmod	_	Gloss=|Translit=
+8	เสงี่ยมพงษ์	เสงี่ยมพงษ์	PROPN	_	_	7	flat	_	Gloss=|Translit=
+9	รัฐมนตรี	รัฐมนตรี	NOUN	_	_	6	appos	_	SpaceAfter=No|Gloss=|Translit=
+10	ว่าการ	ว่าการ	VERB	_	_	9	acl	_	SpaceAfter=No|Gloss=|Translit=
+11	กระทรวง	กระทรวง	NOUN	_	_	9	nmod	_	SpaceAfter=No|Gloss=Ministry|Translit=
+12	การ	การ	NOUN	_	ExtPos=PROPN	11	nmod	_	SpaceAfter=No|Gloss=|Translit=
+13	ต่าง	ต่าง	VERB	_	_	12	acl	_	SpaceAfter=No|Gloss=different|Translit=
+14	ประเทศ	ประเทศ	NOUN	_	_	13	obl:arg	_	Gloss=country|Translit=
+15	ให้	ให้	VERB	_	_	0	root	_	SpaceAfter=No|Gloss=give|Translit=
+16	สัมภาษณ์	สัมภาษณ์	VERB	_	_	15	compound:svc	_	SpaceAfter=No|Gloss=interview|Translit=
+17	ใน	ใน	ADP	_	_	18	case	_	SpaceAfter=No|Gloss=in|Translit=
+18	โอกาส	โอกาส	NOUN	_	_	16	obl	_	SpaceAfter=No|Gloss=opportunity|Translit=
+19	เดินทาง	เดินทาง	VERB	_	_	18	acl	_	SpaceAfter=No|Gloss=travel|Translit=
+20	เยือน	เยือน	VERB	_	_	19	compound:svc	_	SpaceAfter=No|Gloss=visit|Translit=
+21	ราชอาณาจักร	ราชอาณาจักร	NOUN	_	_	20	obl:arg	_	SpaceAfter=No|Gloss=|Translit=
+22	สวีเดน	สวีเดน	PROPN	_	Foreign=Yes	21	nmod	_	SpaceAfter=No|Gloss=Sweden|Translit=
+23	อย่าง	อย่าง	NOUN	_	_	20	obl	_	SpaceAfter=No|Gloss=|Translit=
+24	เป็น	เป็น	VERB	_	_	23	acl	_	SpaceAfter=No|Gloss=be|Translit=
+25	ทางการ	ทางการ	VERB	_	_	24	compound:svc	_	Gloss=formal|Translit=
+26	ตาม	ตาม	ADP	_	_	27	case	_	SpaceAfter=No|Gloss=following|Translit=
+27	คำ	คำ	NOUN	_	_	20	obl	_	SpaceAfter=No|Gloss=word|Translit=
+28	เชิญ	เชิญ	VERB	_	_	27	acl	_	SpaceAfter=No|Gloss=invite|Translit=
+29	ของ	ของ	ADP	_	_	30	case	_	Gloss=of|Translit=
+30	นาง	นาง	NOUN	_	_	27	nmod	_	SpaceAfter=No|Gloss=|Translit=
+31	มารีอา	มารีอา	PROPN	_	Foreign=Yes	30	nmod	_	Gloss=|Translit=
+32	มัลเมอร์	มัลเมอร์	PROPN	_	Foreign=Yes	31	flat	_	Gloss=|Translit=
+33	สเตเนอร์การ์ด	สเตเนอร์การ์ด	PROPN	_	Foreign=Yes	31	flat	_	Gloss=|Translit=
+34	รัฐมนตรี	รัฐมนตรี	NOUN	_	_	30	appos	_	SpaceAfter=No|Gloss=|Translit=
+35	ว่าการ	ว่าการ	VERB	_	_	34	acl	_	SpaceAfter=No|Gloss=|Translit=
+36	กระทรวง	กระทรวง	NOUN	_	_	34	nmod	_	SpaceAfter=No|Gloss=Ministry|Translit=
+37	การ	การ	NOUN	_	ExtPos=PRON	36	nmod	_	SpaceAfter=No|Gloss=|Translit=
+38	ต่าง	ต่าง	VERB	_	_	37	acl	_	SpaceAfter=No|Gloss=different|Translit=
+39	ประเทศ	ประเทศ	NOUN	_	_	38	obl:arg	_	SpaceAfter=No|Gloss=country|Translit=
+40	สวีเดน	สวีเดน	PROPN	_	Foreign=Yes	36	nmod	_	Gloss=Sweden|Translit=
+41	เพื่อ	เพื่อ	ADP	_	_	43	mark	_	SpaceAfter=No|Gloss=for|Translit=
+42	เป็น	เป็น	AUX	_	_	43	cop	_	SpaceAfter=No|Gloss=be|Translit=
+43	สักขีพยาน	สักขีพยาน	NOUN	_	_	18	advcl	_	SpaceAfter=No|Gloss=|Translit=
+44	ใน	ใน	ADP	_	_	45	case	_	SpaceAfter=No|Gloss=in|Translit=
+45	การ	การ	NOUN	_	NounType=Nmlz	43	obl	_	SpaceAfter=No|Gloss=|Translit=
+46	ลงนาม	ลงนาม	VERB	_	_	45	acl	_	SpaceAfter=No|Gloss=|Translit=
+47	ซื้อ	ซื้อ	VERB	_	_	46	advcl	_	SpaceAfter=No|Gloss=buy|Translit=
+48	เครื่องบิน	เครื่องบิน	NOUN	_	_	47	obj	_	SpaceAfter=No|Gloss=airplane|Translit=
+49	รบ	รบ	VERB	_	_	48	acl	_	Gloss=|Translit=
+50	Grippen	Gripen	NOUN	_	Typo=Yes	48	nmod	_	Gloss=Gripen|Translit=
+51	E	E	PROPN	_	_	50	nmod	_	SpaceAfter=No|Gloss=|Translit=
+52	/	/	SYM	_	_	53	cc	_	SpaceAfter=No
+53	F	F	PROPN	_	_	51	conj	_	Gloss=|Translit=
+54	ของ	ของ	ADP	_	_	55	case	_	SpaceAfter=No|Gloss=of|Translit=
+55	กองทัพ	กองทัพ	NOUN	_	_	48	nmod	_	SpaceAfter=No|Gloss=|Translit=
+56	อากาศ	อากาศ	NOUN	_	_	55	nmod	_	Gloss=air|Translit=
+57	กับ	กับ	ADP	_	_	58	case	_	SpaceAfter=No|Gloss=with|Translit=
+58	บริษัท	บริษัท	NOUN	_	_	47	obl	_	Gloss=company|Translit=
+59	Saab	Saab	PROPN	_	_	58	nmod	_	Gloss=|Translit=
+60	ว่า	ว่า	SCONJ	_	_	62	mark	_	Gloss=that(COMP)|Translit=
+61	จะ	จะ	ADV	_	_	62	advmod	_	SpaceAfter=No|Gloss=|Translit=
+62	ใช้	ใช้	VERB	_	_	16	ccomp	_	SpaceAfter=No|Gloss=use|Translit=
+63	โอกาส	โอกาส	NOUN	_	_	62	obj	_	SpaceAfter=No|Gloss=opportunity|Translit=
+64	นี้	นี้	ADJ	_	_	63	amod	_	SpaceAfter=No|Gloss=this|Translit=
+65	พูด	พูด	VERB	_	_	62	advcl	_	SpaceAfter=No|Gloss=speak|Translit=
+66	คุย	คุย	VERB	_	_	65	flat	_	SpaceAfter=No|Gloss=talk|Translit=
+67	ทำ	ทำ	VERB	_	_	65	advcl	_	SpaceAfter=No|Gloss=make|Translit=
+68	ความ	ความ	NOUN	_	NounType=Nmlz	67	obj	_	SpaceAfter=No|Gloss=|Translit=
+69	เข้าใจ	เข้าใจ	VERB	_	_	68	acl	_	SpaceAfter=No|Gloss=understand|Translit=
+70	สถานการณ์	สถานการณ์	NOUN	_	_	69	obl:arg	_	SpaceAfter=No|Gloss=situation|Translit=
+71	ระหว่าง	ระหว่าง	ADP	_	_	72	case	_	SpaceAfter=No|Gloss=between|Translit=
+72	ไทย	ไทย	PROPN	_	_	70	nmod	_	SpaceAfter=No|Gloss=Thailand|Translit=
+73	กับ	กับ	ADP	_	_	74	case	_	SpaceAfter=No|Gloss=with|Translit=
+74	กัมพูชา	กัมพูชา	PROPN	_	_	72	nmod	_	SpaceAfter=No|Gloss=Cambodia|Translit=
+75	ด้วย	ด้วย	ADV	_	_	62	advmod	_	Gloss=also|Translit=
+76	เพราะ	เพราะ	ADP	_	_	80	mark	_	SpaceAfter=No|Gloss=because|Translit=
+77	สวีเดน	สวีเดน	PROPN	_	Foreign=Yes	80	nsubj	_	SpaceAfter=No|Gloss=Sweden|Translit=
+78	เป็น	เป็น	AUX	_	_	80	cop	_	SpaceAfter=No|Gloss=be|Translit=
+79	อีก	อีก	DET	_	_	80	det	_	SpaceAfter=No|Gloss=|Translit=
+80	หนึ่ง	หนึ่ง	NUM	_	_	62	advcl	_	SpaceAfter=No|Gloss=one|Translit=
+81	ประเทศ	ประเทศ	NOUN	_	NounType=Clf	80	clf	_	SpaceAfter=No|Gloss=country|Translit=
+82	ที่	ที่	PRON	_	_	83	nsubj	_	SpaceAfter=No|Gloss=that(REL)|Translit=
+83	ให้	ให้	VERB	_	_	80	acl:relcl	_	SpaceAfter=No|Gloss=give|Translit=
+84	ความ	ความ	NOUN	_	NounType=Nmlz	83	obj	_	SpaceAfter=No|Gloss=|Translit=
+85	สำคัญ	สำคัญ	VERB	_	_	84	acl	_	SpaceAfter=No|Gloss=be important|Translit=
+86	เรื่อง	เรื่อง	NOUN	_	_	83	iobj	_	SpaceAfter=No|Gloss=|Translit=
+87	สิทธิมนุษยชน	สิทธิมนุษยชน	NOUN	_	_	86	nmod	_	SpaceAfter=No|Gloss=|Translit=
+88	เป็น	เป็น	ADP	_	_	89	case	_	SpaceAfter=No|Gloss=be|Translit=
+89	อย่าง	อย่าง	NOUN	_	_	83	obl	_	SpaceAfter=No|Gloss=|Translit=
+90	มาก	มาก	VERB	_	_	89	acl	_	Gloss=very|Translit=
+
+# sent_id = Thai_Political_Cambodia_Thai_News13_7
+# text = ดังนั้น จะใช้โอกาสนี้ยืนยันว่ามาตรการต่างๆ ที่ประเทศไทยใช้ในการแก้ปัญหากัมพูชาตั้งแต่แรกเริ่ม มุ่งเน้นการใช้การเจรจาสองฝ่ายหรือทวิภาคี หลีกเลี่ยงการใช้กำลัง และแสดงความต้องการแก้ปัญหาชายแดนไทยกัมพูชาโดยสันติและจริงใจ โดยเตรียมหลักฐานเพื่อนำมาชี้แจงให้รับฟังด้วย
+# text_en = 
+# tokenised_text = ดัง นั้น จะ ใช้ โอกาส นี้ ยืนยัน ว่า มาตรการ ต่าง ๆ ที่ ประเทศ ไทย ใช้ ใน การ แก้ ปัญหา กัมพูชา ตั้งแต่ แรกเริ่ม มุ่ง เน้น การ ใช้ การ เจรจา สอง ฝ่าย หรือ ทวิภาคี หลีกเลี่ยง การ ใช้ กำลัง และ แสดง ความ ต้องการ แก้ ปัญหา ชาย แดน ไทย กัมพูชา โดย สันติ และ จริงใจ โดย เตรียม หลักฐาน เพื่อ นำ มา ชี้แจง ให้ รับฟัง ด้วย
+# tokenised_translit =
+# tokenised_transcript =
+# phrase_type = sentence
+# sentence_position = 
+# genre = political_news_article
+# source = https://www.thairath.co.th/news/politic/2878514#goog_rewarded
+# year = 2025
+1	ดัง	ดัง	ADP	_	_	2	case	_	SpaceAfter=No|Gloss=|Translit=
+2	นั้น	นั้น	PRON	_	_	4	obl	_	Gloss=that|Translit=
+3	จะ	จะ	ADV	_	_	4	advmod	_	SpaceAfter=No|Gloss=|Translit=
+4	ใช้	ใช้	VERB	_	_	0	root	_	SpaceAfter=No|Gloss=use|Translit=
+5	โอกาส	โอกาส	NOUN	_	_	4	obj	_	SpaceAfter=No|Gloss=opportunity|Translit=
+6	นี้	นี้	ADJ	_	_	5	amod	_	SpaceAfter=No|Gloss=this|Translit=
+7	ยืนยัน	ยืนยัน	VERB	_	_	4	advcl	_	SpaceAfter=No|Gloss=insist|Translit=
+8	ว่า	ว่า	SCONJ	_	_	24	mark	_	SpaceAfter=No|Gloss=that(COMP)|Translit=
+9	มาตรการ	มาตรการ	NOUN	_	_	24	nsubj	_	SpaceAfter=No|Gloss=|Translit=
+10	ต่าง	ต่าง	VERB	_	_	9	acl	_	SpaceAfter=No|Gloss=different|Translit=
+11	ๆ	_	SYM	_	_	10	compound:redup	_	Gloss=|Translit=
+12	ที่	ที่	PRON	_	_	15	obj	_	SpaceAfter=No|Gloss=that(REL)|Translit=
+13	ประเทศ	ประเทศ	NOUN	_	_	15	nsubj	_	SpaceAfter=No|Gloss=country|Translit=
+14	ไทย	ไทย	PROPN	_	_	13	nmod	_	SpaceAfter=No|Gloss=Thai|Translit=
+15	ใช้	ใช้	VERB	_	_	9	acl:relcl	_	SpaceAfter=No|Gloss=use|Translit=
+16	ใน	ใน	ADP	_	_	17	case	_	SpaceAfter=No|Gloss=in|Translit=
+17	การ	การ	NOUN	_	_	15	obl	_	SpaceAfter=No|Gloss=|Translit=
+18	แก้	แก้	VERB	_	_	17	acl	_	SpaceAfter=No|Gloss=solve|Translit=
+19	ปัญหา	ปัญหา	NOUN	_	_	18	obj	_	SpaceAfter=No|Gloss=problem|Translit=
+20	กัมพูชา	กัมพูชา	PROPN	_	_	19	nmod	_	SpaceAfter=No|Gloss=Cambodia|Translit=
+21	ตั้งแต่	ตั้งแต่	ADP	_	_	22	mark	_	SpaceAfter=No|Gloss=since|Translit=
+22	แรก	แรก	VERB	_	_	15	advcl	_	SpaceAfter=No|Gloss=first|Translit=
+23	เริ่ม	เริ่ม	VERB	_	_	22	flat	_	Gloss=begin|Translit=
+24	มุ่ง	มุ่ง	VERB	_	_	7	ccomp	_	SpaceAfter=No|Gloss=|Translit=
+25	เน้น	เน้น	VERB	_	_	24	flat	_	SpaceAfter=No|Gloss=emphasize|Translit=
+26	การ	การ	NOUN	_	NounType=Nmlz	24	obj	_	SpaceAfter=No|Gloss=|Translit=
+27	ใช้	ใช้	VERB	_	_	26	acl	_	SpaceAfter=No|Gloss=use|Translit=
+28	การ	การ	NOUN	_	NounType=Nmlz	27	obj	_	SpaceAfter=No|Gloss=|Translit=
+29	เจรจา	เจรจา	VERB	_	_	28	acl	_	SpaceAfter=No|Gloss=negotiate|Translit=
+30	สอง	สอง	NUM	_	_	29	obl:arg	_	SpaceAfter=No|Gloss=two|Translit=
+31	ฝ่าย	ฝ่าย	NOUN	_	_	30	clf	_	SpaceAfter=No|Gloss=party|Translit=
+32	หรือ	หรือ	CCONJ	_	_	33	cc	_	SpaceAfter=No|Gloss=or|Translit=
+33	ทวิภาคี	ทวิภาคี	NOUN	_	_	30	conj	_	Gloss=|Translit=
+34	หลีกเลี่ยง	หลีกเลี่ยง	VERB	_	_	24	advcl	_	SpaceAfter=No|Gloss=avoid|Translit=
+35	การ	การ	NOUN	_	NounType=Nmlz	34	obj	_	SpaceAfter=No|Gloss=|Translit=
+36	ใช้	ใช้	VERB	_	_	35	acl	_	SpaceAfter=No|Gloss=use|Translit=
+37	กำลัง	กำลัง	NOUN	_	_	36	obj	_	Gloss=power|Translit=
+38	และ	และ	CCONJ	_	_	39	cc	_	SpaceAfter=No|Gloss=and|Translit=
+39	แสดง	แสดง	VERB	_	_	34	conj	_	SpaceAfter=No|Gloss=|Translit=
+40	ความ	ความ	NOUN	_	NounType=Nmlz	39	obj	_	SpaceAfter=No|Gloss=|Translit=
+41	ต้องการ	ต้องการ	VERB	_	_	40	acl	_	SpaceAfter=No|Gloss=want|Translit=
+42	แก้	แก้	VERB	_	_	41	xcomp	_	SpaceAfter=No|Gloss=solve|Translit=
+43	ปัญหา	ปัญหา	NOUN	_	_	42	obj	_	SpaceAfter=No|Gloss=problem|Translit=
+44	ชาย	ชาย	NOUN	_	_	43	nmod	_	SpaceAfter=No|Gloss=|Translit=
+45	แดน	แดน	NOUN	_	_	44	nmod	_	SpaceAfter=No|Gloss=|Translit=
+46	ไทย	ไทย	PROPN	_	_	44	nmod	_	SpaceAfter=No|Gloss=Thai|Translit=
+47	กัมพูชา	กัมพูชา	PROPN	_	_	46	conj	_	SpaceAfter=No|Gloss=Cambodia|Translit=
+48	โดย	โดย	ADP	_	_	49	mark	_	SpaceAfter=No|Gloss=with|Translit=
+49	สันติ	สันติ	VERB	_	_	34	advcl	_	SpaceAfter=No|Gloss=|Translit=
+50	และ	และ	CCONJ	_	_	51	cc	_	SpaceAfter=No|Gloss=and|Translit=
+51	จริงใจ	จริงใจ	VERB	_	_	49	conj	_	Gloss=be sincere|Translit=
+52	โดย	โดย	ADP	_	_	53	mark	_	SpaceAfter=No|Gloss=by|Translit=
+53	เตรียม	เตรียม	VERB	_	_	34	advcl	_	SpaceAfter=No|Gloss=prepare|Translit=
+54	หลักฐาน	หลักฐาน	NOUN	_	_	53	obj	_	SpaceAfter=No|Gloss=evidence|Translit=
+55	เพื่อ	เพื่อ	ADP	_	_	56	mark	_	SpaceAfter=No|Gloss=for|Translit=
+56	นำ	นำ	VERB	_	_	53	advcl	_	SpaceAfter=No|Gloss=bring|Translit=
+57	มา	มา	VERB	_	_	56	compound:svc	_	SpaceAfter=No|Gloss=come|Translit=
+58	ชี้แจง	ชี้แจง	VERB	_	_	57	compound:svc	_	SpaceAfter=No|Gloss=|Translit=
+59	ให้	ให้	ADP	_	_	60	mark	_	SpaceAfter=No|Gloss=for|Translit=
+60	รับฟัง	รับฟัง	VERB	_	_	58	advcl	_	SpaceAfter=No|Gloss=|Translit=
+61	ด้วย	ด้วย	ADV	_	_	53	advmod	_	Gloss=also|Translit=
+
+# sent_id = Thai_Political_Cambodia_Thai_News13_8
+# text = การที่เราถูกกัมพูชาละเมิดอธิปไตยและบูรณภาพแห่งดินแดน ทำให้เราต้องตอบโต้เพื่อป้องกันตนเอง ตามมาตรา 51 ของกฎบัตรสหประชาชาติ เพื่อให้เขาสบายใจว่าการปฏิบัติการทางทหารของเราสอดคล้องกับนโยบายด้านการต่างประเทศ
+# text_en = 
+# tokenised_text = การ ที่ เรา ถูก กัมพูชา ละเมิด อธิปไตย และ บูรณภาพ แห่ง ดินแดน ทำให้ เรา ต้อง ตอบโต้ เพื่อ ป้องกัน ตน เอง ตาม มาตรา 51 ของ กฎบัตร สหประชาชาติ เพื่อ ให้ เขา สบายใจ ว่า การ ปฏิบัติการ ทาง ทหาร ของ เรา สอดคล้อง กับ นโยบาย ด้าน การ ต่าง ประเทศ
+# tokenised_translit =
+# tokenised_transcript =
+# phrase_type = sentence
+# sentence_position = 
+# genre = political_news_article
+# source = https://www.thairath.co.th/news/politic/2878514#goog_rewarded
+# year = 2025
+1	การ	การ	NOUN	_	NounType=Nmlz	12	nsubj	_	SpaceAfter=No|Gloss=|Translit=
+2	ที่	ที่	PRON	_	_	4	dislocated	_	SpaceAfter=No|Gloss=that(REL)|Translit=
+3	เรา	เรา	PRON	_	Person=1|PronType=Prs	4	nsubj	_	SpaceAfter=No|Gloss=we|Translit=
+4	ถูก	ถูก	VERB	_	_	1	acl:relcl	_	SpaceAfter=No|Gloss=|Translit=
+5	กัมพูชา	กัมพูชา	PROPN	_	_	4	obl:arg	_	SpaceAfter=No|Gloss=Cambodia|Translit=
+6	ละเมิด	ละเมิด	VERB	_	_	4	compound:svc	_	SpaceAfter=No|Gloss=violate|Translit=
+7	อธิปไตย	อธิปไตย	NOUN	_	_	6	obj	_	SpaceAfter=No|Gloss=|Translit=
+8	และ	และ	CCONJ	_	_	9	cc	_	SpaceAfter=No|Gloss=and|Translit=
+9	บูรณภาพ	บูรณภาพ	NOUN	_	_	7	conj	_	SpaceAfter=No|Gloss=|Translit=
+10	แห่ง	แห่ง	ADP	_	_	11	case	_	SpaceAfter=No|Gloss=of|Translit=
+11	ดินแดน	ดินแดน	NOUN	_	_	9	nmod	_	Gloss=land|Translit=
+12	ทำให้	ทำให้	VERB	_	_	0	root	_	SpaceAfter=No|Gloss=cause|Translit=
+13	เรา	เรา	PRON	_	Person=1|PronType=Prs	12	obj	_	SpaceAfter=No|Gloss=we|Translit=
+14	ต้อง	ต้อง	VERB	_	_	12	xcomp	_	SpaceAfter=No|Gloss=must|Translit=
+15	ตอบโต้	ตอบโต้	VERB	_	_	14	xcomp	_	SpaceAfter=No|Gloss=|Translit=
+16	เพื่อ	เพื่อ	ADP	_	_	17	mark	_	SpaceAfter=No|Gloss=for|Translit=
+17	ป้องกัน	ป้องกัน	VERB	_	_	12	advcl	_	SpaceAfter=No|Gloss=protect|Translit=
+18	ตน	ตน	NOUN	_	_	17	obj	_	SpaceAfter=No|Gloss=|Translit=
+19	เอง	เอง	ADJ	_	_	18	amod	_	Gloss=|Translit=
+20	ตาม	ตาม	ADP	_	_	21	case	_	SpaceAfter=No|Gloss=following|Translit=
+21	มาตรา	มาตรา	NOUN	_	_	12	obl	_	Gloss=|Translit=
+22	51	51	NUM	_	_	21	nmod	_	Gloss=51|Translit=
+23	ของ	ของ	ADP	_	_	24	case	_	SpaceAfter=No|Gloss=of|Translit=
+24	กฎบัตร	กฎบัตร	NOUN	_	_	21	nmod	_	SpaceAfter=No|Gloss=|Translit=
+25	สหประชาชาติ	สหประชาชาติ	NOUN	_	_	24	nmod	_	Gloss=|Translit=
+26	เพื่อ	เพื่อ	ADP	_	_	27	mark	_	SpaceAfter=No|Gloss=for|Translit=
+27	ให้	ให้	VERB	_	_	12	advcl	_	SpaceAfter=No|Gloss=give|Translit=
+28	เขา	เขา	PRON	_	Person=3|PronType=Prs	27	obj	_	SpaceAfter=No|Gloss=he|Translit=
+29	สบายใจ	สบายใจ	VERB	_	_	27	compound:svc	_	SpaceAfter=No|Gloss=|Translit=
+30	ว่า	ว่า	SCONJ	_	_	37	mark	_	SpaceAfter=No|Gloss=that(COMP)|Translit=
+31	การ	การ	NOUN	_	NounType=Nmlz	37	nsubj	_	SpaceAfter=No|Gloss=|Translit=
+32	ปฏิบัติการ	ปฏิบัติการ	VERB	_	_	31	acl	_	SpaceAfter=No|Gloss=|Translit=
+33	ทาง	ทาง	ADP	_	_	34	case	_	SpaceAfter=No|Gloss=|Translit=
+34	ทหาร	ทหาร	NOUN	_	_	31	nmod	_	SpaceAfter=No|Gloss=soldier|Translit=
+35	ของ	ของ	ADP	_	_	36	case	_	SpaceAfter=No|Gloss=of|Translit=
+36	เรา	เรา	PRON	_	Person=1|PronType=Prs	31	nmod	_	SpaceAfter=No|Gloss=we|Translit=
+37	สอดคล้อง	สอดคล้อง	VERB	_	_	29	ccomp	_	SpaceAfter=No|Gloss=|Translit=
+38	กับ	กับ	ADP	_	_	39	case	_	SpaceAfter=No|Gloss=with|Translit=
+39	นโยบาย	นโยบาย	NOUN	_	_	37	obl	_	SpaceAfter=No|Gloss=policy|Translit=
+40	ด้าน	ด้าน	NOUN	_	_	39	nmod	_	SpaceAfter=No|Gloss=side|Translit=
+41	การ	การ	NOUN	_	_	40	nmod	_	SpaceAfter=No|Gloss=word|Translit=
+42	ต่าง	ต่าง	VERB	_	_	41	acl	_	SpaceAfter=No|Gloss=different|Translit=
+43	ประเทศ	ประเทศ	NOUN	_	_	42	obl:arg	_	Gloss=country|Translit=
+
+# sent_id = Thai_Political_Cambodia_Thai_News13_9
+# text = เราเป็นประเทศที่รักสันติ 
+# text_en = 
+# tokenised_text = เรา เป็น ประเทศ ที่ รัก สันติ 
+# tokenised_translit =
+# tokenised_transcript =
+# phrase_type = sentence
+# sentence_position = 
+# genre = political_news_article
+# source = https://www.thairath.co.th/news/politic/2878514#goog_rewarded
+# year = 2025
+1	เรา	เรา	PRON	_	Person=1|PronType=Prs	3	nsubj	_	SpaceAfter=No|Gloss=we|Translit=
+2	เป็น	เป็น	AUX	_	_	3	cop	_	SpaceAfter=No|Gloss=be|Translit=
+3	ประเทศ	ประเทศ	NOUN	_	_	0	root	_	SpaceAfter=No|Gloss=country|Translit=
+4	ที่	ที่	PRON	_	_	5	nsubj	_	SpaceAfter=No|Gloss=that(REL)|Translit=
+5	รัก	รัก	VERB	_	_	3	acl:relcl	_	SpaceAfter=No|Gloss=love|Translit=
+6	สันติ	สันติ	NOUN	_	_	5	obj	_	Gloss=peace|Translit=
+
+# sent_id = Thai_Political_Cambodia_Thai_News13_10
+# text = เราทำทุกอย่างตามกฎหมายระหว่างประเทศและกฎบัตรสหประชาชาติ
+# text_en = 
+# tokenised_text = เรา ทำ ทุก อย่าง ตาม กฎหมาย ระหว่าง ประเทศ และ กฎบัตร สหประชาชาติ
+# tokenised_translit =
+# tokenised_transcript =
+# phrase_type = sentence
+# sentence_position = 
+# genre = political_news_article
+# source = https://www.thairath.co.th/news/politic/2878514#goog_rewarded
+# year = 2025
+1	เรา	เรา	PRON	_	Person=1|PronType=Prs	2	nsubj	_	SpaceAfter=No|Gloss=we|Translit=
+2	ทำ	ทำ	VERB	_	_	0	root	_	SpaceAfter=No|Gloss=do|Translit=
+3	ทุก	ทุก	DET	_	_	4	det	_	SpaceAfter=No|Gloss=every|Translit=
+4	อย่าง	อย่าง	NOUN	_	NounType=Clf	2	obj	_	SpaceAfter=No|Gloss=|Translit=
+5	ตาม	ตาม	ADP	_	_	6	case	_	SpaceAfter=No|Gloss=following|Translit=
+6	กฎหมาย	กฎหมาย	NOUN	_	_	2	obl	_	SpaceAfter=No|Gloss=|Translit=
+7	ระหว่าง	ระหว่าง	ADP	_	_	8	case	_	SpaceAfter=No|Gloss=between|Translit=
+8	ประเทศ	ประเทศ	NOUN	_	_	6	nmod	_	SpaceAfter=No|Gloss=country|Translit=
+9	และ	และ	CCONJ	_	_	10	cc	_	SpaceAfter=No|Gloss=and|Translit=
+10	กฎบัตร	กฎบัตร	NOUN	_	_	6	conj	_	SpaceAfter=No|Gloss=|Translit=
+11	สหประชาชาติ	สหประชาชาติ	NOUN	_	_	10	nmod	_	Gloss=|Translit=
+
+# sent_id = Thai_Political_Cambodia_Thai_News13_11
+# text = ทั้งนี้ ตนมุ่งหน้าเดินสายเพื่อชี้แจงกับทุกประเทศว่า การใช้กำลังทางทหารของเราได้สัดส่วนกับความเป็นจริงและไม่มีเป้าหมายเพื่อทำลายล้าง 
+# text_en = 
+# tokenised_text = ทั้ง นี้ ตน มุ่ง หน้า เดินสาย เพื่อ ชี้แจง กับ ทุก ประเทศ ว่า การ ใช้ กำลัง ทาง ทหาร ของ เรา ได้ สัดส่วน กับ ความ เป็น จริง และ ไม่ มี เป้าหมาย เพื่อ ทำลาย ล้าง
+# tokenised_translit =
+# tokenised_transcript =
+# phrase_type = sentence
+# sentence_position = 
+# genre = political_news_article
+# source = https://www.thairath.co.th/news/politic/2878514#goog_rewarded
+# year = 2025
+1	ทั้ง	ทั้ง	ADP	_	_	2	case	_	SpaceAfter=No|Gloss=|Translit=
+2	นี้	นี้	PRON	_	_	4	obl	_	Gloss=this|Translit=
+3	ตน	ตน	NOUN	_	ExtPos=PRON|Person=1|PronType=Prs	4	nsubj	_	SpaceAfter=No|Gloss=I|Translit=
+4	มุ่ง	มุ่ง	VERB	_	_	0	root	_	SpaceAfter=No|Gloss=|Translit=
+5	หน้า	หน้า	ADV	_	_	4	advmod	_	SpaceAfter=No|Gloss=|Translit=
+6	เดินสาย	เดินสาย	VERB	_	_	4	advcl	_	SpaceAfter=No|Gloss=|Translit=
+7	เพื่อ	เพื่อ	ADP	_	_	8	mark	_	SpaceAfter=No|Gloss=for|Translit=
+8	ชี้แจง	ชี้แจง	VERB	_	_	6	advcl	_	SpaceAfter=No|Gloss=|Translit=
+9	กับ	กับ	ADP	_	_	11	case	_	SpaceAfter=No|Gloss=with|Translit=
+10	ทุก	ทุก	DET	_	_	11	det	_	SpaceAfter=No|Gloss=every|Translit=
+11	ประเทศ	ประเทศ	NOUN	_	NounType=Clf	8	obl	_	SpaceAfter=No|Gloss=country|Translit=
+12	ว่า	ว่า	SCONJ	_	_	20	mark	_	Gloss=that(COMP)|Translit=
+13	การ	การ	NOUN	_	NounType=Nmlz	20	nsubj	_	SpaceAfter=No|Gloss=|Translit=
+14	ใช้	ใช้	VERB	_	_	13	acl	_	SpaceAfter=No|Gloss=use|Translit=
+15	กำลัง	กำลัง	NOUN	_	_	14	obj	_	SpaceAfter=No|Gloss=power|Translit=
+16	ทาง	ทาง	ADP	_	_	17	case	_	SpaceAfter=No|Gloss=|Translit=
+17	ทหาร	ทหาร	NOUN	_	_	15	nmod	_	SpaceAfter=No|Gloss=soldier|Translit=
+18	ของ	ของ	ADP	_	_	19	case	_	SpaceAfter=No|Gloss=of|Translit=
+19	เรา	เรา	PRON	_	Person=1|PronType=Prs	13	nmod	_	SpaceAfter=No|Gloss=we|Translit=
+20	ได้	ได้	VERB	_	_	8	ccomp	_	SpaceAfter=No|Gloss=|Translit=
+21	สัดส่วน	สัดส่วน	NOUN	_	_	20	obl:arg	_	SpaceAfter=No|Gloss=|Translit=
+22	กับ	กับ	ADP	_	_	23	case	_	SpaceAfter=No|Gloss=with|Translit=
+23	ความ	ความ	NOUN	_	NounType=Nmlz	20	obl	_	SpaceAfter=No|Gloss=|Translit=
+24	เป็น	เป็น	VERB	_	_	23	acl	_	SpaceAfter=No|Gloss=be|Translit=
+25	จริง	จริง	VERB	_	_	24	compound:svc	_	SpaceAfter=No|Gloss=be real|Translit=
+26	และ	และ	CCONJ	_	_	28	cc	_	SpaceAfter=No|Gloss=and|Translit=
+27	ไม่	ไม่	ADV	_	_	28	advmod	_	SpaceAfter=No|Gloss=not|Translit=
+28	มี	มี	VERB	_	_	20	conj	_	SpaceAfter=No|Gloss=have|Translit=
+29	เป้าหมาย	เป้าหมาย	NOUN	_	_	28	obl:arg	_	SpaceAfter=No|Gloss=goal|Translit=
+30	เพื่อ	เพื่อ	ADP	_	_	31	mark	_	SpaceAfter=No|Gloss=for|Translit=
+31	ทำลาย	ทำลาย	VERB	_	_	29	acl	_	SpaceAfter=No|Gloss=destroy|Translit=
+32	ล้าง	ล้าง	VERB	_	_	31	flat	_	Gloss=|Translit=
+
+# sent_id = Thai_Political_Cambodia_Thai_News13_12
+# text = หลักฐานทุกอย่างยืนยันว่าประเทศไทยปฏิบัติตามกฎหมายระหว่างประเทศ ข้อตกลงระหว่างประเทศ และกฎบัตรของสหประชาชาติ
+# text_en = 
+# tokenised_text = หลักฐาน ทุก อย่าง ยืนยัน ว่า ประเทศ ไทย ปฏิบัติ ตาม กฎหมาย ระหว่าง ประเทศ ข้อ ตกลง ระหว่าง ประเทศ และ กฎบัตร ของ สหประชาชาติ
+# tokenised_translit =
+# tokenised_transcript =
+# phrase_type = sentence
+# sentence_position = 
+# genre = political_news_article
+# source = https://www.thairath.co.th/news/politic/2878514#goog_rewarded
+# year = 2025
+1	หลักฐาน	หลักฐาน	NOUN	_	_	4	nsubj	_	SpaceAfter=No|Gloss=evidence|Translit=
+2	ทุก	ทุก	DET	_	_	3	det	_	SpaceAfter=No|Gloss=every|Translit=
+3	อย่าง	อย่าง	NOUN	_	NounType=Clf	1	clf	_	SpaceAfter=No|Gloss=|Translit=
+4	ยืนยัน	ยืนยัน	VERB	_	_	0	root	_	SpaceAfter=No|Gloss=insist|Translit=
+5	ว่า	ว่า	SCONJ	_	_	8	mark	_	SpaceAfter=No|Gloss=that(COMP)|Translit=
+6	ประเทศ	ประเทศ	NOUN	_	_	8	nsubj	_	SpaceAfter=No|Gloss=country|Translit=
+7	ไทย	ไทย	PROPN	_	_	6	nmod	_	SpaceAfter=No|Gloss=Thai|Translit=
+8	ปฏิบัติ	ปฏิบัติ	VERB	_	_	4	ccomp	_	SpaceAfter=No|Gloss=|Translit=
+9	ตาม	ตาม	ADP	_	_	10	case	_	SpaceAfter=No|Gloss=following|Translit=
+10	กฎหมาย	กฎหมาย	NOUN	_	_	8	obl	_	SpaceAfter=No|Gloss=|Translit=
+11	ระหว่าง	ระหว่าง	ADP	_	_	12	case	_	SpaceAfter=No|Gloss=between|Translit=
+12	ประเทศ	ประเทศ	NOUN	_	_	10	nmod	_	Gloss=country|Translit=
+13	ข้อ	ข้อ	NOUN	_	_	10	conj	_	SpaceAfter=No|Gloss=|Translit=
+14	ตกลง	ตกลง	VERB	_	_	13	acl	_	SpaceAfter=No|Gloss=|Translit=
+15	ระหว่าง	ระหว่าง	ADP	_	_	16	case	_	SpaceAfter=No|Gloss=between|Translit=
+16	ประเทศ	ประเทศ	NOUN	_	_	13	nmod	_	Gloss=country|Translit=
+17	และ	และ	CCONJ	_	_	18	cc	_	SpaceAfter=No|Gloss=and|Translit=
+18	กฎบัตร	กฎบัตร	NOUN	_	_	10	conj	_	SpaceAfter=No|Gloss=|Translit=
+19	ของ	ของ	ADP	_	_	20	case	_	SpaceAfter=No|Gloss=of|Translit=
+20	สหประชาชาติ	สหประชาชาติ	NOUN	_	_	18	nmod	_	Gloss=|Translit=
+
+# sent_id = Thai_Political_Cambodia_Thai_News13_13
+# text = “อาวุธที่เราใช้ ยืนยันได้ว่าเราทำเพื่อป้องกันตัวเอง ขณะที่กัมพูชาใช้อาวุธเพื่อโจมตีระยะไกล ไม่สอดคล้องกับกฎหมายระหว่างประเทศ เป็นการโจมตีเป้าหมายทางพลเรือน
+# text_en = 
+# tokenised_text = “ อาวุธ ที่ เรา ใช้ ยืนยัน ได้ ว่า เรา ทำ เพื่อ ป้องกัน ตัว เอง ขณะ ที่ กัมพูชา ใช้ อาวุธ เพื่อ โจมตี ระยะ ไกล ไม่ สอดคล้อง กับ กฎหมาย ระหว่าง ประเทศ เป็น การ โจมตี เป้าหมาย ทาง พลเรือน
+# tokenised_translit =
+# tokenised_transcript =
+# phrase_type = sentence
+# sentence_position = 
+# genre = political_news_article
+# source = https://www.thairath.co.th/news/politic/2878514#goog_rewarded
+# year = 2025
+1	“	“	PUNCT	_	_	6	punct	_	SpaceAfter=No
+2	อาวุธ	อาวุธ	NOUN	_	_	6	nsubj	_	SpaceAfter=No|Gloss=weapon|Translit=
+3	ที่	ที่	PRON	_	_	5	obj	_	SpaceAfter=No|Gloss=that(REL)|Translit=
+4	เรา	เรา	PRON	_	Person=1|PronType=Prs	5	nsubj	_	SpaceAfter=No|Gloss=we|Translit=
+5	ใช้	ใช้	VERB	_	_	2	acl:relcl	_	Gloss=use|Translit=
+6	ยืนยัน	ยืนยัน	VERB	_	_	0	root	_	SpaceAfter=No|Gloss=insist|Translit=
+7	ได้	ได้	VERB	_	_	6	advcl	_	SpaceAfter=No|Gloss=|Translit=
+8	ว่า	ว่า	SCONJ	_	_	10	mark	_	SpaceAfter=No|Gloss=that(COMP)|Translit=
+9	เรา	เรา	PRON	_	Person=1|PronType=Prs	10	nsubj	_	SpaceAfter=No|Gloss=we|Translit=
+10	ทำ	ทำ	VERB	_	_	6	ccomp	_	SpaceAfter=No|Gloss=make|Translit=
+11	เพื่อ	เพื่อ	ADP	_	_	12	mark	_	SpaceAfter=No|Gloss=for|Translit=
+12	ป้องกัน	ป้องกัน	VERB	_	_	10	advcl	_	SpaceAfter=No|Gloss=protect|Translit=
+13	ตัว	ตัว	NOUN	_	_	12	obj	_	SpaceAfter=No|Gloss=body|Translit=
+14	เอง	เอง	ADJ	_	_	13	amod	_	Gloss=|Translit=
+15	ขณะ	ขณะ	NOUN	_	_	10	obl	_	SpaceAfter=No|Gloss=|Translit=
+16	ที่	ที่	PRON	_	_	18	obl	_	SpaceAfter=No|Gloss=that(REL)|Translit=
+17	กัมพูชา	กัมพูชา	PROPN	_	_	18	nsubj	_	SpaceAfter=No|Gloss=Cambodia|Translit=
+18	ใช้	ใช้	VERB	_	_	15	acl:relcl	_	SpaceAfter=No|Gloss=use|Translit=
+19	อาวุธ	อาวุธ	NOUN	_	_	18	obj	_	SpaceAfter=No|Gloss=weapon|Translit=
+20	เพื่อ	เพื่อ	ADP	_	_	21	mark	_	SpaceAfter=No|Gloss=for|Translit=
+21	โจมตี	โจมตี	VERB	_	_	18	advcl	_	SpaceAfter=No|Gloss=|Translit=
+22	ระยะ	ระยะ	NOUN	_	_	21	obl	_	SpaceAfter=No|Gloss=distance|Translit=
+23	ไกล	ไกล	VERB	_	_	22	acl	_	Gloss=be far|Translit=
+24	ไม่	ไม่	ADV	_	_	25	advmod	_	SpaceAfter=No|Gloss=not|Translit=
+25	สอดคล้อง	สอดคล้อง	VERB	_	_	18	advcl	_	SpaceAfter=No|Gloss=|Translit=
+26	กับ	กับ	ADP	_	_	27	case	_	SpaceAfter=No|Gloss=with|Translit=
+27	กฎหมาย	กฎหมาย	NOUN	_	_	25	obl	_	SpaceAfter=No|Gloss=|Translit=
+28	ระหว่าง	ระหว่าง	ADP	_	_	29	case	_	SpaceAfter=No|Gloss=between|Translit=
+29	ประเทศ	ประเทศ	NOUN	_	_	27	nmod	_	Gloss=country|Translit=
+30	เป็น	เป็น	AUX	_	_	31	cop	_	SpaceAfter=No|Gloss=be|Translit=
+31	การ	การ	NOUN	_	NounType=Nmlz	25	conj	_	SpaceAfter=No|Gloss=|Translit=
+32	โจมตี	โจมตี	VERB	_	_	31	acl	_	SpaceAfter=No|Gloss=|Translit=
+33	เป้าหมาย	เป้าหมาย	NOUN	_	_	32	obj	_	SpaceAfter=No|Gloss=|Translit=
+34	ทาง	ทาง	ADP	_	_	35	case	_	SpaceAfter=No|Gloss=|Translit=
+35	พลเรือน	พลเรือน	NOUN	_	_	33	nmod	_	Gloss=|Translit=
+
+# sent_id = Thai_Political_Cambodia_Thai_News13_14
+# text = รวมถึงการใช้ทุ่นระเบิดสังหารบุคคล การปฏิบัติการสงครามข่าวสาร ใช้ความเห็นสาธารณะ ชวนเชื่อทัศนคติของสังคมให้เกิดความเข้าใจผิดระหว่างกัน ซึ่งเป็นสิ่งที่หลายประเทศยอมรับไม่ได้”
+# text_en = 
+# tokenised_text = รวม ถึง การ ใช้ ทุ่นระเบิด สังหาร บุคคล การ ปฏิบัติ การ สงคราม ข่าวสาร ใช้ ความเห็น สาธารณะ ชวน เชื่อ ทัศนคติ ของ สังคม ให้ เกิด ความ เข้าใจ ผิด ระหว่าง กัน ซึ่ง เป็น สิ่ง ที่ หลาย ประเทศ ยอมรับ ไม่ ได้ ”
+# tokenised_translit =
+# tokenised_transcript =
+# phrase_type = sentence
+# sentence_position = 
+# genre = political_news_article
+# source = https://www.thairath.co.th/news/politic/2878514#goog_rewarded
+# year = 2025
+1	รวม	รวม	VERB	_	_	0	root	_	SpaceAfter=No|Gloss=include|Translit=
+2	ถึง	ถึง	ADP	_	_	3	case	_	SpaceAfter=No|Gloss=|Translit=
+3	การ	การ	NOUN	_	NounType=Nmlz	1	obl	_	SpaceAfter=No|Gloss=|Translit=
+4	ใช้	ใช้	VERB	_	_	3	acl	_	SpaceAfter=No|Gloss=use|Translit=
+5	ทุ่น	ทุ่น	NOUN	_	_	4	obj	_	SpaceAfter=No|Gloss=|Translit=
+6	ระเบิด	ระเบิด	VERB	_	_	5	acl	_	SpaceAfter=No|Gloss=explode|Translit=
+7	สังหาร	สังหาร	VERB	_	_	4	advcl	_	SpaceAfter=No|Gloss=kill|Translit=
+8	บุคคล	บุคคล	NOUN	_	_	7	obj	_	Gloss=person|Translit=
+9	การ	การ	NOUN	_	NounType=Nmlz	3	conj	_	SpaceAfter=No|Gloss=|Translit=
+10	ปฏิบัติการ	ปฏิบัติการ	VERB	_	_	9	acl	_	SpaceAfter=No|Gloss=|Translit=
+11	สงคราม	สงคราม	NOUN	_	_	10	obj	_	SpaceAfter=No|Gloss=war|Translit=
+12	ข่าวสาร	ข่าวสาร	NOUN	_	_	11	nmod	_	Gloss=|Translit=
+13	ใช้	ใช้	VERB	_	_	3	conj	_	SpaceAfter=No|Gloss=use|Translit=
+14	ความเห็น	ความเห็น	NOUN	_	_	13	obj	_	SpaceAfter=No|Gloss=opinion|Translit=
+15	สาธารณะ	สาธารณะ	VERB	_	_	14	acl	_	Gloss=public|Translit=
+16	ชวน	ชวน	VERB	_	_	3	conj	_	SpaceAfter=No|Gloss=|Translit=
+17	เชื่อ	เชื่อ	VERB	_	_	16	compound:svc	_	SpaceAfter=No|Gloss=believe|Translit=
+18	ทัศนคติ	ทัศนคติ	NOUN	_	_	17	obj	_	SpaceAfter=No|Gloss=attitude|Translit=
+19	ของ	ของ	ADP	_	_	20	case	_	SpaceAfter=No|Gloss=of|Translit=
+20	สังคม	สังคม	NOUN	_	_	18	nmod	_	SpaceAfter=No|Gloss=society|Translit=
+21	ให้	ให้	VERB	_	_	17	advcl	_	SpaceAfter=No|Gloss=give|Translit=
+22	เกิด	เกิด	VERB	_	_	21	compound:svc	_	SpaceAfter=No|Gloss=|Translit=
+23	ความ	ความ	NOUN	_	NounType=Nmlz	22	obj	_	SpaceAfter=No|Gloss=|Translit=
+24	เข้าใจ	เข้าใจ	VERB	_	_	23	acl	_	SpaceAfter=No|Gloss=understand|Translit=
+25	ผิด	ผิด	ADV	_	_	24	advmod	_	SpaceAfter=No|Gloss=wrong|Translit=
+26	ระหว่าง	ระหว่าง	ADP	_	_	27	case	_	SpaceAfter=No|Gloss=between|Translit=
+27	กัน	กัน	PRON	_	_	22	obl	_	Gloss=|Translit=
+28	ซึ่ง	ซึ่ง	PRON	_	_	30	nsubj	_	SpaceAfter=No|Gloss=that(REL)|Translit=
+29	เป็น	เป็น	AUX	_	_	30	cop	_	SpaceAfter=No|Gloss=be|Translit=
+30	สิ่ง	สิ่ง	NOUN	_	_	3	acl:relcl	_	SpaceAfter=No|Gloss=thing|Translit=
+31	ที่	ที่	PRON	_	_	34	obj	_	SpaceAfter=No|Gloss=that(REL)|Translit=
+32	หลาย	หลาย	DET	_	_	33	det	_	SpaceAfter=No|Gloss=several|Translit=
+33	ประเทศ	ประเทศ	NOUN	_	NounType=Clf	34	nsubj	_	SpaceAfter=No|Gloss=country|Translit=
+34	ยอมรับ	ยอมรับ	VERB	_	_	30	acl:relcl	_	SpaceAfter=No|Gloss=|Translit=
+35	ไม่	ไม่	ADV	_	_	36	advmod	_	SpaceAfter=No|Gloss=not|Translit=
+36	ได้	ได้	VERB	_	_	34	advcl	_	SpaceAfter=No|Gloss=|Translit=
+37	”	”	PUNCT	_	_	1	punct	_	_
+
+# sent_id = Thai_Political_Cambodia_Thai_News13_15
+# text = ขณะเดียวกัน นายมาริษ ยังกล่าวด้วยว่า หลังการเยือนสวีเดนแล้วตนจะเดินทางไปเจนีวา ประเทศสวิตเซอร์แลนด์ ในวันที่ 26 สิงหาคม 2568 โดยมีเป้าหมายหลักไปชี้แจงให้กับประเทศกลุ่มสัญญาอนุภาคีให้เข้าใจสถานการณ์ไทย-กัมพูชา 
+# text_en = 
+# tokenised_text = ขณะ เดียว กัน นาย มาริษ ยัง กล่าว ด้วย ว่า หลัง การ เยือน สวีเดน แล้ว ตน จะ เดินทาง ไป เจนีวา ประเทศ สวิตเซอร์แลนด์ ใน วัน ที่ 26 สิงหาคม 2568 โดย มี เป้าหมาย หลัก ไป ชี้แจง ให้ กับ ประเทศ กลุ่ม สัญญา อนุภาคี ให้ เข้าใจ สถานการณ์ ไทย - กัมพูชา
+# tokenised_translit =
+# tokenised_transcript =
+# phrase_type = sentence
+# sentence_position = 
+# genre = political_news_article
+# source = https://www.thairath.co.th/news/politic/2878514#goog_rewarded
+# year = 2025
+1	ขณะ	ขณะ	NOUN	_	_	7	obl	_	SpaceAfter=No|Gloss=|Translit=
+2	เดียว	เดียว	VERB	_	_	1	acl	_	SpaceAfter=No|Gloss=|Translit=
+3	กัน	กัน	ADV	_	_	2	advmod	_	Gloss=|Translit=
+4	นาย	นาย	NOUN	_	_	7	nsubj	_	SpaceAfter=No|Gloss=Mister|Translit=
+5	มาริษ	มาริษ	PROPN	_	_	4	nmod	_	Gloss=|Translit=
+6	ยัง	ยัง	ADV	_	_	7	advmod	_	SpaceAfter=No|Gloss=still|Translit=
+7	กล่าว	กล่าว	VERB	_	_	0	root	_	SpaceAfter=No|Gloss=say|Translit=
+8	ด้วย	ด้วย	ADV	_	_	7	advmod	_	SpaceAfter=No|Gloss=also|Translit=
+9	ว่า	ว่า	SCONJ	_	_	17	mark	_	Gloss=that(COMP)|Translit=
+10	หลัง	หลัง	ADP	_	_	11	case	_	SpaceAfter=No|Gloss=after|Translit=
+11	การ	การ	NOUN	_	NounType=Nmlz	17	obl	_	SpaceAfter=No|Gloss=|Translit=
+12	เยือน	เยือน	VERB	_	_	11	acl	_	SpaceAfter=No|Gloss=visit|Translit=
+13	สวีเดน	สวีเดน	PROPN	_	Foreign=Yes	12	obl:arg	_	SpaceAfter=No|Gloss=Sweden|Translit=
+14	แล้ว	แล้ว	ADV	_	_	12	advmod	_	_
+15	ตน	ตน	NOUN	_	ExtPos=PRON|Person=1|PronType=Prs	17	nsubj	_	SpaceAfter=No|Gloss=I|Translit=
+16	จะ	จะ	ADV	_	_	17	advmod	_	SpaceAfter=No|Gloss=|Translit=
+17	เดินทาง	เดินทาง	VERB	_	_	7	ccomp	_	SpaceAfter=No|Gloss=travel|Translit=
+18	ไป	ไป	VERB	_	_	17	compound:svc	_	SpaceAfter=No|Gloss=go|Translit=
+19	เจนีวา	เจนีวา	PROPN	_	Foreign=Yes	18	obl:arg	_	Gloss=|Translit=
+20	ประเทศ	ประเทศ	NOUN	_	_	19	nmod	_	SpaceAfter=No|Gloss=country|Translit=
+21	สวิตเซอร์แลนด์	สวิตเซอร์แลนด์	PROPN	_	Foreign=Yes	20	nmod	_	Gloss=Switzerland|Translit=
+22	ใน	ใน	ADP	_	_	23	case	_	SpaceAfter=No|Gloss=in|Translit=
+23	วัน	วัน	NOUN	_	_	17	obl	_	SpaceAfter=No|Gloss=day|Translit=
+24	ที่	ที่	NOUN	_	_	23	nmod	_	Gloss=|Translit=
+25	26	26	NUM	_	_	24	nmod	_	Gloss=26|Translit=
+26	สิงหาคม	สิงหาคม	NOUN	_	_	23	nmod	_	Gloss=August|Translit=
+27	2568	2568	NUM	_	_	26	nmod	_	Gloss=2568|Translit=
+28	โดย	โดย	ADP	_	_	29	mark	_	SpaceAfter=No|Gloss=by|Translit=
+29	มี	มี	VERB	_	_	17	advcl	_	SpaceAfter=No|Gloss=have|Translit=
+30	เป้าหมาย	เป้าหมาย	NOUN	_	_	29	obl:arg	_	SpaceAfter=No|Gloss=goal|Translit=
+31	หลัก	หลัก	NOUN	_	_	30	nmod	_	SpaceAfter=No|Gloss=|Translit=
+32	ไป	ไป	VERB	_	_	29	advcl	_	SpaceAfter=No|Gloss=go|Translit=
+33	ชี้แจง	ชี้แจง	VERB	_	_	32	compound:svc	_	SpaceAfter=No|Gloss=|Translit=
+34	ให้	ให้	VERB	_	_	33	compound:svc	_	SpaceAfter=No|Gloss=give|Translit=
+35	กับ	กับ	ADP	_	_	36	case	_	SpaceAfter=No|Gloss=with|Translit=
+36	ประเทศ	ประเทศ	NOUN	_	_	34	obl	_	SpaceAfter=No|Gloss=country|Translit=
+37	กลุ่ม	กลุ่ม	NOUN	_	_	36	nmod	_	SpaceAfter=No|Gloss=group|Translit=
+38	สัญญา	สัญญา	NOUN	_	_	37	nmod	_	SpaceAfter=No|Gloss=|Translit=
+39	อนุภาคี	อนุภาคี	NOUN	_	_	38	nmod	_	SpaceAfter=No|Gloss=|Translit=
+40	ให้	ให้	VERB	_	_	33	advcl	_	SpaceAfter=No|Gloss=give|Translit=
+41	เข้าใจ	เข้าใจ	VERB	_	_	40	compound:svc	_	SpaceAfter=No|Gloss=understand|Translit=
+42	สถานการณ์	สถานการณ์		NOUN	_	_	41	obj	_	SpaceAfter=No|Gloss=situation|Translit=
+43	ไทย	ไทย	PROPN	_	_	42	nmod	_	SpaceAfter=No|Gloss=Thailand|Translit=
+44	-	-	SYM	_	_	45	cc	_	SpaceAfter=No
+45	กัมพูชา	กัมพูชา	PROPN	_	_	43	conj	_	Gloss=Cambodia|Translit=
+
+# sent_id = Thai_Political_Cambodia_Thai_News13_16
+# text = ซึ่งกัมพูชาใช้ยุทธศาสตร์ของการใช้วัตถุระเบิดสังหารบุคคล ที่ขัดต่อกฎหมายระหว่างประเทศ และอนุสัญญาออตตาวา 
+# text_en = 
+# tokenised_text = ซึ่ง กัมพูชา ใช้ ยุทธศาสตร์ ของ การ ใช้ วัตถุ ระเบิด สังหาร บุคคล ที่ ขัด ต่อ กฎหมาย ระหว่าง ประเทศ และ อนุสัญญา ออตตาวา
+# tokenised_translit =
+# tokenised_transcript =
+# phrase_type = sentence
+# sentence_position = 
+# genre = political_news_article
+# source = https://www.thairath.co.th/news/politic/2878514#goog_rewarded
+# year = 2025
+1	ซึ่ง	ซึ่ง	PART	_	_	3	discourse	_	SpaceAfter=No|Gloss=|Translit=
+2	กัมพูชา	กัมพูชา	PROPN	_	_	3	nsubj	_	SpaceAfter=No|Gloss=Cambodia|Translit=
+3	ใช้	ใช้	VERB	_	_	0	root	_	SpaceAfter=No|Gloss=use|Translit=
+4	ยุทธศาสตร์	ยุทธศาสตร์	NOUN	_	_	3	obj	_	SpaceAfter=No|Gloss=strategy|Translit=
+5	ของ	ของ	ADP	_	_	6	case	_	SpaceAfter=No|Gloss=of|Translit=
+6	การ	การ	NOUN	_	NounType=Nmlz	4	nmod	_	SpaceAfter=No|Gloss=|Translit=
+7	ใช้	ใช้	VERB	_	_	6	acl	_	SpaceAfter=No|Gloss=use|Translit=
+8	วัตถุ	วัตถุ	NOUN	_	_	7	obj	_	SpaceAfter=No|Gloss=|Translit=
+9	ระเบิด	ระเบิด	VERB	_	_	8	acl	_	SpaceAfter=No|Gloss=explode|Translit=
+10	สังหาร	สังหาร	VERB	_	_	7	advcl	_	SpaceAfter=No|Gloss=kill|Translit=
+11	บุคคล	บุคคล	NOUN	_	_	10	obj	_	Gloss=person|Translit=
+12	ที่	ที่	PRON	_	_	13	nsubj	_	SpaceAfter=No|Gloss=that(REL)|Translit=
+13	ขัด	ขัด	VERB	_	_	4	acl:relcl	_	SpaceAfter=No|Gloss=conflict|Translit=
+14	ต่อ	ต่อ	ADP	_	_	15	case	_	SpaceAfter=No|Gloss=|Translit=
+15	กฎหมาย	กฎหมาย	NOUN	_	_	13	obl	_	SpaceAfter=No|Gloss=|Translit=
+16	ระหว่าง	ระหว่าง	ADP	_	_	17	case	_	SpaceAfter=No|Gloss=between|Translit=
+17	ประเทศ	ประเทศ	NOUN	_	_	15	nmod	_	Gloss=country|Translit=
+18	และ	และ	CCONJ	_	_	19	cc	_	SpaceAfter=No|Gloss=and|Translit=
+19	อนุสัญญา	อนุสัญญา	NOUN	_	_	15	conj	_	SpaceAfter=No|Gloss=|Translit=
+20	ออตตาวา	ออตตาวา	PROPN	_	Foreign=Yes	19	nmod	_	Gloss=|Translit=
+
+# sent_id = Thai_Political_Cambodia_Thai_News13_17
+# text = อีกทั้งในโอกาสนี้จะพบกับสำนักงานข้าหลวงใหญ่สิทธิมนุษยชน ซึ่งเป็นเรื่องที่เกี่ยวข้องกับการใช้ทุ่นระเบิดสังหาร การละเมิดสิทธิมนุษยชนด้วยการโจมตีเป้าหมายพลเรือน ของกัมพูชา รวมทั้งการใช้โซเชียลมีเดีย
+# text_en = 
+# tokenised_text = อีก ทั้ง ใน โอกาส นี้ จะ พบ กับ สำนักงาน ข้าหลวง ใหญ่ สิทธิมนุษยชน ซึ่ง เป็น เรื่อง ที่ เกี่ยวข้อง กับ การ ใช้ ทุ่นระเบิด สังหาร การ ละเมิด สิทธิมนุษยชน ด้วย การ โจมตี เป้าหมาย พลเรือน ของ กัมพูชา รวม ทั้ง การ ใช้ โซเชียล มีเดีย
+# tokenised_translit =
+# tokenised_transcript =
+# phrase_type = sentence
+# sentence_position = 
+# genre = political_news_article
+# source = https://www.thairath.co.th/news/politic/2878514#goog_rewarded
+# year = 2025
+1	อีกทั้ง	อีกทั้ง	ADV	_	_	6	advmod	_	SpaceAfter=No|Gloss=|Translit=
+2	ใน	ใน	ADP	_	_	3	case	_	SpaceAfter=No|Gloss=in|Translit=
+3	โอกาส	โอกาส	NOUN	_	_	6	obl	_	SpaceAfter=No|Gloss=opportunity|Translit=
+4	นี้	นี้	ADJ	_	_	3	amod	_	SpaceAfter=No|Gloss=this|Translit=
+5	จะ	จะ	ADV	_	_	6	advmod	_	SpaceAfter=No|Gloss=|Translit=
+6	พบ	พบ	VERB	_	_	0	root	_	SpaceAfter=No|Gloss=|Translit=
+7	กับ	กับ	ADP	_	_	8	case	_	SpaceAfter=No|Gloss=with|Translit=
+8	สำนักงาน	สำนักงาน	NOUN	_	_	6	obl	_	SpaceAfter=No|Gloss=|Translit=
+9	ข้าหลวง	ข้าหลวง	NOUN	_	_	8	nmod	_	SpaceAfter=No|Gloss=|Translit=
+10	ใหญ่	ใหญ่	VERB	_	_	9	acl	_	SpaceAfter=No|Gloss=big|Translit=
+11	สิทธิมนุษยชน	สิทธิมนุษยชน	NOUN	_	_	9	nmod	_	Gloss=|Translit=
+12	ซึ่ง	ซึ่ง	SCONJ	_	_	14	mark	_	SpaceAfter=No|Gloss=that(COMP)|Translit=
+13	เป็น	เป็น	AUX	_	_	14	cop	_	SpaceAfter=No|Gloss=be|Translit=
+14	เรื่อง	เรื่อง	NOUN	_	_	6	advcl	_	SpaceAfter=No|Gloss=|Translit=
+15	ที่	ที่	PRON	_	_	16	nsubj	_	SpaceAfter=No|Gloss=that(REL)|Translit=
+16	เกี่ยวข้อง	เกี่ยวข้อง	VERB	_	_	14	acl:relcl	_	SpaceAfter=No|Gloss=|Translit=
+17	กับ	กับ	ADP	_	_	18	case	_	SpaceAfter=No|Gloss=with|Translit=
+18	การ	การ	NOUN	_	NounType=Nmlz	16	obl	_	SpaceAfter=No|Gloss=|Translit=
+19	ใช้	ใช้	VERB	_	_	18	acl	_	SpaceAfter=No|Gloss=use|Translit=
+20	ทุ่น	ทุ่น	NOUN	_	_	19	obj	_	SpaceAfter=No|Gloss=|Translit=
+21	ระเบิด	ระเบิด	VERB	_	_	20	acl	_	SpaceAfter=No|Gloss=explode|Translit=
+22	สังหาร	สังหาร	VERB	_	_	19	advcl	_	Gloss=kill|Translit=
+23	การ	การ	NOUN	_	NounType=Nmlz	18	conj	_	SpaceAfter=No|Gloss=|Translit=
+24	ละเมิด	ละเมิด	VERB	_	_	23	acl	_	SpaceAfter=No|Gloss=violate|Translit=
+25	สิทธิมนุษยชน	สิทธิมนุษยชน	NOUN	_	_	24	obj	_	SpaceAfter=No|Gloss=|Translit=
+26	ด้วย	ด้วย	ADP	_	_	27	case	_	SpaceAfter=No|Gloss=also|Translit=
+27	การ	การ	NOUN	_	NounType=Nmlz	23	nmod	_	SpaceAfter=No|Gloss=|Translit=
+28	โจมตี	โจมตี	VERB	_	_	27	acl	_	SpaceAfter=No|Gloss=|Translit=
+29	เป้าหมาย	เป้าหมาย	NOUN	_	_	28	obj	_	SpaceAfter=No|Gloss=goal|Translit=
+30	พลเรือน	พลเรือน	NOUN	_	_	29	nmod	_	CorrectSpaceAfter=No|Gloss=|Translit=
+31	ของ	ของ	ADP	_	_	32	case	_	SpaceAfter=No|Gloss=of|Translit=
+32	กัมพูชา	กัมพูชา	PROPN	_	_	30	nmod	_	Gloss=Cambodia|Translit=
+33	รวม	รวม	VERB	_	_	18	acl	_	SpaceAfter=No|Gloss=include|Translit=
+34	ทั้ง	ทั้ง	ADP	_	_	35	case	_	SpaceAfter=No|Gloss=|Translit=
+35	การ	การ	NOUN	_	NounType=Nmlz	33	obl	_	SpaceAfter=No|Gloss=|Translit=
+36	ใช้	ใช้	VERB	_	_	35	acl	_	SpaceAfter=No|Gloss=use|Translit=
+37	โซเชียล	โซเชียล	ADJ	_	Foreign=Yes	38	amod	_	SpaceAfter=No|Gloss=social|Translit=
+38	มีเดีย	มีเดีย	NOUN	_	Foreign=Yes	36	obj	_	Gloss=media|Translit=
+
+# sent_id = Thai_Political_Cambodia_Thai_News13_18
+# text = ซึ่งเมื่อ 2 สัปดาห์ที่ผ่านมา คณะกรรมการกาชาดระหว่างประเทศ (ICRC) ก็ได้ออกมาพูดชัดเจนว่าไม่เห็นด้วยอย่างมาก และไม่สนับสนุนให้มีการใช้สงครามข่าวสาร ในการต่อสู้โดยใช้พลเรือนเป็นตัวกระทำให้เกิดความเข้าใจผิดระหว่างกัน
+# text_en = 
+# tokenised_text = ซึ่ง เมื่อ 2 สัปดาห์ ที่ ผ่าน มา คณะ กรรมการ กาชาด ระหว่าง ประเทศ ( ICRC ) ก็ ได้ ออก มา พูด ชัดเจน ว่า ไม่ เห็น ด้วย อย่าง มาก และ ไม่ สนับสนุน ให้ มี การ ใช้ สงคราม ข่าวสาร ใน การ ต่อสู้ โดย ใช้ พลเรือน เป็น ตัว กระทำ ให้ เกิด ความ เข้าใจ ผิด ระหว่าง กัน
+# tokenised_translit =
+# tokenised_transcript =
+# phrase_type = sentence
+# sentence_position = 
+# genre = political_news_article
+# source = https://www.thairath.co.th/news/politic/2878514#goog_rewarded
+# year = 2025
+1	ซึ่ง	ซึ่ง	PART	_	_	17	discourse	_	SpaceAfter=No|Gloss=|Translit=
+2	เมื่อ	เมื่อ	NOUN	_	_	17	obl	_	Gloss=|Translit=
+3	2	2	NUM	_	_	2	nmod	_	Gloss=2|Translit=
+4	สัปดาห์	สัปดาห์	NOUN	_	NounType=Clf	3	clf	_	SpaceAfter=No|Gloss=week|Translit=
+5	ที่	ที่	PRON	_	_	6	nsubj	_	SpaceAfter=No|Gloss=that(REL)|Translit=
+6	ผ่าน	ผ่าน	VERB	_	_	3	acl:relcl	_	SpaceAfter=No|Gloss=pass|Translit=
+7	มา	มา	VERB	_	_	6	compound:svc	_	Gloss=come|Translit=
+8	คณะ	คณะ	NOUN	_	_	17	nsubj	_	SpaceAfter=No|Gloss=|Translit=
+9	กรรมการ	กรรมการ	NOUN	_	_	8	nmod	_	SpaceAfter=No|Gloss=|Translit=
+10	กาชาด	กาชาด	PROPN	_	_	8	nmod	_	SpaceAfter=No|Gloss=|Translit=
+11	ระหว่าง	ระหว่าง	ADP	_	_	12	case	_	SpaceAfter=No|Gloss=between|Translit=
+12	ประเทศ	ประเทศ	NOUN	_	_	8	nmod	_	Gloss=country|Translit=
+13	(	(	PUNCT	_	_	14	punct	_	SpaceAfter=No
+14	ICRC	ICRC	PROPN	_	_	8	appos	_	SpaceAfter=No|Gloss=|Translit=
+15	)	)	PUNCT	_	_	14	punct	_	_
+16	ก็	ก็	ADV	_	_	17	advmod	_	SpaceAfter=No|Gloss=|Translit=
+17	ได้	ได้	VERB	_	_	0	root	_	SpaceAfter=No|Gloss=|Translit=
+18	ออก	ออก	VERB	_	_	17	xcomp	_	SpaceAfter=No|Gloss=|Translit=
+19	มา	มา	VERB	_	_	18	compound:svc	_	SpaceAfter=No|Gloss=come|Translit=
+20	พูด	พูด	VERB	_	_	19	compound:svc	_	SpaceAfter=No|Gloss=speak|Translit=
+21	ชัดเจน	ชัดเจน	ADV	_	_	20	advmod	_	SpaceAfter=No|Gloss=clearly|Translit=
+22	ว่า	ว่า	SCONJ	_	_	24	mark	_	SpaceAfter=No|Gloss=that(COMP0|Translit=
+23	ไม่	ไม่	ADV	_	_	24	advmod	_	SpaceAfter=No|Gloss=not|Translit=
+24	เห็น	เห็น	VERB	_	_	20	ccomp	_	SpaceAfter=No|Gloss=see|Translit=
+25	ด้วย	ด้วย	ADV	_	_	24	advmod	_	SpaceAfter=No|Gloss=also|Translit=
+26	อย่าง	อย่าง	NOUN	_	_	24	obl	_	SpaceAfter=No|Gloss=|Translit=
+27	มาก	มาก	VERB	_	_	26	acl	_	Gloss=very|Translit=
+28	และ	และ	CCONJ	_	_	30	cc	_	SpaceAfter=No|Gloss=and|Translit=
+29	ไม่	ไม่	ADV	_	_	30	advmod	_	SpaceAfter=No|Gloss=not|Translit=
+30	สนับสนุน	สนับสนุน	VERB	_	_	24	conj	_	SpaceAfter=No|Gloss=support|Translit=
+31	ให้	ให้	VERB	_	_	30	compound:svc	_	SpaceAfter=No|Gloss=give|Translit=
+32	มี	มี	VERB	_	_	31	xcomp	_	SpaceAfter=No|Gloss=have|Translit=
+33	การ	การ	NOUN	_	NounType=Nmlz	32	nsubj	_	SpaceAfter=No|Gloss=|Translit=
+34	ใช้	ใช้	VERB	_	_	33	acl	_	SpaceAfter=No|Gloss=use|Translit=
+35	สงคราม	สงคราม	NOUN	_	_	34	obj	_	SpaceAfter=No|Gloss=war|Translit=
+36	ข่าวสาร	ข่าวสาร	NOUN	_	_	35	nmod	_	Gloss=|Translit=
+37	ใน	ใน	ADP	_	_	38	case	_	SpaceAfter=No|Gloss=in|Translit=
+38	การ	การ	NOUN	_	NounType=Nmlz	34	obl	_	SpaceAfter=No|Gloss=|Translit=
+39	ต่อสู้	ต่อสู้	VERB	_	_	38	acl	_	SpaceAfter=No|Gloss=|Translit=
+40	โดย	โดย	ADP	_	_	41	mark	_	SpaceAfter=No|Gloss=by|Translit=
+41	ใช้	ใช้	VERB	_	_	34	advcl	_	SpaceAfter=No|Gloss=use|Translit=
+42	พลเรือน	พลเรือน	NOUN	_	_	41	obj	_	SpaceAfter=No|Gloss=|Translit=
+43	เป็น	เป็น	AUX	_	_	44	cop	_	SpaceAfter=No|Gloss=be|Translit=
+44	ตัว	ตัว	NOUN	_	_	41	advcl	_	SpaceAfter=No|Gloss=body|Translit=
+45	กระทำ	กระทำ	VERB	_	_	44	acl	_	SpaceAfter=No|Gloss=|Translit=
+46	ให้	ให้	VERB	_	_	45	compound:svc	_	SpaceAfter=No|Gloss=give|Translit=
+47	เกิด	เกิด	VERB	_	_	46	xcomp	_	SpaceAfter=No|Gloss=|Translit=
+48	ความ	ความ	NOUN	_	NounType=Nmlz	47	obl:arg	_	SpaceAfter=No|Gloss=|Translit=
+49	เข้าใจ	เข้าใจ	VERB	_	_	48	acl	_	SpaceAfter=No|Gloss=understand|Translit=
+50	ผิด	ผิด	ADV	_	_	49	advmod	_	SpaceAfter=No|Gloss=wrong|Translit=
+51	ระหว่าง	ระหว่าง	ADP	_	_	52	case	_	SpaceAfter=No|Gloss=between|Translit=
+52	กัน	กัน	PRON	_	_	47	obl	_	Gloss=|Translit=
+
+# sent_id = Thai_Political_Cambodia_Thai_News13_19
+# text = โดยในโอกาสนี้ตนจะได้พบปะกับประธาน ICRC จะได้อธิบาย ทั้ง 2 ประการเหล่านี้ เพราะ ICRC เป็นองค์กรหลักที่ดูกฎหมายระหว่างประเทศ
+# text_en = 
+# tokenised_text = โดย ใน โอกาส นี้ ตน จะ ได้ พบปะ กับ ประธาน ICRC จะ ได้ อธิบาย ทั้ง 2 ประการ เหล่า นี้ เพราะ ICRC เป็น องค์กร หลัก ที่ ดู กฎหมาย ระหว่าง ประเทศ 
+# tokenised_translit =
+# tokenised_transcript =
+# phrase_type = sentence
+# sentence_position = 
+# genre = political_news_article
+# source = https://www.thairath.co.th/news/politic/2878514#goog_rewarded
+# year = 2025
+1	โดย	โดย	SCONJ	_	_	7	mark	_	SpaceAfter=No|Gloss=|Translit=
+2	ใน	ใน	ADP	_	_	3	case	_	SpaceAfter=No|Gloss=in|Translit=
+3	โอกาส	โอกาส	NOUN	_	_	7	obl	_	SpaceAfter=No|Gloss=opportunity|Translit=
+4	นี้	นี้	ADJ	_	_	3	amod	_	SpaceAfter=No|Gloss=this|Translit=
+5	ตน	ตน	NOUN	_	ExtPos=PRON|Person=1|PronType=Prs	7	nsubj	_	SpaceAfter=No|Gloss=I|Translit=
+6	จะ	จะ	ADV	_	_	7	advmod	_	SpaceAfter=No|Gloss=|Translit=
+7	ได้	ได้	VERB	_	_	0	root	_	SpaceAfter=No|Gloss=|Translit=
+8	พบปะ	พบปะ	VERB	_	_	7	xcomp	_	SpaceAfter=No|Gloss=|Translit=
+9	กับ	กับ	ADP	_	_	10	case	_	SpaceAfter=No|Gloss=with|Translit=
+10	ประธาน	ประธาน	NOUN	_	_	8	obl	_	Gloss=|Translit=
+11	ICRC	ICRC	PROPN	_	_	10	nmod	_	Gloss=|Translit=
+12	จะ	จะ	ADV	_	_	13	advmod	_	SpaceAfter=No|Gloss=|Translit=
+13	ได้	ได้	VERB	_	_	7	advcl	_	SpaceAfter=No|Gloss=|Translit=
+14	อธิบาย	อธิบาย	VERB	_	_	13	xcomp	_	Gloss=explain|Translit=
+15	ทั้ง	ทั้ง	DET	_	_	16	det	_	Gloss=|Translit=
+16	2	2	NUM	_	_	14	obj	_	Gloss=2|Translit=
+17	ประการ	ประการ	NOUN	_	NounType=Clf	16	clf	_	SpaceAfter=No|Gloss=|Translit=
+18	เหล่า	เหล่า	NOUN	_	_	16	nmod	_	SpaceAfter=No|Gloss=|Translit=
+19	นี้	นี้	ADJ	_	_	18	amod	_	Gloss=this|Translit=
+20	เพราะ	เพราะ	ADP	_	_	23	mark	_	Gloss=|Translit=
+21	ICRC	ICRC	PROPN	_	_	23	nsubj	_	Gloss=|Translit=
+22	เป็น	เป็น	AUX	_	_	23	cop	_	SpaceAfter=No|Gloss=be|Translit=
+23	องค์กร	องค์กร	NOUN	_	_	7	advcl	_	SpaceAfter=No|Gloss=organization|Translit=
+24	หลัก	หลัก	NOUN	_	_	23	nmod	_	SpaceAfter=No|Gloss=|Translit=
+25	ที่	ที่	PRON	_	_	26	nsubj	_	SpaceAfter=No|Gloss=that(REL)|Translit=
+26	ดู	ดู	VERB	_	_	23	acl:relcl	_	SpaceAfter=No|Gloss=look|Translit=
+27	กฎหมาย	กฎหมาย	NOUN	_	_	26	obj	_	SpaceAfter=No|Gloss=|Translit=
+28	ระหว่าง	ระหว่าง	ADP	_	_	29	case	_	SpaceAfter=No|Gloss=between|Translit=
+29	ประเทศ	ประเทศ	NOUN	_	_	27	nmod	_	Gloss=country|Translit=
+
+# sent_id = Thai_Political_Cambodia_Thai_News13_20
+# text = จากการดำเนินการที่ผ่านมา ทำให้ประชาคมโลกได้เข้าใจในความตั้งใจของรัฐบาลไทยว่าเราเป็นประเทศที่รักสันติ จะเห็นได้ว่าการปฏิบัติการทางทหารไม่ได้ถูกประเทศไหนตำหนิเลย
+# text_en = 
+# tokenised_text = จาก การ ดำเนิน การ ที่ ผ่าน มา ทำให้ ประชาคม โลก ได้ เข้าใจ ใน ความ ตั้งใจ ของ รัฐบาล ไทย ว่า เรา เป็น ประเทศ ที่ รัก สันติ จะ เห็น ได้ ว่า การ ปฏิบัติการ ทาง ทหาร ไม่ ได้ ถูก ประเทศ ไหน ตำหนิ เลย
+# tokenised_translit =
+# tokenised_transcript =
+# phrase_type = sentence
+# sentence_position = 
+# genre = political_news_article
+# source = https://www.thairath.co.th/news/politic/2878514#goog_rewarded
+# year = 2025
+1	จาก	จาก	ADP	_	_	2	case	_	SpaceAfter=No|Gloss=from|Translit=
+2	การ	การ	NOUN	_	NounType=Nmlz	8	obl	_	SpaceAfter=No|Gloss=|Translit=
+3	ดำเนิน	ดำเนิน	VERB	_	_	2	acl	_	SpaceAfter=No|Gloss=|Translit=
+4	การ	การ	NOUN	_	_	3	obj	_	SpaceAfter=No|Gloss=work|Translit=
+5	ที่	ที่	PRON	_	_	6	nsubj	_	SpaceAfter=No|Gloss=that(REL)|Translit=
+6	ผ่าน	ผ่าน	VERB	_	_	2	acl:relcl	_	SpaceAfter=No|Gloss=pass|Translit=
+7	มา	มา	VERB	_	_	6	compound:svc	_	Gloss=come|Translit=
+8	ทำให้	ทำให้	VERB	_	_	0	root	_	SpaceAfter=No|Gloss=cause|Translit=
+9	ประชาคม	ประชาคม	NOUN	_	_	8	obj	_	SpaceAfter=No|Gloss=|Translit=
+10	โลก	โลก	NOUN	_	_	9	nmod	_	SpaceAfter=No|Gloss=world|Translit=
+11	ได้	ได้	VERB	_	_	8	xcomp	_	SpaceAfter=No|Gloss=|Translit=
+12	เข้าใจ	เข้าใจ	VERB	_	_	11	xcomp	_	SpaceAfter=No|Gloss=understand|Translit=
+13	ใน	ใน	ADP	_	_	14	case	_	SpaceAfter=No|Gloss=in|Translit=
+14	ความ	ความ	NOUN	_	NounType=Nmlz	12	obl	_	SpaceAfter=No|Gloss=|Translit=
+15	ตั้งใจ	ตั้งใจ	VERB	_	_	14	acl	_	SpaceAfter=No|Gloss=determine|Translit=
+16	ของ	ของ	ADP	_	_	17	case	_	SpaceAfter=No|Gloss=of|Translit=
+17	รัฐบาล	รัฐบาล	NOUN	_	_	14	nmod	_	SpaceAfter=No|Gloss=government|Translit=
+18	ไทย	ไทย	PROPN	_	_	17	nmod	_	SpaceAfter=No|Gloss=Thai|Translit=
+19	ว่า	ว่า	SCONJ	_	_	22	mark	_	SpaceAfter=No|Gloss=that(COMP)|Translit=
+20	เรา	เรา	PRON	_	Person=1|PronType=Prs	22	nsubj	_	SpaceAfter=No|Gloss=we|Translit=
+21	เป็น	เป็น	AUX	_	_	22	cop	_	SpaceAfter=No|Gloss=be|Translit=
+22	ประเทศ	ประเทศ	NOUN	_	_	12	ccomp	_	SpaceAfter=No|Gloss=country|Translit=
+23	ที่	ที่	PRON	_	_	24	nsubj	_	SpaceAfter=No|Gloss=that(REL)|Translit=
+24	รัก	รัก	VERB	_	_	22	acl:relcl	_	SpaceAfter=No|Gloss=love|Translit=
+25	สันติ	สันติ	NOUN	_	_	24	obj	_	Gloss=peace|Translit=
+26	จะ	จะ	ADV	_	_	27	advmod	_	SpaceAfter=No|Gloss=|Translit=
+27	เห็น	เห็น	VERB	_	_	22	advcl	_	SpaceAfter=No|Gloss=see|Translit=
+28	ได้	ได้	VERB	_	_	27	advcl	_	SpaceAfter=No|Gloss=|Translit=
+29	ว่า	ว่า	SCONJ	_	_	35	mark	_	SpaceAfter=No|Gloss=that(COMP)|Translit=
+30	การ	การ	NOUN	_	NounType=Nmlz	35	nsubj	_	SpaceAfter=No|Gloss=|Translit=
+31	ปฏิบัติการ	ปฏิบัติการ	VERB	_	_	30	acl	_	SpaceAfter=No|Gloss=|Translit=
+32	ทาง	ทาง	ADP	_	_	33	case	_	SpaceAfter=No|Gloss=|Translit=
+33	ทหาร	ทหาร	NOUN	_	_	30	nmod	_	SpaceAfter=No|Gloss=soldier|Translit=
+34	ไม่	ไม่	ADV	_	_	35	advmod	_	SpaceAfter=No|Gloss=not|Translit=
+35	ได้	ได้	VERB	_	_	27	ccomp	_	SpaceAfter=No|Gloss=|Translit=
+36	ถูก	ถูก	VERB	_	_	35	xcomp	_	SpaceAfter=No|Gloss=|Translit=
+37	ประเทศ	ประเทศ	NOUN	_	_	36	obl:arg	_	SpaceAfter=No|Gloss=country|Translit=
+38	ไหน	ไหน	ADJ	_	_	37	amod	_	SpaceAfter=No|Gloss=|Translit=
+39	ตำหนิ	ตำหนิ	VERB	_	_	36	compound:svc	_	SpaceAfter=No|Gloss=blame|Translit=
+40	เลย	เลย	ADV	_	_	35	advmod	_	Gloss=completely|Translit=
+
+# sent_id = Thai_Political_Cambodia_Thai_News13_21
+# text = ซึ่งเป็นสิ่งที่ตนได้เดินสายที่ทุกประเทศเข้าใจว่าการใช้มาตรการทางของเราเป็นการตอบโต้ตามสัดส่วนความเป็นจริง ไม่ได้มีเป้าหมายที่จะทำลายล้างฝ่ายพลเรือน
+# text_en = 
+# tokenised_text = ซึ่ง เป็น สิ่ง ที่ ตน ได้ เดินสาย ที่ ทุก ประเทศ เข้าใจ ว่า การ ใช้ มาตรการ ทาง ของ เรา เป็น การ ตอบโต้ ตาม สัดส่วน ความ เป็น จริง ไม่ ได้ มี เป้าหมาย ที่ จะ ทำลาย ล้าง ฝ่าย พลเรือน
+# tokenised_translit =
+# tokenised_transcript =
+# phrase_type = sentence
+# sentence_position = 
+# genre = political_news_article
+# source = https://www.thairath.co.th/news/politic/2878514#goog_rewarded
+# year = 2025
+1	ซึ่ง	ซึ่ง	PART	_	_	3	discourse	_	SpaceAfter=No|Gloss=|Translit=
+2	เป็น	เป็น	AUX	_	_	3	cop	_	SpaceAfter=No|Gloss=be|Translit=
+3	สิ่ง	สิ่ง	NOUN	_	_	0	root	_	SpaceAfter=No|Gloss=thing|Translit=
+4	ที่	ที่	PRON	_	_	6	dislocated	_	SpaceAfter=No|Gloss=that(REL)|Translit=
+5	ตน	ตน	NOUN	_	ExtPos=PRON|Person=1|PronType=Prs	6	nsubj	_	SpaceAfter=No|Gloss=I|Translit=
+6	ได้	ได้	VERB	_	_	3	acl:relcl	_	SpaceAfter=No|Gloss=|Translit=
+7	เดินสาย	เดินสาย	VERB	_	_	6	xcomp	_	SpaceAfter=No|Gloss=|Translit=
+8	ที่	ที่	X	_	_	7	dep	_	SpaceAfter=No|Gloss=|Translit=
+9	ทุก	ทุก	DET	_	_	10	det	_	SpaceAfter=No|Gloss=every|Translit=
+10	ประเทศ	ประเทศ	NOUN	_	_	7	obl	_	SpaceAfter=No|Gloss=country|Translit=
+11	เข้าใจ	เข้าใจ	VERB	_	_	7	orphan	_	SpaceAfter=No|Gloss=understand|Translit=
+12	ว่า	ว่า	SCONJ	_	_	20	mark	_	SpaceAfter=No|Gloss=that(COMP)|Translit=
+13	การ	การ	NOUN	_	NounType=Nmlz	20	nsubj	_	SpaceAfter=No|Gloss=|Translit=
+14	ใช้	ใช้	VERB	_	_	13	acl	_	SpaceAfter=No|Gloss=use|Translit=
+15	มาตรการ	มาตรการ	NOUN	_	_	14	obj	_	SpaceAfter=No|Gloss=|Translit=
+16	ทาง	ทาง	ADP	_	_	15	nmod	_	SpaceAfter=No|Gloss=|Translit=
+17	ของ	ของ	ADP	_	_	18	case	_	SpaceAfter=No|Gloss=of|Translit=
+18	เรา	เรา	PRON	_	Person=1|PronType=Prs	15	nmod	_	SpaceAfter=No|Gloss=we|Translit=
+19	เป็น	เป็น	AUX	_	_	20	cop	_	SpaceAfter=No|Gloss=be|Translit=
+20	การ	การ	NOUN	_	NounType=Nmlz	11	ccomp	_	SpaceAfter=No|Gloss=|Translit=
+21	ตอบโต้	ตอบโต้	VERB	_	_	20	acl	_	SpaceAfter=No|Gloss=|Translit=
+22	ตาม	ตาม	ADP	_	_	23	case	_	SpaceAfter=No|Gloss=following|Translit=
+23	สัดส่วน	สัดส่วน	NOUN	_	_	21	obl	_	SpaceAfter=No|Gloss=|Translit=
+24	ความ	ความ	NOUN	_	NounType=Nmlz	23	nmod	_	SpaceAfter=No|Gloss=|Translit=
+25	เป็น	เป็น	VERB	_	_	24	acl	_	SpaceAfter=No|Gloss=be|Translit=
+26	จริง	จริง	VERB	_	_	25	compound:svc	_	Gloss=be real|Translit=
+27	ไม่	ไม่	ADV	_	_	28	advmod	_	SpaceAfter=No|Gloss=not|Translit=
+28	ได้	ได้	VERB	_	_	20	conj	_	SpaceAfter=No|Gloss=|Translit=
+29	มี	มี	VERB	_	_	28	xcomp	_	SpaceAfter=No|Gloss=have|Translit=
+30	เป้าหมาย	เป้าหมาย	NOUN	_	_	29	obl:arg	_	SpaceAfter=No|Gloss=goal|Translit=
+31	ที่	ที่	PRON	_	_	33	nsubj	_	SpaceAfter=No|Gloss=|Translit=
+32	จะ	จะ	ADV	_	_	33	advmod	_	SpaceAfter=No|Gloss=|Translit=
+33	ทำลาย	ทำลาย	VERB	_	_	30	acl:relcl	_	SpaceAfter=No|Gloss=destroy|Translit=
+34	ล้าง	ล้าง	VERB	_	_	33	flat	_	SpaceAfter=No|Gloss=|Translit=
+35	ฝ่าย	ฝ่าย	NOUN	_	_	33	obj	_	SpaceAfter=No|Gloss=|Translit=
+36	พลเรือน	พลเรือน	NOUN	_	_	35	nmod	_	Gloss=|Translit=
+
+# sent_id = Thai_Political_Cambodia_Thai_News13_22
+# text = ดังนั้น สิ่งที่ตนเตรียมมาชี้แจงถือเป็นประโยชน์อย่างยิ่งที่จะทำให้ประชาคมโลกเข้าใจ ถึงแนวทางและท่าทีของประเทศไทย ซึ่งดำเนินการทุกอย่างสอดคล้องกับความตกลงระหว่างประเทศกฎหมายระหว่างประเทศ.
+# text_en = 
+# tokenised_text = ดัง นั้น สิ่ง ที่ ตน เตรียม มา ชี้แจง ถือ เป็น ประโยชน์ อย่าง ยิ่ง ที่ จะ ทำให้ ประชาคม โลก เข้าใจ ถึง แนวทาง และ ท่าที ของ ประเทศ ไทย ซึ่ง ดำเนิน การ ทุก อย่าง สอดคล้อง กับ ความ ตกลง ระหว่าง ประเทศ กฎหมาย ระหว่าง ประเทศ .
+# tokenised_translit =
+# tokenised_transcript =
+# phrase_type = sentence
+# sentence_position = 
+# genre = political_news_article
+# source = https://www.thairath.co.th/news/politic/2878514#goog_rewarded
+# year = 2025
+1	ดัง	ดัง	ADP	_	_	2	case	_	SpaceAfter=No|Gloss=|Translit=
+2	นั้น	นั้น	PRON	_	_	9	obl	_	Gloss=that|Translit=
+3	สิ่ง	สิ่ง	NOUN	_	_	9	nsubj	_	SpaceAfter=No|Gloss=thing|Translit=
+4	ที่	ที่	PRON	_	_	6	obj	_	SpaceAfter=No|Gloss=that(REL)|Translit=
+5	ตน	ตน	NOUN	_	ExtPos=PRON|Person=1|PronType=Prs	6	nsubj	_	SpaceAfter=No|Gloss=I|Translit=
+6	เตรียม	เตรียม	VERB	_	_	3	acl:relcl	_	SpaceAfter=No|Gloss=prepare|Translit=
+7	มา	มา	ADV	_	_	6	advmod	_	SpaceAfter=No|Gloss=|Translit=
+8	ชี้แจง	ชี้แจง	VERB	_	_	6	advcl	_	SpaceAfter=No|Gloss=|Translit=
+9	ถือ	ถือ	VERB	_	_	0	root	_	SpaceAfter=No|Gloss=consider|Translit=
+10	เป็น	เป็น	AUX	_	_	11	cop	_	SpaceAfter=No|Gloss=be|Translit=
+11	ประโยชน์	ประโยชน์	NOUN	_	_	9	xcomp	_	SpaceAfter=No|Gloss=advantage|Translit=
+12	อย่าง	อย่าง	NOUN	_	_	11	obl	_	SpaceAfter=No|Gloss=|Translit=
+13	ยิ่ง	ยิ่ง	ADJ	_	_	12	amod	_	SpaceAfter=No|Gloss=|Translit=
+14	ที่	ที่	SCONJ	_	_	16	mark	_	SpaceAfter=No|Gloss=that(COMP)|Translit=
+15	จะ	จะ	ADV	_	_	16	advmod	_	SpaceAfter=No|Gloss=|Translit=
+16	ทำให้	ทำให้	VERB	_	_	11	advcl	_	SpaceAfter=No|Gloss=cause|Translit=
+17	ประชาคม	ประชาคม	NOUN	_	_	16	obj	_	SpaceAfter=No|Gloss=|Translit=
+18	โลก	โลก	NOUN	_	_	17	nmod	_	SpaceAfter=No|Gloss=world|Translit=
+19	เข้าใจ	เข้าใจ	VERB	_	_	16	xcomp	_	Gloss=understand|Translit=
+20	ถึง	ถึง	ADP	_	_	21	case	_	SpaceAfter=No|Gloss=|Translit=
+21	แนวทาง	แนวทาง	NOUN	_	_	19	obl	_	SpaceAfter=No|Gloss=|Translit=
+22	และ	และ	CCONJ	_	_	23	cc	_	SpaceAfter=No|Gloss=and|Translit=
+23	ท่าที	ท่าที	NOUN	_	_	21	conj	_	SpaceAfter=No|Gloss=|Translit=
+24	ของ	ของ	ADP	_	_	25	case	_	SpaceAfter=No|Gloss=of|Translit=
+25	ประเทศ	ประเทศ	NOUN	_	_	21	nmod	_	SpaceAfter=No|Gloss=country|Translit=
+26	ไทย	ไทย	PROPN	_	_	25	nmod	_	Gloss=Thai|Translit=
+27	ซึ่ง	ซึ่ง	PRON	_	_	28	nsubj	_	SpaceAfter=No|Gloss=that(REL)|Translit=
+28	ดำเนิน	ดำเนิน	VERB	_	_	25	acl:relcl	_	SpaceAfter=No|Gloss=|Translit=
+29	การ	การ	NOUN	_	_	28	obj	_	SpaceAfter=No|Gloss=work|Translit=
+30	ทุก	ทุก	DET	_	_	31	det	_	SpaceAfter=No|Gloss=every|Translit=
+31	อย่าง	อย่าง	NOUN	_	NounType=Clf	29	clf	_	SpaceAfter=No|Gloss=|Translit=
+32	สอดคล้อง	สอดคล้อง	VERB	_	_	28	xcomp	_	SpaceAfter=No|Gloss=|Translit=
+33	กับ	กับ	ADP	_	_	34	case	_	SpaceAfter=No|Gloss=with|Translit=
+34	ความ	ความ	NOUN	_	NounType=Nmlz	32	obl	_	SpaceAfter=No|Gloss=|Translit=
+35	ตกลง	ตกลง	VERB	_	_	34	acl	_	SpaceAfter=No|Gloss=|Translit=
+36	ระหว่าง	ระหว่าง	ADP	_	_	37	case	_	SpaceAfter=No|Gloss=between|Translit=
+37	ประเทศ	ประเทศ	NOUN	_	_	34	nmod	_	SpaceAfter=No|Gloss=country|Translit=
+38	กฎหมาย	กฎหมาย	NOUN	_	_	34	conj	_	SpaceAfter=No|Gloss=|Translit=
+39	ระหว่าง	ระหว่าง	ADP	_	_	40	case	_	SpaceAfter=No|Gloss=between|Translit=
+40	ประเทศ	ประเทศ	NOUN	_	_	38	nmod	_	SpaceAfter=No|Gloss=country|Translit=
+41	.	.	PUNCT	_	_	9	punct	_	_
+
+# newdoc
+
 
 # newdoc
 # sent_id = Thai_Political_People_Party_News15_1
