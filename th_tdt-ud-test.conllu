@@ -22,7 +22,7 @@
 10	“	“	PUNCT	_	_	11	punct	_	SpaceAfter=No
 11	แก้	แก้	VERB	_	ExtPos=PROPN	4	obj	_	Gloss=solve|Translit=kɛ̂ː
 12	ทุกข์	ทุกข์	NOUN	_	_	11	obj	_	Gloss=suffer|Translit=thúk
-13	มหานคร	มหานคร	PROPN	_	_	12	nmod	_	SpaceAfter=No|Gloss=Bangkok|Translit=má-hǎː-ná-khɔːn 
+13	มหานคร	มหานคร	PROPN	_	_	12	nmod	_	SpaceAfter=No|Gloss=Bangkok|Translit=má-hǎː-ná-khɔːn
 14	”	”	PUNCT	_	_	11	punct	_	_
 15	ทันที	ทันที	ADV	_	_	11	advmod	_	SpaceAfter=No|Gloss=immediately|Translit=than-thiː
 16	ทั้ง	ทั้ง	ADP	_	_	17	case	_	SpaceAfter=No|Gloss=both|Translit=tháŋ
