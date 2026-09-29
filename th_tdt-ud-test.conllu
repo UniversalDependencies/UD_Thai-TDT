@@ -3470,7 +3470,7 @@
 # sent_id = Thai_Political_BhumJaiThai_Party_Narcotics_Drug_News6_21
 # text = ผมยืนยันว่า สิ่งที่เราทำทั้งหมด ภูมิใจไทย เป็นพรรคที่จะไม่ยอมให้ยาบ้าครองเมือง” นายศุภชัย กล่าว
 # text_en = 
-# tokenised_text = ผม ยืนยัน ว่า สิ่ง ที่ เรา ทำ ทั้งหมด ภูมิใจ ไทย เป็น พรรค ที่ จะ ไม่ ยอม ให้ ยา บ้า ครอง เมือง ” นาย ศุภชัย กล่าว
+# tokenised_text = ผม ยืนยัน ว่า สิ่ง ที่ เรา ทำ ทั้ง หมด ภูมิใจ ไทย เป็น พรรค ที่ จะ ไม่ ยอม ให้ ยา บ้า ครอง เมือง ” นาย ศุภชัย กล่าว
 # tokenised_translit =
 # tokenised_transcript =
 # phrase_type = sentence
@@ -5708,7 +5708,2346 @@
 41	.	.	PUNCT	_	_	9	punct	_	_
 
 # newdoc
+# sent_id = Thai_Political_Policemen_News14_1
+# text = บิ๊กเต่า บุกร้องกมธ.ตำรวจ ปมแต่งตั้งโยกย้าย 
+# text_en = 
+# tokenised_text = บิ๊ก เต่า บุก ร้อง กมธ. ตำรวจ ปม แต่งตั้ง โยกย้าย
+# tokenised_translit =
+# tokenised_transcript =
+# phrase_type = sentence
+# sentence_position = headline
+# genre = political_news_article
+# source = https://www.khaosod.co.th/politics/news_9913301
+# year = 2025
+1	บิ๊ก	บิ๊ก	NOUN	_	Foreign=Yes	3	nsubj	_	SpaceAfter=No|Gloss=|Translit=
+2	เต่า	เต่า	PROPN	_	_	1	nmod	_	Gloss=|Translit=
+3	บุก	บุก	VERB	_	_	0	root	_	SpaceAfter=No|Gloss=|Translit=
+4	ร้อง	ร้อง	VERB	_	_	3	advcl	_	SpaceAfter=No|Gloss=|Translit=
+5	กมธ.	กมธ.	PROPN	_	Abbr=Yes	4	obl:arg	_	SpaceAfter=No|Gloss=|Translit=
+6	ตำรวจ	ตำรวจ	NOUN	_	_	5	nmod	_	Gloss=policeman|Translit=
+7	ปม	ปม	NOUN	_	_	4	obj	_	SpaceAfter=No|Gloss=|Translit=
+8	แต่งตั้ง	แต่งตั้ง	VERB	_	_	7	acl	_	SpaceAfter=No|Gloss=|Translit=
+9	โยกย้าย	โยกย้าย	VERB	_	_	8	conj	_	Gloss=|Translit=
 
+# sent_id = Thai_Political_Policemen_News14_2
+# text = ลั่นผมพลีชีพแล้ว ถึงเวลาเปลี่ยนแปลงตร.
+# text_en = 
+# tokenised_text = ลั่น ผม พลี ชีพ แล้ว ถึง เวลา เปลี่ยนแปลง ตร.
+# tokenised_translit =
+# tokenised_transcript =
+# phrase_type = sentence
+# sentence_position = headline
+# genre = political_news_article
+# source = https://www.khaosod.co.th/politics/news_9913301
+# year = 2025
+1	ลั่น	ลั่น	VERB	_	_	0	root	_	SpaceAfter=No|Gloss=|Translit=
+2	ผม	ผม	PRON	_	Person=1|PronType=Prs	3	nsubj	_	SpaceAfter=No|Gloss=I|Translit=
+3	พลี	พลี	VERB	_	_	1	ccomp	_	SpaceAfter=No|Gloss=|Translit=
+4	ชีพ	ชีพ	NOUN	_	_	3	obj	_	SpaceAfter=No|Gloss=life|Translit=
+5	แล้ว	แล้ว	ADV	_	_	3	advmod	_	Gloss=|Translit=
+6	ถึง	ถึง	VERB	_	_	3	advcl	_	SpaceAfter=No|Gloss=arrive|Translit=
+7	เวลา	เวลา	NOUN	_	_	6	obl:arg	_	SpaceAfter=No|Gloss=time|Translit=
+8	เปลี่ยนแปลง	เปลี่ยนแปลง	VERB	_	_	6	advcl	_	SpaceAfter=No|Gloss=change|Translit=
+9	ตร.	ตร.	NOUN	_	Abbr=Yes	8	obj	_	Gloss=policeman|Translit=
+
+# sent_id = Thai_Political_Policemen_News14_3
+# text = 28 ส.ค. 2568 - 15:47 น.
+# text_en = 
+# tokenised_text = 28 ส.ค. 2568 - 15:47 น.
+# tokenised_translit =
+# tokenised_transcript =
+# phrase_type = sentence
+# sentence_position = dateline
+# genre = political_news_article
+# source = https://www.khaosod.co.th/politics/news_9913301
+# year = 2025
+1	28	28	NUM	_	_	0	root	_	Gloss=28|Translit=
+2	ส.ค.	ส.ค.	NOUN	_	Abbr=Yes	1	nmod	_	Gloss=August|Translit=
+3	2568	2568	NUM	_	_	2	nmod	_	Gloss=2568|Translit=
+4	-	-	SYM	_	_	5	case	_	_
+5	15:47	15:47	NUM	_	_	1	nmod	_	Gloss=15:47|Translit=
+6	น.	น.	NOUN	_	Abbr=Yes	5	nmod	_	Gloss=o'clock|Translit=
+
+# sent_id = Thai_Political_Policemen_News14_4
+# text = บิ๊กเต่า บุกสภา ร้องกมธ.ตำรวจ ขอความเป็นธรรม ปมแต่งตั้งโยกย้าย 
+# text_en = 
+# tokenised_text = บิ๊ก เต่า บุก สภา ร้อง กมธ. ตำรวจ ขอ ความ เป็นธรรม ปม แต่งตั้ง โยกย้าย
+# tokenised_translit =
+# tokenised_transcript =
+# phrase_type = sentence
+# sentence_position = sub-headline
+# genre = political_news_article
+# source = https://www.khaosod.co.th/politics/news_9913301
+# year = 2025
+1	บิ๊ก	บิ๊ก	NOUN	_	Foreign=Yes	3	nsubj	_	SpaceAfter=No|Gloss=|Translit=
+2	เต่า	เต่า	PROPN	_	_	1	nmod	_	Gloss=|Translit=
+3	บุก	บุก	VERB	_	_	0	root	_	SpaceAfter=No|Gloss=|Translit=
+4	สภา	สภา	NOUN	_	_	3	obj	_	Gloss=|Translit=
+5	ร้อง	ร้อง	VERB	_	_	3	advcl	_	SpaceAfter=No|Gloss=|Translit=
+6	กมธ.	กมธ.	PROPN	_	Abbr=Yes	5	obl:arg	_	SpaceAfter=No|Gloss=|Translit=
+7	ตำรวจ	ตำรวจ	NOUN	_	_	6	nmod	_	Gloss=policeman|Translit=
+8	ขอ	ขอ	VERB	_	_	5	advcl	_	SpaceAfter=No|Gloss=ask|Translit=
+9	ความ	ความ	NOUN	_	NounType=Nmlz	8	obj	_	SpaceAfter=No|Gloss=|Translit=
+10	เป็นธรรม	เป็นธรรม	VERB	_	_	9	acl	_	Gloss=be legitimate|Translit=
+11	ปม	ปม	NOUN	_	_	5	obj	_	SpaceAfter=No|Gloss=|Translit=
+12	แต่งตั้ง	แต่งตั้ง	VERB	_	_	11	acl	_	SpaceAfter=No|Gloss=|Translit=
+13	โยกย้าย	โยกย้าย	VERB	_	_	12	conj	_	Gloss=|Translit=
+
+# sent_id = Thai_Political_Policemen_News14_5
+# text = ลั่น ผมพลีชีพครั้งนี้ เพื่อพี่น้องตำรวจทั่วประเทศ 
+# text_en = 
+# tokenised_text = ลั่น ผม พลี ชีพ ครั้ง นี้ เพื่อ พี่ น้อง ตำรวจ ทั่ว ประเทศ 
+# tokenised_translit =
+# tokenised_transcript =
+# phrase_type = sentence
+# sentence_position = sub-headline
+# genre = political_news_article
+# source = https://www.khaosod.co.th/politics/news_9913301
+# year = 2025
+1	ลั่น	ลั่น	VERB	_	_	0	root	_	Gloss=|Translit=
+2	ผม	ผม	PRON	_	Person=1|PronType=Prs	3	nsubj	_	SpaceAfter=No|Gloss=I|Translit=
+3	พลี	พลี	VERB	_	_	1	ccomp	_	SpaceAfter=No|Gloss=|Translit=
+4	ชีพ	ชีพ	NOUN	_	_	3	obj	_	SpaceAfter=No|Gloss=life|Translit=
+5	ครั้ง	ครั้ง	NOUN	_	_	3	obl	_	SpaceAfter=No|Gloss=time|Translit=
+6	นี้	นี้	ADJ	_	_	5	amod	_	Gloss=this|Translit=
+7	เพื่อ	เพื่อ	ADP	_	_	8	case	_	SpaceAfter=No|Gloss=for|Translit=
+8	พี่	พี่	NOUN	_	_	3	obl	_	SpaceAfter=No|Gloss=|Translit=
+9	น้อง	น้อง	NOUN	_	_	8	flat	_	SpaceAfter=No|Gloss=|Translit=
+10	ตำรวจ	ตำรวจ	NOUN	_	_	8	appos	_	SpaceAfter=No|Gloss=policeman|Translit=
+11	ทั่ว	ทั่ว	DET	_	_	12	det	_	SpaceAfter=No|Gloss=|Translit=
+12	ประเทศ	ประเทศ	NOUN	_	NounType=Clf	8	nmod	_	Gloss=country|Translit=
+
+# sent_id = Thai_Political_Policemen_News14_6
+# text = หวัง ก.ตร. เดินแนวทางถูกต้อง-ชอบธรรม
+# text_en = 
+# tokenised_text = หวัง ก.ตร. เดิน แนวทาง ถูกต้อง - ชอบธรรม
+# tokenised_translit =
+# tokenised_transcript =
+# phrase_type = sentence
+# sentence_position = sub-headline
+# genre = political_news_article
+# source = https://www.khaosod.co.th/politics/news_9913301
+# year = 2025
+1	หวัง	หวัง	VERB	_	_	0	root	_	Gloss=hope|Translit=
+2	ก.ตร.	ก.ตร.	PROPN	_	Abbr=Yes	3	nsubj	_	Gloss=|Translit=
+3	เดิน	เดิน	VERB	_	_	1	ccomp	_	SpaceAfter=No|Gloss=move forward|Translit=
+4	แนวทาง	แนวทาง	NOUN	_	_	3	obl:arg	_	SpaceAfter=No|Gloss=|Translit=
+5	ถูกต้อง	ถูกต้อง	VERB	_	_	4	acl	_	SpaceAfter=No|Gloss=be right|Translit=
+6	-	-	SYM	_	_	7	cc	_	SpaceAfter=No
+7	ชอบธรรม	ชอบธรรม	VERB	_	_	5	conj	_	Gloss=be legitimate|Translit=
+
+# sent_id = Thai_Political_Policemen_News14_7
+# text = เมื่อเวลา 13.15 น. วันที่ 28 ส.ค. 2568 ที่รัฐสภา พล.ต.ต.จรูญเกียรติ ปานแก้ว รองผู้บัญชาการกองบัญชาการตำรวจสอบสวนกลาง (รองผบช.ก.) ยื่นหนังสือต่อ น.ส.สุณัฐชา โล่สถาพรพิพิธ สส.ตรัง พรรคประชาธิปัตย์ ในฐานะประธานคณะกรรมาธิการ (กมธ.) การตำรวจ สภาผู้แทนราษฎร เรื่องขอความเป็นธรรม ในการพิจารณาแต่งตั้งเลื่อนตำแหน่งและการโยกย้ายเปลี่ยนตำแหน่ง
+# text_en = 
+# tokenised_text = เมื่อ เวลา 13.15 น. วัน ที่ 28 ส.ค. 2568 ที่ รัฐสภา พล.ต.ต. จรูญเกียรติ ปานแก้ว รอง ผู้ บัญชาการ กอง บัญชาการ ตำรวจ สอบสวน กลาง ( รอง ผบช.ก. ) ยื่น หนังสือ ต่อ น.ส. สุณัฐชา โล่สถาพรพิพิธ สส. ตรัง พรรค ประชาธิปัตย์ ใน ฐานะ ประธาน คณะ กรรมาธิการ ( กมธ. ) การ ตำรวจ สภา ผู้ แทน ราษฎร เรื่อง ขอ ความ เป็นธรรม ใน การ พิจารณา แต่งตั้ง เลื่อน ตำแหน่ง และ การ โยกย้าย เปลี่ยน ตำแหน่ง
+# tokenised_translit =
+# tokenised_transcript =
+# phrase_type = sentence
+# sentence_position = body
+# genre = political_news_article
+# source = https://www.khaosod.co.th/politics/news_9913301
+# year = 2025
+1	เมื่อ	เมื่อ	NOUN	_	_	27	obl	_	SpaceAfter=No|Gloss=|Translit=
+2	เวลา	เวลา	NOUN	_	_	1	nmod	_	Gloss=time|Translit=
+3	13.15	13.15	NUM	_	_	2	nmod	_	Gloss=13.15|Translit=
+4	น.	น.	NOUN	_	Abbr=Yes	3	nmod	_	Gloss=o'clock|Translit=
+5	วัน	วัน	NOUN	_	_	1	nmod	_	SpaceAfter=No|Gloss=day|Translit=
+6	ที่	ที่	NOUN	_	_	5	nmod	_	Gloss=|Translit=
+7	28	28	NUM	_	_	6	nmod	_	Gloss=28|Translit=
+8	ส.ค.	ส.ค.	NOUN	_	Abbr=Yes	5	nmod	_	Gloss=August|Translit=
+9	2568	2568	NOUN	_	_	8	nmod	_	Gloss=2568|Translit=
+10	ที่	ที่	ADP	_	_	11	case	_	SpaceAfter=No|Gloss=at|Translit=
+11	รัฐสภา	รัฐสภา	PROPN	_	_	27	obl	_	Gloss=|Translit=
+12	พล.ต.ต.	พล.ต.ต.	NOUN	_	Abbr=Yes	27	nsubj	_	SpaceAfter=No|Gloss=|Translit=
+13	จรูญเกียรติ	จรูญเกียรติ	PROPN	_	_	12	nmod	_	Gloss=|Translit=
+14	ปานแก้ว	ปานแก้ว	PROPN	_	_	13	flat	_	Gloss=|Translit=
+15	รอง	รอง	NOUN	_	_	12	appos	_	SpaceAfter=No|Gloss=|Translit=
+16	ผู้	ผู้	NOUN	_	_	15	nmod	_	SpaceAfter=No|Gloss=|Translit=
+17	บัญชาการ	บัญชาการ	VERB	_	_	16	acl	_	SpaceAfter=No|Gloss=|Translit=
+18	กอง	กอง	NOUN	_	ExtPos=PROPN	15	nmod	_	SpaceAfter=No|Gloss=|Translit=
+19	บัญชาการ	บัญชาการ	VERB	_	_	18	acl	_	SpaceAfter=No|Gloss=|Translit=
+20	ตำรวจ	ตำรวจ	NOUN	_	_	18	nmod	_	SpaceAfter=No|Gloss=|Translit=
+21	สอบสวน	สอบสวน	VERB	_	_	20	acl	_	SpaceAfter=No|Gloss=|Translit=
+22	กลาง	กลาง	NOUN	_	_	20	nmod	_	Gloss=center|Translit=
+23	(	(	PUNCT	_	_	24	punct	_	SpaceAfter=No
+24	รอง	รอง	NOUN	_	_	15	appos	_	SpaceAfter=No|Gloss=|Translit=
+25	ผบช.ก.	ผบช.ก.	NOUN	_	Abbr=Yes	24	nmod	_	SpaceAfter=No|Gloss=|Translit=
+26	)	)	PUNCT	_	_	24	punct	_	_
+27	ยื่น	ยื่น	VERB	_	_	0	root	_	SpaceAfter=No|Gloss=|Translit=
+28	หนังสือ	หนังสือ	NOUN	_	_	27	obj	_	SpaceAfter=No|Gloss=book|Translit=
+29	ต่อ	ต่อ	ADP	_	_	30	case	_	Gloss=to|Translit=
+30	น.ส.	น.ส.	NOUN	_	Abbr=Yes	27	obl	_	SpaceAfter=No|Gloss=Ms.|Translit=
+31	สุณัฐชา	สุณัฐชา	PROPN	_	_	30	nmod	_	Gloss=|Translit=
+32	โล่สถาพรพิพิธ	โล่สถาพรพิพิธ	PROPN	_	_	31	flat	_	Gloss=|Translit=
+33	สส.	สส.	NOUN	_	Abbr=Yes	30	appos	_	SpaceAfter=No|Gloss=|Translit=
+34	ตรัง	ตรัง	PROPN	_	_	33	nmod	_	Gloss=|Translit=
+35	พรรค	พรรค	NOUN	_	_	33	nmod	_	SpaceAfter=No|Gloss=party|Translit=
+36	ประชาธิปัตย์	ประชาธิปัตย์	PROPN	_	_	35	nmod	_	Gloss=|Translit=
+37	ใน	ใน	ADP	_	_	38	case	_	SpaceAfter=No|Gloss=in|Translit=
+38	ฐานะ	ฐานะ	NOUN	_	_	30	nmod	_	SpaceAfter=No|Gloss=|Translit=
+39	ประธาน	ประธาน	NOUN	_	_	38	nmod	_	SpaceAfter=No|Gloss=|Translit=
+40	คณะ	คณะ	NOUN	_	_	39	nmod	_	SpaceAfter=No|Gloss=group|Translit=
+41	กรรมาธิการ	กรรมาธิการ	NOUN	_	_	40	nmod	_	Gloss=|Translit=
+42	(	(	PUNCT	_	_	43	punct	_	SpaceAfter=No
+43	กมธ.	กมธ.	NOUN	_	Abbr=Yes	40	appos	_	SpaceAfter=No|Gloss=|Translit=
+44	)	)	PUNCT	_	_	43	punct	_	_
+45	การ	การ	NOUN	_	_	40	nmod	_	SpaceAfter=No|Gloss=|Translit=
+46	ตำรวจ	ตำรวจ	NOUN	_	_	45	nmod	_	Gloss=|Translit=
+47	สภา	สภา	NOUN	_	_	40	nmod	_	SpaceAfter=No|Gloss=|Translit=
+48	ผู้	ผู้	NOUN	_	_	47	nmod	_	SpaceAfter=No|Gloss=person|Translit=
+49	แทน	แทน	VERB	_	_	48	acl	_	SpaceAfter=No|Gloss=|Translit=
+50	ราษฎร	ราษฎร	NOUN	_	_	49	obj	_	Gloss=|Translit=
+51	เรื่อง	เรื่อง	NOUN	_	_	27	dislocated	_	SpaceAfter=No|Gloss=|Translit=
+52	ขอ	ขอ	VERB	_	_	51	acl	_	SpaceAfter=No|Gloss=ask|Translit=
+53	ความ	ความ	NOUN	_	NounType=Nmlz	52	obj	_	SpaceAfter=No|Gloss=|Translit=
+54	เป็นธรรม	เป็นธรรม	VERB	_	_	53	acl	_	Gloss=|Translit=
+55	ใน	ใน	ADP	_	_	56	case	_	SpaceAfter=No|Gloss=in|Translit=
+56	การ	การ	NOUN	_	NounType=Nmlz	52	obl	_	SpaceAfter=No|Gloss=|Translit=
+57	พิจารณา	พิจารณา	VERB	_	_	56	acl	_	SpaceAfter=No|Gloss=consider|Translit=
+58	แต่งตั้ง	แต่งตั้ง	VERB	_	_	57	xcomp	_	SpaceAfter=No|Gloss=|Translit=
+59	เลื่อน	เลื่อน	VERB	_	_	58	conj	_	SpaceAfter=No|Gloss=|Translit=
+60	ตำแหน่ง	ตำแหน่ง	NOUN	_	_	58	obj	_	SpaceAfter=No|Gloss=position|Translit=
+61	และ	และ	CCONJ	_	_	62	cc	_	SpaceAfter=No|Gloss=and|Translit=
+62	การ	การ	NOUN	_	NounType=Nmlz	56	conj	_	SpaceAfter=No|Gloss=|Translit=
+63	โยกย้าย	โยกย้าย	VERB	_	_	62	acl	_	SpaceAfter=No|Gloss=|Translit=
+64	เปลี่ยน	เปลี่ยน	VERB	_	_	63	conj	_	SpaceAfter=No|Gloss=change|Translit=
+65	ตำแหน่ง	ตำแหน่ง	NOUN	_	_	63	obj	_	Gloss=position|Translit=
+
+# sent_id = Thai_Political_Policemen_News14_8
+# text = โดยพล.ต.ต.จรูญเกียรติ กล่าวว่า ตนได้ยื่นร้องเรียนไปยังนายภูมิธรรม เวชยชัย รองนายกรัฐมนตรีและรมว.มหาดไทย รักษาราชการแทนนายกฯ ก่อนหน้านี้แล้ว
+# text_en = 
+# tokenised_text = โดย พล.ต.ต. จรูญเกียรติ กล่าว ว่า ตน ได้ ยื่น ร้องเรียน ไป ยัง นาย ภูมิธรรม เวชยชัย รอง นายก รัฐมนตรี และ รมว. มหาดไทย รักษา ราชการ แทน นายก ฯ ก่อน หน้า นี้ แล้ว
+# tokenised_translit =
+# tokenised_transcript =
+# phrase_type = sentence
+# sentence_position = body
+# genre = political_news_article
+# source = https://www.khaosod.co.th/politics/news_9913301
+# year = 2025
+1	โดย	โดย	SCONJ	_	_	4	mark	_	SpaceAfter=No|Gloss=by|Translit=
+2	พล.ต.ต.	พล.ต.ต.	NOUN	_	Abbr=Yes	4	nsubj	_	SpaceAfter=No|Gloss=|Translit=
+3	จรูญเกียรติ	จรูญเกียรติ		PROPN	_	_	2	nmod	_	Gloss=|Translit=
+4	กล่าว	กล่าว	VERB	_	_	0	root	_	SpaceAfter=No|Gloss=say|Translit=
+5	ว่า	ว่า	SCONJ	_	_	7	mark	_	Gloss=that(COMP)|Translit=
+6	ตน	ตน	NOUN	_	Person=1|PronType=Prs	7	nsubj	_	SpaceAfter=No|Gloss=I|Translit=
+7	ได้	ได้	VERB	_	_	4	ccomp	_	SpaceAfter=No|Gloss=|Translit=
+8	ยื่น	ยื่น	VERB	_	_	7	xcomp	_	SpaceAfter=No|Gloss=|Translit=
+9	ร้องเรียน	ร้องเรียน	VERB	_	_	8	compound:svc	_	SpaceAfter=No|Gloss=|Translit=
+10	ไป	ไป	VERB	_	_	9	compound:svc	_	SpaceAfter=No|Gloss=go|Translit=
+11	ยัง	ยัง	ADP	_	_	12	case	_	SpaceAfter=No|Gloss=to|Translit=
+12	นาย	นาย	NOUN	_	_	10	obl	_	SpaceAfter=No|Gloss=Mister|Translit=
+13	ภูมิธรรม	ภูมิธรรม	PROPN	_	_	12	nmod	_	Gloss=|Translit=
+14	เวชยชัย	เวชยชัย	PROPN	_	_	13	flat	_	Gloss=|Translit=
+15	รอง	รอง	NOUN	_	_	12	appos	_	SpaceAfter=No|Gloss=|Translit=
+16	นายก	นายก	NOUN	_	_	15	nmod	_	SpaceAfter=No|Gloss=|Translit=
+17	รัฐมนตรี	รัฐมนตรี	NOUN	_	_	16	nmod	_	SpaceAfter=No|Gloss=|Translit=
+18	และ	และ	CCONJ	_	_	19	cc	_	SpaceAfter=No|Gloss=and|Translit=
+19	รมว.	รมว.	NOUN	_	Abbr=Yes	15	conj	_	SpaceAfter=No|Gloss=|Translit=
+20	มหาดไทย	มหาดไทย	PROPN	_	_	19	nmod	_	Gloss=|Translit=
+21	รักษา	รักษา	VERB	_	_	12	acl	_	SpaceAfter=No|Gloss=|Translit=
+22	ราชการ	ราชการ	NOUN	_	_	21	obj	_	SpaceAfter=No|Gloss=|Translit=
+23	แทน	แทน	VERB	_	_	21	advcl	_	SpaceAfter=No|Gloss=|Translit=
+24	นายก	นายก	NOUN	_	_	23	obl:arg	_	SpaceAfter=No|Gloss=|Translit=
+25	ฯ	_	SYM	_	_	24	nmod	_	Gloss=|Translit=
+26	ก่อน	ก่อน	ADP	_	_	27	case	_	SpaceAfter=No|Gloss=before|Translit=
+27	หน้า	หน้า	NOUN	_	_	8	obl	_	SpaceAfter=No|Gloss=|Translit=
+28	นี้	นี้	ADJ	_	_	27	amod	_	SpaceAfter=No|Gloss=this|Translit=
+29	แล้ว	แล้ว	ADV	_	_	7	advmod	_	Gloss=|Translit=
+
+# sent_id = Thai_Political_Policemen_News14_9
+# text = วันนี้มายื่นกมธ.ตำรวจ เพราะถือว่าเป็นส่วนหนึ่งที่จะขับเคลื่อนกระบวนการตำรวจด้วยความถูกต้องชอบธรรม
+# text_en = 
+# tokenised_text = วัน นี้ มา ยื่น กมธ. ตำรวจ เพราะ ถือ ว่า เป็น ส่วน หนึ่ง ที่ จะ ขับ เคลื่อน กระบวน การ ตำรวจ ด้วย ความ ถูกต้อง ชอบธรรม
+# tokenised_translit =
+# tokenised_transcript =
+# phrase_type = sentence
+# sentence_position = body
+# genre = political_news_article
+# source = https://www.khaosod.co.th/politics/news_9913301
+# year = 2025
+1	วัน	วัน	NOUN	_	_	3	obl	_	SpaceAfter=No|Gloss=day|Translit=
+2	นี้	นี้	ADJ	_	_	1	amod	_	SpaceAfter=No|Gloss=this|Translit=
+3	มา	มา	VERB	_	_	0	root	_	SpaceAfter=No|Gloss=come|Translit=
+4	ยื่น	ยื่น	VERB	_	_	3	compound:svc	_	SpaceAfter=No|Gloss=|Translit=
+5	กมธ.	กมธ.	PROPN	_	Abbr=Yes	4	obl	_	SpaceAfter=No|Gloss=|Translit=
+6	ตำรวจ	ตำรวจ	NOUN	_	_	5	nmod	_	Gloss=policeman|Translit=
+7	เพราะ	เพราะ	ADP	_	_	8	mark	_	SpaceAfter=No|Gloss=because|Translit=
+8	ถือ	ถือ	VERB	_	_	3	advcl	_	SpaceAfter=No|Gloss=consider|Translit=
+9	ว่า	ว่า	SCONJ	_	_	11	mark	_	SpaceAfter=No|Gloss=that(COMP)|Translit=
+10	เป็น	เป็น	AUX	_	_	11	cop	_	SpaceAfter=No|Gloss=be|Translit=
+11	ส่วน	ส่วน	NOUN	_	NounType=Clf	8	xcomp	_	SpaceAfter=No|Gloss=part|Translit=
+12	หนึ่ง	หนึ่ง	NUM	_	_	11	nummod	_	SpaceAfter=No|Gloss=one|Translit=
+13	ที่	ที่	PRON	_	_	15	nsubj	_	SpaceAfter=No|Gloss=that(REL)|Translit=
+14	จะ	จะ	ADV	_	_	15	advmod	_	SpaceAfter=No|Gloss=|Translit=
+15	ขับ	ขับ	VERB	_	_	11	acl:relcl	_	SpaceAfter=No|Gloss=drive|Translit=
+16	เคลื่อน	เคลื่อน	VERB	_	_	15	flat	_	SpaceAfter=No|Gloss=move|Translit=
+17	กระบวนการ	กระบวนการ	NOUN	_	_	15	obj	_	SpaceAfter=No|Gloss=|Translit=
+18	ตำรวจ	ตำรวจ	NOUN	_	_	17	nmod	_	SpaceAfter=No|Gloss=policeman|Translit=
+19	ด้วย	ด้วย	ADP	_	_	20	case	_	SpaceAfter=No|Gloss=with|Translit=
+20	ความ	ความ	NOUN	_	NounType=Nmlz	15	obl	_	SpaceAfter=No|Gloss=|Translit=
+21	ถูกต้อง	ถูกต้อง	VERB	_	_	20	acl	_	SpaceAfter=No|Gloss=be right|Translit=
+22	ชอบธรรม	ชอบธรรม	VERB	_	_	21	conj	_	Gloss=be legitimate|Translit=
+
+# sent_id = Thai_Political_Policemen_News14_10
+# text = ยืนยันว่าไม่ได้มีเจตนาสร้างความแตกแยกในสำนักงานตำรวจแห่งชาติ
+# text_en = 
+# tokenised_text = ยืนยัน ว่า ไม่ ได้ มี เจตนา สร้าง ความ แตก แยก ใน สำนักงาน ตำรวจ แห่ง ชาติ
+# tokenised_translit =
+# tokenised_transcript =
+# phrase_type = sentence
+# sentence_position = body
+# genre = political_news_article
+# source = https://www.khaosod.co.th/politics/news_9913301
+# year = 2025
+1	ยืนยัน	ยืนยัน	VERB	_	_	0	root	_	SpaceAfter=No|Gloss=|Translit=
+2	ว่า	ว่า	SCONJ	_	_	4	mark	_	SpaceAfter=No|Gloss=that(COMP)|Translit=
+3	ไม่	ไม่	ADV	_	_	4	advmod	_	SpaceAfter=No|Gloss=not|Translit=
+4	ได้	ได้	VERB	_	_	1	xcomp	_	SpaceAfter=No|Gloss=|Translit=
+5	มี	มี	VERB	_	_	4	xcomp	_	SpaceAfter=No|Gloss=have|Translit=
+6	เจตนา	เจตนา	NOUN	_	_	5	obl:arg	_	SpaceAfter=No|Gloss=|Translit=
+7	สร้าง	สร้าง	VERB	_	_	6	acl	_	SpaceAfter=No|Gloss=build|Translit=
+8	ความ	ความ	NOUN	_	NounType=Nmlz	7	obj	_	SpaceAfter=No|Gloss=|Translit=
+9	แตก	แตก	VERB	_	_	8	acl	_	SpaceAfter=No|Gloss=break|Translit=
+10	แยก	แยก	VERB	_	_	9	flat	_	SpaceAfter=No|Gloss=separate|Translit=
+11	ใน	ใน	ADP	_	_	12	case	_	SpaceAfter=No|Gloss=in|Translit=
+12	สำนักงาน	สำนักงาน	NOUN	_	_	7	obl	_	SpaceAfter=No|Gloss=|Translit=
+13	ตำรวจ	ตำรวจ	NOUN	_	ExtPos=PROPN	12	nmod	_	SpaceAfter=No|Gloss=policeman|Translit=
+14	แห่ง	แห่ง	ADP	_	_	15	case	_	SpaceAfter=No|Gloss=of|Translit=
+15	ชาติ	ชาติ	NOUN	_	_	12	nmod	_	Gloss=nation|Translit=
+
+# sent_id = Thai_Political_Policemen_News14_11
+# text = แต่มองว่าน่าจะเป็นตัวแทนของผู้ที่ได้รับสิทธิ์แต่ถูกลิดรอนสิทธิ์อีกหลายคนที่ไม่ได้มาร้องด้วยตนเอง เพื่อให้คณะกรรมการข้าราชการตำรวจ (ก.ตร.) กลับไปทบทวน
+# text_en = 
+# tokenised_text = แต่ มอง ว่า น่า จะ เป็น ตัว แทน ของ ผู้ ที่ ได้ รับ สิทธิ์ แต่ ถูก ลิดรอน สิทธิ์ อีก หลาย คน ที่ ไม่ ได้ มา ร้อง ด้วย ตน เอง เพื่อ ให้ คณะ กรรมการ ข้าราชการ ตำรวจ ( ก.ตร. ) กลับ ไป ทบทวน
+# tokenised_translit =
+# tokenised_transcript =
+# phrase_type = sentence
+# sentence_position = body
+# genre = political_news_article
+# source = https://www.khaosod.co.th/politics/news_9913301
+# year = 2025
+1	แต่	แต่	ADV	_	_	2	advmod	_	SpaceAfter=No|Gloss=but|Translit=
+2	มอง	มอง	VERB	_	_	0	root	_	SpaceAfter=No|Gloss=look|Translit=
+3	ว่า	ว่า	SCONJ	_	_	4	mark	_	SpaceAfter=No|Gloss=that(COMP)|Translit=
+4	น่า	น่า	VERB	_	_	2	xcomp	_	SpaceAfter=No|Gloss=|Translit=
+5	จะ	จะ	ADV	_	_	7	advmod	_	SpaceAfter=No|Gloss=|Translit=
+6	เป็น	เป็น	AUX	_	_	7	cop	_	SpaceAfter=No|Gloss=be|Translit=
+7	ตัว	ตัว	NOUN	_	_	4	xcomp	_	SpaceAfter=No|Gloss=body|Translit=
+8	แทน	แทน	VERB	_	_	7	acl	_	SpaceAfter=No|Gloss=|Translit=
+9	ของ	ของ	ADP	_	_	10	case	_	SpaceAfter=No|Gloss=of|Translit=
+10	ผู้	ผู้	NOUN	_	_	7	nmod	_	SpaceAfter=No|Gloss=person|Translit=
+11	ที่	ที่	PRON	_	_	12	nsubj	_	SpaceAfter=No|Gloss=that(REL)|Translit=
+12	ได้	ได้	VERB	_	_	10	acl:relcl	_	SpaceAfter=No|Gloss=|Translit=
+13	รับ	รับ	VERB	_	_	12	xcomp	_	SpaceAfter=No|Gloss=receive|Translit=
+14	สิทธิ์	สิทธิ์	NOUN	_	_	13	obj	_	SpaceAfter=No|Gloss=right|Translit=
+15	แต่	แต่	CCONJ	_	_	16	cc	_	SpaceAfter=No|Gloss=but|Translit=
+16	ถูก	ถูก	VERB	_	_	12	conj	_	SpaceAfter=No|Gloss=|Translit=
+17	ลิดรอน	ลิดรอน	VERB	_	_	16	compound:svc	_	SpaceAfter=No|Gloss=|Translit=
+18	สิทธิ์	สิทธิ์	NOUN	_	_	17	obj	_	SpaceAfter=No|Gloss=right|Translit=
+19	อีก	อีก	DET	_	_	21	det	_	SpaceAfter=No|Gloss=|Translit=
+20	หลาย	หลาย	DET	_	_	21	det	_	SpaceAfter=No|Gloss=several|Translit=
+21	คน	คน	NOUN	_	NounType=Clf	10	clf	_	SpaceAfter=No|Gloss=person|Translit=
+22	ที่	ที่	PRON	_	_	24	nsubj	_	SpaceAfter=No|Gloss=that(REL)|Translit=
+23	ไม่	ไม่	ADV	_	_	24	advmod	_	SpaceAfter=No|Gloss=not|Translit=
+24	ได้	ได้	VERB	_	_	10	acl:relcl	_	SpaceAfter=No|Gloss=|Translit=
+25	มา	มา	VERB	_	_	24	xcomp	_	SpaceAfter=No|Gloss=come|Translit=
+26	ร้อง	ร้อง	VERB	_	_	25	compound:svc	_	SpaceAfter=No|Gloss=|Translit=
+27	ด้วย	ด้วย	ADP	_	_	28	case	_	SpaceAfter=No|Gloss=with|Translit=
+28	ตน	ตน	NOUN	_	_	26	obl	_	SpaceAfter=No|Gloss=|Translit=
+29	เอง	เอง	ADJ	_	_	28	amod	_	Gloss=self|Translit=
+30	เพื่อ	เพื่อ	ADP	_	_	31	mark	_	SpaceAfter=No|Gloss=for|Translit=
+31	ให้	ให้	VERB	_	_	7	advcl	_	SpaceAfter=No|Gloss=give|Translit=
+32	คณะ	คณะ	NOUN	_	_	31	obj	_	SpaceAfter=No|Gloss=group|Translit=
+33	กรรมการ	กรรมการ	NOUN	_	_	32	nmod	_	SpaceAfter=No|Gloss=committee|Translit=
+34	ข้าราชการ	ข้าราชการ	NOUN	_	_	33	nmod	_	SpaceAfter=No|Gloss=|Translit=
+35	ตำรวจ	ตำรวจ	NOUN	_	_	34	nmod	_	Gloss=policeman|Translit=
+36	(	(	PUNCT	_	_	37	punct	_	SpaceAfter=No
+37	ก.ตร.	ก.ตร.	PROPN	_	Abbr=Yes	32	appos	_	SpaceAfter=No|Gloss=|Translit=
+38	)	)	PUNCT	_	_	37	punct	_	_
+39	กลับ	กลับ	VERB	_	_	31	compound:svc	_	SpaceAfter=No|Gloss=|Translit=
+40	ไป	ไป	VERB	_	_	39	compound:svc	_	SpaceAfter=No|Gloss=go|Translit=
+41	ทบทวน	ทบทวน	VERB	_	_	40	compound:svc	_	Gloss=review|Translit=
+
+# sent_id = Thai_Political_Policemen_News14_12
+# text = เรายอมรับว่าช่วงการปฏิวัติไม่มีพระราชบัญญัติ (พ.ร.บ.) ตำรวจ พ.ศ.2565 ทำให้เกิดความเหลื่อมล้ำในการพิจารณา 
+# text_en = 
+# tokenised_text = เรา ยอมรับ ว่า ช่วง การ ปฏิวัติ ไม่ มี พระราชบัญญัติ ( พ.ร.บ. ) ตำรวจ พ.ศ. 2565 ทำให้ เกิด ความ เหลื่อมล้ำ ใน การ พิจารณา
+# tokenised_translit =
+# tokenised_transcript =
+# phrase_type = sentence
+# sentence_position = body
+# genre = political_news_article
+# source = https://www.khaosod.co.th/politics/news_9913301
+# year = 2025
+1	เรา	เรา	PRON	_	Person=1|PronType=Prs	2	nsubj	_	SpaceAfter=No|Gloss=we|Translit=
+2	ยอมรับ	ยอมรับ	VERB	_	_	0	root	_	SpaceAfter=No|Gloss=|Translit=
+3	ว่า	ว่า	SCONJ	_	_	8	mark	_	SpaceAfter=No|Gloss=that(COMP)|Translit=
+4	ช่วง	ช่วง	NOUN	_	_	8	obl	_	SpaceAfter=No|Gloss=|Translit=
+5	การ	การ	NOUN	_	NounType=Nmlz	4	nmod	_	SpaceAfter=No|Gloss=|Translit=
+6	ปฏิวัติ	ปฏิวัติ	VERB	_	_	5	acl	_	SpaceAfter=No|Gloss=|Translit=
+7	ไม่	ไม่	ADV	_	_	8	advmod	_	SpaceAfter=No|Gloss=not|Translit=
+8	มี	มี	VERB	_	_	2	ccomp	_	SpaceAfter=No|Gloss=have|Translit=
+9	พระราชบัญญัติ	พระราชบัญญัติ	NOUN	_	_	8	nsubj	_	Gloss=|Translit=
+10	(	(	PUNCT	_	_	11	punct	_	SpaceAfter=No
+11	พ.ร.บ.	พ.ร.บ.	NOUN	_	Abbr=Yes	9	appos	_	SpaceAfter=No|Gloss=|Translit=
+12	)	)	PUNCT	_	_	11	punct	_	_
+13	ตำรวจ	ตำรวจ	NOUN	_	_	9	nmod	_	Gloss=policeman|Translit=
+14	พ.ศ.	พ.ศ.	NOUN	_	Abbr=Yes	9	nmod	_	SpaceAfter=No|Gloss=|Translit=
+15	2565	2565	NUM	_	_	14	nmod	_	Gloss=2565|Translit=
+16	ทำให้	ทำให้	VERB	_	_	8	advcl	_	SpaceAfter=No|Gloss=|Translit=
+17	เกิด	เกิด	VERB	_	_	16	xcomp	_	SpaceAfter=No|Gloss=|Translit=
+18	ความ	ความ	NOUN	_	NounType=Nmlz	17	obl:arg	_	SpaceAfter=No|Gloss=|Translit=
+19	เหลื่อมล้ำ	เหลื่อมล้ำ	VERB	_	_	18	acl	_	SpaceAfter=No|Gloss=overlap|Translit=
+20	ใน	ใน	ADP	_	_	21	case	_	SpaceAfter=No|Gloss=in|Translit=
+21	การ	การ	NOUN	_	NounType=Nmlz	18	nmod	_	SpaceAfter=No|Gloss=|Translit=
+22	พิจารณา	พิจารณา	VERB	_	_	21	acl	_	Gloss=consider|Translit=
+
+# sent_id = Thai_Political_Policemen_News14_13
+# text = การทำอะไรในขณะนั้นทำได้ด้วยดุลยพินิจและใช้ระบบอุปถัมภ์
+# text_en = 
+# tokenised_text = การ ทำ อะไร ใน ขณะ นั้น ทำ ได้ ด้วย ดุลยพินิจ และ ใช้ ระบบ อุปถัมภ์
+# tokenised_translit =
+# tokenised_transcript =
+# phrase_type = sentence
+# sentence_position = body
+# genre = political_news_article
+# source = https://www.khaosod.co.th/politics/news_9913301
+# year = 2025
+1	การ	การ	NOUN	_	NounType=Nmlz	7	nsubj	_	SpaceAfter=No|Gloss=|Translit=
+2	ทำ	ทำ	VERB	_	_	1	acl	_	SpaceAfter=No|Gloss=do|Translit=
+3	อะไร	อะไร	PRON	_	_	2	obj	_	SpaceAfter=No|Gloss=what|Translit=
+4	ใน	ใน	ADP	_	_	5	case	_	SpaceAfter=No|Gloss=in|Translit=
+5	ขณะ	ขณะ	NOUN	_	_	1	nmod	_	SpaceAfter=No|Gloss=|Translit=
+6	นั้น	นั้น	ADJ	_	_	5	amod	_	SpaceAfter=No|Gloss=that|Translit=
+7	ทำ	ทำ	VERB	_	_	0	root	_	SpaceAfter=No|Gloss=do|Translit=
+8	ได้	ได้	VERB	_	_	7	advcl	_	SpaceAfter=No|Gloss=|Translit=
+9	ด้วย	ด้วย	ADP	_	_	10	case	_	SpaceAfter=No|Gloss=with|Translit=
+10	ดุลยพินิจ	ดุลยพินิจ	NOUN	_	_	7	obl	_	SpaceAfter=No|Gloss=|Translit=
+11	และ	และ	CCONJ	_	_	12	cc	_	SpaceAfter=No|Gloss=and|Translit=
+12	ใช้	ใช้	VERB	_	_	7	conj	_	SpaceAfter=No|Gloss=use|Translit=
+13	ระบบ	ระบบ	NOUN	_	_	12	obj	_	SpaceAfter=No|Gloss=system|Translit=
+14	อุปถัมภ์	อุปถัมภ์	VERB	_	_	13	acl	_	Gloss=|Translit=
+
+# sent_id = Thai_Political_Policemen_News14_14
+# text = แต่เมื่อมีพ.ร.บ.ตำรวจแล้ว ก็ต้องกลับมาดำเนินการตามกฎหมาย เพื่อความเป็นธรรมกับคนที่ทำงานโดยตรง
+# text_en = 
+# tokenised_text = แต่ เมื่อ มี พ.ร.บ. ตำรวจ แล้ว ก็ ต้อง กลับ มา ดำเนิน การ ตาม กฎหมาย เพื่อ ความ เป็นธรรม กับ คน ที่ ทำงาน โดย ตรง
+# tokenised_translit =
+# tokenised_transcript =
+# phrase_type = sentence
+# sentence_position = body
+# genre = political_news_article
+# source = https://www.khaosod.co.th/politics/news_9913301
+# year = 2025
+1	แต่	แต่	ADV	_	_	3	advmod	_	SpaceAfter=No|Gloss=but|Translit=
+2	เมื่อ	เมื่อ	NOUN	_	_	3	obl	_	SpaceAfter=No|Gloss=|Translit=
+3	มี	มี	VERB	_	_	0	root	_	SpaceAfter=No|Gloss=have|Translit=
+4	พ.ร.บ.	พ.ร.บ.	NOUN	_	Abbr=Yes	3	nsubj	_	SpaceAfter=No|Gloss=|Translit=
+5	ตำรวจ	ตำรวจ	NOUN	_	_	4	nmod	_	SpaceAfter=No|Gloss=policeman|Translit=
+6	แล้ว	แล้ว	ADV	_	_	3	advmod	_	Gloss=|Translit=
+7	ก็	ก็	ADV	_	_	8	advmod	_	SpaceAfter=No|Gloss=|Translit=
+8	ต้อง	ต้อง	VERB	_	_	3	advcl	_	SpaceAfter=No|Gloss=must|Translit=
+9	กลับ	กลับ	VERB	_	_	8	xcomp	_	SpaceAfter=No|Gloss=|Translit=
+10	มา	มา	VERB	_	_	9	compound:svc	_	SpaceAfter=No|Gloss=come|Translit=
+11	ดำเนิน	ดำเนิน	VERB	_	_	10	compound:svc	_	SpaceAfter=No|Gloss=|Translit=
+12	การ	การ	NOUN	_	_	11	obj	_	SpaceAfter=No|Gloss=work|Translit=
+13	ตาม	ตาม	ADP	_	_	14	case	_	SpaceAfter=No|Gloss=following|Translit=
+14	กฎหมาย	กฎหมาย	NOUN	_	_	11	obl	_	Gloss=|Translit=
+15	เพื่อ	เพื่อ	ADP	_	_	16	case	_	SpaceAfter=No|Gloss=for|Translit=
+16	ความ	ความ	NOUN	_	NounType=Nmlz	11	obl	_	SpaceAfter=No|Gloss=|Translit=
+17	เป็นธรรม	เป็นธรรม	VERB	_	_	16	acl	_	SpaceAfter=No|Gloss=be legitimate|Translit=
+18	กับ	กับ	ADP	_	_	19	case	_	SpaceAfter=No|Gloss=with|Translit=
+19	คน	คน	NOUN	_	_	16	nmod	_	SpaceAfter=No|Gloss=person|Translit=
+20	ที่	ที่	PRON	_	_	21	nsubj	_	SpaceAfter=No|Gloss=that(REL)|Translit=
+21	ทำงาน	ทำงาน	VERB	_	_	19	acl:relcl	_	SpaceAfter=No|Gloss=work|Translit=
+22	โดย	โดย	ADP	_	_	23	mark	_	SpaceAfter=No|Gloss=by|Translit=
+23	ตรง	ตรง	VERB	_	_	21	advcl	_	Gloss=be direct|Translit=
+
+# sent_id = Thai_Political_Policemen_News14_15
+# text = ซึ่งพ.ร.บ.ตำรวจมีจุดมุ่งหมายในการแบ่งส่วนของผู้ที่มีคุณสมบัติอาวุโส 50 เปอร์เซ็น อีก 50 เปอร์เซ็น ให้คิดอาวุโสประกอบความรู้ความสามารถ
+# text_en = 
+# tokenised_text = ซึ่ง พ.ร.บ. ตำรวจ มี จุด มุ่งหมาย ใน การ แบ่ง ส่วน ของ ผู้ ที่ มี คุณสมบัติ อาวุโส 50 เปอร์เซ็น อีก 50 เปอร์เซ็น ให้ คิด อาวุโส ประกอบ ความรู้ ความ สามารถ
+# tokenised_translit =
+# tokenised_transcript =
+# phrase_type = sentence
+# sentence_position = body
+# genre = political_news_article
+# source = https://www.khaosod.co.th/politics/news_9913301
+# year = 2025
+1	ซึ่ง	ซึ่ง	PART	_	_	4	discourse	_	SpaceAfter=No|Gloss=|Translit=
+2	พ.ร.บ.	พ.ร.บ.	NOUN	_	Abbr=Yes	4	nsubj	_	SpaceAfter=No|Gloss=|Translit=
+3	ตำรวจ	ตำรวจ	NOUN	_	_	2	nmod	_	SpaceAfter=No|Gloss=policeman|Translit=
+4	มี	มี	VERB	_	_	0	root	_	SpaceAfter=No|Gloss=have|Translit=
+5	จุด	จุด	NOUN	_	_	4	obl:arg	_	SpaceAfter=No|Gloss=|Translit=
+6	มุ่งหมาย	มุ่งหมาย	VERB	_	_	5	acl	_	SpaceAfter=No|Gloss=|Translit=
+7	ใน	ใน	ADP	_	_	8	case	_	SpaceAfter=No|Gloss=in|Translit=
+8	การ	การ	NOUN	_	NounType=Nmlz	4	obl	_	SpaceAfter=No|Gloss=|Translit=
+9	แบ่ง	แบ่ง	VERB	_	_	8	acl	_	SpaceAfter=No|Gloss=divide|Translit=
+10	ส่วน	ส่วน	NOUN	_	_	9	obj	_	SpaceAfter=No|Gloss=part|Translit=
+11	ของ	ของ	ADP	_	_	12	case	_	SpaceAfter=No|Gloss=of|Translit=
+12	ผู้	ผู้	NOUN	_	_	10	nmod	_	SpaceAfter=No|Gloss=person|Translit=
+13	ที่	ที่	PRON	_	_	14	nsubj	_	SpaceAfter=No|Gloss=that(REL)|Translit=
+14	มี	มี	VERB	_	_	12	acl:relcl	_	SpaceAfter=No|Gloss=have|Translit=
+15	คุณสมบัติ	คุณสมบัติ	NOUN	_	_	14	obj	_	SpaceAfter=No|Gloss=|Translit=
+16	อาวุโส	อาวุโส	VERB	_	_	15	acl	_	Gloss=|Translit=
+17	50	50	NUM	_	_	9	xcomp	_	Gloss=50|Translit=
+18	เปอร์เซ็น	_	NOUN	_	NounType=Clf|Foreign=Yes	17	clf	_	Gloss=percentage|Translit=
+19	อีก	อีก	DET	_	_	20	det	_	Gloss=|Translit=
+20	50	50	NUM	_	_	17	conj	_	Gloss=50|Translit=
+21	เปอร์เซ็น	_	NOUN	_	NounType=Clf|Foreign=Yes	20	clf	_	Gloss=percentage|Translit=
+22	ให้	ให้	VERB	_	_	20	acl	_	SpaceAfter=No|Gloss=give|Translit=
+23	คิด	คิด	VERB	_	_	22	compound:svc	_	SpaceAfter=No|Gloss=|Translit=
+24	อาวุโส	อาวุโส	NOUN	_	_	23	obj	_	SpaceAfter=No|Gloss=|Translit=
+25	ประกอบ	ประกอบ	VERB	_	_	24	acl	_	SpaceAfter=No|Gloss=|Translit=
+26	ความรู้	ความรู้	NOUN	_	_	25	obl:arg	_	SpaceAfter=No|Gloss=knowledge|Translit=
+27	ความ	ความ	NOUN	_	NounType=Nmlz	26	conj	_	SpaceAfter=No|Gloss=|Translit=
+28	สามารถ	สามารถ	VERB	_	_	27	acl	_	Gloss=|Translit=
+
+# sent_id = Thai_Political_Policemen_News14_16
+# text = เจตนารมณ์ต้องการให้คนทำงานได้รับขวัญกำลังใจ ในการที่ได้พิจารณาความรู้ความสามารถ ซึ่งเป็นประโยชน์ต่อสำนักงานตำรวจแห่งชาติ
+# text_en = 
+# tokenised_text = เจตนารมณ์ ต้องการ ให้ คน ทำงาน ได้ รับ ขวัญ กำลังใจ ใน การ ที่ ได้ พิจารณา ความรู้ ความ สามารถ ซึ่ง เป็น ประโยชน์ ต่อ สำนักงาน ตำรวจ แห่ง ชาติ
+# tokenised_translit =
+# tokenised_transcript =
+# phrase_type = sentence
+# sentence_position = body
+# genre = political_news_article
+# source = https://www.khaosod.co.th/politics/news_9913301
+# year = 2025
+1	เจตนารมณ์เจตนารมณ์	NOUN	_	_	2	dislocated	_	SpaceAfter=No|Gloss=|Translit=
+2	ต้องการ	ต้องการ	VERB	_	_	0	root	_	SpaceAfter=No|Gloss=want|Translit=
+3	ให้	ให้	VERB	_	_	2	xcomp	_	SpaceAfter=No|Gloss=give|Translit=
+4	คน	คน	NOUN	_	_	3	obj	_	SpaceAfter=No|Gloss=person|Translit=
+5	ทำงาน	ทำงาน	VERB	_	_	4	acl	_	SpaceAfter=No|Gloss=work|Translit=
+6	ได้	ได้	VERB	_	_	3	compound:svc	_	SpaceAfter=No|Gloss=|Translit=
+7	รับ	รับ	VERB	_	_	6	xcomp	_	SpaceAfter=No|Gloss=receive|Translit=
+8	ขวัญ	ขวัญ	NOUN	_	_	7	obj	_	SpaceAfter=No|Gloss=|Translit=
+9	กำลังใจ	กำลังใจ	NOUN	_	_	8	conj	_	Gloss=|Translit=
+10	ใน	ใน	ADP	_	_	11	case	_	SpaceAfter=No|Gloss=in|Translit=
+11	การ	การ	NOUN	_	NounType=Nmlz	7	obl	_	SpaceAfter=No|Gloss=|Translit=
+12	ที่	ที่	PRON	_	_	13	nsubj	_	SpaceAfter=No|Gloss=that(REL)|Translit=
+13	ได้	ได้	VERB	_	_	11	acl:relcl	_	SpaceAfter=No|Gloss=|Translit=
+14	พิจารณา	พิจารณา	VERB	_	_	13	xcomp	_	SpaceAfter=No|Gloss=consider|Translit=
+15	ความรู้	ความรู้	NOUN	_	_	14	obj	_	SpaceAfter=No|Gloss=knowledge|Translit=
+16	ความ	ความ	NOUN	_	NounType=Nmlz	15	conj	_	SpaceAfter=No|Gloss=|Translit=
+17	สามารถ	สามารถ	VERB	_	_	16	acl	_	Gloss=|Translit=
+18	ซึ่ง	ซึ่ง	PRON	_	_	20	nsubj	_	SpaceAfter=No|Gloss=that(REL)|Translit=
+19	เป็น	เป็น	AUX	_	_	20	cop	_	SpaceAfter=No|Gloss=be|Translit=
+20	ประโยชน์	ประโยชน์	NOUN	_	_	15	acl:relcl	_	SpaceAfter=No|Gloss=|Translit=
+21	ต่อ	ต่อ	ADP	_	_	22	case	_	SpaceAfter=No|Gloss=to|Translit=
+22	สำนักงาน	สำนักงาน	NOUN	_	_	20	obj	_	SpaceAfter=No|Gloss=|Translit=
+23	ตำรวจ	ตำรวจ	NOUN	_	_	22	nmod	_	SpaceAfter=No|Gloss=policeman|Translit=
+24	แห่ง	แห่ง	ADP	_	_	25	case	_	SpaceAfter=No|Gloss=of|Translit=
+25	ชาติ	ชาติ	NOUN	_	_	22	nmod	_	Gloss=nation|Translit=
+
+# sent_id = Thai_Political_Policemen_News14_17
+# text = แต่การที่มีกฎเกณฑ์กติกาแล้วไม่ปฏิบัติหรือเลือกปฏิบัติ เมื่อผลสัมฤทธิ์ออกมาบ่งบอกถึงการใช้ดุลยพินิจ ซึ่งอาจเป็นการฝ่าฝืนกฎหมาย
+# text_en = 
+# tokenised_text = แต่ การ ที่ มี กฎเกณฑ์ กติกา แล้ว ไม่ ปฏิบัติ หรือ เลือก ปฏิบัติ เมื่อ ผล สัมฤทธิ์ ออก มา บ่งบอก ถึง การ ใช้ ดุลยพินิจ ซึ่ง อาจ เป็น การ ฝ่าฝืน กฎหมาย
+# tokenised_translit =
+# tokenised_transcript =
+# phrase_type = sentence
+# sentence_position = body
+# genre = political_news_article
+# source = https://www.khaosod.co.th/politics/news_9913301
+# year = 2025
+1	แต่	แต่	ADV	_	_	16	advmod	_	SpaceAfter=No|Gloss=but|Translit=
+2	การ	การ	NOUN	_	NounType=Nmlz	16	dislocated	_	SpaceAfter=No|Gloss=|Translit=
+3	ที่	ที่	PRON	_	_	4	nsubj	_	SpaceAfter=No|Gloss=that(REL)|Translit=
+4	มี	มี	VERB	_	_	2	acl:relcl	_	SpaceAfter=No|Gloss=have|Translit=
+5	กฎเกณฑ์	กฎเกณฑ์	NOUN	_	_	4	obl:arg	_	SpaceAfter=No|Gloss=|Translit=
+6	กติกา	กติกา	NOUN	_	_	5	nmod	_	SpaceAfter=No|Gloss=|Translit=
+7	แล้ว	แล้ว	ADV	_	_	9	advmod	_	SpaceAfter=No|Gloss=|Translit=
+8	ไม่	ไม่	ADV	_	_	9	advmod	_	SpaceAfter=No|Gloss=not|Translit=
+9	ปฏิบัติ	ปฏิบัติ	VERB	_	_	4	advcl	_	SpaceAfter=No|Gloss=|Translit=
+10	หรือ	หรือ	CCONJ	_	_	11	cc	_	SpaceAfter=No|Gloss=or|Translit=
+11	เลือก	เลือก	VERB	_	_	9	conj	_	SpaceAfter=No|Gloss=choose|Translit=
+12	ปฏิบัติ	ปฏิบัติ	VERB	_	_	11	xcomp	_	Gloss=|Translit=
+13	เมื่อ	เมื่อ	NOUN	_	_	16	obl	_	SpaceAfter=No|Gloss=|Translit=
+14	ผล	ผล	NOUN	_	_	16	nsubj	_	SpaceAfter=No|Gloss=result|Translit=
+15	สัมฤทธิ์	สัมฤทธิ์	NOUN	_	_	14	nmod	_	SpaceAfter=No|Gloss=|Translit=
+16	ออก	ออก	VERB	_	_	0	root	_	SpaceAfter=No|Gloss=|Translit=
+17	มา	มา	VERB	_	_	16	compound:svc	_	SpaceAfter=No|Gloss=come|Translit=
+18	บ่งบอก	บ่งบอก	VERB	_	_	16	advcl	_	SpaceAfter=No|Gloss=|Translit=
+19	ถึง	ถึง	ADP	_	_	20	case	_	SpaceAfter=No|Gloss=to|Translit=
+20	การ	การ	NOUN	_	NounType=Nmlz	18	obl	_	SpaceAfter=No|Gloss=|Translit=
+21	ใช้	ใช้	VERB	_	_	20	acl	_	SpaceAfter=No|Gloss=use|Translit=
+22	ดุลยพินิจ	ดุลยพินิจ	NOUN	_	_	21	obj	_	Gloss=|Translit=
+23	ซึ่ง	ซึ่ง	PRON	_	_	24	nsubj	_	SpaceAfter=No|Gloss=that(REL)|Translit=
+24	อาจ	อาจ	VERB	_	_	20	acl:relcl	_	SpaceAfter=No|Gloss=|Translit=
+25	เป็น	เป็น	AUX	_	_	26	cop	_	SpaceAfter=No|Gloss=be|Translit=
+26	การ	การ	NOUN	_	NounType=Nmlz	24	xcomp	_	SpaceAfter=No|Gloss=|Translit=
+27	ฝ่าฝืน	ฝ่าฝืน	VERB	_	_	26	acl	_	SpaceAfter=No|Gloss=|Translit=
+28	กฎหมาย	กฎหมาย	NOUN	_	_	27	obj	_	Gloss=|Translit=
+
+# sent_id = Thai_Political_Policemen_News14_18
+# text = “ผมมองว่าการกระทำที่เกิดขึ้นหมิ่นเหม่ต่อข้อกฎหมาย
+# text_en = 
+# tokenised_text = “ ผม มอง ว่า การ กระทำ ที่ เกิด ขึ้น หมิ่นเหม่ ต่อ ข้อ กฎหมาย
+# tokenised_translit =
+# tokenised_transcript =
+# phrase_type = sentence
+# sentence_position = body
+# genre = political_news_article
+# source = https://www.khaosod.co.th/politics/news_9913301
+# year = 2025
+1	“	“	PUNCT	_	_	3	punct	_	SpaceAfter=No
+2	ผม	ผม	PRON	_	Person=1|PronType=Prs	3	nsubj	_	SpaceAfter=No|Gloss=I|Translit=
+3	มอง	มอง	VERB	_	_	0	root	_	SpaceAfter=No|Gloss=look|Translit=
+4	ว่า	ว่า	SCONJ	_	_	10	mark	_	SpaceAfter=No|Gloss=that(COMP)|Translit=
+5	การ	การ	NOUN	_	NounType=Nmlz	10	nsubj	_	SpaceAfter=No|Gloss=|Translit=
+6	กระทำ	กระทำ	VERB	_	_	5	acl	_	SpaceAfter=No|Gloss=|Translit=
+7	ที่	ที่	PRON	_	_	8	nsubj	_	SpaceAfter=No|Gloss=that(REL)|Translit=
+8	เกิด	เกิด	VERB	_	_	5	acl:relcl	_	SpaceAfter=No|Gloss=|Translit=
+9	ขึ้น	ขึ้น	ADV	_	_	8	advmod	_	SpaceAfter=No|Gloss=|Translit=
+10	หมิ่นเหม่	หมิ่นเหม่	VERB	_	_	3	ccomp	_	SpaceAfter=No|Gloss=|Translit=
+11	ต่อ	ต่อ	ADP	_	_	12	case	_	SpaceAfter=No|Gloss=to|Translit=
+12	ข้อ	ข้อ	NOUN	_	_	10	obl	_	SpaceAfter=No|Gloss=|Translit=
+13	กฎหมาย	กฎหมาย	NOUN	_	_	12	nmod	_	Gloss=|Translit=
+
+# sent_id = Thai_Political_Policemen_News14_19
+# text = เรารู้แล้วว่าผลลัพธ์ที่ออกมาใกล้ตัวกับผู้มีอำนาจ และไม่มีผลการปฏิบัติอย่างแท้จริง
+# text_en = 
+# tokenised_text = เรา รู้ แล้ว ว่า ผลลัพธ์ ที่ ออก มา ใกล้ ตัว กับ ผู้ มี อำนาจ และ ไม่ มี ผล การ ปฏิบัติ อย่าง แท้ จริง
+# tokenised_translit =
+# tokenised_transcript =
+# phrase_type = sentence
+# sentence_position = body
+# genre = political_news_article
+# source = https://www.khaosod.co.th/politics/news_9913301
+# year = 2025
+1	เรา	เรา	PRON	_	Person=1|PronType=Prs	2	nsubj	_	SpaceAfter=No|Gloss=we|Translit=
+2	รู้	รู้	VERB	_	_	0	root	_	SpaceAfter=No|Gloss=know|Translit=
+3	แล้ว	แล้ว	ADV	_	_	2	advmod	_	SpaceAfter=No|Gloss=|Translit=
+4	ว่า	ว่า	SCONJ	_	_	9	mark	_	SpaceAfter=No|Gloss=that(COMP)|Translit=
+5	ผลลัพธ์	ผลลัพธ์	NOUN	_	_	9	nsubj	_	SpaceAfter=No|Gloss=|Translit=
+6	ที่	ที่	PRON	_	_	7	nsubj	_	SpaceAfter=No|Gloss=that(REL)|Translit=
+7	ออก	ออก	VERB	_	_	5	acl:relcl	_	SpaceAfter=No|Gloss=|Translit=
+8	มา	มา	VERB	_	_	7	compound:svc	_	SpaceAfter=No|Gloss=come|Translit=
+9	ใกล้	ใกล้	VERB	_	_	2	ccomp	_	SpaceAfter=No|Gloss=be near|Translit=
+10	ตัว	ตัว	NOUN	_	_	9	obl:arg	_	SpaceAfter=No|Gloss=body|Translit=
+11	กับ	กับ	ADP	_	_	12	case	_	SpaceAfter=No|Gloss=with|Translit=
+12	ผู้	ผู้	NOUN	_	_	9	obl	_	SpaceAfter=No|Gloss=person|Translit=
+13	มี	มี	VERB	_	_	12	acl	_	SpaceAfter=No|Gloss=have|Translit=
+14	อำนาจ	อำนาจ	NOUN	_	_	13	obl:arg	_	Gloss=power|Translit=
+15	และ	และ	CCONJ	_	_	17	cc	_	SpaceAfter=No|Gloss=and|Translit=
+16	ไม่	ไม่	ADV	_	_	17	advmod	_	SpaceAfter=No|Gloss=not|Translit=
+17	มี	มี	VERB	_	_	9	conj	_	SpaceAfter=No|Gloss=have|Translit=
+18	ผล	ผล	NOUN	_	_	17	obl:arg	_	SpaceAfter=No|Gloss=|Translit=
+19	การ	การ	NOUN	_	NounType=Nmlz	18	nmod	_	SpaceAfter=No|Gloss=|Translit=
+20	ปฏิบัติ	ปฏิบัติ	VERB	_	_	19	acl	_	SpaceAfter=No|Gloss=|Translit=
+21	อย่าง	อย่าง	NOUN	_	_	20	obl	_	SpaceAfter=No|Gloss=|Translit=
+22	แท้	แท้	VERB	_	_	21	acl	_	SpaceAfter=No|Gloss=be true|Translit=
+23	จริง	จริง	VERB	_	_	22	flat	_	Gloss=be real|Translit=
+
+# sent_id = Thai_Political_Policemen_News14_20
+# text = เรารู้ เราเห็น เพราะทำงานด้วยกันมา ใครขาว ใครเทา ใครดำ
+# text_en = 
+# tokenised_text = เรา รู้ เรา เห็น เพราะ ทำงาน ด้วย กัน มา ใคร ขาว ใคร เทา ใคร ดำ
+# tokenised_translit =
+# tokenised_transcript =
+# phrase_type = sentence
+# sentence_position = body
+# genre = political_news_article
+# source = https://www.khaosod.co.th/politics/news_9913301
+# year = 2025
+1	เรา	เรา	PRON	_	Person=1|PronType=Prs	2	nsubj	_	SpaceAfter=No|Gloss=we|Translit=
+2	รู้	รู้	VERB	_	_	0	root	_	Gloss=know|Translit=
+3	เรา	เรา	PRON	_	Person=1|PronType=Prs	4	nsubj	_	SpaceAfter=No|Gloss=we|Translit=
+4	เห็น	เห็น	VERB	_	_	2	conj	_	Gloss=see|Translit=
+5	เพราะ	เพราะ	ADP	_	_	6	mark	_	SpaceAfter=No|Gloss=because|Translit=
+6	ทำงาน	ทำงาน	VERB	_	_	2	advcl	_	SpaceAfter=No|Gloss=work|Translit=
+7	ด้วย	ด้วย	ADV	_	_	6	advmod	_	SpaceAfter=No|Gloss=|Translit=
+8	กัน	กัน	ADV	_	_	7	advmod	_	SpaceAfter=No|Gloss=|Translit=
+9	มา	มา	ADV	_	_	6	advmod	_	Gloss=|Translit= 
+10	ใคร	ใคร	PRON	_	_	11	nsubj	_	SpaceAfter=No|Gloss=|Translit=
+11	ขาว	ขาว	VERB	_	_	2	parataxis	_	Gloss=be white|Translit=
+12	ใคร	ใคร	PRON	_	_	13	nsubj	_	SpaceAfter=No|Gloss=|Translit=
+13	เทา	เทา	VERB	_	_	11	conj	_	Gloss=be grey|Translit=
+14	ใคร	ใคร	PRON	_	_	15	nsubj	_	SpaceAfter=No|Gloss=|Translit=
+15	ดำ	ดำ	VERB	_	_	11	conj	_	Gloss=be black|Translit=
+
+# sent_id = Thai_Political_Policemen_News14_21
+# text = ฉะนั้น สิ่งที่กมธ.ตำรวจ ทำได้คือการให้ความเป็นธรรมกับทุกคนด้วยความเสมอภาค
+# text_en = 
+# tokenised_text = ฉะนั้น สิ่ง ที่ กมธ. ตำรวจ ทำ ได้ คือ การ ให้ ความ เป็นธรรม กับ ทุก คน ด้วย ความ เสมอภาค
+# tokenised_translit =
+# tokenised_transcript =
+# phrase_type = sentence
+# sentence_position = body
+# genre = political_news_article
+# source = https://www.khaosod.co.th/politics/news_9913301
+# year = 2025
+1	ฉะนั้น	ฉะนั้น	ADV	_	_	2	advmod	_	Gloss=|Translit=
+2	สิ่ง	สิ่ง	NOUN	_	_	0	root	_	SpaceAfter=No|Gloss=thing|Translit=
+3	ที่	ที่	PRON	_	_	6	obj	_	SpaceAfter=No|Gloss=that(REL)|Translit=
+4	กมธ.	กมธ.	PROPN	_	Abbr=Yes	6	nsubj	_	SpaceAfter=No|Gloss=|Translit=
+5	ตำรวจ	ตำรวจ	NOUN	_	_	4	nmod	_	Gloss=policeman|Translit=
+6	ทำ	ทำ	VERB	_	_	2	acl:relcl	_	SpaceAfter=No|Gloss=do|Translit=
+7	ได้	ได้	VERB	_	_	6	advcl	_	SpaceAfter=No|Gloss=|Translit=
+8	คือ	คือ	CCONJ	_	_	9	cc	_	SpaceAfter=No|Gloss=namely|Translit=
+9	การ	การ	NOUN	_	NounType=Nmlz	2	conj	_	SpaceAfter=No|Gloss=|Translit=
+10	ให้	ให้	VERB	_	_	9	acl	_	SpaceAfter=No|Gloss=give|Translit=
+11	ความ	ความ	NOUN	_	NounType=Nmlz	10	obj	_	SpaceAfter=No|Gloss=|Translit=
+12	เป็นธรรม	เป็นธรรม	VERB	_	_	11	acl	_	SpaceAfter=No|Gloss=be legitimate|Translit=
+13	กับ	กับ	ADP	_	_	15	case	_	SpaceAfter=No|Gloss=with|Translit=
+14	ทุก	ทุก	DET	_	_	15	det	_	SpaceAfter=No|Gloss=every|Translit=
+15	คน	คน	NOUN	_	NounType=Clf	10	obl	_	SpaceAfter=No|Gloss=person|Translit=
+16	ด้วย	ด้วย	ADP	_	_	17	case	_	SpaceAfter=No|Gloss=with|Translit=
+17	ความ	ความ	NOUN	_	NounType=Nmlz	10	obl	_	SpaceAfter=No|Gloss=|Translit=
+18	เสมอภาค	เสมอภาค	VERB	_	_	17	acl	_	Gloss=|Translit=
+
+# sent_id = Thai_Political_Policemen_News14_22
+# text = เจตนารมณ์ของกฎหมายคือต้องการเห็นตำรวจตั้งใจทำงานให้กับพี่น้องประชาชนให้ได้รับความยุติธรรม แข่งการทำความดีให้พี่น้องประชาชน 
+# text_en = 
+# tokenised_text = เจตนารมณ์ ของ กฎหมาย คือ ต้องการ เห็น ตำรวจ ตั้งใจ ทำงาน ให้ กับ พี่ น้อง ประชาชน ให้ ได้ รับ ความ ยุติธรรม แข่ง การ ทำ ความ ดี ให้ พี่ น้อง ประชาชน
+# tokenised_translit =
+# tokenised_transcript =
+# phrase_type = sentence
+# sentence_position = body
+# genre = political_news_article
+# source = https://www.khaosod.co.th/politics/news_9913301
+# year = 2025
+1	เจตนารมณ์	เจตนารมณ์		NOUN	_	_	0	root	_	SpaceAfter=No|Gloss=|Translit=
+2	ของ	ของ	ADP	_	_	3	case	_	SpaceAfter=No|Gloss=of|Translit=
+3	กฎหมาย	กฎหมาย	NOUN	_	_	1	nmod	_	SpaceAfter=No|Gloss=|Translit=
+4	คือ	คือ	CCONJ	_	_	5	cc	_	SpaceAfter=No|Gloss=namely|Translit=
+5	ต้องการ	ต้องการ	VERB	_	_	1	conj	_	SpaceAfter=No|Gloss=want|Translit=
+6	เห็น	เห็น	VERB	_	_	5	xcomp	_	SpaceAfter=No|Gloss=see|Translit=
+7	ตำรวจ	ตำรวจ	NOUN	_	_	6	obj	_	SpaceAfter=No|Gloss=policeman|Translit=
+8	ตั้งใจ	ตั้งใจ	VERB	_	_	6	xcomp	_	SpaceAfter=No|Gloss=be determined|Translit=
+9	ทำงาน	ทำงาน	VERB	_	_	8	xcomp	_	SpaceAfter=No|Gloss=wwork|Translit=
+10	ให้	ให้	VERB	_	_	9	compound:svc	_	SpaceAfter=No|Gloss=give|Translit=
+11	กับ	กับ	ADP	_	_	12	case	_	SpaceAfter=No|Gloss=with|Translit=
+12	พี่	พี่	NOUN	_	_	10	obl	_	SpaceAfter=No|Gloss=|Translit=
+13	น้อง	น้อง	NOUN	_	_	12	flat	_	SpaceAfter=No|Gloss=|Translit=
+14	ประชาชน	ประชาชน	NOUN	_	_	12	appos	_	SpaceAfter=No|Gloss=population|Translit=
+15	ให้	ให้	VERB	_	_	8	advcl	_	SpaceAfter=No|Gloss=give|Translit=
+16	ได้	ได้	VERB	_	_	15	compound:svc	_	SpaceAfter=No|Gloss=|Translit=
+17	รับ	รับ	VERB	_	_	16	xcomp	_	SpaceAfter=No|Gloss=receive|Translit=
+18	ความ	ความ	NOUN	_	NounType=Nmlz	17	obj	_	SpaceAfter=No|Gloss=|Translit=
+19	ยุติธรรม	ยุติธรรม	VERB	_	_	18	acl	_	Gloss=|Translit=
+20	แข่ง	แข่ง	VERB	_	_	8	conj	_	SpaceAfter=No|Gloss=compete|Translit=
+21	การ	การ	NOUN	_	NounType=Nmlz	20	obj	_	SpaceAfter=No|Gloss=|Translit=
+22	ทำ	ทำ	VERB	_	_	21	acl	_	SpaceAfter=No|Gloss=do|Translit=
+23	ความ	ความ	NOUN	_	NounType=Nmlz	22	obj	_	SpaceAfter=No|Gloss=|Translit=
+24	ดี	ดี	VERB	_	_	23	acl	_	SpaceAfter=No|Gloss=be good|Translit=
+25	ให้	ให้	ADP	_	_	26	case	_	SpaceAfter=No|Gloss=for|Translit=
+26	พี่	พี่	NOUN	_	_	22	obl	_	SpaceAfter=No|Gloss=|Translit=
+27	น้อง	น้อง	NOUN	_	_	26	flat	_	SpaceAfter=No|Gloss=|Translit=
+28	ประชาชน	ประชาชน	NOUN	_	_	26	appos	_	Gloss=population|Translit=
+
+# sent_id = Thai_Political_Policemen_News14_23
+# text = ใครที่เทาๆ ดำๆ ก็ต้องมีการพิจารณาว่าไม่ควรหรือไม่อย่างไร 
+# text_en = 
+# tokenised_text = ใคร ที่ เทา ๆ ดำ ๆ ก็ ต้อง มี การ พิจารณา ว่า ไม่ ควร หรือ ไม่ อย่าง ไร
+# tokenised_translit =
+# tokenised_transcript =
+# phrase_type = sentence
+# sentence_position = body
+# genre = political_news_article
+# source = https://www.khaosod.co.th/politics/news_9913301
+# year = 2025
+1	ใคร	ใคร	PRON	_	_	8	nsubj	_	SpaceAfter=No|Gloss=|Translit=
+2	ที่	ที่	PRON	_	_	3	nsubj	_	SpaceAfter=No|Gloss=that(REL)|Translit=
+3	เทา	เทา	VERB	_	_	1	acl:relcl	_	SpaceAfter=No|Gloss=be grey|Translit=
+4	ๆ	_	SYM	_	_	3	compound:redup	_	Gloss=|Translit=
+5	ดำ	ดำ	VERB	_	_	3	conj	_	SpaceAfter=No|Gloss=be black|Translit=
+6	ๆ	_	SYM	_	_	5	compound:redup	_	Gloss=|Translit=
+7	ก็	ก็	ADV	_	_	8	advmod	_	SpaceAfter=No|Gloss=|Translit=
+8	ต้อง	ต้อง	VERB	_	_	0	root	_	SpaceAfter=No|Gloss=must|Translit=
+9	มี	มี	VERB	_	_	8	xcomp	_	SpaceAfter=No|Gloss=have|Translit=
+10	การ	การ	NOUN	_	NounType=Nmlz	9	obl:arg	_	SpaceAfter=No|Gloss=|Translit=
+11	พิจารณา	พิจารณา	VERB	_	_	10	acl	_	SpaceAfter=No|Gloss=consider|Translit=
+12	ว่า	ว่า	SCONJ	_	_	14	mark	_	SpaceAfter=No|Gloss=that(COMP)|Translit=
+13	ไม่	ไม่	ADV	_	_	14	advmod	_	SpaceAfter=No|Gloss=not|Translit=
+14	ควร	ควร	VERB	_	_	11	xcomp	_	SpaceAfter=No|Gloss=|Translit=
+15	หรือ	หรือ	CCONJ	_	_	16	cc	_	SpaceAfter=No|Gloss=or|Translit=
+16	ไม่	ไม่	ADV	_	_	14	conj	_	SpaceAfter=No|Gloss=not|Translit=
+17	อย่าง	อย่าง	NOUN	_	_	14	obl	_	SpaceAfter=No|Gloss=|Translit=
+18	ไร	ไร	ADJ	_	_	17	amod	_	Gloss=|Translit=
+
+# sent_id = Thai_Political_Policemen_News14_24
+# text = ขอให้ก.ตร.พิจารณาเรื่องนี้ด้วย” พล.ต.ต.จรูญเกียรติ กล่าว
+# text_en = 
+# tokenised_text = ขอ ให้ ก.ตร. พิจารณา เรื่อง นี้ ด้วย ” พล.ต.ต. จรูญเกียรติ กล่าว
+# tokenised_translit =
+# tokenised_transcript =
+# phrase_type = sentence
+# sentence_position = body
+# genre = political_news_article
+# source = https://www.khaosod.co.th/politics/news_9913301
+# year = 2025
+1	ขอ	ขอ	VERB	_	_	11	ccomp	_	SpaceAfter=No|Gloss=ask|Translit=
+2	ให้	ให้	VERB	_	_	1	xcomp	_	SpaceAfter=No|Gloss=give|Translit=
+3	ก.ตร.	ก.ตร.	NOUN	_	Abbr=Yes	2	obj	_	SpaceAfter=No|Gloss=|Translit=
+4	พิจารณา	พิจารณา	VERB	_	_	2	compound:svc	_	SpaceAfter=No|Gloss=consider|Translit=
+5	เรื่อง	เรื่อง	NOUN	_	_	4	obj	_	SpaceAfter=No|Gloss=|Translit=
+6	นี้	นี้	ADJ	_	_	5	amod	_	SpaceAfter=No|Gloss=this|Translit=
+7	ด้วย	ด้วย	ADV	_	_	2	advmod	_	SpaceAfter=No|Gloss=also|Translit=
+8	”	”	PUNCT	_	_	1	punct	_	_
+9	พล.ต.ต.	พล.ต.ต.	NOUN	_	Abbr=Yes	11	nsubj	_	SpaceAfter=No|Gloss=|Translit=
+10	จรูญเกียรติ	จรูญเกียรติ	PROPN	_	_	9	nmod	_	Gloss=|Translit=
+11	กล่าว	กล่าว	VERB	_	_	0	root	_	Gloss=say|Translit=
+
+# sent_id = Thai_Political_Policemen_News14_25
+# text = พล.ต.ต.จรูญเกียรติ กล่าวว่า สิ่งที่ผู้บังคับบัญชาได้มอบให้กับตำรวจแล้วมอบให้ประชาชน ถ้ายังเป็นระบบอุปถัมภ์จะนำมาซึ่งความเสื่อม เพราะทุกคนมองแล้วว่าพ.ร.บ.ฉบับนี้ต้องมีการบังคับใช้และเดินไปในทางที่ถูกต้อง
+# text_en = 
+# tokenised_text = พล.ต.ต. จรูญเกียรติ กล่าว ว่า สิ่ง ที่ ผู้ บังคับบัญชา ได้ มอบ ให้ กับ ตำรวจ แล้ว มอบ ให้ ประชาชน ถ้า ยัง เป็น ระบบ อุปถัมภ์ จะ นำ มา ซึ่ง ความ เสื่อม เพราะ ทุก คน มอง แล้ว ว่า พ.ร.บ. ฉบับ นี้ ต้อง มี การ บังคับ ใช้ และ เดิน ไป ใน ทาง ที่ ถูกต้อง
+# tokenised_translit =
+# tokenised_transcript =
+# phrase_type = sentence
+# sentence_position = body
+# genre = political_news_article
+# source = https://www.khaosod.co.th/politics/news_9913301
+# year = 2025
+1	พล.ต.ต.	พล.ต.ต.	NOUN	_	Abbr=Yes	3	nsubj	_	SpaceAfter=No|Gloss=|Translit=
+2	จรูญเกียรติ	จรูญเกียรติ	PROPN	_	_	1	nmod	_	Gloss=|Translit=
+3	กล่าว	กล่าว	VERB	_	_	0	root	_	SpaceAfter=No|Gloss=say|Translit=
+4	ว่า	ว่า	SCONJ	_	_	24	mark	_	Gloss=that(COMP)|Translit=
+5	สิ่ง	สิ่ง	NOUN	_	_	24	nsubj	_	SpaceAfter=No|Gloss=thing|Translit=
+6	ที่	ที่	PRON	_	_	10	obj	_	SpaceAfter=No|Gloss=that(REL)|Translit=
+7	ผู้	ผู้	NOUN	_	_	9	nsubj	_	SpaceAfter=No|Gloss=person|Translit=
+8	บังคับบัญชา	บังคับบัญชา	VERB	_	_	7	acl	_	SpaceAfter=No|Gloss=|Translit=
+9	ได้	ได้	VERB	_	_	5	acl:relcl	_	SpaceAfter=No|Gloss=|Translit=
+10	มอบ	มอบ	VERB	_	_	9	xcomp	_	SpaceAfter=No|Gloss=|Translit=
+11	ให้	ให้	VERB	_	_	10	compound:svc	_	SpaceAfter=No|Gloss=give|Translit=
+12	กับ	กับ	ADP	_	_	13	case	_	SpaceAfter=No|Gloss=with|Translit=
+13	ตำรวจ	ตำรวจ	NOUN	_	_	11	obl	_	SpaceAfter=No|Gloss=policeman|Translit=
+14	แล้ว	แล้ว	ADV	_	_	15	advmod	_	SpaceAfter=No|Gloss=|Translit=
+15	มอบ	มอบ	VERB	_	_	10	advcl	_	SpaceAfter=No|Gloss=|Translit=
+16	ให้	ให้	ADP	_	_	17	case	_	SpaceAfter=No|Gloss=for|Translit=
+17	ประชาชน	ประชาชน	NOUN	_	_	15	obl	_	Gloss=population|Translit=
+18	ถ้า	ถ้า	ADP	_	_	21	mark	_	SpaceAfter=No|Gloss=if|Translit=
+19	ยัง	ยัง	ADV	_	_	21	advmod	_	SpaceAfter=No|Gloss=still|Translit=
+20	เป็น	เป็น	AUX	_	_	21	cop	_	SpaceAfter=No|Gloss=be|Translit=
+21	ระบบ	ระบบ	NOUN	_	_	24	advcl	_	SpaceAfter=No|Gloss=system|Translit=
+22	อุปถัมภ์	อุปถัมภ์	VERB	_	_	21	acl	_	SpaceAfter=No|Gloss=|Translit=
+23	จะ	จะ	ADV	_	_	24	advmod	_	SpaceAfter=No|Gloss=|Translit=
+24	นำ	นำ	VERB	_	_	3	ccomp	_	SpaceAfter=No|Gloss=bring|Translit=
+25	มา	มา	VERB	_	_	24	advcl	_	SpaceAfter=No|Gloss=come|Translit=
+26	ซึ่ง	ซึ่ง	ADP	_	_	27	case	_	SpaceAfter=No|Gloss=|Translit=
+27	ความ	ความ	NOUN	_	NounType=Nmlz	24	obl	_	SpaceAfter=No|Gloss=|Translit=
+28	เสื่อม	เสื่อม	VERB	_	_	27	acl	_	Gloss=|Translit=
+29	เพราะ	เพราะ	ADP	_	_	32	mark	_	SpaceAfter=No|Gloss=because|Translit=
+30	ทุก	ทุก	DET	_	_	31	det	_	SpaceAfter=No|Gloss=every|Translit=
+31	คน	คน	NOUN	_	NounType=Clf	32	nsubj	_	SpaceAfter=No|Gloss=person|Translit=
+32	มอง	มอง	VERB	_	_	24	advcl	_	SpaceAfter=No|Gloss=look|Translit=
+33	แล้ว	แล้ว	ADV	_	_	32	advmod	_	SpaceAfter=No|Gloss=|Translit=
+34	ว่า	ว่า	SCONJ	_	_	38	mark	_	SpaceAfter=No|Gloss=that(COMP)|Translit=
+35	พ.ร.บ.	พ.ร.บ.	NOUN	_	Abbr=Yes	38	nsubj	_	SpaceAfter=No|Gloss=|Translit=
+36	ฉบับ	ฉบับ	NOUN	_	NounType=Clf	35	clf	_	SpaceAfter=No|Gloss=|Translit=
+37	นี้	นี้	ADJ	_	_	36	amod	_	SpaceAfter=No|Gloss=this|Translit=
+38	ต้อง	ต้อง	VERB	_	_	32	ccomp	_	SpaceAfter=No|Gloss=must|Translit=
+39	มี	มี	VERB	_	_	38	xcomp	_	SpaceAfter=No|Gloss=have|Translit=
+40	การ	การ	NOUN	_	NounType=Nmlz	39	obj	_	SpaceAfter=No|Gloss=|Translit=
+41	บังคับ	บังคับ	VERB	_	_	40	acl	_	SpaceAfter=No|Gloss=force|Translit=
+42	ใช้	ใช้	VERB	_	_	41	xcomp	_	SpaceAfter=No|Gloss=use|Translit=
+43	และ	และ	CCONJ	_	_	44	cc	_	SpaceAfter=No|Gloss=and|Translit=
+44	เดิน	เดิน	VERB	_	_	42	conj	_	SpaceAfter=No|Gloss=walk|Translit=
+45	ไป	ไป	ADV	_	_	44	advmod	_	SpaceAfter=No|Gloss=|Translit=
+46	ใน	ใน	ADP	_	_	47	case	_	SpaceAfter=No|Gloss=in|Translit=
+47	ทาง	ทาง	NOUN	_	_	44	obl	_	SpaceAfter=No|Gloss=way|Translit=
+48	ที่	ที่	PRON	_	_	49	nsubj	_	SpaceAfter=No|Gloss=that(REL)|Translit=
+49	ถูกต้อง	ถูกต้อง	VERB	_	_	47	acl:relcl	_	Gloss=be right|Translit=
+
+# sent_id = Thai_Political_Policemen_News14_26
+# text = แต่ที่มีการชะลอคำสั่งพ.ร.บ.ฉบับนี้ และไม่นำผลการปฏิบัติมาใช้ จะทำให้ตำรวจเสียขวัญและกำลังใจในการปฏิบัติหน้าที่ ก็จะอยู่กันแบบเช้าชาม เย็นชาม
+# text_en = 
+# tokenised_text = แต่ ที่ มี การ ชะลอ คำ สั่ง พ.ร.บ. ฉบับ นี้ และ ไม่ นำ ผล การ ปฏิบัติ มา ใช้ จะ ทำให้ ตำรวจ เสีย ขวัญ และ กำลังใจ ใน การ ปฏิบัติ หน้าที่ ก็ จะ อยู่ กัน แบบ เช้า ชาม เย็น ชาม
+# tokenised_translit =
+# tokenised_transcript =
+# phrase_type = sentence
+# sentence_position = body
+# genre = political_news_article
+# source = https://www.khaosod.co.th/politics/news_9913301
+# year = 2025
+1	แต่	แต่	ADV	_	_	3	advmod	_	SpaceAfter=No|Gloss=but|Translit=
+2	ที่	ที่	PRON	_	_	3	nsubj	_	SpaceAfter=No|Gloss=what|Translit=
+3	มี	มี	VERB	_	_	0	root	_	SpaceAfter=No|Gloss=have|Translit=
+4	การ	การ	NOUN	_	NounType=Nmlz	3	obl:arg	_	SpaceAfter=No|Gloss=|Translit=
+5	ชะลอ	ชะลอ	VERB	_	_	4	acl	_	SpaceAfter=No|Gloss=|Translit=
+6	คำ	คำ	NOUN	_	_	5	obj	_	SpaceAfter=No|Gloss=word|Translit=
+7	สั่ง	สั่ง	VERB	_	_	6	acl	_	SpaceAfter=No|Gloss=command|Translit=
+8	พ.ร.บ.	พ.ร.บ.	NOUN	_	Abbr=Yes	6	nmod	_	SpaceAfter=No|Gloss=|Translit=
+9	ฉบับ	ฉบับ	NOUN	_	NounType=Clf	8	clf	_	SpaceAfter=No|Gloss=|Translit=
+10	นี้	นี้	ADJ	_	_	9	amod	_	Gloss=this|Translit=
+11	และ	และ	CCONJ	_	_	13	cc	_	SpaceAfter=No|Gloss=and|Translit=
+12	ไม่	ไม่	ADV	_	_	13	advmod	_	SpaceAfter=No|Gloss=not|Translit=
+13	นำ	นำ	VERB	_	_	3	conj	_	SpaceAfter=No|Gloss=bring|Translit=
+14	ผล	ผล	NOUN	_	_	13	obj	_	SpaceAfter=No|Gloss=result|Translit=
+15	การ	การ	NOUN	_	NounType=Nmlz	14	nmod	_	SpaceAfter=No|Gloss=|Translit=
+16	ปฏิบัติ	ปฏิบัติ	VERB	_	_	15	acl	_	SpaceAfter=No|Gloss=|Translit=
+17	มา	มา	VERB	_	_	13	compound:svc	_	SpaceAfter=No|Gloss=come|Translit=
+18	ใช้	ใช้	VERB	_	_	17	compound:svc	_	Gloss=use|Translit=
+19	จะ	จะ	ADV	_	_	20	advmod	_	SpaceAfter=No|Gloss=|Translit=
+20	ทำให้	ทำให้	VERB	_	_	3	advcl	_	SpaceAfter=No|Gloss=|Translit=
+21	ตำรวจ	ตำรวจ	NOUN	_	_	20	obj	_	SpaceAfter=No|Gloss=policeman|Translit=
+22	เสีย	เสีย	VERB	_	_	20	xcomp	_	SpaceAfter=No|Gloss=|Translit=
+23	ขวัญ	ขวัญ	NOUN	_	_	22	obl:arg	_	SpaceAfter=No|Gloss=|Translit=
+24	และ	และ	CCONJ	_	_	25	cc	_	SpaceAfter=No|Gloss=and|Translit=
+25	กำลังใจ	กำลังใจ	NOUN	_	_	23	conj	_	SpaceAfter=No|Gloss=|Translit=
+26	ใน	ใน	ADP	_	_	27	case	_	SpaceAfter=No|Gloss=in|Translit=
+27	การ	การ	NOUN	_	NounType=Nmlz	20	obl	_	SpaceAfter=No|Gloss=|Translit=
+28	ปฏิบัติ	ปฏิบัติ	VERB	_	_	27	acl	_	SpaceAfter=No|Gloss=|Translit=
+29	หน้าที่	หน้าที่	NOUN	_	_	28	obj	_	Gloss=|Translit=
+30	ก็	ก็	ADV	_	_	32	advmod	_	SpaceAfter=No|Gloss=|Translit=
+31	จะ	จะ	ADV	_	_	32	advmod	_	SpaceAfter=No|Gloss=|Translit=
+32	อยู่	อยู่	VERB	_	_	3	advcl	_	SpaceAfter=No|Gloss=stay|Translit=
+33	กัน	กัน	ADV	_	_	32	advmod	_	SpaceAfter=No|Gloss=|Translit=
+34	แบบ	แบบ	NOUN	_	_	32	obl	_	SpaceAfter=No|Gloss=|Translit=
+35	เช้า	เช้า	NOUN	_	_	34	nmod	_	SpaceAfter=No|Gloss=morning|Translit=
+36	ชาม	ชาม	NOUN	_	_	35	nmod	_	Gloss=bowl|Translit=
+37	เย็น	เย็น	NOUN	_	_	35	flat	_	SpaceAfter=No|Gloss=evening|Translit=
+38	ชาม	ชาม	NOUN	_	_	37	nmod	_	Gloss=bowl|Translit=
+
+# sent_id = Thai_Political_Policemen_News14_27
+# text = มีเพื่อนพี่น้องหลายคนที่มีฝีไม้ลายมือยังไม่ได้รับการแต่งตั้ง
+# text_en = 
+# tokenised_text = มี เพื่อน พี่ น้อง หลาย คน ที่ มี ฝีไม้ลายมือ ยัง ไม่ ได้ รับ การ แต่งตั้ง
+# tokenised_translit =
+# tokenised_transcript =
+# phrase_type = sentence
+# sentence_position = body
+# genre = political_news_article
+# source = https://www.khaosod.co.th/politics/news_9913301
+# year = 2025
+1	มี	มี	VERB	_	_	0	root	_	SpaceAfter=No|Gloss=have|Translit=
+2	เพื่อน	เพื่อน	NOUN	_	_	1	nsubj	_	SpaceAfter=No|Gloss=friend|Translit=
+3	พี่	พี่	NOUN	_	_	2	conj	_	SpaceAfter=No|Gloss=|Translit=
+4	น้อง	น้อง	NOUN	_	_	3	flat	_	SpaceAfter=No|Gloss=|Translit=
+5	หลาย	หลาย	DET	_	_	6	det	_	SpaceAfter=No|Gloss=several|Translit=
+6	คน	คน	NOUN	_	NounType=Clf	2	clf	_	SpaceAfter=No|Gloss=person|Translit=
+7	ที่	ที่	PRON	_	_	8	nsubj	_	SpaceAfter=No|Gloss=that(REL)|Translit=
+8	มี	มี	VERB	_	_	2	acl:relcl	_	SpaceAfter=No|Gloss=have|Translit=
+9	ฝีไม้ลายมือฝีไม้ลายมือ	NOUN	_	_	8	obl:arg	_	SpaceAfter=No|Gloss=|Translit=
+10	ยัง	ยัง	ADV	_	_	12	advmod	_	SpaceAfter=No|Gloss=still|Translit=
+11	ไม่	ไม่	ADV	_	_	12	advmod	_	SpaceAfter=No|Gloss=not|Translit=
+12	ได้	ได้	VERB	_	_	8	conj	_	SpaceAfter=No|Gloss=|Translit=
+13	รับ	รับ	VERB	_	_	12	xcomp	_	SpaceAfter=No|Gloss=receive|Translit=
+14	การ	การ	NOUN	_	NounType=Nmlz	13	obj	_	SpaceAfter=No|Gloss=|Translit=
+15	แต่งตั้ง	แต่งตั้ง	VERB	_	_	14	acl	_	Gloss=|Translit=
+
+# sent_id = Thai_Political_Policemen_News14_28
+# text = มีน้องๆ หลายคนเป็นดาวรุ่งที่กำลังจะโต จะทำไปทำไมในเมื่อเขาไม่พิจารณาเรื่องความรู้ ความสามารถ 
+# text_en = 
+# tokenised_text = มี น้อง ๆ หลาย คน เป็น ดาวรุ่ง ที่ กำลัง จะ โต จะ ทำ ไป ทำไม ใน เมื่อ เขา ไม่ พิจารณา เรื่อง ความรู้ ความ สามารถ
+# tokenised_translit =
+# tokenised_transcript =
+# phrase_type = sentence
+# sentence_position = body
+# genre = political_news_article
+# source = https://www.khaosod.co.th/politics/news_9913301
+# year = 2025
+1	มี	มี	VERB	_	_	0	root	_	SpaceAfter=No|Gloss=have|Translit=
+2	น้อง	น้อง	NOUN	_	_	1	nsubj	_	SpaceAfter=No|Gloss=|Translit=
+3	ๆ	_	SYM	_	_	2	compound:redup	_	Gloss=|Translit=
+4	หลาย	หลาย	DET	_	_	5	det	_	SpaceAfter=No|Gloss=several|Translit=
+5	คน	คน	NOUN	_	NounType=Clf	2	clf	_	SpaceAfter=No|Gloss=person|Translit=
+6	เป็น	เป็น	AUX	_	_	7	cop	_	SpaceAfter=No|Gloss=be|Translit=
+7	ดาวรุ่ง	ดาวรุ่ง	NOUN	_	_	2	acl	_	SpaceAfter=No|Gloss=|Translit=
+8	ที่	ที่	PRON	_	_	11	nsubj	_	SpaceAfter=No|Gloss=that(REL)|Translit=
+9	กำลัง	กำลัง	ADV	_	_	11	advmod	_	SpaceAfter=No|Gloss=|Translit=
+10	จะ	จะ	ADV	_	_	11	advmod	_	SpaceAfter=No|Gloss=|Translit=
+11	โต	โต	VERB	_	_	7	acl:relcl	_	Gloss=|Translit=
+12	จะ	จะ	ADV	_	_	13	advmod	_	SpaceAfter=No|Gloss=|Translit=
+13	ทำ	ทำ	VERB	_	_	1	advcl	_	SpaceAfter=No|Gloss=do|Translit=
+14	ไป	ไป	ADV	_	_	13	advmod	_	SpaceAfter=No|Gloss=|Translit=
+15	ทำไม	ทำไม	ADV	_	_	13	advmod	_	SpaceAfter=No|Gloss=why|Translit=
+16	ใน	ใน	ADP	_	_	17	case	_	SpaceAfter=No|Gloss=in|Translit=
+17	เมื่อ	เมื่อ	NOUN	_	_	20	obl	_	SpaceAfter=No|Gloss=|Translit=
+18	เขา	เขา	PRON	_	Person=3|PronType=Prs	20	nsubj	_	SpaceAfter=No|Gloss=he|Translit=
+19	ไม่	ไม่	ADV	_	_	20	advmod	_	SpaceAfter=No|Gloss=not|Translit=
+20	พิจารณา	พิจารณา	VERB	_	_	13	advcl	_	SpaceAfter=No|Gloss=consider|Translit=
+21	เรื่อง	เรื่อง	NOUN	_	_	20	obj	_	SpaceAfter=No|Gloss=|Translit=
+22	ความรู้	ความรู้	NOUN	_	_	21	nmod	_	Gloss=|Translit=
+23	ความ	ความ	NOUN	_	NounType=Nmlz	22	conj	_	SpaceAfter=No|Gloss=|Translit=
+24	สามารถ	สามารถ	VERB	_	_	23	acl	_	Gloss=|Translit=
+
+# sent_id = Thai_Political_Policemen_News14_29
+# text = มันส่งผลถึงการปฏิบัติงานของเจ้าหน้าที่
+# text_en = 
+# tokenised_text = มัน ส่ง ผล ถึง การ ปฏิบัติ งาน ของ เจ้าหน้าที่
+# tokenised_translit =
+# tokenised_transcript =
+# phrase_type = sentence
+# sentence_position = body
+# genre = political_news_article
+# source = https://www.khaosod.co.th/politics/news_9913301
+# year = 2025
+1	มัน	มัน	PRON	_	Person=3|PronType=Prs	2	nsubj	_	SpaceAfter=No|Gloss=it|Translit=
+2	ส่ง	ส่ง	VERB	_	_	0	root	_	SpaceAfter=No|Gloss=send|Translit=
+3	ผล	ผล	NOUN	_	_	2	obj	_	SpaceAfter=No|Gloss=result|Translit=
+4	ถึง	ถึง	ADP	_	_	5	case	_	SpaceAfter=No|Gloss=to|Translit=
+5	การ	การ	NOUN	_	NounType=Nmlz	2	obl	_	SpaceAfter=No|Gloss=|Translit=
+6	ปฏิบัติ	ปฏิบัติ	VERB	_	_	5	acl	_	SpaceAfter=No|Gloss=|Translit=
+7	งาน	งาน	NOUN	_	_	6	obj	_	SpaceAfter=No|Gloss=work|Translit=
+8	ของ	ของ	ADP	_	_	9	case	_	SpaceAfter=No|Gloss=of|Translit=
+9	เจ้าหน้าที่	เจ้าหน้าที่	NOUN	_	_	7	nmod	_	Gloss=|Translit=
+
+# sent_id = Thai_Political_Policemen_News14_30
+# text = ถ้าเจ้าหน้าที่ยังไม่ได้รับความเป็นธรรม ประชาชนก็จะไม่ได้
+# text_en = 
+# tokenised_text = ถ้า เจ้าหน้าที่ ยัง ไม่ ได้ รับ ความ เป็นธรรม ประชาชน ก็ จะ ไม่ ได้
+# tokenised_translit =
+# tokenised_transcript =
+# phrase_type = sentence
+# sentence_position = body
+# genre = political_news_article
+# source = https://www.khaosod.co.th/politics/news_9913301
+# year = 2025
+1	ถ้า	ถ้า	ADP	_	_	5	mark	_	SpaceAfter=No|Gloss=if|Translit=
+2	เจ้าหน้าที่	เจ้าหน้าที่	NOUN	_	_	5	nsubj	_	SpaceAfter=No|Gloss=|Translit=
+3	ยัง	ยัง	ADV	_	_	5	advmod	_	SpaceAfter=No|Gloss=still|Translit=
+4	ไม่	ไม่	ADV	_	_	5	advmod	_	SpaceAfter=No|Gloss=not|Translit=
+5	ได้	ได้	VERB	_	_	13	advcl	_	SpaceAfter=No|Gloss=|Translit=
+6	รับ	รับ	VERB	_	_	5	xcomp	_	SpaceAfter=No|Gloss=receive|Translit=
+7	ความ	ความ	NOUN	_	NounType=Nmlz	6	obj	_	SpaceAfter=No|Gloss=|Translit=
+8	เป็นธรรม	เป็นธรรม	VERB	_	_	7	acl	_	Gloss=|Translit=
+9	ประชาชน	ประชาชน	NOUN	_	_	13	nsubj	_	SpaceAfter=No|Gloss=population|Translit=
+10	ก็	ก็	ADV	_	_	13	advmod	_	SpaceAfter=No|Gloss=|Translit=
+11	จะ	จะ	ADV	_	_	13	advmod	_	SpaceAfter=No|Gloss=|Translit=
+12	ไม่	ไม่	ADV	_	_	13	advmod	_	SpaceAfter=No|Gloss=not|Translit=
+13	ได้	ได้	VERB	_	_	0	root	_	Gloss=|Translit=
+
+# sent_id = Thai_Political_Policemen_News14_31
+# text = ดังนั้น หลักการความเป็นธรรมต้องมาจากข้างบนแล้วลงมาสู่ข้างล่าง
+# text_en = 
+# tokenised_text = ดัง นั้น หลักการ ความ เป็นธรรม ต้อง มา จาก ข้าง บน แล้ว ลง มา สู่ ข้าง ล่าง
+# tokenised_translit =
+# tokenised_transcript =
+# phrase_type = sentence
+# sentence_position = body
+# genre = political_news_article
+# source = https://www.khaosod.co.th/politics/news_9913301
+# year = 2025
+1	ดัง	ดัง	ADP	_	_	2	case	_	SpaceAfter=No|Gloss=as|Translit=
+2	นั้น	นั้น	PRON	_	_	6	obl	_	Gloss=that|Translit=
+3	หลักการ	หลักการ	NOUN	_	_	6	nsubj	_	SpaceAfter=No|Gloss=|Translit=
+4	ความ	ความ	NOUN	_	NounType=Nmlz	3	nmod	_	SpaceAfter=No|Gloss=|Translit=
+5	เป็นธรรม	เป็นธรรม	VERB	_	_	4	acl	_	SpaceAfter=No|Gloss=|Translit=
+6	ต้อง	ต้อง	VERB	_	_	0	root	_	SpaceAfter=No|Gloss=must|Translit=
+7	มา	มา	VERB	_	_	6	xcomp	_	SpaceAfter=No|Gloss=come|Translit=
+8	จาก	จาก	ADP	_	_	9	case	_	SpaceAfter=No|Gloss=from|Translit=
+9	ข้าง	ข้าง	NOUN	_	_	7	obl	_	SpaceAfter=No|Gloss=|Translit=
+10	บน	บน	ADJ	_	_	9	amod	_	SpaceAfter=No|Gloss=|Translit=
+11	แล้ว	แล้ว	ADV	_	_	12	advmod	_	SpaceAfter=No|Gloss=|Translit=
+12	ลง	ลง	VERB	_	_	7	advcl	_	SpaceAfter=No|Gloss=descend|Translit=
+13	มา	มา	ADV	_	_	12	advmod	_	SpaceAfter=No|Gloss=|Translit=
+14	สู่	สู่	ADP	_	_	15	case	_	SpaceAfter=No|Gloss=to|Translit=
+15	ข้าง	ข้าง	NOUN	_	_	12	obl	_	SpaceAfter=No|Gloss=|Translit=
+16	ล่าง	ล่าง	ADJ	_	_	15	amod	_	Gloss=|Translit=
+
+# sent_id = Thai_Political_Policemen_News14_32
+# text = ตนมาวันนี้อยากจะมาแก้ไของค์กรตัวเอง 
+# text_en = 
+# tokenised_text = ตน มา วัน นี้ อยาก จะ มา แก้ไข องค์กร ตัว เอง
+# tokenised_translit =
+# tokenised_transcript =
+# phrase_type = sentence
+# sentence_position = body
+# genre = political_news_article
+# source = https://www.khaosod.co.th/politics/news_9913301
+# year = 2025
+1	ตน	ตน	NOUN	_	Person=1|PronType=Prs	2	nsubj	_	SpaceAfter=No|Gloss=I|Translit=
+2	มา	มา	VERB	_	_	0	root	_	SpaceAfter=No|Gloss=come|Translit=
+3	วัน	วัน	NOUN	_	_	2	obl	_	SpaceAfter=No|Gloss=day|Translit=
+4	นี้	นี้	ADJ	_	_	3	amod	_	SpaceAfter=No|Gloss=this|Translit=
+5	อยาก	อยาก	VERB	_	_	2	advcl	_	SpaceAfter=No|Gloss=want|Translit=
+6	จะ	จะ	ADV	_	_	7	advmod	_	SpaceAfter=No|Gloss=|Translit=
+7	มา	มา	VERB	_	_	5	xcomp	_	SpaceAfter=No|Gloss=come|Translit=
+8	แก้ไข	แก้ไข	VERB	_	_	7	compound:svc	_	SpaceAfter=No|Gloss=|Translit=
+9	องค์กร	องค์กร	NOUN	_	_	8	obj	_	SpaceAfter=No|Gloss=organization|Translit=
+10	ตัว	ตัว	NOUN	_	_	9	nmod	_	SpaceAfter=No|Gloss=body|Translit=
+11	เอง	เอง	ADJ	_	_	10	amod	_	Gloss=self|Translit=
+
+# sent_id = Thai_Political_Policemen_News14_33
+# text = ยืนยันว่าไม่ได้ ไม่เป็นไร
+# text_en = 
+# tokenised_text = ยืนยัน ว่า ไม่ ได้ ไม่ เป็นไร
+# tokenised_translit =
+# tokenised_transcript =
+# phrase_type = sentence
+# sentence_position = body
+# genre = political_news_article
+# source = https://www.khaosod.co.th/politics/news_9913301
+# year = 2025
+1	ยืนยัน	ยืนยัน	VERB	_	_	0	root	_	SpaceAfter=No|Gloss=insist|Translit=
+2	ว่า	ว่า	SCONJ	_	_	4	mark	_	SpaceAfter=No|Gloss=that(COMP)|Translit=
+3	ไม่	ไม่	ADV	_	_	4	advmod	_	SpaceAfter=No|Gloss=not|Translit=
+4	ได้	ได้	VERB	_	_	1	xcomp	_	Gloss=|Translit=
+5	ไม่	ไม่	ADV	_	_	6	advmod	_	SpaceAfter=No|Gloss=not|Translit=
+6	เป็นไร	เป็นไร	VERB	_	_	4	advcl	_	Gloss=|Translit=
+
+# sent_id = Thai_Political_Policemen_News14_34
+# text = แต่ตนมาเป็นตัวแทนของพี่ๆ น้องๆ หลายคน เพื่อสะท้อนไปถึงก.ตร. ให้พิจารณาเป็นไปตามพ.ร.บ.ตำรวจ
+# text_en = 
+# tokenised_text = แต่ ตน มา เป็น ตัว แทน ของ พี่ ๆ น้อง ๆ หลาย คน เพื่อ สะท้อน ไป ถึง ก.ตร. ให้ พิจารณา เป็น ไป ตาม พ.ร.บ. ตำรวจ
+# tokenised_translit =
+# tokenised_transcript =
+# phrase_type = sentence
+# sentence_position = body
+# genre = political_news_article
+# source = https://www.khaosod.co.th/politics/news_9913301
+# year = 2025
+1	แต่	แต่	ADV	_	_	3	advmod	_	SpaceAfter=No|Gloss=but|Translit=
+2	ตน	ตน	NOUN	_	Person=1|PronType=Prs	3	nsubj	_	SpaceAfter=No|Gloss=I|Translit=
+3	มา	มา	VERB	_	_	0	root	_	SpaceAfter=No|Gloss=come|Translit=
+4	เป็น	เป็น	AUX	_	_	5	cop	_	SpaceAfter=No|Gloss=be|Translit=
+5	ตัว	ตัว	NOUN	_	_	3	compound:svc	_	SpaceAfter=No|Gloss=body|Translit=
+6	แทน	แทน	VERB	_	_	5	acl	_	SpaceAfter=No|Gloss=|Translit=
+7	ของ	ของ	ADP	_	_	8	case	_	SpaceAfter=No|Gloss=of|Translit=
+8	พี่	พี่	NOUN	_	_	5	nmod	_	SpaceAfter=No|Gloss=|Translit=
+9	ๆ	_	SYM	_	_	8	compound:redup	_	Gloss=|Translit=
+10	น้อง	น้อง	NOUN	_	_	8	flat	_	SpaceAfter=No|Gloss=|Translit=
+11	ๆ	_	SYM	_	_	10	compound:redup	_	Gloss=|Translit=
+12	หลาย	หลาย	DET	_	_	13	det	_	SpaceAfter=No|Gloss=several|Translit=
+13	คน	คน	NOUN	_	NounType=Clf	8	clf	_	Gloss=person|Translit=
+14	เพื่อ	เพื่อ	ADP	_	_	15	mark	_	SpaceAfter=No|Gloss=for|Translit=
+15	สะท้อน	สะท้อน	VERB	_	_	3	advcl	_	SpaceAfter=No|Gloss=|Translit=
+16	ไป	ไป	VERB	_	_	15	compound:svc	_	SpaceAfter=No|Gloss=go|Translit=
+17	ถึง	ถึง	ADP	_	_	18	case	_	SpaceAfter=No|Gloss=to|Translit=
+18	ก.ตร.	ก.ตร.	NOUN	_	Abbr=Yes	16	obl	_	Gloss=|Translit=
+19	ให้	ให้	VERB	_	_	15	advcl	_	SpaceAfter=No|Gloss=give|Translit=
+20	พิจารณา	พิจารณา	VERB	_	_	19	compound:svc	_	SpaceAfter=No|Gloss=consider|Translit=
+21	เป็นไป	เป็นไป	VERB	_	_	20	compound:svc	_	SpaceAfter=No|Gloss=|Translit=
+22	ตาม	ตาม	ADP	_	_	23	case	_	SpaceAfter=No|Gloss=following|Translit=
+23	พ.ร.บ.	พ.ร.บ.	NOUN	_	Abbr=Yes	21	obl	_	SpaceAfter=No|Gloss=|Translit=
+24	ตำรวจ	ตำรวจ	NOUN	_	_	23	nmod	_	Gloss=policeman|Translit=
+
+# sent_id = Thai_Political_Policemen_News14_35
+# text = ไม่ได้หวังมาป่วน ไม่ได้หวังมาสร้างความเสียหาย
+# text_en = 
+# tokenised_text = ไม่ ได้ หวัง มา ป่วน ไม่ ได้ หวัง มา สร้าง ความ เสียหาย
+# tokenised_translit =
+# tokenised_transcript =
+# phrase_type = sentence
+# sentence_position = body
+# genre = political_news_article
+# source = https://www.khaosod.co.th/politics/news_9913301
+# year = 2025
+1	ไม่	ไม่	ADV	_	_	2	advmod	_	SpaceAfter=No|Gloss=not|Translit=
+2	ได้	ได้	VERB	_	_	0	root	_	SpaceAfter=No|Gloss=|Translit=
+3	หวัง	หวัง	VERB	_	_	2	xcomp	_	SpaceAfter=No|Gloss=hope|Translit=
+4	มา	มา	VERB	_	_	3	xcomp	_	SpaceAfter=No|Gloss=come|Translit=
+5	ป่วน	ป่วน	VERB	_	_	4	compound:svc	_	Gloss=|Translit=
+6	ไม่	ไม่	ADV	_	_	7	advmod	_	SpaceAfter=No|Gloss=not|Translit=
+7	ได้	ได้	VERB	_	_	2	conj	_	SpaceAfter=No|Gloss=|Translit=
+8	หวัง	หวัง	VERB	_	_	7	xcomp	_	SpaceAfter=No|Gloss=hope|Translit=
+9	มา	มา	VERB	_	_	8	xcomp	_	SpaceAfter=No|Gloss=come|Translit=
+10	สร้าง	สร้าง	VERB	_	_	9	compound:svc	_	SpaceAfter=No|Gloss=build|Translit=
+11	ความ	ความ	NOUN	_	NounType=Nmlz	10	obj	_	SpaceAfter=No|Gloss=|Translit=
+12	เสียหาย	เสียหาย	VERB	_	_	11	acl	_	Gloss=|Translit=
+
+# sent_id = Thai_Political_Policemen_News14_36
+# text = เมื่อถามว่าการมายื่นร้องต่อกมธ.ตำรวจครั้งนี้ เพราะไม่เชื่อมั่น ก.ตร. หรือไม่
+# text_en = 
+# tokenised_text = เมื่อ ถาม ว่า การ มา ยื่นร้อง ต่อ กมธ. ตำรวจ ครั้ง นี้ เพราะ ไม่ เชื่อมั่น ก.ตร. หรือ ไม่
+# tokenised_translit =
+# tokenised_transcript =
+# phrase_type = sentence
+# sentence_position = body
+# genre = political_news_article
+# source = https://www.khaosod.co.th/politics/news_9913301
+# year = 2025
+1	เมื่อ	เมื่อ	NOUN	_	_	2	obl	_	SpaceAfter=No|Gloss=|Translit=
+2	ถาม	ถาม	VERB	_	_	0	root	_	SpaceAfter=No|Gloss=ask|Translit=
+3	ว่า	ว่า	ADP	_	_	4	mark	_	SpaceAfter=No|Gloss=|Translit=
+4	การ	การ	NOUN	_	NounType=Nmlz	2	obl	_	SpaceAfter=No|Gloss=|Translit=
+5	มา	มา	VERB	_	_	4	acl	_	SpaceAfter=No|Gloss=come|Translit=
+6	ยื่น	ยื่น	VERB	_	_	5	compound:svc	_	SpaceAfter=No|Gloss=|Translit=
+7	ร้อง	ร้อง	VERB	_	_	6	compound:svc	_	SpaceAfter=No|Gloss=|Translit=
+8	ต่อ	ต่อ	ADP	_	_	9	case	_	SpaceAfter=No|Gloss=to|Translit=
+9	กมธ.	กมธ.	PROPN	_	Abbr=Yes	7	obl	_	SpaceAfter=No|Gloss=|Translit=
+10	ตำรวจ	ตำรวจ	NOUN	_	_	9	nmod	_	SpaceAfter=No|Gloss=policeman|Translit=
+11	ครั้ง	ครั้ง	NOUN	_	_	5	obl	_	SpaceAfter=No|Gloss=time|Translit=
+12	นี้	นี้	ADJ	_	_	11	amod	_	Gloss=this|Translit=
+13	เพราะ	เพราะ	ADP	_	_	15	mark	_	SpaceAfter=No|Gloss=because|Translit=
+14	ไม่	ไม่	ADV	_	_	15	advmod	_	SpaceAfter=No|Gloss=not|Translit=
+15	เชื่อมั่น	เชื่อมั่น	VERB	_	_	4	acl	_	Gloss=|Translit=
+16	ก.ตร.	ก.ตร.	PROPN	_	Abbr=Yes	15	obj	_	Gloss=|Translit=
+17	หรือ	หรือ	CCONJ	_	_	18	cc	_	SpaceAfter=No|Gloss=or|Translit=
+18	ไม่	ไม่	ADV	_	_	15	conj	_	Gloss=not|Translit=
+
+# sent_id = Thai_Political_Policemen_News14_37
+# text = พล.ต.ต.จรูญเกียรติ กล่าวว่า ก่อนที่จะดำเนินการทุกอย่าง ตนได้เห็นข้อมูลข้อเท็จจริงในการพิจารณาของบอร์ดกลั่นกรองชุดเล็ก
+# text_en = 
+# tokenised_text = พล.ต.ต. จรูญเกียรติ กล่าว ว่า ก่อน ที่ จะ ดำเนิน การ ทุก อย่าง ตน ได้ เห็น ข้อมูล ข้อเท็จจริง ใน การ พิจารณา ของ บอร์ด กลั่นกรอง ชุด เล็ก
+# tokenised_translit =
+# tokenised_transcript =
+# phrase_type = sentence
+# sentence_position = body
+# genre = political_news_article
+# source = https://www.khaosod.co.th/politics/news_9913301
+# year = 2025
+1	พล.ต.ต.	พล.ต.ต.	NOUN	_	Abbr=Yes	3	nsubj	_	SpaceAfter=No|Gloss=|Translit=
+2	จรูญเกียรติ	จรูญเกียรติ	PROPN	_	_	1	nmod	_	Gloss=|Translit=
+3	กล่าว	กล่าว	VERB	_	_	0	root	_	SpaceAfter=No|Gloss=say|Translit=
+4	ว่า	ว่า	SCONJ	_	_	13	mark	_	Gloss=that(COMP)|Translit=
+5	ก่อน	ก่อน	ADP	_	_	8	mark	_	SpaceAfter=No|Gloss=before|Translit=
+6	ที่	ที่	PRON	_	_	8	nsubj	_	SpaceAfter=No|Gloss=what|Translit=
+7	จะ	จะ	ADV	_	_	8	advmod	_	SpaceAfter=No|Gloss=|Translit=
+8	ดำเนิน	ดำเนิน	VERB	_	_	13	advcl	_	SpaceAfter=No|Gloss=|Translit=
+9	การ	การ	NOUN	_	_	8	obj	_	SpaceAfter=No|Gloss=work|Translit=
+10	ทุก	ทุก	DET	_	_	11	det	_	SpaceAfter=No|Gloss=every|Translit=
+11	อย่าง	อย่าง	NOUN	_	NounType=Clf	9	clf	_	Gloss=|Translit=
+12	ตน	ตน	NOUN	_	Person=1|PronType=Prs	13	nsubj	_	SpaceAfter=No|Gloss=I|Translit=
+13	ได้	ได้	VERB	_	_	3	ccomp	_	SpaceAfter=No|Gloss=|Translit=
+14	เห็น	เห็น	VERB	_	_	13	xcomp	_	SpaceAfter=No|Gloss=see|Translit=
+15	ข้อมูล	ข้อมูล	NOUN	_	_	14	obj	_	SpaceAfter=No|Gloss=information|Translit=
+16	ข้อ	ข้อ	NOUN	_	_	15	conj	_	SpaceAfter=No|Gloss=|Translit=
+17	เท็จ	เท็จ	VERB	_	_	16	acl	_	SpaceAfter=No|Gloss=|Translit=
+18	จริง	จริง	VERB	_	_	17	flat	_	SpaceAfter=No|Gloss=be real|Translit=
+19	ใน	ใน	ADP	_	_	20	case	_	SpaceAfter=No|Gloss=in|Translit=
+20	การ	การ	NOUN	_	NounType=Nmlz	15	nmod	_	SpaceAfter=No|Gloss=|Translit=
+21	พิจารณา	พิจารณา	VERB	_	_	20	acl	_	SpaceAfter=No|Gloss=consider|Translit=
+22	ของ	ของ	ADP	_	_	23	case	_	SpaceAfter=No|Gloss=of|Translit=
+23	บอร์ด	บอร์ด	NOUN	_	Foreign=Yes	20	nmod	_	SpaceAfter=No|Gloss=board|Translit=
+24	กลั่นกรอง	กลั่นกรอง	VERB	_	_	23	acl	_	SpaceAfter=No|Gloss=|Translit=
+25	ชุด	ชุด	NOUN	_	NounType=Clf	23	clf	_	SpaceAfter=No|Gloss=set|Translit=
+26	เล็ก	เล็ก	VERB	_	_	25	acl	_	Gloss=small|Translit=
+
+# sent_id = Thai_Political_Policemen_News14_38
+# text = เห็นแล้วว่าคนที่ได้รับแต่งตั้งเป็นคนใกล้ชิดผู้มีอำนาจ เพราะก่อนที่มีการประชุม ก.ตร. 3 วัน จะมีการส่งรายชื่อผู้ที่ได้รับการแต่งตั้ง ให้ก.ตร.ทุกท่าน
+# text_en = 
+# tokenised_text = เห็น แล้ว ว่า คน ที่ ได้ รับ แต่งตั้ง เป็น คน ใกล้ชิด ผู้ มี อำนาจ เพราะ ก่อน ที่ มี การ ประชุม ก.ตร. 3 วัน จะ มี การ ส่ง ราย ชื่อ ผู้ ที่ ได้ รับ การ แต่งตั้ง ให้ ก.ตร. ทุก ท่าน
+# tokenised_translit =
+# tokenised_transcript =
+# phrase_type = sentence
+# sentence_position = body
+# genre = political_news_article
+# source = https://www.khaosod.co.th/politics/news_9913301
+# year = 2025
+1	เห็น	เห็น	VERB	_	_	0	root	_	SpaceAfter=No|Gloss=see|Translit=
+2	แล้ว	แล้ว	ADV	_	_	1	advmod	_	SpaceAfter=No|Gloss=|Translit=
+3	ว่า	ว่า	SCONJ	_	_	10	mark	_	SpaceAfter=No|Gloss=that(COMP)|Translit=
+4	คน	คน	NOUN	_	_	10	nsubj	_	SpaceAfter=No|Gloss=person|Translit=
+5	ที่	ที่	PRON	_	_	6	nsubj	_	SpaceAfter=No|Gloss=that(REL)|Translit=
+6	ได้	ได้	VERB	_	_	4	acl:relcl	_	SpaceAfter=No|Gloss=|Translit=
+7	รับ	รับ	VERB	_	_	6	xcomp	_	SpaceAfter=No|Gloss=receive|Translit=
+8	แต่งตั้ง	แต่งตั้ง	VERB	_	_	7	compound:svc	_	SpaceAfter=No|Gloss=|Translit=
+9	เป็น	เป็น	AUX	_	_	10	cop	_	SpaceAfter=No|Gloss=be|Translit=
+10	คน	คน	NOUN	_	_	1	ccomp	_	SpaceAfter=No|Gloss=person|Translit=
+11	ใกล้ชิด	ใกล้ชิด	VERB	_	_	10	acl	_	SpaceAfter=No|Gloss=be close|Translit=
+12	ผู้	ผู้	NOUN	_	_	11	obl:arg	_	SpaceAfter=No|Gloss=person|Translit=
+13	มี	มี	VERB	_	_	12	acl	_	SpaceAfter=No|Gloss=have|Translit=
+14	อำนาจ	อำนาจ	NOUN	_	_	13	obl:arg	_	Gloss=power|Translit=
+15	เพราะ	เพราะ	SCONJ	_	_	25	mark	_	SpaceAfter=No|Gloss=because|Translit=
+16	ก่อน	ก่อน	ADP	_	_	18	mark	_	SpaceAfter=No|Gloss=before|Translit=
+17	ที่	ที่	PRON	_	_	18	nsubj	_	SpaceAfter=No|Gloss=what|Translit=
+18	มี	มี	VERB	_	_	25	advcl	_	SpaceAfter=No|Gloss=have|Translit=
+19	การ	การ	NOUN	_	NounType=Nmlz	18	obl:arg	_	SpaceAfter=No|Gloss=|Translit=
+20	ประชุม	ประชุม	VERB	_	_	19	acl	_	Gloss=|Translit=
+21	ก.ตร.	ก.ตร.	PROPN	_	Abbr=Yes	19	nmod	_	Gloss=|Translit=
+22	3	3	NUM	_	_	18	obl	_	Gloss=3|Translit=
+23	วัน	วัน	NOUN	_	NounType=Clf	22	clf	_	Gloss=day|Translit=
+24	จะ	จะ	ADV	_	_	25	advmod	_	SpaceAfter=No|Gloss=|Translit=
+25	มี	มี	VERB	_	_	10	advcl	_	SpaceAfter=No|Gloss=have|Translit=
+26	การ	การ	NOUN	_	NounType=Nmlz	25	nsubj	_	SpaceAfter=No|Gloss=|Translit=
+27	ส่ง	ส่ง	VERB	_	_	26	acl	_	SpaceAfter=No|Gloss=send|Translit=
+28	ราย	ราย	NOUN	_	_	27	obj	_	SpaceAfter=No|Gloss=list|Translit=
+29	ชื่อ	ชื่อ	NOUN	_	_	28	nmod	_	SpaceAfter=No|Gloss=name|Translit=
+30	ผู้	ผู้	NOUN	_	_	28	nmod	_	SpaceAfter=No|Gloss=person|Translit=
+31	ที่	ที่	PRON	_	_	32	nsubj	_	SpaceAfter=No|Gloss=that(REL)|Translit=
+32	ได้	ได้	VERB	_	_	30	acl:relcl	_	SpaceAfter=No|Gloss=|Translit=
+33	รับ	รับ	VERB	_	_	32	xcomp	_	SpaceAfter=No|Gloss=receive|Translit=
+34	การ	การ	NOUN	_	NounType=Nmlz	33	obl	_	SpaceAfter=No|Gloss=|Translit=
+35	แต่งตั้ง	แต่งตั้ง	VERB	_	_	34	acl	_	Gloss=|Translit=
+36	ให้	ให้	ADP	_	_	37	case	_	SpaceAfter=No|Gloss=for|Translit=
+37	ก.ตร.	ก.ตร.	PROPN	_	Abbr=Yes	27	obl	_	SpaceAfter=No|Gloss=|Translit=
+38	ทุก	ทุก	DET	_	_	39	det	_	SpaceAfter=No|Gloss=every|Translit=
+39	ท่าน	ท่าน	NOUN	_	NounType=Clf|Polite=Form	37	clf	_	Gloss=person|Translit=
+
+# sent_id = Thai_Political_Policemen_News14_39
+# text = เราดูแล้วว่าผลที่ออกมาคือผลสัมฤทธิ์​ 
+# text_en = 
+# tokenised_text = เรา ดู แล้ว ว่า ผล ที่ ออก มา คือ ผล สัมฤทธิ์​ 
+# tokenised_translit =
+# tokenised_transcript =
+# phrase_type = sentence
+# sentence_position = body
+# genre = political_news_article
+# source = https://www.khaosod.co.th/politics/news_9913301
+# year = 2025
+1	เรา	เรา	PRON	_	Person=1|PronType=Prs	2	nsubj	_	SpaceAfter=No|Gloss=we|Translit=
+2	ดู	ดู	VERB	_	_	0	root	_	SpaceAfter=No|Gloss=look|Translit=
+3	แล้ว	แล้ว	ADV	_	_	2	advmod	_	SpaceAfter=No|Gloss=|Translit=
+4	ว่า	ว่า	SCONJ	_	_	5	mark	_	SpaceAfter=No|Gloss=that(COMP)|Translit=
+5	ผล	ผล	NOUN	_	_	2	obj	_	SpaceAfter=No|Gloss=result|Translit=
+6	ที่	ที่	PRON	_	_	7	nsubj	_	SpaceAfter=No|Gloss=that(REL)|Translit=
+7	ออก	ออก	VERB	_	_	5	acl:relcl	_	SpaceAfter=No|Gloss=|Translit=
+8	มา	มา	VERB	_	_	7	compound:svc	_	SpaceAfter=No|Gloss=come|Translit=
+9	คือ	คือ	CCONJ	_	_	10	cc	_	SpaceAfter=No|Gloss=namely|Translit=
+10	ผล	ผล	NOUN	_	_	5	conj	_	SpaceAfter=No|Gloss=result|Translit=
+11	สัมฤทธิ์​	สัมฤทธิ์​	NOUN	_	_	10	nmod	_	Gloss=|Translit=
+
+# sent_id = Thai_Political_Policemen_News14_40
+# text = คือมีการชะลอคำสั่ง และคนที่ได้กลับไม่ได้เป็นคนที่ไม่มีความรู้ ความสามารถในสายตาของพี่น้องตำรวจทั่วไป
+# text_en = 
+# tokenised_text = คือ มี การ ชะลอ คำ สั่ง และ คน ที่ ได้ กลับ ไม่ ได้ เป็น คน ที่ ไม่ มี ความรู้ ความ สามารถ ใน สายตา ของ พี่ น้อง ตำรวจ ทั่ว ไป
+# tokenised_translit =
+# tokenised_transcript =
+# phrase_type = sentence
+# sentence_position = body
+# genre = political_news_article
+# source = https://www.khaosod.co.th/politics/news_9913301
+# year = 2025
+1	คือ	คือ	PART	_	_	2	discourse	_	SpaceAfter=No|Gloss=|Translit=
+2	มี	มี	VERB	_	_	0	root	_	SpaceAfter=No|Gloss=have|Translit=
+3	การ	การ	NOUN	_	NounType=Nmlz	2	nsubj	_	SpaceAfter=No|Gloss=|Translit=
+4	ชะลอ	ชะลอ	VERB	_	_	3	acl	_	SpaceAfter=No|Gloss=|Translit=
+5	คำ	คำ	NOUN	_	_	4	obj	_	SpaceAfter=No|Gloss=word|Translit=
+6	สั่ง	สั่ง	VERB	_	_	5	acl	_	Gloss=command|Translit=
+7	และ	และ	CCONJ	_	_	11	cc	_	SpaceAfter=No|Gloss=and|Translit=
+8	คน	คน	NOUN	_	_	11	nsubj	_	SpaceAfter=No|Gloss=person|Translit=
+9	ที่	ที่	PRON	_	_	10	nsubj	_	SpaceAfter=No|Gloss=that(REL)|Translit=
+10	ได้	ได้	VERB	_	_	8	acl:relcl	_	SpaceAfter=No|Gloss=|Translit=
+11	กลับ	กลับ	VERB	_	_	2	conj	_	SpaceAfter=No|Gloss=|Translit=
+12	ไม่	ไม่	ADV	_	_	13	advmod	_	SpaceAfter=No|Gloss=not|Translit=
+13	ได้	ได้	VERB	_	_	11	xcomp	_	SpaceAfter=No|Gloss=|Translit=
+14	เป็น	เป็น	AUX	_	_	15	cop	_	SpaceAfter=No|Gloss=be|Translit=
+15	คน	คน	NOUN	_	_	13	xcomp	_	SpaceAfter=No|Gloss=person|Translit=
+16	ที่	ที่	PRON	_	_	18	nsubj	_	SpaceAfter=No|Gloss=that|Translit=
+17	ไม่	ไม่	ADV	_	_	18	advmod	_	SpaceAfter=No|Gloss=not|Translit=
+18	มี	มี	VERB	_	_	15	acl:relcl	_	SpaceAfter=No|Gloss=have|Translit=
+19	ความรู้	ความรู้	NOUN	_	_	18	obj	_	Gloss=knowledge|Translit=
+20	ความ	ความ	NOUN	_	NounType=Nmlz	19	conj	_	SpaceAfter=No|Gloss=|Translit=
+21	สามารถ	สามารถ	VERB	_	_	20	acl	_	SpaceAfter=No|Gloss=|Translit=
+22	ใน	ใน	ADP	_	_	23	case	_	SpaceAfter=No|Gloss=in|Translit=
+23	สายตา	สายตา	NOUN	_	_	18	obl	_	SpaceAfter=No|Gloss=|Translit=
+24	ของ	ของ	ADP	_	_	25	case	_	SpaceAfter=No|Gloss=of|Translit=
+25	พี่	พี่	NOUN	_	_	23	nmod	_	SpaceAfter=No|Gloss=|Translit=
+26	น้อง	น้อง	NOUN	_	_	25	flat	_	SpaceAfter=No|Gloss=|Translit=
+27	ตำรวจ	ตำรวจ	NOUN	_	_	25	appos	_	SpaceAfter=No|Gloss=policeman|Translit=
+28	ทั่วไป	ทั่วไป	ADJ	_	_	23	amod	_	Gloss=|Translit=
+
+# sent_id = Thai_Political_Policemen_News14_41
+# text = มีหลายคนที่ร้องแรกแหกกระเชอ แต่ไม่กล้าออกมาพูด เพราะกลัวนายเล่นงาน
+# text_en = 
+# tokenised_text = มี หลาย คน ที่ ร้องแรก แหกกระเชอ แต่ ไม่ กล้า ออก มา พูด เพราะ กลัว นาย เล่นงาน
+# tokenised_translit =
+# tokenised_transcript =
+# phrase_type = sentence
+# sentence_position = body
+# genre = political_news_article
+# source = https://www.khaosod.co.th/politics/news_9913301
+# year = 2025
+1	มี	มี	VERB	_	_	0	root	_	SpaceAfter=No|Gloss=have|Translit=
+2	หลาย	หลาย	DET	_	_	3	det	_	SpaceAfter=No|Gloss=several|Translit=
+3	คน	คน	NOUN	_	NounType=Clf	1	nsubj	_	SpaceAfter=No|Gloss=person|Translit=
+4	ที่	ที่	PRON	_	_	5	nsubj	_	SpaceAfter=No|Gloss=that(REL)|Translit=
+5	ร้องแรกแหกกระเชอ	ร้องแรกแหกกระเชอ	VERB	_	_	3	acl:relcl	_	Gloss=|Translit=
+6	แต่	แต่	CCONJ	_	_	8	cc	_	SpaceAfter=No|Gloss=but|Translit=
+7	ไม่	ไม่	ADV	_	_	8	advmod	_	SpaceAfter=No|Gloss=not|Translit=
+8	กล้า	กล้า	VERB	_	_	5	conj	_	SpaceAfter=No|Gloss=|Translit=
+9	ออก	ออก	VERB	_	_	8	xcomp	_	SpaceAfter=No|Gloss=|Translit=
+10	มา	มา	VERB	_	_	9	compound:svc	_	SpaceAfter=No|Gloss=come|Translit=
+11	พูด	พูด	VERB	_	_	10	compound:svc	_	Gloss=speak|Translit=
+12	เพราะ	เพราะ	SCONJ	_	_	13	mark	_	SpaceAfter=No|Gloss=because|Translit=
+13	กลัว	กลัว	VERB	_	_	8	advcl	_	SpaceAfter=No|Gloss=be afraid|Translit=
+14	นาย	นาย	NOUN	_	_	13	obl:arg	_	SpaceAfter=No|Gloss=|Translit=
+15	เล่นงาน	เล่นงาน	VERB	_	_	13	xcomp	_	Gloss=|Translit=
+
+# sent_id = Thai_Political_Policemen_News14_42
+# text = แต่ตนเหมือนหนังหน้าไฟ เพราะสู้กับความถูกต้องเป็นธรรมมาเยอะ ชอบเรื่องความเป็นธรรม
+# text_en = 
+# tokenised_text = แต่ ตน เหมือน หนังหน้าไฟ เพราะ สู้ กับ ความ ถูกต้อง เป็นธรรม มา เยอะ ชอบ เรื่อง ความ เป็นธรรม
+# tokenised_translit =
+# tokenised_transcript =
+# phrase_type = sentence
+# sentence_position = body
+# genre = political_news_article
+# source = https://www.khaosod.co.th/politics/news_9913301
+# year = 2025
+1	แต่	แต่	ADV	_	_	3	advmod	_	SpaceAfter=No|Gloss=but|Translit=
+2	ตน	ตน	NOUN	_	Person=1|PronType=Prs	3	nsubj	_	SpaceAfter=No|Gloss=I|Translit=
+3	เหมือน	เหมือน	VERB	_	_	0	root	_	SpaceAfter=No|Gloss=resemble|Translit=
+4	หนัง	หนัง	NOUN	_	_	3	obl:arg	_	SpaceAfter=No|Gloss=|Translit=
+5	หน้าไฟ	หน้าไฟ	NOUN	_	_	4	nmod	_	SpaceAfter=No|Gloss=|Translit=
+6	เพราะ	เพราะ	SCONJ	_	_	7	mark	_	SpaceAfter=No|Gloss=because|Translit=
+7	สู้	สู้	VERB	_	_	3	advcl	_	SpaceAfter=No|Gloss=fight|Translit=
+8	กับ	กับ	ADP	_	_	9	case	_	SpaceAfter=No|Gloss=with|Translit=
+9	ความ	ความ	NOUN	_	NounType=Nmlz	7	obl	_	SpaceAfter=No|Gloss=|Translit=
+10	ถูกต้อง	ถูกต้อง	VERB	_	_	9	acl	_	SpaceAfter=No|Gloss=be right|Translit=
+11	เป็นธรรม	เป็นธรรม	VERB	_	_	10	conj	_	SpaceAfter=No|Gloss=be legitimate|Translit=
+12	มา	มา	ADV	_	_	7	advmod	_	SpaceAfter=No|Gloss=|Translit=
+13	เยอะ	เยอะ	VERB	_	_	7	advcl	_	SpaceAfter=No|Gloss=very|Translit=
+14	ชอบ	ชอบ	VERB	_	_	7	conj	_	SpaceAfter=No|Gloss=like|Translit=
+15	เรื่อง	เรื่อง	NOUN	_	_	14	obj	_	SpaceAfter=No|Gloss=|Translit=
+16	ความ	ความ	NOUN	_	NounType=Nmlz	15	nmod	_	SpaceAfter=No|Gloss=|Translit=
+17	เป็นธรรม	เป็นธรรม	VERB	_	_	16	acl	_	SpaceAfter=No|Gloss=be legitimate|Translit=
+
+# sent_id = Thai_Political_Policemen_News14_43
+# text = ดังนั้น การที่ออกมาจึงเป็นสิทธิ์ของประชาชนและข้าราชการที่จะมาขอความเป็นธรรม ไม่เกี่ยวกับผู้บังคับบัญชาที่จะมอบหมายหรือไม่อย่างไร
+# text_en = 
+# tokenised_text = ดัง นั้น การ ที่ ออก มา จึง เป็น สิทธิ์ ของ ประชาชน และ ข้าราชการ ที่ จะ มา ขอ ความ เป็นธรรม ไม่ เกี่ยว กับ ผู้ บังคับบัญชา ที่ จะ มอบหมาย หรือ ไม่ อย่าง ไร
+# tokenised_translit =
+# tokenised_transcript =
+# phrase_type = sentence
+# sentence_position = body
+# genre = political_news_article
+# source = https://www.khaosod.co.th/politics/news_9913301
+# year = 2025
+1	ดัง	ดัง	ADP	_	_	2	case	_	SpaceAfter=No|Gloss=as|Translit=
+2	นั้น	นั้น	PRON	_	_	9	obl	_	Gloss=that|Translit=
+3	การ	การ	NOUN	_	NounType=Nmlz	9	nsubj	_	SpaceAfter=No|Gloss=|Translit=
+4	ที่	ที่	PRON	_	_	5	nsubj	_	SpaceAfter=No|Gloss=that(REL)|Translit=
+5	ออก	ออก	VERB	_	_	3	acl:relcl	_	SpaceAfter=No|Gloss=|Translit=
+6	มา	มา	VERB	_	_	5	compound:svc	_	SpaceAfter=No|Gloss=come|Translit=
+7	จึง	จึง	ADV	_	_	9	advmod	_	SpaceAfter=No|Gloss=|Translit=
+8	เป็น	เป็น	AUX	_	_	9	cop	_	SpaceAfter=No|Gloss=be|Translit=
+9	สิทธิ์	สิทธิ์	NOUN	_	_	0	root	_	SpaceAfter=No|Gloss=right|Translit=
+10	ของ	ของ	ADP	_	_	11	case	_	SpaceAfter=No|Gloss=of|Translit=
+11	ประชาชน	ประชาชน	NOUN	_	_	9	nmod	_	SpaceAfter=No|Gloss=population|Translit=
+12	และ	และ	CCONJ	_	_	13	cc	_	SpaceAfter=No|Gloss=and|Translit=
+13	ข้าราชการ	ข้าราชการ	NOUN	_	_	11	conj	_	SpaceAfter=No|Gloss=|Translit=
+14	ที่	ที่	PRON	_	_	16	nsubj	_	SpaceAfter=No|Gloss=that(REL)|Translit=
+15	จะ	จะ	ADV	_	_	16	advcl	_	SpaceAfter=No|Gloss=|Translit=
+16	มา	มา	VERB	_	_	11	acl:relcl	_	SpaceAfter=No|Gloss=come|Translit=
+17	ขอ	ขอ	VERB	_	_	16	compound:svc	_	SpaceAfter=No|Gloss=ask|Translit=
+18	ความ	ความ	NOUN	_	NounType=Nmlz	17	obj	_	SpaceAfter=No|Gloss=|Translit=
+19	เป็นธรรม	เป็นธรรม	VERB	_	_	18	acl	_	Gloss=|Translit=
+20	ไม่	ไม่	ADV	_	_	21	advmod	_	SpaceAfter=No|Gloss=not|Translit=
+21	เกี่ยว	เกี่ยว	VERB	_	_	9	advcl	_	SpaceAfter=No|Gloss=|Translit=
+22	กับ	กับ	ADP	_	_	23	case	_	SpaceAfter=No|Gloss=with|Translit=
+23	ผู้	ผู้	NOUN	_	_	21	obl	_	SpaceAfter=No|Gloss=person|Translit=
+24	บังคับบัญชา	บังคับบัญชา	VERB	_	_	23	acl	_	SpaceAfter=No|Gloss=|Translit=
+25	ที่	ที่	PRON	_	_	27	nsubj	_	SpaceAfter=No|Gloss=that(REL)|Translit=
+26	จะ	จะ	ADV	_	_	27	advcl	_	SpaceAfter=No|Gloss=|Translit=
+27	มอบหมาย	มอบหมาย	VERB	_	_	23	acl:relcl	_	SpaceAfter=No|Gloss=|Translit=
+28	หรือ	หรือ	CCONJ	_	_	29	cc	_	SpaceAfter=No|Gloss=or|Translit=
+29	ไม่	ไม่	ADV	_	_	27	conj	_	SpaceAfter=No|Gloss=not|Translit=
+30	อย่าง	อย่าง	NOUN	_	_	27	obl	_	SpaceAfter=No|Gloss=|Translit=
+31	ไร	ไร	ADJ	_	_	30	amod	_	Gloss=|Translit=
+
+# sent_id = Thai_Political_Policemen_News14_44
+# text = และย้ำว่าการร้องครั้งนี้ไม่ใช่การร้องเพื่อตัวเอง แต่เพื่อผู้มีสิทธิ์ทั้งหมด ทั้งผู้การที่ครบ 4 ปี แล้วก็ไม่พิจารณาไปพิจารณาเฉพาะ 5 ปี รองผู้บัญชาการ 2-4 ปี ในส่วนของ 2 ปี ก็ไม่พิจารณา ไปพิจารณาเฉพาะ 3 ปี
+# text_en = 
+# tokenised_text = และ ย้ำ ว่า การ ร้อง ครั้ง นี้ ไม่ ใช่ การ ร้อง เพื่อ ตัว เอง แต่ เพื่อ ผู้ มี สิทธิ์ ทั้ง หมด ทั้ง ผู้ การ ที่ ครบ 4 ปี แล้ว ก็ ไม่ พิจารณา ไป พิจารณา เฉพาะ 5 ปี รอง ผู้ บัญชาการ 2 - 4 ปี ใน ส่วน ของ 2 ปี ก็ ไม่ พิจารณา ไป พิจารณา เฉพาะ 3 ปี
+# tokenised_translit =
+# tokenised_transcript =
+# phrase_type = sentence
+# sentence_position = body
+# genre = political_news_article
+# source = https://www.khaosod.co.th/politics/news_9913301
+# year = 2025
+1	และ	และ	ADV	_	_	2	advmod	_	SpaceAfter=No|Gloss=and|Translit=
+2	ย้ำ	ย้ำ	VERB	_	_	0	root	_	SpaceAfter=No|Gloss=|Translit=
+3	ว่า	ว่า	SCONJ	_	_	10	mark	_	SpaceAfter=No|Gloss=that(COMP)|Translit=
+4	การ	การ	NOUN	_	NounType=Nmlz	10	nsubj	_	SpaceAfter=No|Gloss=|Translit=
+5	ร้อง	ร้อง	VERB	_	_	4	acl	_	SpaceAfter=No|Gloss=|Translit=
+6	ครั้ง	ครั้ง	NOUN	_	NounType=Clf	4	clf	_	SpaceAfter=No|Gloss=time|Translit=
+7	นี้	นี้	ADJ	_	_	6	amod	_	SpaceAfter=No|Gloss=this|Translit=
+8	ไม่	ไม่	ADV	_	_	10	advmod	_	SpaceAfter=No|Gloss=not|Translit=
+9	ใช่	ใช่	AUX	_	_	10	cop	_	SpaceAfter=No|Gloss=|Translit=
+10	การ	การ	NOUN	_	NounType=Nmlz	2	ccomp	_	SpaceAfter=No|Gloss=|Translit=
+11	ร้อง	ร้อง	VERB	_	_	10	acl	_	SpaceAfter=No|Gloss=|Translit=
+12	เพื่อ	เพื่อ	ADP	_	_	13	case	_	SpaceAfter=No|Gloss=for|Translit=
+13	ตัว	ตัว	NOUN	_	_	10	nmod	_	SpaceAfter=No|Gloss=body|Translit=
+14	เอง	เอง	ADJ	_	_	13	amod	_	Gloss=self|Translit=
+15	แต่	แต่	CCONJ	_	_	17	cc	_	SpaceAfter=No|Gloss=but|Translit=
+16	เพื่อ	เพื่อ	ADP	_	_	17	case	_	SpaceAfter=No|Gloss=for|Translit=
+17	ผู้	ผู้	NOUN	_	_	13	conj	_	SpaceAfter=No|Gloss=person|Translit=
+18	มี	มี	VERB	_	_	17	acl	_	SpaceAfter=No|Gloss=have|Translit=
+19	สิทธิ์	สิทธิ์	NOUN	_	_	18	obl:arg	_	SpaceAfter=No|Gloss=right|Translit=
+20	ทั้ง	ทั้ง	ADP	_	_	21	mark	_	SpaceAfter=No|Gloss=|Translit=
+21	หมด	หมด	VERB	_	_	17	acl	_	Gloss=|Translit=
+22	ทั้ง	ทั้ง	ADP	_	_	23	case	_	SpaceAfter=No|Gloss=|Translit=
+23	ผู้	ผู้	NOUN	_	_	17	nmod	_	SpaceAfter=No|Gloss=person|Translit=
+24	การ	การ	NOUN	_	_	23	nmod	_	SpaceAfter=No|Gloss=|Translit=
+25	ที่	ที่	PRON	_	_	26	nsubj	_	SpaceAfter=No|Gloss=that(REL)|Translit=
+26	ครบ	ครบ	VERB	_	_	23	acl:relcl	_	Gloss=|Translit=
+27	4	4	NUM	_	_	26	obl:arg	_	Gloss=4|Translit=
+28	ปี	ปี	NOUN	_	NounType=Clf	27	clf	_	Gloss=year|Translit=
+29	แล้ว	แล้ว	ADV	_	_	32	advmod	_	SpaceAfter=No|Gloss=|Translit=
+30	ก็	ก็	ADV	_	_	32	advmod	_	SpaceAfter=No|Gloss=|Translit=
+31	ไม่	ไม่	ADV	_	_	32	advmod	_	SpaceAfter=No|Gloss=not|Translit=
+32	พิจารณา	พิจารณา	VERB	_	_	26	advcl	_	SpaceAfter=No|Gloss=consider|Translit=
+33	ไป	ไป	VERB	_	_	32	conj	_	SpaceAfter=No|Gloss=|Translit=
+34	พิจารณา	พิจารณา	VERB	_	_	33	compound:svc	_	SpaceAfter=No|Gloss=consider|Translit=
+35	เฉพาะ	เฉพาะ	DET	_	_	36	det	_	Gloss=only|Translit=
+36	5	5	NUM	_	_	34	obj	_	Gloss=5|Translit=
+37	ปี	ปี	NOUN	_	NounType=Clf	36	clf	_	Gloss=year|Translit=
+38	รอง	รอง	NOUN	_	_	23	conj	_	SpaceAfter=No|Gloss=|Translit=
+39	ผู้	ผู้	NOUN	_	_	38	nmod	_	SpaceAfter=No|Gloss=person|Translit=
+40	บัญชาการ	บัญชาการ	VERB	_	_	39	acl	_	Gloss=|Translit=
+41	2	2	NUM	_	_	38	nmod	_	SpaceAfter=No|Gloss=2|Translit=
+42	-	-	SYM	_	_	43	case	_	SpaceAfter=No
+43	4	4	NUM	_	_	41	nmod	_	Gloss=4|Translit=
+44	ปี	ปี	NOUN	_	NounType=Clf	41	clf	_	Gloss=year|Translit=
+45	ใน	ใน	ADP	_	_	46	case	_	SpaceAfter=No|Gloss=in|Translit=
+46	ส่วน	ส่วน	NOUN	_	_	52	obl	_	SpaceAfter=No|Gloss=part|Translit=
+47	ของ	ของ	ADP	_	_	48	case	_	Gloss=of|Translit=
+48	2	2	NUM	_	_	46	nmod	_	Gloss=2|Translit=
+49	ปี	ปี	NOUN	_	NounType=Clf	48	clf	_	Gloss=year|Translit=
+50	ก็	ก็	ADV	_	_	52	advmod	_	SpaceAfter=No|Gloss=|Translit=
+51	ไม่	ไม่	ADV	_	_	52	advmod	_	SpaceAfter=No|Gloss=not|Translit=
+52	พิจารณา	พิจารณา	VERB	_	_	38	acl	_	Gloss=consider|Translit=
+53	ไป	ไป	VERB	_	_	52	conj	_	SpaceAfter=No|Gloss=|Translit=
+54	พิจารณา	พิจารณา	VERB	_	_	53	compound:svc	_	SpaceAfter=No|Gloss=consider|Translit=
+55	เฉพาะ	เฉพาะ	DET	_	_	56	det	_	Gloss=only|Translit=
+56	3	3	NUM	_	_	54	obj	_	Gloss=3|Translit=
+57	ปี	ปี	NOUN	_	NounType=Clf	56	clf	_	Gloss=year|Translit=
+
+# sent_id = Thai_Political_Policemen_News14_45
+# text = ดังนั้น ข้อเท็จจริงที่ปรากฏในผลการพิจารณาเราเห็นแล้วว่าเกิดอะไรขึ้นบ้าง
+# text_en = 
+# tokenised_text = ดัง นั้น ข้อ เท็จ จริง ที่ ปรากฏ ใน ผล การ พิจารณา เรา เห็น แล้ว ว่า เกิด อะไร ขึ้น บ้าง
+# tokenised_translit =
+# tokenised_transcript =
+# phrase_type = sentence
+# sentence_position = body
+# genre = political_news_article
+# source = https://www.khaosod.co.th/politics/news_9913301
+# year = 2025
+1	ดัง	ดัง	ADP	_	_	2	case	_	SpaceAfter=No|Gloss=as|Translit=
+2	นั้น	นั้น	PRON	_	_	13	obl	_	Gloss=that|Translit=
+3	ข้อ	ข้อ	NOUN	_	_	13	obj	_	SpaceAfter=No|Gloss=|Translit=
+4	เท็จ	เท็จ	VERB	_	_	3	acl	_	SpaceAfter=No|Gloss=|Translit=
+5	จริง	จริง	VERB	_	_	4	flat	_	SpaceAfter=No|Gloss=be real|Translit=
+6	ที่	ที่	PRON	_	_	7	nsubj	_	SpaceAfter=No|Gloss=that(REL)|Translit=
+7	ปรากฏ	ปรากฏ	VERB	_	_	3	acl:relcl	_	SpaceAfter=No|Gloss=appear|Translit=
+8	ใน	ใน	ADP	_	_	9	case	_	SpaceAfter=No|Gloss=in|Translit=
+9	ผล	ผล	NOUN	_	_	7	obl	_	SpaceAfter=No|Gloss=result|Translit=
+10	การ	การ	NOUN	_	NounType=Nmlz	9	nmod	_	SpaceAfter=No|Gloss=|Translit=
+11	พิจารณา	พิจารณา	VERB	_	_	10	acl	_	SpaceAfter=No|Gloss=consider|Translit=
+12	เรา	เรา	PRON	_	Person=1|PronType=Prs	13	nsubj	_	SpaceAfter=No|Gloss=we|Translit=
+13	เห็น	เห็น	VERB	_	_	0	root	_	SpaceAfter=No|Gloss=see|Translit=
+14	แล้ว	แล้ว	ADV	_	_	13	advmod	_	SpaceAfter=No|Gloss=|Translit=
+15	ว่า	ว่า	SCONJ	_	_	16	mark	_	SpaceAfter=No|Gloss=that(COMP)|Translit=
+16	เกิด	เกิด	VERB	_	_	13	ccomp	_	SpaceAfter=No|Gloss=|Translit=
+17	อะไร	อะไร	PRON	_	_	16	obl:arg	_	SpaceAfter=No|Gloss=|Translit=
+18	ขึ้น	ขึ้น	ADV	_	_	16	advmod	_	SpaceAfter=No|Gloss=|Translit=
+19	บ้าง	บ้าง	ADV	_	_	16	advmod	_	Gloss=|Translit=
+
+# sent_id = Thai_Political_Policemen_News14_46
+# text = ผลที่ออกมาเป็นเครื่องชี้เจตนา ชัดเจนว่าการพิจารณาไม่ได้ใช้หลักการประเมิน แต่ใช้หลักดุลยพินิจ
+# text_en = 
+# tokenised_text = ผล ที่ ออก มา เป็น เครื่อง ชี้ เจตนา ชัดเจน ว่า การ พิจารณา ไม่ ได้ ใช้ หลัก การ ประเมิน แต่ ใช้ หลัก ดุลยพินิจ
+# tokenised_translit =
+# tokenised_transcript =
+# phrase_type = sentence
+# sentence_position = body
+# genre = political_news_article
+# source = https://www.khaosod.co.th/politics/news_9913301
+# year = 2025
+1	ผล	ผล	NOUN	_	_	6	nsubj	_	SpaceAfter=No|Gloss=result|Translit=
+2	ที่	ที่	PRON	_	_	3	nsubj	_	SpaceAfter=No|Gloss=that(REL)|Translit=
+3	ออก	ออก	VERB	_	_	1	acl:relcl	_	SpaceAfter=No|Gloss=|Translit=
+4	มา	มา	VERB	_	_	3	compound:svc	_	SpaceAfter=No|Gloss=come|Translit=
+5	เป็น	เป็น	AUX	_	_	6	cop	_	SpaceAfter=No|Gloss=be|Translit=
+6	เครื่อง	เครื่อง	NOUN	_	_	9	csubj	_	SpaceAfter=No|Gloss=|Translit=
+7	ชี้	ชี้	VERB	_	_	6	acl	_	SpaceAfter=No|Gloss=|Translit=
+8	เจตนา	เจตนา	NOUN	_	_	7	obj	_	Gloss=|Translit=
+9	ชัดเจน	ชัดเจน	VERB	_	_	0	root	_	SpaceAfter=No|Gloss=be clear|Translit=
+10	ว่า	ว่า	SCONJ	_	_	14	mark	_	SpaceAfter=No|Gloss=that(COMP)|Translit=
+11	การ	การ	NOUN	_	NounType=Nmlz	14	nsubj	_	SpaceAfter=No|Gloss=|Translit=
+12	พิจารณา	พิจารณา	VERB	_	_	11	acl	_	SpaceAfter=No|Gloss=consider|Translit=
+13	ไม่	ไม่	ADV	_	_	14	advmod	_	SpaceAfter=No|Gloss=not|Translit=
+14	ได้	ได้	VERB	_	_	9	ccomp	_	SpaceAfter=No|Gloss=|Translit=
+15	ใช้	ใช้	VERB	_	_	14	xcomp	_	SpaceAfter=No|Gloss=use|Translit=
+16	หลัก	หลัก	NOUN	_	_	15	obj	_	SpaceAfter=No|Gloss=|Translit=
+17	การ	การ	NOUN	_	NounType=Nmlz	16	nmod	_	SpaceAfter=No|Gloss=|Translit=
+18	ประเมิน	ประเมิน	VERB	_	_	17	acl	_	Gloss=evaluate|Translit=
+19	แต่	แต่	CCONJ	_	_	20	cc	_	SpaceAfter=No|Gloss=but|Translit=
+20	ใช้	ใช้	VERB	_	_	14	conj	_	SpaceAfter=No|Gloss=use|Translit=
+21	หลัก	หลัก	NOUN	_	_	20	obj	_	SpaceAfter=No|Gloss=|Translit=
+22	ดุลยพินิจ	ดุลยพินิจ	NOUN	_	_	21	nmod	_	Gloss=|Translit=
+
+# sent_id = Thai_Political_Policemen_News14_47
+# text = เรื่องมีตั้งแต่การทำประชาพิจารณ์ 
+# text_en = 
+# tokenised_text = เรื่อง มี ตั้งแต่ การ ทำ ประชาพิจารณ์ 
+# tokenised_translit =
+# tokenised_transcript =
+# phrase_type = sentence
+# sentence_position = body
+# genre = political_news_article
+# source = https://www.khaosod.co.th/politics/news_9913301
+# year = 2025
+1	เรื่อง	เรื่อง	NOUN	_	_	2	nsubj	_	SpaceAfter=No|Gloss=|Translit=
+2	มี	มี	VERB	_	_	0	root	_	SpaceAfter=No|Gloss=have|Translit=
+3	ตั้งแต่	ตั้งแต่	ADP	_	_	4	case	_	SpaceAfter=No|Gloss=|Translit=
+4	การ	การ	NOUN	_	NounType=Nmlz	2	obl	_	SpaceAfter=No|Gloss=|Translit=
+5	ทำ	ทำ	VERB	_	_	4	acl	_	SpaceAfter=No|Gloss=do|Translit=
+6	ประชาพิจารณ์	ประชาพิจารณ์	NOUN	_	_	5	obj	_	Gloss=|Translit=
+
+# sent_id = Thai_Political_Policemen_News14_48
+# text = คือเรียกหัวหน้าหน่วยงานมาทั้งหมดมาประชุม เพื่อตกลงว่าจะทำอย่างไร ให้เกิดความยุติธรรมกับทุกฝ่าย
+# text_en = 
+# tokenised_text = คือ เรียก หัวหน้า หน่วยงาน มา ทั้งหมด มา ประชุม เพื่อ ตกลง ว่า จะ ทำ อย่าง ไร ให้ เกิด ความ ยุติธรรม กับ ทุก ฝ่าย
+# tokenised_translit =
+# tokenised_transcript =
+# phrase_type = sentence
+# sentence_position = body
+# genre = political_news_article
+# source = https://www.khaosod.co.th/politics/news_9913301
+# year = 2025
+1	คือ	คือ	PART	_	_	2	discourse	_	SpaceAfter=No|Gloss=|Translit=
+2	เรียก	เรียก	VERB	_	_	0	root	_	SpaceAfter=No|Gloss=|Translit=
+3	หัวหน้า	หัวหน้า	NOUN	_	_	2	obj	_	SpaceAfter=No|Gloss=|Translit=
+4	หน่วยงาน	หน่วยงาน	NOUN	_	_	3	nmod	_	SpaceAfter=No|Gloss=|Translit=
+5	มา	มา	ADV	_	_	2	advmod	_	SpaceAfter=No|Gloss=|Translit=
+6	ทั้ง	ทั้ง	ADP	_	_	7	mark	_	SpaceAfter=No|Gloss=|Translit=
+7	หมด	หมด	VERB	_	_	2	advcl	_	SpaceAfter=No|Gloss=|Translit=
+8	มา	มา	VERB	_	_	2	advcl	_	SpaceAfter=No|Gloss=come|Translit=
+9	ประชุม	ประชุม	VERB	_	_	8	compound:svc	_	Gloss=|Translit=
+10	เพื่อ	เพื่อ	ADP	_	_	11	mark	_	SpaceAfter=No|Gloss=for|Translit=
+11	ตกลง	ตกลง	VERB	_	_	2	advcl	_	SpaceAfter=No|Gloss=|Translit=
+12	ว่า	ว่า	SCONJ	_	_	14	mark	_	SpaceAfter=No|Gloss=that(COMP)|Translit=
+13	จะ	จะ	ADV	_	_	14	advmod	_	SpaceAfter=No|Gloss=|Translit=
+14	ทำ	ทำ	VERB	_	_	11	xcomp	_	SpaceAfter=No|Gloss=do|Translit=
+15	อย่าง	อย่าง	NOUN	_	_	14	obj	_	SpaceAfter=No|Gloss=|Translit=
+16	ไร	ไร	ADJ	_	_	15	amod	_	Gloss=|Translit=
+17	ให้	ให้	VERB	_	_	14	advcl	_	SpaceAfter=No|Gloss=give|Translit=
+18	เกิด	เกิด	VERB	_	_	17	compound:svc	_	SpaceAfter=No|Gloss=|Translit=
+19	ความ	ความ	NOUN	_	NounType=Nmlz	18	obl:arg	_	SpaceAfter=No|Gloss=|Translit=
+20	ยุติธรรม	ยุติธรรม	VERB	_	_	19	acl	_	SpaceAfter=No|Gloss=|Translit=
+21	กับ	กับ	ADP	_	_	23	case	_	SpaceAfter=No|Gloss=with|Translit=
+22	ทุก	ทุก	DET	_	_	23	det	_	SpaceAfter=No|Gloss=every|Translit=
+23	ฝ่าย	ฝ่าย	NOUN	_	NounType=Clf	18	obl	_	Gloss=|Translit=
+
+# sent_id = Thai_Political_Policemen_News14_49
+# text = พอมีมติว่าให้ใช้การประเมิน ก็ให้กำลังพลทำแบบฟอร์มการประเมิน
+# text_en = 
+# tokenised_text = พอ มี มติ ว่า ให้ ใช้ การ ประเมิน ก็ ให้ กำลัง พล ทำ แบบ ฟอร์ม การ ประเมิน
+# tokenised_translit =
+# tokenised_transcript =
+# phrase_type = sentence
+# sentence_position = body
+# genre = political_news_article
+# source = https://www.khaosod.co.th/politics/news_9913301
+# year = 2025
+1	พอ	พอ	SCONJ	_	_	2	mark	_	SpaceAfter=No|Gloss=|Translit=
+2	มี	มี	VERB	_	_	10	advcl	_	SpaceAfter=No|Gloss=have|Translit=
+3	มติ	มติ	NOUN	_	_	2	nsubj	_	SpaceAfter=No|Gloss=|Translit=
+4	ว่า	ว่า	SCONJ	_	_	5	mark	_	SpaceAfter=No|Gloss=that(COMP)|Translit=
+5	ให้	ให้	VERB	_	_	2	advcl	_	SpaceAfter=No|Gloss=give|Translit=
+6	ใช้	ใช้	VERB	_	_	5	compound:svc	_	SpaceAfter=No|Gloss=use|Translit=
+7	การ	การ	NOUN	_	NounType=Nmlz	6	obj	_	SpaceAfter=No|Gloss=|Translit=
+8	ประเมิน	ประเมิน	VERB	_	_	7	acl	_	Gloss=|Translit=
+9	ก็	ก็	ADV	_	_	10	advmod	_	SpaceAfter=No|Gloss=|Translit=
+10	ให้	ให้	VERB	_	_	0	root	_	SpaceAfter=No|Gloss=give|Translit=
+11	กำลัง	กำลัง	NOUN	_	_	10	obj	_	SpaceAfter=No|Gloss=|Translit=
+12	พล	พล	NOUN	_	_	11	nmod	_	SpaceAfter=No|Gloss=|Translit=
+13	ทำ	ทำ	VERB	_	_	10	compound:svc	_	SpaceAfter=No|Gloss=do|Translit=
+14	แบบ	แบบ	NOUN	_	_	13	obj	_	SpaceAfter=No|Gloss=|Translit=
+15	ฟอร์ม	ฟอร์ม	NOUN	_	Foreign=Yes	14	nmod	_	SpaceAfter=No|Gloss=form|Translit=
+16	การ	การ	NOUN	_	NounType=Nmlz	14	nmod	_	SpaceAfter=No|Gloss=|Translit=
+17	ประเมิน	ประเมิน	VERB	_	_	16	acl	_	Gloss=|Translit=
+
+# sent_id = Thai_Political_Policemen_News14_50
+# text = จากนั้นผบ.ตร. ส่งการประเมินให้กับกองบัญชาการต่างๆ ประมาณวันที่ 20 ก.ค.
+# text_en = 
+# tokenised_text = จาก นั้น ผบ.ตร. ส่ง การ ประเมิน ให้ กับ กอง บัญชาการ ต่าง ๆ ประมาณ วัน ที่ 20 ก.ค.
+# tokenised_translit =
+# tokenised_transcript =
+# phrase_type = sentence
+# sentence_position = body
+# genre = political_news_article
+# source = https://www.khaosod.co.th/politics/news_9913301
+# year = 2025
+1	จาก	จาก	ADP	_	_	2	case	_	SpaceAfter=No|Gloss=from|Translit=
+2	นั้น	นั้น	PRON	_	_	4	obl	_	SpaceAfter=No|Gloss=that|Translit=
+3	ผบ.ตร.	ผบ.ตร.	NOUN	_	Abbr=Yes	4	nsubj	_	Gloss=|Translit=
+4	ส่ง	ส่ง	VERB	_	_	0	root	_	SpaceAfter=No|Gloss=send|Translit=
+5	การ	การ	NOUN	_	NounType=Nmlz	4	obj	_	SpaceAfter=No|Gloss=|Translit=
+6	ประเมิน	ประเมิน	VERB	_	_	5	acl	_	SpaceAfter=No|Gloss=|Translit=
+7	ให้	ให้	VERB	_	_	4	compound:svc	_	SpaceAfter=No|Gloss=give|Translit=
+8	กับ	กับ	ADP	_	_	9	case	_	SpaceAfter=No|Gloss=with|Translit=
+9	กอง	กอง	NOUN	_	_	7	obl	_	SpaceAfter=No|Gloss=|Translit=
+10	บัญชาการ	บัญชาการ	VERB	_	_	9	acl	_	SpaceAfter=No|Gloss=|Translit=
+11	ต่าง	ต่าง	VERB	_	_	9	acl	_	SpaceAfter=No|Gloss=different|Translit=
+12	ๆ	_	SYM	_	_	11	compound:redup	_	Gloss=|Translit=
+13	ประมาณ	ประมาณ	DET	_	_	14	det	_	SpaceAfter=No|Gloss=|Translit=
+14	วัน	วัน	NOUN	_	_	4	obl	_	SpaceAfter=No|Gloss=day|Translit=
+15	ที่	ที่	NOUN	_	_	14	nmod	_	Gloss=|Translit=
+16	20	20	NUM	_	_	15	nmod	_	Gloss=20|Translit=
+17	ก.ค.	ก.ค.	NOUN	_	Abbr=Yes	14	nmod	_	Gloss=July|Translit=
+
+# sent_id = Thai_Political_Policemen_News14_51
+# text = แต่วันที่ 29 ก.ค. สำนักงานกำลังพล กลับมีคำสั่งให้ชะลอการประเมิน ส่อไปถึงเจตนาที่ไม่ควรจะเป็นเพราะเป็นฉันทามติของตำรวจทั้งประเทศ​
+# text_en = 
+# tokenised_text = แต่ วัน ที่ 29 ก.ค. สำนักงาน กำลัง พล กลับ มี คำ สั่ง ให้ ชะลอ การ ประเมิน ส่อ ไป ถึง เจตนา ที่ ไม่ ควร จะ เป็น เพราะ เป็น ฉันทามติ ของ ตำรวจ ทั้ง ประเทศ​
+# tokenised_translit =
+# tokenised_transcript =
+# phrase_type = sentence
+# sentence_position = body
+# genre = political_news_article
+# source = https://www.khaosod.co.th/politics/news_9913301
+# year = 2025
+1	แต่	แต่	ADV	_	_	9	advmod	_	SpaceAfter=No|Gloss=but|Translit=
+2	วัน	วัน	NOUN	_	_	9	obl	_	SpaceAfter=No|Gloss=day|Translit=
+3	ที่	ที่	NOUN	_	_	2	nmod	_	Gloss=|Translit=
+4	29	29	NUM	_	_	3	nmod	_	Gloss=29|Translit=
+5	ก.ค.	ก.ค.	NOUN	_	Abbr=Yes	2	nmod	_	Gloss=July|Translit=
+6	สำนักงาน	สำนักงาน	NOUN	_	_	9	nsubj	_	SpaceAfter=No|Gloss=|Translit=
+7	กำลัง	กำลัง	NOUN	_	ExtPos=PROPN	6	nmod	_	SpaceAfter=No|Gloss=|Translit=
+8	พล	พล	NOUN	_	_	7	nmod	_	Gloss=|Translit=
+9	กลับ	กลับ	VERB	_	_	0	root	_	SpaceAfter=No|Gloss=|Translit=
+10	มี	มี	VERB	_	_	9	xcomp	_	SpaceAfter=No|Gloss=have|Translit=
+11	คำ	คำ	NOUN	_	_	10	obl:arg	_	SpaceAfter=No|Gloss=word|Translit=
+12	สั่ง	สั่ง	VERB	_	_	11	acl	_	SpaceAfter=No|Gloss=order|Translit=
+13	ให้	ให้	VERB	_	_	11	acl	_	SpaceAfter=No|Gloss=give|Translit=
+14	ชะลอ	ชะลอ	VERB	_	_	13	compound:svc	_	SpaceAfter=No|Gloss=|Translit=
+15	การ	การ	NOUN	_	NounType=Nmlz	14	obj	_	SpaceAfter=No|Gloss=|Translit=
+16	ประเมิน	ประเมิน	VERB	_	_	15	acl	_	Gloss=evaluate|Translit=
+17	ส่อ	ส่อ	VERB	_	_	9	advcl	_	SpaceAfter=No|Gloss=|Translit=
+18	ไป	ไป	VERB	_	_	17	compound:svc	_	SpaceAfter=No|Gloss=go|Translit=
+19	ถึง	ถึง	VERB	_	_	18	compound:svc	_	SpaceAfter=No|Gloss=|Translit=
+20	เจตนา	เจตนา	NOUN	_	_	19	obl:arg	_	SpaceAfter=No|Gloss=|Translit=
+21	ที่	ที่	PRON	_	_	23	nsubj	_	SpaceAfter=No|Gloss=that|Translit=
+22	ไม่	ไม่	ADV	_	_	23	advmod	_	SpaceAfter=No|Gloss=not|Translit=
+23	ควร	ควร	VERB	_	_	20	acl:relcl	_	SpaceAfter=No|Gloss=|Translit=
+24	จะ	จะ	ADV	_	_	25	advmod	_	SpaceAfter=No|Gloss=|Translit=
+25	เป็น	เป็น	AUX	_	_	23	xcomp	_	SpaceAfter=No|Gloss=be|Translit=
+26	เพราะ	เพราะ	ADP	_	_	28	mark	_	SpaceAfter=No|Gloss=because|Translit=
+27	เป็น	เป็น	AUX	_	_	28	cop	_	SpaceAfter=No|Gloss=be|Translit=
+28	ฉันทามติ	ฉันทามติ	NOUN	_	_	23	advcl	_	SpaceAfter=No|Gloss=|Translit=
+29	ของ	ของ	ADP	_	_	30	case	_	SpaceAfter=No|Gloss=of|Translit=
+30	ตำรวจ	ตำรวจ	NOUN	_	_	28	nmod	_	SpaceAfter=No|Gloss=policeman|Translit=
+31	ทั้ง	ทั้ง	DET	_	_	32	det	_	SpaceAfter=No|Gloss=|Translit=
+32	ประเทศ​	ประเทศ​	NOUN	_	NounType=Clf	30	nmod	_	Gloss=country|Translit=
+
+# sent_id = Thai_Political_Policemen_News14_52
+# text = จะมาอ้างว่ายังใช้การประเมินอยู่ แต่ผลลัพธ์ที่ออกมาปรากฏว่าคนใกล้ตัวได้หมดเลย
+# text_en = 
+# tokenised_text = จะ มา อ้าง ว่า ยัง ใช้ การ ประเมิน อยู่ แต่ ผลลัพธ์ ที่ ออก มา ปรากฏ ว่า คน ใกล้ ตัว ได้ หมด เลย
+# tokenised_translit =
+# tokenised_transcript =
+# phrase_type = sentence
+# sentence_position = body
+# genre = political_news_article
+# source = https://www.khaosod.co.th/politics/news_9913301
+# year = 2025
+1	จะ	จะ	ADV	_	_	2	advmod	_	SpaceAfter=No|Gloss=|Translit=
+2	มา	มา	VERB	_	_	0	root	_	SpaceAfter=No|Gloss=come|Translit=
+3	อ้าง	อ้าง	VERB	_	_	2	compound:svc	_	SpaceAfter=No|Gloss=|Translit=
+4	ว่า	ว่า	SCONJ	_	_	6	mark	_	SpaceAfter=No|Gloss=that(COMP)|Translit=
+5	ยัง	ยัง	ADV	_	_	6	advmod	_	SpaceAfter=No|Gloss=still|Translit=
+6	ใช้	ใช้	VERB	_	_	3	ccomp	_	SpaceAfter=No|Gloss=use|Translit=
+7	การ	การ	NOUN	_	NounType=Nmlz	6	obj	_	SpaceAfter=No|Gloss=|Translit=
+8	ประเมิน	ประเมิน	VERB	_	_	7	acl	_	SpaceAfter=No|Gloss=|Translit=
+9	อยู่	อยู่	ADV	_	_	6	advmod	_	Gloss=|Translit=
+10	แต่	แต่	CCONJ	_	_	15	cc	_	SpaceAfter=No|Gloss=but|Translit=
+11	ผลลัพธ์	ผลลัพธ์	NOUN	_	_	15	nsubj	_	SpaceAfter=No|Gloss=|Translit=
+12	ที่	ที่	PRON	_	_	13	nsubj	_	SpaceAfter=No|Gloss=that(REL)|Translit=
+13	ออก	ออก	VERB	_	_	11	acl:relcl	_	SpaceAfter=No|Gloss=|Translit=
+14	มา	มา	VERB	_	_	13	compound:svc	_	SpaceAfter=No|Gloss=come|Translit=
+15	ปรากฏ	ปรากฏ	VERB	_	_	2	conj	_	SpaceAfter=No|Gloss=appear|Translit=
+16	ว่า	ว่า	SCONJ	_	_	20	mark	_	SpaceAfter=No|Gloss=that(COMP)|Translit=
+17	คน	คน	NOUN	_	_	20	nsubj	_	SpaceAfter=No|Gloss=person|Translit=
+18	ใกล้	ใกล้	VERB	_	_	17	acl	_	SpaceAfter=No|Gloss=be near|Translit=
+19	ตัว	ตัว	NOUN	_	_	18	obl:arg	_	SpaceAfter=No|Gloss=body|Translit=
+20	ได้	ได้	VERB	_	_	15	ccomp	_	SpaceAfter=No|Gloss=get|Translit=
+21	หมด	หมด	VERB	_	_	20	xcomp	_	SpaceAfter=No|Gloss=|Translit=
+22	เลย	เลย	ADV	_	_	20	advmod	_	Gloss=completely|Translit=
+
+# sent_id = Thai_Political_Policemen_News14_53
+# text = “ผมขอย้ำว่าไม่จำเป็นต้องถึงผม
+# text_en = 
+# tokenised_text = “ ผม ขอ ย้ำ ว่า ไม่ จำเป็น ต้อง ถึง ผม
+# tokenised_translit =
+# tokenised_transcript =
+# phrase_type = sentence
+# sentence_position = body
+# genre = political_news_article
+# source = https://www.khaosod.co.th/politics/news_9913301
+# year = 2025
+1	“	“	PUNCT	_	_	3	punct	_	SpaceAfter=No
+2	ผม	ผม	PRON	_	Person=1|PronType=Prs	3	nsubj	_	SpaceAfter=No|Gloss=I|Translit=
+3	ขอ	ขอ	VERB	_	_	0	root	_	SpaceAfter=No|Gloss=ask|Translit=
+4	ย้ำ	ย้ำ	VERB	_	_	3	xcomp	_	SpaceAfter=No|Gloss=|Translit=
+5	ว่า	ว่า	SCONJ	_	_	7	mark	_	SpaceAfter=No|Gloss=that(COMP)|Translit=
+6	ไม่	ไม่	VERB	_	_	7	advmod	_	SpaceAfter=No|Gloss=not|Translit=
+7	จำเป็น	จำเป็น	VERB	_	_	4	ccomp	_	SpaceAfter=No|Gloss=be necessary|Translit=
+8	ต้อง	ต้อง	VERB	_	_	7	xcomp	_	SpaceAfter=No|Gloss=must|Translit=
+9	ถึง	ถึง	VERB	_	_	8	xcomp	_	SpaceAfter=No|Gloss=|Translit=
+10	ผม	ผม	PRON	_	Person=1|PronType=Prs	9	obl:arg	_	Gloss=I|Translit=
+
+# sent_id = Thai_Political_Policemen_News14_54
+# text = แน่นอนว่าผมพลีชีพไปแล้วที่ออกมาครั้งนี้
+# text_en = 
+# tokenised_text = แน่นอน ว่า ผม พลี ชีพ ไป แล้ว ที่ ออก มา ครั้ง นี้
+# tokenised_translit =
+# tokenised_transcript =
+# phrase_type = sentence
+# sentence_position = body
+# genre = political_news_article
+# source = https://www.khaosod.co.th/politics/news_9913301
+# year = 2025
+1	แน่นอน	แน่นอน	VERB	_	_	0	root	_	SpaceAfter=No|Gloss=|Translit=
+2	ว่า	ว่า	SCONJ	_	_	4	mark	_	SpaceAfter=No|Gloss=that(COMP)|Translit=
+3	ผม	ผม	PRON	_	Person=1|PronType=Prs	4	nsubj	_	SpaceAfter=No|Gloss=I|Translit=
+4	พลี	พลี	VERB	_	_	1	ccomp	_	SpaceAfter=No|Gloss=|Translit=
+5	ชีพ	ชีพ	NOUN	_	_	4	obj	_	SpaceAfter=No|Gloss=life|Translit=
+6	ไป	ไป	ADV	_	_	4	advmod	_	SpaceAfter=No|Gloss=|Translit=
+7	แล้ว	แล้ว	ADV	_	_	4	advmod	_	SpaceAfter=No|Gloss=|Translit=
+8	ที่	ที่	SCONJ	_	_	9	mark	_	SpaceAfter=No|Gloss=that(COMP)|Translit=
+9	ออก	ออก	VERB	_	_	4	advcl	_	SpaceAfter=No|Gloss=|Translit=
+10	มา	มา	VERB	_	_	9	compound:svc	_	SpaceAfter=No|Gloss=come|Translit=
+11	ครั้ง	ครั้ง	NOUN	_	_	9	obl	_	SpaceAfter=No|Gloss=|Translit=
+12	นี้	นี้	ADJ	_	_	11	amod	_	Gloss=this|Translit=
+
+# sent_id = Thai_Political_Policemen_News14_55
+# text = ไม่ต้องกลัว ผมคนจริง แก้ไขปัญหาหน่วยงานมาเยอะ สร้างความเปลี่ยนแปลงของหน่วยงานมาเยอะ
+# text_en = 
+# tokenised_text = ไม่ ต้อง กลัว ผม คน จริง แก้ไข ปัญหา หน่วยงาน มา เยอะ สร้าง ความ เปลี่ยนแปลง ของ หน่วยงาน มา เยอะ
+# tokenised_translit =
+# tokenised_transcript =
+# phrase_type = sentence
+# sentence_position = body
+# genre = political_news_article
+# source = https://www.khaosod.co.th/politics/news_9913301
+# year = 2025
+1	ไม่	ไม่	ADV	_	_	2	advmod	_	SpaceAfter=No|Gloss=not|Translit=
+2	ต้อง	ต้อง	VERB	_	_	0	root	_	SpaceAfter=No|Gloss=must|Translit=
+3	กลัว	กลัว	VERB	_	_	2	xcomp	_	Gloss=be afraid|Translit=
+4	ผม	ผม	PRON	_	Person=1|PronType=Prs	6	dislocated	_	SpaceAfter=No|Gloss=I|Translit=
+5	คน	คน	NOUN	_	_	6	nsubj	_	SpaceAfter=No|Gloss=person|Translit=
+6	จริง	จริง	VERB	_	_	2	advcl	_	Gloss=|Translit=
+7	แก้ไข	แก้ไข	VERB	_	_	6	advcl	_	SpaceAfter=No|Gloss=solve|Translit=
+8	ปัญหา	ปัญหา	NOUN	_	_	7	obj	_	SpaceAfter=No|Gloss=problem|Translit=
+9	หน่วยงาน	หน่วยงาน	NOUN	_	_	8	nmod	_	SpaceAfter=No|Gloss=|Translit=
+10	มา	มา	ADV	_	_	7	advmod	_	SpaceAfter=No|Gloss=|Translit=
+11	เยอะ	เยอะ	VERB	_	_	7	advcl	_	Gloss=|Translit=
+12	สร้าง	สร้าง	VERB	_	_	7	conj	_	SpaceAfter=No|Gloss=create|Translit=
+13	ความ	ความ	NOUN	_	NounType=Nmlz	12	obj	_	SpaceAfter=No|Gloss=|Translit=
+14	เปลี่ยนแปลง	เปลี่ยนแปลง	VERB	_	_	13	acl	_	SpaceAfter=No|Gloss=change|Translit=
+15	ของ	ของ	ADP	_	_	16	case	_	SpaceAfter=No|Gloss=of|Translit=
+16	หน่วยงาน	หน่วยงาน	NOUN	_	_	13	nmod	_	SpaceAfter=No|Gloss=|Translit=
+17	มา	มา	ADV	_	_	12	advmod	_	SpaceAfter=No|Gloss=|Translit=
+18	เยอะ	เยอะ	VERB	_	_	12	advcl	_	Gloss=|Translit=
+
+# sent_id = Thai_Political_Policemen_News14_56
+# text = พระก็เปลี่ยนแล้ว ตอนนี้จะมาเปลี่ยนตำรวจ เปลี่ยนพระมา
+# text_en = 
+# tokenised_text = พระ ก็ เปลี่ยน แล้ว ตอน นี้ จะ มา เปลี่ยน ตำรวจ เปลี่ยน พระ มา
+# tokenised_translit =
+# tokenised_transcript =
+# phrase_type = sentence
+# sentence_position = body
+# genre = political_news_article
+# source = https://www.khaosod.co.th/politics/news_9913301
+# year = 2025
+1	พระ	พระ	NOUN	_	_	3	obj	_	SpaceAfter=No|Gloss=monk|Translit=
+2	ก็	ก็	ADV	_	_	3	advmod	_	SpaceAfter=No|Gloss=|Translit=
+3	เปลี่ยน	เปลี่ยน	VERB	_	_	0	root	_	SpaceAfter=No|Gloss=change|Translit=
+4	แล้ว	แล้ว	ADV	_	_	3	advmod	_	Gloss=|Translit=
+5	ตอน	ตอน	NOUN	_	_	8	obl	_	SpaceAfter=No|Gloss=|Translit=
+6	นี้	นี้	ADJ	_	_	5	amod	_	SpaceAfter=No|Gloss=this|Translit=
+7	จะ	จะ	ADV	_	_	8	advmod	_	SpaceAfter=No|Gloss=|Translit=
+8	มา	มา	VERB	_	_	3	advcl	_	SpaceAfter=No|Gloss=come|Translit=
+9	เปลี่ยน	เปลี่ยน	VERB	_	_	8	compound:svc	_	SpaceAfter=No|Gloss=change|Translit=
+10	ตำรวจ	ตำรวจ	NOUN	_	_	9	obj	_	Gloss=policeman|Translit=
+11	เปลี่ยน	เปลี่ยน	VERB	_	_	8	advcl	_	SpaceAfter=No|Gloss=change|Translit=
+12	พระ	พระ	NOUN	_	_	11	obj	_	SpaceAfter=No|Gloss=monk|Translit=
+13	มา	มา	ADV	_	_	11	advmod	_	Gloss=|Translit=
+
+# sent_id = Thai_Political_Policemen_News14_57
+# text = แต่พอมาดูตำรวจพบว่าก็มีกฎหมายแล้ว ไม่ได้อยู่ในช่วงปฏิวัติรัฐประหารมาตรา 44
+# text_en = 
+# tokenised_text = แต่ พอ มา ดู ตำรวจ พบ ว่า ก็ มี กฎหมาย แล้ว ไม่ ได้ อยู่ ใน ช่วง ปฏิวัติ รัฐประหาร มาตรา 44
+# tokenised_translit =
+# tokenised_transcript =
+# phrase_type = sentence
+# sentence_position = body
+# genre = political_news_article
+# source = https://www.khaosod.co.th/politics/news_9913301
+# year = 2025
+1	แต่	แต่	ADV	_	_	6	advmod	_	SpaceAfter=No|Gloss=but|Translit=
+2	พอ	พอ	SCONJ	_	_	3	mark	_	SpaceAfter=No|Gloss=|Translit=
+3	มา	มา	VERB	_	_	6	advcl	_	SpaceAfter=No|Gloss=come|Translit=
+4	ดู	ดู	VERB	_	_	3	compound:svc	_	SpaceAfter=No|Gloss=see|Translit=
+5	ตำรวจ	ตำรวจ	NOUN	_	_	4	obj	_	SpaceAfter=No|Gloss=policeman|Translit=
+6	พบ	พบ	VERB	_	_	0	root	_	SpaceAfter=No|Gloss=find|Translit=
+7	ว่า	ว่า	SCONJ	_	_	9	mark	_	SpaceAfter=No|Gloss=that(COMP)|Translit=
+8	ก็	ก็	ADV	_	_	9	advmod	_	SpaceAfter=No|Gloss=|Translit=
+9	มี	มี	VERB	_	_	6	ccomp	_	SpaceAfter=No|Gloss=have|Translit=
+10	กฎหมาย	กฎหมาย	NOUN	_	_	9	nsubj	_	SpaceAfter=No|Gloss=|Translit=
+11	แล้ว	แล้ว	ADV	_	_	9	advmod	_	Gloss=|Translit=
+12	ไม่	ไม่	ADV	_	_	13	advmod	_	SpaceAfter=No|Gloss=not|Translit=
+13	ได้	ได้	VERB	_	_	9	conj	_	SpaceAfter=No|Gloss=|Translit=
+14	อยู่	อยู่	VERB	_	_	13	xcomp	_	SpaceAfter=No|Gloss=stay|Translit=
+15	ใน	ใน	ADP	_	_	16	case	_	SpaceAfter=No|Gloss=in|Translit=
+16	ช่วง	ช่วง	NOUN	_	_	14	obl	_	SpaceAfter=No|Gloss=|Translit=
+17	ปฏิวัติ	ปฏิวัติ	NOUN	_	_	16	nmod	_	SpaceAfter=No|Gloss=|Translit=
+18	รัฐประหาร	รัฐประหาร	NOUN	_	_	17	nmod	_	SpaceAfter=No|Gloss=|Translit=
+19	มาตรา	มาตรา	NOUN	_	_	18	nmod	_	Gloss=|Translit=
+20	44	44	NUM	_	_	19	nmod	_	Gloss=44|Translit=
+
+# sent_id = Thai_Political_Policemen_News14_58
+# text = เรามีกฎหมายเป็นตัวขับเคลื่อนฉะนั้น อย่าเถไถ
+# text_en = 
+# tokenised_text = เรา มี กฎหมาย เป็น ตัว ขับ เคลื่อน ฉะนั้น อย่า เถไถ
+# tokenised_translit =
+# tokenised_transcript =
+# phrase_type = sentence
+# sentence_position = body
+# genre = political_news_article
+# source = https://www.khaosod.co.th/politics/news_9913301
+# year = 2025
+1	เรา	เรา	PRON	_	Person=1|PronType=Prs	2	nsubj	_	SpaceAfter=No|Gloss=we|Translit=
+2	มี	มี	VERB	_	_	0	root	_	SpaceAfter=No|Gloss=have|Translit=
+3	กฎหมาย	กฎหมาย	NOUN	_	_	2	obl:arg	_	SpaceAfter=No|Gloss=|Translit=
+4	เป็น	เป็น	AUX	_	_	5	cop	_	SpaceAfter=No|Gloss=be|Translit=
+5	ตัว	ตัว	NOUN	_	_	3	acl	_	SpaceAfter=No|Gloss=body|Translit=
+6	ขับ	ขับ	VERB	_	_	5	acl	_	SpaceAfter=No|Gloss=drive|Translit=
+7	เคลื่อน	เคลื่อน	VERB	_	_	6	flat	_	SpaceAfter=No|Gloss=move|Translit=
+8	ฉะนั้น	ฉะนั้น	ADV	_	_	10	advmod	_	Gloss=so|Translit=
+9	อย่า	อย่า	ADV	_	_	10	advmod	_	SpaceAfter=No|Gloss=|Translit=
+10	เถไถ	เถไถ	VERB	_	_	2	advcl	_	Gloss=|Translit=
+
+# sent_id = Thai_Political_Policemen_News14_59
+# text = อย่างนี้ไม่เอา
+# text_en = 
+# tokenised_text = อย่าง นี้ ไม่ เอา
+# tokenised_translit =
+# tokenised_transcript =
+# phrase_type = sentence
+# sentence_position = body
+# genre = political_news_article
+# source = https://www.khaosod.co.th/politics/news_9913301
+# year = 2025
+1	อย่าง	อย่าง	NOUN	_	_	4	obj	_	SpaceAfter=No|Gloss=|Translit=
+2	นี้	นี้	ADJ	_	_	1	amod	_	SpaceAfter=No|Gloss=this|Translit=
+3	ไม่	ไม่	ADV	_	_	4	advmod	_	SpaceAfter=No|Gloss=not|Translit=
+4	เอา	เอา	VERB	_	_	0	root	_	Gloss=take|Translit=
+
+# sent_id = Thai_Political_Policemen_News14_60
+# text = ตำรวจชอบเถไถ เถลไถล ออกนอกแนวรันเวย์แล้วก็บอกว่าทำ
+# text_en = 
+# tokenised_text = ตำรวจ ชอบ เถไถ เถลไถล ออก นอก แนว รันเวย์ แล้ว ก็ บอก ว่า ทำ
+# tokenised_translit =
+# tokenised_transcript =
+# phrase_type = sentence
+# sentence_position = body
+# genre = political_news_article
+# source = https://www.khaosod.co.th/politics/news_9913301
+# year = 2025
+1	ตำรวจ	ตำรวจ	NOUN	_	_	2	nsubj	_	SpaceAfter=No|Gloss=policeman|Translit=
+2	ชอบ	ชอบ	VERB	_	_	0	root	_	SpaceAfter=No|Gloss=like|Translit=
+3	เถไถ	เถไถ	VERB	_	_	2	xcomp	_	Gloss=|Translit=
+4	เถลไถล	เถลไถล	VERB	_	_	3	conj	_	Gloss=|Translit=
+5	ออก	ออก	VERB	_	_	3	conj	_	SpaceAfter=No|Gloss=|Translit=
+6	นอก	นอก	ADP	_	_	7	case	_	SpaceAfter=No|Gloss=|Translit=
+7	แนว	แนว	NOUN	_	_	5	obl	_	SpaceAfter=No|Gloss=|Translit=
+8	รันเวย์	รันเวย์	NOUN	_	Foreign=Yes	7	nmod	_	SpaceAfter=No|Gloss=runway|Translit=
+9	แล้ว	แล้ว	ADV	_	_	11	advmod	_	SpaceAfter=No|Gloss=|Translit=
+10	ก็	ก็	ADV	_	_	11	advmod	_	SpaceAfter=No|Gloss=|Translit=
+11	บอก	บอก	VERB	_	_	2	advcl	_	SpaceAfter=No|Gloss=tell|Translit=
+12	ว่า	ว่า	SCONJ	_	_	13	mark	_	SpaceAfter=No|Gloss=that(COMP)|Translit=
+13	ทำ	ทำ	VERB	_	_	11	ccomp	_	Gloss=do|Translit=
+
+# sent_id = Thai_Political_Policemen_News14_61
+# text = อยากให้ผู้บังคับบัญชาตั้งสติ
+# text_en = 
+# tokenised_text = อยาก ให้ ผู้ บังคับบัญชา ตั้ง สติ
+# tokenised_translit =
+# tokenised_transcript =
+# phrase_type = sentence
+# sentence_position = body
+# genre = political_news_article
+# source = https://www.khaosod.co.th/politics/news_9913301
+# year = 2025
+1	อยาก	อยาก	VERB	_	_	0	root	_	SpaceAfter=No|Gloss=want|Translit=
+2	ให้	ให้	VERB	_	_	1	xcomp	_	SpaceAfter=No|Gloss=give|Translit=
+3	ผู้	ผู้	NOUN	_	_	2	obj	_	SpaceAfter=No|Gloss=person|Translit=
+4	บังคับบัญชา	บังคับบัญชา	VERB	_	_	3	acl	_	SpaceAfter=No|Gloss=|Translit=
+5	ตั้ง	ตั้ง	VERB	_	_	2	compound:svc	_	SpaceAfter=No|Gloss=|Translit=
+6	สติ	สติ	NOUN	_	_	5	obl:arg	_	Gloss=|Translit=
+
+# sent_id = Thai_Political_Policemen_News14_62
+# text = ถ้ามีคุณธรรม รู้จักคำว่าให้กับลูกน้อง ลูกน้องก็จะเอาไปให้พี่น้องประชาชนเอง” พล.ต.ต.จรูญเกียรติ กล่าว
+# text_en = 
+# tokenised_text = ถ้า มี คุณธรรม รู้จัก คำ ว่า ให้ กับ ลูกน้อง ลูกน้อง ก็ จะ เอา ไป ให้ พี่ น้อง ประชาชน เอง ” พล.ต.ต. จรูญเกียรติ กล่าว
+# tokenised_translit =
+# tokenised_transcript =
+# phrase_type = sentence
+# sentence_position = body
+# genre = political_news_article
+# source = https://www.khaosod.co.th/politics/news_9913301
+# year = 2025
+1	ถ้า	ถ้า	ADP	_	_	2	mark	_	SpaceAfter=No|Gloss=if|Translit=
+2	มี	มี	VERB	_	_	13	advcl	_	SpaceAfter=No|Gloss=have|Translit=
+3	คุณธรรม	คุณธรรม	NOUN	_	_	2	obl:arg	_	Gloss=|Translit=
+4	รู้จัก	รู้จัก	VERB	_	_	2	conj	_	SpaceAfter=No|Gloss=know|Translit=
+5	คำ	คำ	NOUN	_	_	4	obj	_	SpaceAfter=No|Gloss=word|Translit=
+6	ว่า	ว่า	ADP	_	_	7	mark	_	SpaceAfter=No|Gloss=|Translit=
+7	ให้	ให้	VERB	_	_	5	acl	_	SpaceAfter=No|Gloss=give|Translit=
+8	กับ	กับ	ADP	_	_	9	case	_	SpaceAfter=No|Gloss=with|Translit=
+9	ลูกน้อง	ลูกน้อง	NOUN	_	_	7	obl	_	Gloss=|Translit=
+10	ลูกน้อง	ลูกน้อง	NOUN	_	_	13	nsubj	_	SpaceAfter=No|Gloss=|Translit=
+11	ก็	ก็	ADV	_	_	13	advmod	_	SpaceAfter=No|Gloss=|Translit=
+12	จะ	จะ	ADV	_	_	13	advmod	_	SpaceAfter=No|Gloss=|Translit=
+13	เอา	เอา	VERB	_	_	23	ccomp	_	SpaceAfter=No|Gloss=take|Translit=
+14	ไป	ไป	ADV	_	_	13	advmod	_	SpaceAfter=No|Gloss=|Translit=
+15	ให้	ให้	ADP	_	_	16	case	_	SpaceAfter=No|Gloss=|Translit=
+16	พี่	พี่	NOUN	_	_	13	obl	_	SpaceAfter=No|Gloss=|Translit=
+17	น้อง	น้อง	NOUN	_	_	16	flat	_	SpaceAfter=No|Gloss=|Translit=
+18	ประชาชน	ประชาชน	NOUN	_	_	16	appos	_	SpaceAfter=No|Gloss=population|Translit=
+19	เอง	เอง	ADV	_	_	13	advmod	_	SpaceAfter=No|Gloss=|Translit=
+20	”	”	PUNCT	_	_	13	punct	_	_
+21	พล.ต.ต.	พล.ต.ต.	NOUN	_	Abbr=Yes	23	nsubj	_	SpaceAfter=No|Gloss=|Translit=
+22	จรูญเกียรติ	จรูญเกียรติ	PROPN	_	_	21	nmod	_	Gloss=|Translit=
+23	กล่าว	กล่าว	VERB	_	_	0	root	_	Gloss=say|Translit=
+
+# sent_id = Thai_Political_Policemen_News14_63
+# text = พล.ต.ต.จรูญเกียรติ กล่าวอีกว่า ตนคาดหวังว่าที่ประชุม ก.ตร. จะเดินไปในแนวทางที่ถูกต้องชอบธรรม 
+# text_en = 
+# tokenised_text = พล.ต.ต. จรูญเกียรติ กล่าว อีก ว่า ตน คาดหวัง ว่า ที่ ประชุม ก.ตร. จะ เดิน ไป ใน แนวทาง ที่ ถูกต้อง ชอบธรรม
+# tokenised_translit =
+# tokenised_transcript =
+# phrase_type = sentence
+# sentence_position = body
+# genre = political_news_article
+# source = https://www.khaosod.co.th/politics/news_9913301
+# year = 2025
+1	พล.ต.ต.	พล.ต.ต.	NOUN	_	Abbr=Yes	3	nsubj	_	SpaceAfter=No|Gloss=|Translit=
+2	จรูญเกียรติ	จรูญเกียรติ	PROPN	_	_	1	nmod	_	Gloss=|Translit=
+3	กล่าว	กล่าว	VERB	_	_	0	root	_	SpaceAfter=No|Gloss=say|Translit=
+4	อีก	อีก	ADV	_	_	3	advmod	_	SpaceAfter=No|Gloss=|Translit=
+5	ว่า	ว่า	SCONJ	_	_	7	mark	_	SpaceAfter=No|Gloss=that(COMP)|Translit=
+6	ตน	ตน	NOUN	_	Person=1|PronType=Prs	7	nsubj	_	SpaceAfter=No|Gloss=I|Translit=
+7	คาดหวัง	คาดหวัง	VERB	_	_	3	ccomp	_	SpaceAfter=No|Gloss=expect|Translit=
+8	ว่า	ว่า	SCONJ	_	_	13	mark	_	Gloss=that(COMP)|Translit=
+9	ที่	ที่	NOUN	_	_	13	nsubj	_	SpaceAfter=No|Gloss=place|Translit=
+10	ประชุม	ประชุม	VERB	_	_	9	acl	_	Gloss=|Translit=
+11	ก.ตร.	ก.ตร.	PROPN	_	Abbr=Yes	9	nmod	_	Gloss=|Translit=
+12	จะ	จะ	ADV	_	_	13	advmod	_	SpaceAfter=No|Gloss=|Translit=
+13	เดิน	เดิน	VERB	_	_	7	ccomp	_	SpaceAfter=No|Gloss=walk|Translit=
+14	ไป	ไป	ADV	_	_	13	advmod	_	SpaceAfter=No|Gloss=|Translit=
+15	ใน	ใน	ADP	_	_	16	case	_	SpaceAfter=No|Gloss=in|Translit=
+16	แนวทาง	แนวทาง	NOUN	_	_	13	obl	_	SpaceAfter=No|Gloss=|Translit=
+17	ที่	ที่	PRON	_	_	18	nsubj	_	SpaceAfter=No|Gloss=that(REL)|Translit=
+18	ถูกต้อง	ถูกต้อง	VERB	_	_	16	acl:relcl	_	SpaceAfter=No|Gloss=be right|Translit=
+19	ชอบธรรม	ชอบธรรม	VERB	_	_	18	conj	_	Gloss=be legitimate|Translit=
+
+# sent_id = Thai_Political_Policemen_News14_64
+# text = เราส่งไปแล้วไม่รู้ว่าจะพิจารณาไปในทางใด แต่เรารู้ว่าหลายคนก็เห็นด้วย เพราะทุกคนเคยเป็นตำรวจจะรู้ว่าใครขาว ใครเทา ใครดำ
+# text_en = 
+# tokenised_text = เรา ส่ง ไป แล้ว ไม่ รู้ ว่า จะ พิจารณา ไป ใน ทาง ใด แต่ เรา รู้ ว่า หลาย คน ก็ เห็น ด้วย เพราะ ทุก คน เคย เป็น ตำรวจ จะ รู้ ว่า ใคร ขาว ใคร เทา ใคร ดำ
+# tokenised_translit =
+# tokenised_transcript =
+# phrase_type = sentence
+# sentence_position = body
+# genre = political_news_article
+# source = https://www.khaosod.co.th/politics/news_9913301
+# year = 2025
+1	เรา	เรา	PRON	_	Person=1|PronType=Prs	2	nsubj	_	SpaceAfter=No|Gloss=we|Translit=
+2	ส่ง	ส่ง	VERB	_	_	0	root	_	SpaceAfter=No|Gloss=send|Translit=
+3	ไป	ไป	ADV	_	_	2	advmod	_	SpaceAfter=No|Gloss=|Translit=
+4	แล้ว	แล้ว	ADV	_	_	2	advmod	_	SpaceAfter=No|Gloss=|Translit=
+5	ไม่	ไม่	ADV	_	_	6	advmod	_	SpaceAfter=No|Gloss=not|Translit=
+6	รู้	รู้	VERB	_	_	2	advcl	_	SpaceAfter=No|Gloss=know|Translit=
+7	ว่า	ว่า	SCONJ	_	_	9	mark	_	SpaceAfter=No|Gloss=that(COMP)|Translit=
+8	จะ	จะ	ADV	_	_	9	advmod	_	SpaceAfter=No|Gloss=|Translit=
+9	พิจารณา	พิจารณา	VERB	_	_	6	ccomp	_	SpaceAfter=No|Gloss=consider|Translit=
+10	ไป	ไป	ADV	_	_	9	advmod	_	SpaceAfter=No|Gloss=|Translit=
+11	ใน	ใน	ADP	_	_	12	case	_	SpaceAfter=No|Gloss=in|Translit=
+12	ทาง	ทาง	NOUN	_	_	9	obl	_	SpaceAfter=No|Gloss=way|Translit=
+13	ใด	ใด	ADJ	_	_	12	amod	_	Gloss=|Translit=
+14	แต่	แต่	CCONJ	_	_	16	cc	_	SpaceAfter=No|Gloss=but|Translit=
+15	เรา	เรา	PRON	_	Person=1|PronType=Prs	16	nsubj	_	SpaceAfter=No|Gloss=we|Translit=
+16	รู้	รู้	VERB	_	_	2	conj	_	SpaceAfter=No|Gloss=know|Translit=
+17	ว่า	ว่า	SCONJ	_	_	21	mark	_	SpaceAfter=No|Gloss=that(COMP)|Translit=
+18	หลาย	หลาย	DET	_	_	19	det	_	SpaceAfter=No|Gloss=several|Translit=
+19	คน	คน	NOUN	_	NounType=Clf	21	nsubj	_	SpaceAfter=No|Gloss=person|Translit=
+20	ก็	ก็	ADV	_	_	21	advmod	_	SpaceAfter=No|Gloss=|Translit=
+21	เห็น	เห็น	VERB	_	_	16	ccomp	_	SpaceAfter=No|Gloss=see|Translit=
+22	ด้วย	ด้วย	ADV	_	_	21	advmod	_	Gloss=also|Translit=
+23	เพราะ	เพราะ	SCONJ	_	_	26	mark	_	SpaceAfter=No|Gloss=because|Translit=
+24	ทุก	ทุก	DET	_	_	25	det	_	SpaceAfter=No|Gloss=every|Translit=
+25	คน	คน	NOUN	_	NounType=Clf	26	nsubj	_	SpaceAfter=No|Gloss=person|Translit=
+26	เคย	เคย	VERB	_	_	21	advcl	_	SpaceAfter=No|Gloss=|Translit=
+27	เป็น	เป็น	AUX	_	_	28	cop	_	SpaceAfter=No|Gloss=be|Translit=
+28	ตำรวจ	ตำรวจ	NOUN	_	_	26	xcomp	_	SpaceAfter=No|Gloss=policeman|Translit=
+29	จะ	จะ	ADV	_	_	30	advmod	_	SpaceAfter=No|Gloss=|Translit=
+30	รู้	รู้	VERB	_	_	26	advcl	_	SpaceAfter=No|Gloss=know|Translit=
+31	ว่า	ว่า	SCONJ	_	_	33	mark	_	SpaceAfter=No|Gloss=that(COMP)|Translit=
+32	ใคร	ใคร	PRON	_	_	33	nsubj	_	SpaceAfter=No|Gloss=|Translit=
+33	ขาว	ขาว	VERB	_	_	30	ccomp	_	Gloss=be white|Translit=
+34	ใคร	ใคร	PRON	_	_	35	nsubj	_	SpaceAfter=No|Gloss=|Translit=
+35	เทา	เทา	VERB	_	_	33	conj	_	Gloss=be grey|Translit=
+36	ใคร	ใคร	PRON	_	_	37	nsubj	_	SpaceAfter=No|Gloss=|Translit=
+37	ดำ	ดำ	VERB	_	_	33	conj	_	Gloss=be black|Translit=
+
+# sent_id = Thai_Political_Policemen_News14_65
+# text = เมื่อถามว่าจะนำเรื่องนี้ร้องต่อศาลปกครองหรือไม่
+# text_en = 
+# tokenised_text = เมื่อ ถาม ว่า จะ นำ เรื่อง นี้ ร้อง ต่อ ศาล ปกครอง หรือ ไม่
+# tokenised_translit =
+# tokenised_transcript =
+# phrase_type = sentence
+# sentence_position = body
+# genre = political_news_article
+# source = https://www.khaosod.co.th/politics/news_9913301
+# year = 2025
+1	เมื่อ	เมื่อ	NOUN	_	_	2	obl	_	SpaceAfter=No|Gloss=|Translit=
+2	ถาม	ถาม	VERB	_	_	0	root	_	SpaceAfter=No|Gloss=ask|Translit=
+3	ว่า	ว่า	SCONJ	_	_	5	mark	_	SpaceAfter=No|Gloss=that(COMP)|Translit=
+4	จะ	จะ	ADV	_	_	5	advmod	_	SpaceAfter=No|Gloss=|Translit=
+5	นำ	นำ	VERB	_	_	2	ccomp	_	SpaceAfter=No|Gloss=bring|Translit=
+6	เรื่อง	เรื่อง	NOUN	_	_	5	obj	_	SpaceAfter=No|Gloss=|Translit=
+7	นี้	นี้	ADJ	_	_	6	amod	_	SpaceAfter=No|Gloss=this|Translit=
+8	ร้อง	ร้อง	VERB	_	_	5	compound:svc	_	SpaceAfter=No|Gloss=|Translit=
+9	ต่อ	ต่อ	ADP	_	_	10	case	_	SpaceAfter=No|Gloss=to|Translit=
+10	ศาล	ศาล	NOUN	_	_	8	obl	_	SpaceAfter=No|Gloss=court|Translit=
+11	ปกครอง	ปกครอง	VERB	_	_	10	acl	_	SpaceAfter=No|Gloss=|Translit=
+12	หรือ	หรือ	CCONJ	_	_	13	cc	_	SpaceAfter=No|Gloss=or|Translit=
+13	ไม่	ไม่	ADV	_	_	5	conj	_	Gloss=not|Translit=
+
+# sent_id = Thai_Political_Policemen_News14_66
+# text = พล.ต.ต.จรูญเกียรติ กล่าวว่า เอาไว้ทีหลัง แต่ตนดูไปถึงละเว้นการปฏิบัติหน้าที่ด้วย
+# text_en = 
+# tokenised_text = พล.ต.ต. จรูญเกียรติ กล่าว ว่า เอา ไว้ ทีหลัง แต่ ตน ดู ไป ถึง ละเว้น การ ปฏิบัติ หน้าที่ ด้วย
+# tokenised_translit =
+# tokenised_transcript =
+# phrase_type = sentence
+# sentence_position = body
+# genre = political_news_article
+# source = https://www.khaosod.co.th/politics/news_9913301
+# year = 2025
+1	พล.ต.ต.	พล.ต.ต.	NOUN	_	Abbr=Yes	3	nsubj	_	SpaceAfter=No|Gloss=|Translit=
+2	จรูญเกียรติ	จรูญเกียรติ	PROPN	_	_	1	nmod	_	Gloss=|Translit=
+3	กล่าว	กล่าว	VERB	_	_	0	root	_	SpaceAfter=No|Gloss=say|Translit=
+4	ว่า	ว่า	SCONJ	_	_	5	mark	_	Gloss=that(COMP)|Translit=
+5	เอา	เอา	VERB	_	_	3	ccomp	_	SpaceAfter=No|Gloss=take|Translit=
+6	ไว้	ไว้	VERB	_	_	5	compound:svc	_	SpaceAfter=No|Gloss=|Translit=
+7	ที	ที	NOUN	_	_	6	obl:arg	_	SpaceAfter=No|Gloss=|Translit=
+8	หลัง	หลัง	ADJ	_	_	7	amod	_	Gloss=|Translit=
+9	แต่	แต่	ADV	_	_	11	advmod	_	SpaceAfter=No|Gloss=but|Translit=
+10	ตน	ตน	NOUN	_	Person=1|PronType=Prs	11	nsubj	_	SpaceAfter=No|Gloss=I|Translit=
+11	ดู	ดู	VERB	_	_	5	advcl	_	SpaceAfter=No|Gloss=see|Translit=
+12	ไป	ไป	ADV	_	_	11	advmod	_	SpaceAfter=No|Gloss=|Translit=
+13	ถึง	ถึง	ADP	_	_	14	mark	_	SpaceAfter=No|Gloss=to|Translit=
+14	ละเว้น	ละเว้น	VERB	_	_	11	obl	_	SpaceAfter=No|Gloss=|Translit=
+15	การ	การ	NOUN	_	NounType=Nmlz	14	obj	_	SpaceAfter=No|Gloss=|Translit=
+16	ปฏิบัติ	ปฏิบัติ	VERB	_	_	15	acl	_	SpaceAfter=No|Gloss=|Translit=
+17	หน้าที่	หน้าที่	NOUN	_	_	16	obj	_	SpaceAfter=No|Gloss=|Translit=
+18	ด้วย	ด้วย	ADV	_	_	11	advmod	_	Gloss=also|Translit=
+
+# sent_id = Thai_Political_Policemen_News14_67
+# text = การที่จะเข้าละเว้นการปฏิบัติหน้าที่หรือไม่ต้องดูผลสัมฤทธิ์ของรายชื่อที่ออกมา อันนี้จะครบองค์ประกอบ
+# text_en = 
+# tokenised_text = การ ที่ จะ เข้า ละเว้น การ ปฏิบัติ หน้าที่ หรือ ไม่ ต้อง ดู ผล สัมฤทธิ์ ของ ราย ชื่อ ที่ ออก มา อัน นี้ จะ ครบ องค์ประกอบ
+# tokenised_translit =
+# tokenised_transcript =
+# phrase_type = sentence
+# sentence_position = body
+# genre = political_news_article
+# source = https://www.khaosod.co.th/politics/news_9913301
+# year = 2025
+1	การ	การ	NOUN	_	NounType=Nmlz	11	nsubj	_	SpaceAfter=No|Gloss=|Translit=
+2	ที่	ที่	PRON	_	_	4	nsubj	_	SpaceAfter=No|Gloss=that(REL)|Translit=
+3	จะ	จะ	ADV	_	_	4	advmod	_	SpaceAfter=No|Gloss=|Translit=
+4	เข้า	เข้า	VERB	_	_	1	acl:relcl	_	SpaceAfter=No|Gloss=|Translit=
+5	ละเว้น	ละเว้น	VERB	_	_	4	compound:svc	_	SpaceAfter=No|Gloss=|Translit=
+6	การ	การ	NOUN	_	NounType=Nmlz	5	obj	_	SpaceAfter=No|Gloss=|Translit=
+7	ปฏิบัติ	ปฏิบัติ	VERB	_	_	6	acl	_	SpaceAfter=No|Gloss=|Translit=
+8	หน้าที่	หน้าที่	NOUN	_	_	7	obj	_	SpaceAfter=No|Gloss=|Translit=
+9	หรือ	หรือ	CCONJ	_	_	10	cc	_	SpaceAfter=No|Gloss=or|Translit=
+10	ไม่	ไม่	ADV	_	_	4	conj	_	SpaceAfter=No|Gloss=not|Translit=
+11	ต้อง	ต้อง	VERB	_	_	0	root	_	SpaceAfter=No|Gloss=must|Translit=
+12	ดู	ดู	VERB	_	_	11	xcomp	_	SpaceAfter=No|Gloss=see|Translit=
+13	ผล	ผล	NOUN	_	_	12	obj	_	SpaceAfter=No|Gloss=result|Translit=
+14	สัมฤทธิ์	สัมฤทธิ์	NOUN	_	_	13	nmod	_	SpaceAfter=No|Gloss=|Translit=
+15	ของ	ของ	ADP	_	_	16	case	_	SpaceAfter=No|Gloss=of|Translit=
+16	ราย	ราย	NOUN	_	_	13	nmod	_	SpaceAfter=No|Gloss=|Translit=
+17	ชื่อ	ชื่อ	NOUN	_	_	16	nmod	_	SpaceAfter=No|Gloss=name|Translit=
+18	ที่	ที่	PRON	_	_	19	nsubj	_	SpaceAfter=No|Gloss=that(REL)|Translit=
+19	ออก	ออก	VERB	_	_	13	acl:relcl	_	SpaceAfter=No|Gloss=|Translit=
+20	มา	มา	VERB	_	_	19	compound:svc	_	Gloss=come|Translit=
+21	อัน	อัน	NOUN	_	_	24	nsubj	_	SpaceAfter=No|Gloss=piece|Translit=
+22	นี้	นี้	ADJ	_	_	21	amod	_	SpaceAfter=No|Gloss=this|Translit=
+23	จะ	จะ	ADV	_	_	24	advmod	_	SpaceAfter=No|Gloss=|Translit=
+24	ครบ	ครบ	VERB	_	_	11	parataxis	_	SpaceAfter=No|Gloss=|Translit=
+25	องค์	องค์	NOUN	_	_	24	obl:arg	_	SpaceAfter=No|Gloss=|Translit=
+26	ประกอบ	ประกอบ	VERB	_	_	25	acl	_	Gloss=|Translit=
+
+# sent_id = Thai_Political_Policemen_News14_68
+# text = ซึ่งเราจะพิจารณาอย่างไรขอดูก่อน
+# text_en = 
+# tokenised_text = ซึ่ง เรา จะ พิจารณา อย่าง ไร ขอ ดู ก่อน
+# tokenised_translit =
+# tokenised_transcript =
+# phrase_type = sentence
+# sentence_position = body
+# genre = political_news_article
+# source = https://www.khaosod.co.th/politics/news_9913301
+# year = 2025
+1	ซึ่ง	ซึ่ง	PART	_	_	4	discourse	_	SpaceAfter=No|Gloss=|Translit=
+2	เรา	เรา	PRON	_	Person=1|PronType=Prs	4	nsubj	_	SpaceAfter=No|Gloss=we|Translit=
+3	จะ	จะ	ADV	_	_	4	advmod	_	SpaceAfter=No|Gloss=|Translit=
+4	พิจารณา	พิจารณา	VERB	_	_	0	root	_	SpaceAfter=No|Gloss=consider|Translit=
+5	อย่าง	อย่าง	NOUN	_	_	4	obl	_	SpaceAfter=No|Gloss=|Translit=
+6	ไร	ไร	ADJ	_	_	5	amod	_	SpaceAfter=No|Gloss=|Translit=
+7	ขอ	ขอ	VERB	_	_	4	advcl	_	SpaceAfter=No|Gloss=ask|Translit=
+8	ดู	ดู	VERB	_	_	7	xcomp	_	SpaceAfter=No|Gloss=look|Translit=
+9	ก่อน	ก่อน	ADV	_	_	7	advmod	_	Gloss=|Translit=
+
+# sent_id = Thai_Political_Policemen_News14_69
+# text = ด้าน น.ส.สุณัฐชา กล่าวว่า เป็นอำนาจหน้าที่ของกมธ.ตำรวจที่จะพิจารณาตามกลไกสภาฯ อย่างรอบคอบ เพื่อเป็นส่วนหนึ่งในการปฏิรูปวงการตำรวจ
+# text_en = 
+# tokenised_text = ด้าน น.ส. สุณัฐชา กล่าว ว่า เป็น อำนาจ หน้าที่ ของ กมธ. ตำรวจ ที่ จะ พิจารณา ตาม กลไก สภา ฯ อย่าง รอบคอบ เพื่อ เป็น ส่วน หนึ่ง ใน การ ปฏิรูป วงการ ตำรวจ
+# tokenised_translit =
+# tokenised_transcript =
+# phrase_type = sentence
+# sentence_position = body
+# genre = political_news_article
+# source = https://www.khaosod.co.th/politics/news_9913301
+# year = 2025
+1	ด้าน	ด้าน	NOUN	_	_	4	discourse	_	Gloss=side|Translit=
+2	น.ส.	น.ส.	NOUN	_	Abbr=Yes	4	nsubj	_	SpaceAfter=No|Gloss=Ms.|Translit=
+3	สุณัฐชา	สุณัฐชา	PROPN	_	_	2	nmod	_	Gloss=|Translit=
+4	กล่าว	กล่าว	VERB	_	_	0	root	_	SpaceAfter=No|Gloss=say|Translit=
+5	ว่า	ว่า	SCONJ	_	_	7	mark	_	Gloss=that(COMP)|Translit=
+6	เป็น	เป็น	AUX	_	_	7	cop	_	SpaceAfter=No|Gloss=be|Translit=
+7	อำนาจ	อำนาจ	NOUN	_	_	4	ccomp	_	SpaceAfter=No|Gloss=power|Translit=
+8	หน้าที่	หน้าที่	NOUN	_	_	7	nmod	_	SpaceAfter=No|Gloss=|Translit=
+9	ของ	ของ	ADP	_	_	10	case	_	SpaceAfter=No|Gloss=of|Translit=
+10	กมธ.	กมธ.	NOUN	_	Abbr=Yes	7	nmod	_	SpaceAfter=No|Gloss=|Translit=
+11	ตำรวจ	ตำรวจ	NOUN	_	_	10	nmod	_	SpaceAfter=No|Gloss=policeman|Translit=
+12	ที่	ที่	PRON	_	_	14	nsubj	_	SpaceAfter=No|Gloss=that(REL)|Translit=
+13	จะ	จะ	ADV	_	_	14	advmod	_	SpaceAfter=No|Gloss=|Translit=
+14	พิจารณา	พิจารณา	VERB	_	_	7	acl:relcl	_	SpaceAfter=No|Gloss=consider|Translit=
+15	ตาม	ตาม	ADP	_	_	16	case	_	SpaceAfter=No|Gloss=following|Translit=
+16	กลไก	กลไก	NOUN	_	_	14	obl	_	SpaceAfter=No|Gloss=|Translit=
+17	สภา	สภา	NOUN	_	_	16	nmod	_	SpaceAfter=No|Gloss=|Translit=
+18	ฯ	_	PUNCT	_	_	17	punct	_	Gloss=|Translit=
+19	อย่าง	อย่าง	NOUN	_	_	14	obl	_	SpaceAfter=No|Gloss=|Translit=
+20	รอบคอบ	รอบคอบ	VERB	_	_	19	acl	_	Gloss=|Translit=
+21	เพื่อ	เพื่อ	ADP	_	_	23	mark	_	SpaceAfter=No|Gloss=for|Translit=
+22	เป็น	เป็น	AUX	_	_	23	cop	_	SpaceAfter=No|Gloss=be|Translit=
+23	ส่วน	ส่วน	NOUN	_	NounType=Clf	14	advcl	_	SpaceAfter=No|Gloss=part|Translit=
+24	หนึ่ง	หนึ่ง	NUM	_	_	23	nummod	_	SpaceAfter=No|Gloss=one|Translit=
+25	ใน	ใน	ADP	_	_	26	case	_	SpaceAfter=No|Gloss=in|Translit=
+26	การ	การ	NOUN	_	NounType=Nmlz	23	nmod	_	SpaceAfter=No|Gloss=|Translit=
+27	ปฏิรูป	ปฏิรูป	VERB	_	_	26	acl	_	SpaceAfter=No|Gloss=|Translit=
+28	วงการ	วงการ	NOUN	_	_	27	obj	_	SpaceAfter=No|Gloss=|Translit=
+29	ตำรวจ	ตำรวจ	NOUN	_	_	28	nmod	_	Gloss=policeman|Translit=
+
+# sent_id = Thai_Political_Policemen_News14_70
+# text = ซึ่งการประชุมกมธ.ช่วงเช้าที่ผ่านมามีมติว่าจะนำเรื่องร้องเรียนของพล.ต.ต.จรูญเกียรติ เข้าสู่การประชุมกมธ.ครั้งถัดไป และจะมีการพิจารณาเรื่องการแต่งตั้ง โยกย้าย สับเปลี่ยน หมุนเวียนตำแหน่งในภาพรวม 
+# text_en = 
+# tokenised_text = ซึ่ง การ ประชุม กมธ. ช่วง เช้า ที่ ผ่าน มา มี มติ ว่า จะ นำ เรื่อง ร้องเรียน ของ พล.ต.ต. จรูญเกียรติ เข้า สู่ การ ประชุม กมธ. ครั้ง ถัด ไป และ จะ มี การ พิจารณา เรื่อง การ แต่งตั้ง โยกย้าย สับเปลี่ยน หมุนเวียน ตำแหน่ง ใน ภาพ รวม
+# tokenised_translit =
+# tokenised_transcript =
+# phrase_type = sentence
+# sentence_position = body
+# genre = political_news_article
+# source = https://www.khaosod.co.th/politics/news_9913301
+# year = 2025
+1	ซึ่ง	ซึ่ง	PART	_	_	10	discourse	_	SpaceAfter=No|Gloss=|Translit=
+2	การ	การ	NOUN	_	NounType=Nmlz	10	nsubj	_	SpaceAfter=No|Gloss=|Translit=
+3	ประชุม	ประชุม	VERB	_	_	2	acl	_	SpaceAfter=No|Gloss=|Translit=
+4	กมธ.	กมธ.	PROPN	_	Abbr=Yes	2	nmod	_	SpaceAfter=No|Gloss=|Translit=
+5	ช่วง	ช่วง	NOUN	_	_	2	nmod	_	SpaceAfter=No|Gloss=|Translit=
+6	เช้า	เช้า	NOUN	_	_	5	nmod	_	SpaceAfter=No|Gloss=morning|Translit=
+7	ที่	ที่	PRON	_	_	8	nsubj	_	SpaceAfter=No|Gloss=that(REL)|Translit=
+8	ผ่าน	ผ่าน	VERB	_	_	2	acl:relcl	_	SpaceAfter=No|Gloss=pass|Translit=
+9	มา	มา	VERB	_	_	8	compound:svc	_	SpaceAfter=No|Gloss=come|Translit=
+10	มี	มี	VERB	_	_	0	root	_	SpaceAfter=No|Gloss=have|Translit=
+11	มติ	มติ	NOUN	_	_	10	obl:arg	_	SpaceAfter=No|Gloss=|Translit=
+12	ว่า	ว่า	SCONJ	_	_	14	mark	_	SpaceAfter=No|Gloss=that(COMP)|Translit=
+13	จะ	จะ	ADV	_	_	14	advmod	_	SpaceAfter=No|Gloss=|Translit=
+14	นำ	นำ	VERB	_	_	10	ccomp	_	SpaceAfter=No|Gloss=bring|Translit=
+15	เรื่อง	เรื่อง	NOUN	_	_	14	obj	_	SpaceAfter=No|Gloss=|Translit=
+16	ร้องเรียน	ร้องเรียน	VERB	_	_	15	acl	_	SpaceAfter=No|Gloss=|Translit=
+17	ของ	ของ	ADP	_	_	18	case	_	SpaceAfter=No|Gloss=of|Translit=
+18	พล.ต.ต.	พล.ต.ต.	NOUN	_	Abbr=Yes	15	nmod	_	SpaceAfter=No|Gloss=|Translit=
+19	จรูญเกียรติ	จรูญเกียรติ	PROPN	_	_	18	nmod	_	Gloss=|Translit=
+20	เข้า	เข้า	VERB	_	_	14	compound:svc	_	SpaceAfter=No|Gloss=|Translit=
+21	สู่	สู่	ADP	_	_	22	case	_	SpaceAfter=No|Gloss=to|Translit=
+22	การ	การ	NOUN	_	NounType=Nmlz	20	obl	_	SpaceAfter=No|Gloss=|Translit=
+23	ประชุม	ประชุม	VERB	_	_	22	acl	_	SpaceAfter=No|Gloss=|Translit=
+24	กมธ.	กมธ.	PROPN	_	Abbr=Yes	22	nmod	_	SpaceAfter=No|Gloss=|Translit=
+25	ครั้ง	ครั้ง	NOUN	_	NounType=Clf	22	clf	_	SpaceAfter=No|Gloss=|Translit=
+26	ถัด	ถัด	VERB	_	_	25	acl	_	SpaceAfter=No|Gloss=|Translit=
+27	ไป	ไป	VERB	_	_	26	compound:svc	_	Gloss=go|Translit=
+28	และ	และ	CCONJ	_	_	30	cc	_	SpaceAfter=No|Gloss=and|Translit=
+29	จะ	จะ	ADV	_	_	30	advmod	_	SpaceAfter=No|Gloss=|Translit=
+30	มี	มี	VERB	_	_	14	conj	_	SpaceAfter=No|Gloss=have|Translit=
+31	การ	การ	NOUN	_	NounType=Nmlz	30	nsubj	_	SpaceAfter=No|Gloss=|Translit=
+32	พิจารณา	พิจารณา	VERB	_	_	31	acl	_	SpaceAfter=No|Gloss=consider|Translit=
+33	เรื่อง	เรื่อง	NOUN	_	_	32	obj	_	SpaceAfter=No|Gloss=|Translit=
+34	การ	การ	NOUN	_	NounType=Nmlz	33	nmod	_	SpaceAfter=No|Gloss=|Translit=
+35	แต่งตั้ง	แต่งตั้ง	VERB	_	_	34	acl	_	Gloss=|Translit=
+36	โยกย้าย	โยกย้าย	VERB	_	_	35	conj	_	Gloss=|Translit=
+37	สับเปลี่ยน	สับเปลี่ยน	VERB	_	_	35	conj	_	Gloss=|Translit=
+38	หมุนเวียน	หมุนเวียน	VERB	_	_	35	conj	_	SpaceAfter=No|Gloss=|Translit=
+39	ตำแหน่ง	ตำแหน่ง	NOUN	_	_	35	obj	_	SpaceAfter=No|Gloss=position|Translit=
+40	ใน	ใน	ADP	_	_	41	case	_	SpaceAfter=No|Gloss=in|Translit=
+41	ภาพ	ภาพ	NOUN	_	_	31	nmod	_	SpaceAfter=No|Gloss=picture|Translit=
+42	รวม	รวม	VERB	_	_	41	acl	_	Gloss=|Translit=
+
+# sent_id = Thai_Political_Policemen_News14_71
+# text = นอกจากนี้ ที่ประชุมมีมติให้กมธ.ออกหนังสือเชิญ ผบ.ตร. จเรตำรวจแห่งชาติ ผู้บัญชาการสำนักการกำลังพล เข้าชี้แจงในวันที่ 4 ก.ย.
+# text_en = 
+# tokenised_text = นอก จาก นี้ ที่ ประชุม มี มติ ให้ กมธ. ออก หนังสือ เชิญ ผบ.ตร. จเร ตำรวจ แห่ง ชาติ ผู้ บัญชาการ สำนักการ กำลัง พล เข้า ชี้แจง ใน วัน ที่ 4 ก.ย.
+# tokenised_translit =
+# tokenised_transcript =
+# phrase_type = sentence
+# sentence_position = body
+# genre = political_news_article
+# source = https://www.khaosod.co.th/politics/news_9913301
+# year = 2025
+1	นอกจาก	นอกจาก	ADP	_	_	2	case	_	SpaceAfter=No|Gloss=|Translit=
+2	นี้	นี้	PRON	_	_	5	obl	_	Gloss=this|Translit=
+3	ที่	ที่	NOUN	_	_	5	nsubj	_	SpaceAfter=No|Gloss=place|Translit=
+4	ประชุม	ประชุม	VERB	_	_	3	acl	_	SpaceAfter=No|Gloss=|Translit=
+5	มี	มี	VERB	_	_	0	root	_	SpaceAfter=No|Gloss=have|Translit=
+6	มติ	มติ	NOUN	_	_	5	obl:arg	_	SpaceAfter=No|Gloss=|Translit=
+7	ให้	ให้	VERB	_	_	5	advcl	_	SpaceAfter=No|Gloss=give|Translit=
+8	กมธ.	กมธ.	PROPN	_	Abbr=Yes	7	obj	_	SpaceAfter=No|Gloss=|Translit=
+9	ออก	ออก	VERB	_	_	7	compound:svc	_	SpaceAfter=No|Gloss=issue|Translit=
+10	หนังสือ	หนังสือ	NOUN	_	_	9	obj	_	SpaceAfter=No|Gloss=book|Translit=
+11	เชิญ	เชิญ	VERB	_	_	9	advcl	_	Gloss=invite|Translit=
+12	ผบ.ตร.	ผบ.ตร.	NOUN	_	Abbr=Yes	11	obj	_	Gloss=|Translit=
+13	จเร	จเร	NOUN	_	_	12	conj	_	SpaceAfter=No|Gloss=|Translit=
+14	ตำรวจ	ตำรวจ	NOUN	_	_	13	nmod	_	SpaceAfter=No|Gloss=policeman|Translit=
+15	แห่ง	แห่ง	ADP	_	_	16	case	_	SpaceAfter=No|Gloss=of|Translit=
+16	ชาติ	ชาติ	NOUN	_	_	14	nmod	_	Gloss=nation|Translit=
+17	ผู้	ผู้	NOUN	_	_	12	conj	_	SpaceAfter=No|Gloss=person|Translit=
+18	บัญชาการ	บัญชาการ	VERB	_	_	17	acl	_	SpaceAfter=No|Gloss=|Translit=
+19	สำนักการ	สำนักงาน	NOUN	_	_	17	nmod	_	SpaceAfter=No|Gloss=|Translit=
+20	กำลัง	กำลัง	NOUN	_	_	19	nmod	_	SpaceAfter=No|Gloss=|Translit=
+21	พล	พล	NOUN	_	_	20	nmod	_	Gloss=|Translit=
+22	เข้า	เข้า	VERB	_	_	11	compound:svc	_	SpaceAfter=No|Gloss=|Translit=
+23	ชี้แจง	ชี้แจง	VERB	_	_	22	compound:svc	_	SpaceAfter=No|Gloss=|Translit=
+24	ใน	ใน	ADP	_	_	25	case	_	SpaceAfter=No|Gloss=in|Translit=
+25	วัน	วัน	NOUN	_	_	23	obl	_	SpaceAfter=No|Gloss=day|Translit=
+26	ที่	ที่	NOUN	_	_	25	nmod	_	Gloss=|Translit=
+27	4	4	NUM	_	_	26	nmod	_	Gloss=4|Translit=
+28	ก.ย.	ก.ย.	NOUN	_	Abbr=Yes	25	nmod	_	Gloss=September|Translit=
+
+# sent_id = Thai_Political_Policemen_News14_72
+# text = เชื่อว่าจะทำให้เรื่องนี้กระจ่างชัดขึ้น และเป็นไปตามเจตนารมณ์ของพ.ร.บ.ตำรวจ
+# text_en = 
+# tokenised_text = เชื่อ ว่า จะ ทำให้ เรื่อง นี้ กระจ่าง ชัด ขึ้น และ เป็นไป ตาม เจตนารมณ์ ของ พ.ร.บ. ตำรวจ
+# tokenised_translit =
+# tokenised_transcript =
+# phrase_type = sentence
+# sentence_position = body
+# genre = political_news_article
+# source = https://www.khaosod.co.th/politics/news_9913301
+# year = 2025
+1	เชื่อ	เชื่อ	VERB	_	_	0	root	_	SpaceAfter=No|Gloss=believe|Translit=
+2	ว่า	ว่า	SCONJ	_	_	4	mark	_	SpaceAfter=No|Gloss=that(COMP)|Translit=
+3	จะ	จะ	ADV	_	_	4	advmod	_	SpaceAfter=No|Gloss=|Translit=
+4	ทำให้	ทำให้	VERB	_	_	1	ccomp	_	SpaceAfter=No|Gloss=|Translit=
+5	เรื่อง	เรื่อง	NOUN	_	_	4	obj	_	SpaceAfter=No|Gloss=|Translit=
+6	นี้	นี้	ADJ	_	_	5	amod	_	SpaceAfter=No|Gloss=this|Translit=
+7	กระจ่าง	กระจ่าง	VERB	_	_	4	xcomp	_	SpaceAfter=No|Gloss=|Translit=
+8	ชัด	ชัด	VERB	_	_	7	flat	_	SpaceAfter=No|Gloss=|Translit=
+9	ขึ้น	ขึ้น	ADV	_	_	7	advmod	_	Gloss=|Translit=
+10	และ	และ	CCONJ	_	_	11	cc	_	SpaceAfter=No|Gloss=and|Translit=
+11	เป็นไป	เป็นไป	VERB	_	_	7	conj	_	SpaceAfter=No|Gloss=|Translit=
+12	ตาม	ตาม	ADP	_	_	13	case	_	SpaceAfter=No|Gloss=following|Translit=
+13	เจตนารมณ์	เจตนารมณ์	NOUN	_	_	11	obl	_	SpaceAfter=No|Gloss=|Translit=
+14	ของ	ของ	ADP	_	_	15	case	_	SpaceAfter=No|Gloss=of|Translit=
+15	พ.ร.บ.	พ.ร.บ.	NOUN	_	Abbr=Yes	13	nmod	_	SpaceAfter=No|Gloss=|Translit=
+16	ตำรวจ	ตำรวจ	NOUN	_	_	15	nmod	_	Gloss=policeman|Translit=
 
 # newdoc
 # sent_id = Thai_Political_People_Party_News15_1
