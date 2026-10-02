@@ -277,7 +277,7 @@
 37	สมัคร	สมัคร	VERB	_	_	36	acl	_	CorrectSpaceAfter=No|Gloss=apply|Translit=sà-màk
 38	ส.ส.	ส.ส.	NOUN	_	Abbr=Yes	37	obl:arg	_	SpaceAfter=No|CorrectSpaceAfter=Yes|Gloss=Member of the House of Representatives|Translit=sɔ̌ː-sɔ̌ː
 39	เขต	เขต	NOUN	_	_	38	nmod	_	SpaceAfter=No|Gloss=district|Translit=khèːt
-40	ดอนเมือง	ดอนเมือง	PROPN	_	_	39	nmod	_	SpaceAfter=No|Gloss=Don Mueang|Translit=dɔːn-mɯaŋ
+40	ดอนเมือง	ดอนเมือง	PROPN	_	_	39	nmod	_	Gloss=Don Mueang|Translit=dɔːn-mɯaŋ
 41	พรรค	พรรค	NOUN	_	_	38	nmod	_	SpaceAfter=No|Gloss=party|Translit=phák
 42	ไทย	ไทย	PROPN	_	_	43	nsubj	_	SpaceAfter=No|Gloss=Thai|Translit=thaj
 43	สร้าง	สร้าง	VERB	_	ExtPos=PROPN	41	nmod	_	SpaceAfter=No|Gloss=build|Translit=sâːŋ
@@ -1028,9 +1028,9 @@
 32	กระบวนการ	กระบวนการ	NOUN	_	_	30	obl	_	Gloss=process|Translit=kràʔ-buan-kaːn
 
 # sent_id = Thai_Election_ThaiBuildThaiParty_2023_News1_29
-# text = นอกจากนี้ยังเป็นคนที่มีจิตวิญญาณรับใช้พี่น้องชาวดอนเมืองมาอย่างยาวนาน 
+# text = นอกจากนี้ยังเป็นคนที่มีจิตวิญญาณรับใช้พี่น้องชาวดอนเมืองมาอย่างยาวนาน
 # text_en = (She) added that he had long been dedicated to serving the people of Don Mueang, with a strong spirit of public service.
-# tokenised_text = นอกจาก นี้ ยัง เป็น คน ที่ มี จิต วิญญาณ รับใช้ พี่ น้อง ชาว ดอนเมือง มา อย่าง ยาว นาน 
+# tokenised_text = นอกจาก นี้ ยัง เป็น คน ที่ มี จิต วิญญาณ รับใช้ พี่ น้อง ชาว ดอนเมือง มา อย่าง ยาว นาน
 # tokenised_translit =
 # tokenised_transcript = /nɔ̂ːk-càːk/ /níː/ /jaŋ/ /pen/ /khon/ /thîː/ /miː/ /cìt/ /win-jaːn/ /ráp-cháj/ /phîː/ /nɔ́ːŋ/ /chaːw/ /dɔːn/ /mɯaŋ/ /maː/ /jàːŋ/ /jaːw/ /naːn/
 # phrase_type = sentence
@@ -1058,9 +1058,9 @@
 18	นาน	นาน	VERB	_	_	17	flat	_	Gloss=long time|Translit=naːn
 
 # sent_id = Thai_Election_ThaiBuildThaiParty_2023_News1_30
-# text = เป็นคนที่ทุ่มเททำงานเรียกใช้ได้ทุกพื้นที่ทุกเวลา 
+# text = เป็นคนที่ทุ่มเททำงานเรียกใช้ได้ทุกพื้นที่ทุกเวลา
 # text_en = (She said that he) was hardworking, always available anywhere and anytime.
-# tokenised_text = เป็น คน ที่ ทุ่มเท ทำงาน เรียก ใช้ ได้ ทุก พื้นที่ ทุก เวลา 
+# tokenised_text = เป็น คน ที่ ทุ่มเท ทำงาน เรียก ใช้ ได้ ทุก พื้นที่ ทุก เวลา
 # tokenised_translit =
 # tokenised_transcript = /pen/ /khon/ /thîː/ /thûm-theː/ /tham-ŋaːn/ /rîak/ /cháj/ /dâj/ /thúk/ /phɯ́ː-thîː/ /thúk/ /weː-laː/
 # phrase_type = sentence
@@ -1082,9 +1082,9 @@
 12	เวลา	เวลา	NOUN	_	NounType=Clf	10	conj	_	Gloss=time|Translit=weː-laː
 
 # sent_id = Thai_Election_ThaiBuildThaiParty_2023_News1_31
-# text = เป็นคนทำงานจริงจังจริงใจ 
+# text = เป็นคนทำงานจริงจังจริงใจ
 # text_en = (She said that he) also worked with sincerity and commitment.
-# tokenised_text = เป็น คน ทำงาน จริงจัง จริงใจ 
+# tokenised_text = เป็น คน ทำงาน จริงจัง จริงใจ
 # tokenised_translit =
 # tokenised_transcript = /pen/ /khon/ /tham-ŋaːn/ /ciŋ-caŋ/ /ciŋ-caj/
 # phrase_type = sentence
@@ -1289,9 +1289,9 @@
 9	แน่	แน่	ADV	_	_	7	advmod	_	Gloss=certain|Translit=nɛ̂ː
 
 # sent_id = Thai_Election_ThaiBuildThaiParty_2023_News1_38
-# text = เพราะประเทศถูกปล้นค่าไฟฟ้า เพื่อไปสร้างความร่ำรวยให้นายทุน ทำให้คนไทยต้องจ่ายค่าไฟแพงกว่าความเป็นจริง 
+# text = เพราะประเทศถูกปล้นค่าไฟฟ้า เพื่อไปสร้างความร่ำรวยให้นายทุน ทำให้คนไทยต้องจ่ายค่าไฟแพงกว่าความเป็นจริง
 # text_en = This is because the country has been robbed through electricity pricing to enrich capitalists, forcing Thai people to pay more than the actual cost.
-# tokenised_text = เพราะ ประเทศ ถูก ปล้น ค่า ไฟฟ้า เพื่อ ไป สร้าง ความ ร่ำรวย ให้ นายทุน ทำให้ คน ไทย ต้อง จ่าย ค่า ไฟ แพง กว่า ความ เป็น จริง 
+# tokenised_text = เพราะ ประเทศ ถูก ปล้น ค่า ไฟฟ้า เพื่อ ไป สร้าง ความ ร่ำรวย ให้ นายทุน ทำให้ คน ไทย ต้อง จ่าย ค่า ไฟ แพง กว่า ความ เป็น จริง
 # tokenised_translit =
 # tokenised_transcript = /phrɔ́ʔ/ /pràʔ-thêːt/ /thùːk/ /plôn/ /khâː/ /faj-fáː/ /phɯ̂a/ /paj/ /sâːŋ/ /khwaːm/ /râm-ruaj/ /hâj/ /naːj-thun/ /tham-hâj/ /khon/ /thaj/ /tɔ̂ŋ/ /càːj/ /khâː/ /faj/ /phɛːŋ/ /kwàː/ /khwaːm/ /pen/ /ciŋ/
 # phrase_type = sentence
@@ -1369,9 +1369,9 @@
 31	ชั่วโมง	ชั่วโมง	NOUN	_	_	30	flat	_	Gloss=hour|Translit=chûa-moːŋ
 
 # sent_id = Thai_Election_ThaiBuildThaiParty_2023_News1_40
-# text = ทำให้ประเทศไทยมีการสำรองไฟฟ้าเกินความต้องการใช้จริงสูงถึง 20,000 กิโลวัตต์ชั่วโมง หรือเกือบ 60% โดยที่โรงไฟฟ้าขนาดใหญ่เหล่านี้ 
+# text = ทำให้ประเทศไทยมีการสำรองไฟฟ้าเกินความต้องการใช้จริงสูงถึง 20,000 กิโลวัตต์ชั่วโมง หรือเกือบ 60% โดยที่โรงไฟฟ้าขนาดใหญ่เหล่านี้
 # text_en = As a result, Thailand has an electricity reserve exceeding actual demand by as much as 20,000 kilowatt-hours, or nearly 60% at the large power plants.
-# tokenised_text = ทำให้ ประเทศ ไทย มี การ สำรอง ไฟฟ้า เกิน ความ ต้องการ ใช้ จริง สูง ถึง 20,000 กิโลวัตต์ ชั่วโมง หรือ เกือบ 60 % โดย ที่ โรง ไฟฟ้า ขนาด ใหญ่ เหล่า นี้ 
+# tokenised_text = ทำให้ ประเทศ ไทย มี การ สำรอง ไฟฟ้า เกิน ความ ต้องการ ใช้ จริง สูง ถึง 20,000 กิโลวัตต์ ชั่วโมง หรือ เกือบ 60 % โดย ที่ โรง ไฟฟ้า ขนาด ใหญ่ เหล่า นี้
 # tokenised_translit = /tham-hâj/ /pràʔ-thêːt/ /thaj/ /miː/ /kaːn/ /sǎm-rɔːŋ/ /faj-fáː/ /kɤːn/ /khwaːm/ /tɔ̂ŋ-kaːn/ /cháj/ /ciŋ/ /sǔːŋ/ /thɯ̌ŋ/ /sɔ̌ːŋ-mɯ̀ːn/ /kì-loː-wàt/ /chûa-moːŋ/ /rɯ̌ː/ /kɯ̀ap/ /hòk-sìp/ /pɤː-sen/ /doːj/ /thîː/ /roːŋ/ /faj-fáː/ /khà-nàːt/ /jàj/ /làw/ /níː/ 
 # tokenised_transcript =
 # phrase_type = sentence
