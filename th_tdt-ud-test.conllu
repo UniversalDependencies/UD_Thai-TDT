@@ -216,16 +216,16 @@
 # year = 2023
 1	อ้อน	อ้อน	VERB	_	_	0	root	_	SpaceAfter=No|Gloss=beg|Translit=ʔɔ̂ːn
 2	คน	คน	NOUN	_	_	1	obj	_	SpaceAfter=No|Gloss=person|Translit=khon
-3	ดอนเมือง	ดอนเมือง	PROPN	_	_	2	nmod	_	SpaceAfter=No|Gloss=Don Mueang|Translit=dɔːn-mɯaŋ
+3	ดอนเมือง	ดอนเมือง	PROPN	_	_	2	nmod	_	Gloss=Don Mueang|Translit=dɔːn-mɯaŋ
 4	เลือก	เลือก	VERB	_	_	1	xcomp	_	SpaceAfter=No|Gloss=choose|Translit=lɯ̂ak
-5	เก่ง	เก่ง	PROPN	_	_	4	obj	_	CorrectSpaceAfter=No|Gloss=Keng|Translit=kèŋ
+5	เก่ง	เก่ง	PROPN	_	_	4	obj	_	Gloss=Keng|Translit=kèŋ
 6	คน	คน	NOUN	_	_	5	nmod	_	SpaceAfter=No|Gloss=person|Translit=khon
 7	ที่	ที่	PRON	_	PronType=Rel	9	nsubj	_	SpaceAfter=No|Gloss=that(REL)|Translit=thîː
 8	ไม่	ไม่	ADV	_	_	9	advmod	_	SpaceAfter=No|Gloss=not|Translit=mâj
 9	เคย	เคย	VERB	_	_	6	acl:relcl	_	SpaceAfter=No|Gloss=ever|Translit=khɤːj
 10	ทิ้ง	ทิ้ง	VERB	_	_	9	xcomp	_	SpaceAfter=No|Gloss=leave|Translit=thíŋ
 11	ชาว	ชาว	NOUN	_	_	10	obj	_	SpaceAfter=No|Gloss=folk|Translit=chaːw
-12	ดอนเมือง	ดอนเมือง	PROPN	_	_	11	nmod	_	SpaceAfter=No|Gloss=Don Mueang|Translit=dɔːn-mɯaŋ
+12	ดอนเมือง	ดอนเมือง	PROPN	_	_	11	nmod	_	Gloss=Don Mueang|Translit=dɔːn-mɯaŋ
 
 # sent_id = Thai_Election_ThaiBuildThaiParty_2023_News1_10
 # text = 16.00น.ที่ ชุมชนปิ่นเจริญ 2 เขตดอนเมือง คุณหญิงสุดารัตน์ เกยุราพันธุ์ หัวหน้าพรรค น.ต.ศิธาทิวารี เลขาธิการพรรค นายสุพันธุ์ มงคลสุธี รองหัวหน้าพรรค น.อ.อนุดิษฐ์ นาครทรรพ ผอ.สำนักงานปราบโกง นายการุณ โหสกุล ว่าที่ผู้สมัคร ส.ส.เขตดอนเมือง พรรคไทยสร้างไทย ขึ้นเวทีปราศรัย “แก้ ทุกข์ มหานคร กทม.”พบปะพี่น้องประชาชนชาวดอนเมือง ที่ปิ่นเจริญ 2 ซึ่งมีพี่น้องชาวดอนเมืองแห่ฟังกว่า 3,000 คน
