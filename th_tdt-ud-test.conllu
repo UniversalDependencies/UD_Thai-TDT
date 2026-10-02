@@ -242,10 +242,10 @@
 2	น.	น.	NOUN	_	Abbr=Yes	1	nmod	_	SpaceAfter=No|CorrectSpaceAfter=Yes|Gloss=clock|Translit=naː-lí-kaː
 3	ที่	ที่	ADP	_	_	4	case	_	CorrectSpaceAfter=No|Gloss=at|Translit=thîː
 4	ชุมชน	ชุมชน	NOUN	_	_	45	obl	_	SpaceAfter=No|Gloss=community|Translit=chum-chon
-5	ปิ่นเจริญ	ปิ่นเจริญ	PROPN	_	_	4	nmod	_	SpaceAfter=No|Gloss=Pin Charoen|Translit=pìn-cà-rɤːn
+5	ปิ่นเจริญ	ปิ่นเจริญ	PROPN	_	_	4	nmod	_	Gloss=Pin Charoen|Translit=pìn-cà-rɤːn
 6	2	2	NUM	_	_	5	nmod	_	Gloss=2|Translit=sɔ̌ːŋ
 7	เขต	เขต	NOUN	_	_	4	nmod	_	SpaceAfter=No|Gloss=district|Translit=khèːt
-8	ดอนเมือง	ดอนเมือง	PROPN	_	_	7	nmod	_	SpaceAfter=No|Gloss=Don Mueang|Translit=dɔːn-mɯaŋ
+8	ดอนเมือง	ดอนเมือง	PROPN	_	_	7	nmod	_	Gloss=Don Mueang|Translit=dɔːn-mɯaŋ
 9	คุณหญิง	คุณหญิง	NOUN	_	_	45	nsubj	_	SpaceAfter=No|Gloss=Lady|Translit=khun-jǐŋ
 10	สุดารัตน์	สุดารัตน์	PROPN	_	_	9	nmod	_	Gloss=Sudarat|Translit=sù-daː-rát
 11	เกยุราพันธุ์	เกยุราพันธุ์	PROPN	_	_	10	flat	_	Gloss=Keyuraphan|Translit=keː-jú-raː-phan
@@ -313,9 +313,9 @@
 73	คน	คน	NOUN	_	NounType=Clf	72	clf	_	Gloss=person|Translit=khon
 
 # sent_id = Thai_Election_ThaiBuildThaiParty_2023_News1_11
-# text = คุณหญิงสุดารัตน์ กล่าวว่า ลงพื้นที่ดอนเมืองครั้งใดอบอุ่นหัวใจทุกครั้ง 
+# text = คุณหญิงสุดารัตน์ กล่าวว่า ลงพื้นที่ดอนเมืองครั้งใดอบอุ่นหัวใจทุกครั้ง
 # text_en = Lady Sudarat said that every time she visited Don Mueang, it warmed her heart.
-# tokenised_text = คุณหญิง สุดารัตน์ กล่าว ว่า ลง พื้นที่ ดอนเมือง ครั้ง ใด อบอุ่น หัวใจ ทุก ครั้ง 
+# tokenised_text = คุณหญิง สุดารัตน์ กล่าว ว่า ลง พื้นที่ ดอนเมือง ครั้ง ใด อบอุ่น หัวใจ ทุก ครั้ง
 # tokenised_translit =
 # tokenised_transcript = /khun-jǐŋ/ /sù-daː-rát/ /klàːw/ /wâː/ /loŋ/ /phɯ́ːn-thîː/ /dɔːn-mɯaŋ/ /khráŋ/ /daj/ /ʔòp-ʔùn/ /hǔa-caj/ /thúk/ /khráŋ/
 # phrase_type = sentence
@@ -465,7 +465,7 @@
 21	ปี	ปี	NOUN	_	NounType=Clf	15	obl	_	Gloss=year|Translit=piː
 
 # sent_id = Thai_Election_ThaiBuildThaiParty_2023_News1_16
-# text = หลายสัปดาห์ที่ผ่านมา ฝุ่นพิษเกินค่ามาตรฐาน กระทบสุขภาพของประชาชน 
+# text = หลายสัปดาห์ที่ผ่านมา ฝุ่นพิษเกินค่ามาตรฐาน กระทบสุขภาพของประชาชน
 # text_en = In recent weeks, pollution levels have exceeded standard limits, affecting people’s health.
 # tokenised_text = หลาย สัปดาห์ ที่ ผ่าน มา ฝุ่น พิษ เกิน ค่า มาตรฐาน กระทบ สุขภาพ ของ ประชาชน
 # tokenised_translit =
@@ -723,7 +723,7 @@
 14	ใหญ่	ใหญ่	VERB	_	_	13	acl	_	SpaceAfter=No|Gloss=big|Translit=jàj
 15	ที่	ที่	PRON	_	PronType=Rel	16	obj	_	SpaceAfter=No|Gloss=that(REL)|Translit=thîː
 16	ปล่อยปละ	ปล่อยปละ	VERB	_	_	5	acl:relcl	_	SpaceAfter=No|Gloss=neglect|Translit=plɔ̀j-plàʔ
-17	ละเลย	ละเลย	VERB	_	_	16	conj	_	SpaceAfter=No|Gloss=neglect|Translit=láʔ-lɤːj
+17	ละเลย	ละเลย	VERB	_	_	16	conj	_	Gloss=neglect|Translit=láʔ-lɤːj
 18	จน	จน	SCONJ	_	_	19	mark	_	SpaceAfter=No|Gloss=until|Translit=con
 19	ทำให้	ทำให้	VERB	_	_	16	advcl	_	SpaceAfter=No|Gloss=cause|Translit=tham-hâj
 20	เกิด	เกิด	VERB	_	_	19	xcomp	_	SpaceAfter=No|Gloss=happen|Translit=kɤ̀ːt
