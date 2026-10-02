@@ -288,7 +288,7 @@
 48	“	“	PUNCT	_	_	49	punct	_	SpaceAfter=No
 49	แก้	แก้	VERB	_	ExtPos=PROPN	46	nmod	_	Gloss=solve|Translit=kɛ̂ː
 50	ทุกข์	ทุกข์	NOUN	_	_	49	obj	_	Gloss=suffer|Translit=thúk
-51	มหานคร	มหานคร	PROPN	_	_	50	nmod	_	SpaceAfter=No|Gloss=Bangkok|Translit=má-hǎː-ná-khɔːn
+51	มหานคร	มหานคร	PROPN	_	_	50	nmod	_	Gloss=Bangkok|Translit=má-hǎː-ná-khɔːn
 52	กทม.	กทม.	PROPN	_	Abbr=Yes	49	appos	_	SpaceAfter=No|Gloss=Bangkok|Translit=kɔː-thɔː-mɔː
 53	”	”	PUNCT	_	_	49	punct	_	SpaceAfter=No|CorrectSpaceAfter=Yes
 54	พบปะ	พบปะ	VERB	_	_	45	advcl	_	SpaceAfter=No|Gloss=meet|Translit=phóp-pàʔ
