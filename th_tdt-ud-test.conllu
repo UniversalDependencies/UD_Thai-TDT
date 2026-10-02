@@ -296,7 +296,7 @@
 56	น้อง	น้อง	NOUN	_	_	55	flat	_	SpaceAfter=No|Gloss=younger sibling|Translit=nɔ́ːŋ
 57	ประชาชน	ประชาชน	NOUN	_	_	55	appos	_	SpaceAfter=No|Gloss=population|Translit=pràʔ-chaː-chon
 58	ชาว	ชาว	NOUN	_	_	57	nmod	_	SpaceAfter=No|Gloss=folk|Translit=chaːw
-59	ดอนเมือง	ดอนเมือง	PROPN	_	_	58	nmod	_	SpaceAfter=No|Gloss=Don Mueang|Translit=dɔːn-mɯaŋ
+59	ดอนเมือง	ดอนเมือง	PROPN	_	_	58	nmod	_	Gloss=Don Mueang|Translit=dɔːn-mɯaŋ
 60	ที่	ที่	ADP	_	_	61	case	_	SpaceAfter=No|Gloss=at|Translit=thîː
 61	ปิ่นเจริญ	ปิ่นเจริญ	PROPN	_	_	54	obl	_	SpaceAfter=No|Gloss=Pin Charoen|Translit=pìn-cà-rɤːn
 62	2	2	NUM	_	_	61	nmod	_	Gloss=2|Translit=sɔ̌ːŋ
@@ -911,7 +911,7 @@
 55	สูง	สูง	VERB	_	_	52	compound:svc	_	Gloss=high|Translit=sǔːŋ
 
 # sent_id = Thai_Election_ThaiBuildThaiParty_2023_News1_26
-# text = พรรคไทยสร้างไทย จึงเตรียมศึกษาเรื่องการสร้างเขื่อนกั้นอ่าวไทย โดยหยิบยกกรณีศึกษา Delta Works ในเนเธอร์แลนด์มาศึกษาอย่างจริงจัง 
+# text = พรรคไทยสร้างไทย จึงเตรียมศึกษาเรื่องการสร้างเขื่อนกั้นอ่าวไทย โดยหยิบยกกรณีศึกษา Delta Works ในเนเธอร์แลนด์มาศึกษาอย่างจริงจัง
 # text_en = The Thai Build Thai Party is therefore preparing to study the construction of a dam in the Gulf of Thailand, drawing seriously on the Delta Works in the Netherlands as a case study.
 # tokenised_text = พรรค ไทย สร้าง ไทย จึง เตรียม ศึกษา เรื่อง การ สร้าง เขื่อน กั้น อ่าว ไทย โดย หยิบยก กรณี ศึกษา Delta Works ใน เนเธอร์แลนด์ มา ศึกษา อย่าง จริงจัง
 # tokenised_translit =
@@ -1509,7 +1509,7 @@
 8	2566	2566	NUM	_	_	7	nmod	_	Gloss=2566|Translit=sɔ̌ːŋ-phan-hâː-rɔ́j-hòk-sìp-hòk
 
 # sent_id = Thai_Election_ForThaiParty_2023_News2_3
-# text = เมื่อเวลา 12.00 น. วันที่ 12 มีนาคม ที่อาคารวังเป็ดร่วมใจ อ.บางระกำ จ.พิษณุโลก น.ส.แพทองธาร ชินวัตร หัวหน้าครอบครัวเพื่อไทย ให้สัมภาษณ์ถึงความมั่นใจได้ส.ส.พิษณุโลก ยกจังหวัดว่า เรามั่นใจในเรื่องดังกล่าว 
+# text = เมื่อเวลา 12.00 น. วันที่ 12 มีนาคม ที่อาคารวังเป็ดร่วมใจ อ.บางระกำ จ.พิษณุโลก น.ส.แพทองธาร ชินวัตร หัวหน้าครอบครัวเพื่อไทย ให้สัมภาษณ์ถึงความมั่นใจได้ส.ส.พิษณุโลก ยกจังหวัดว่า เรามั่นใจในเรื่องดังกล่าว
 # text_en = At 12:00 p.m. on March 12, at Wang Ped Ruamjai Building in Bang Rakam District, Phitsanulok Province, Ms. Paetongtarn Shinawatra, head of the Pheu Thai family, gave an interview about her confidence in winning all MP seats in Phitsanulok. She said that we were confident about this.
 # tokenised_text = เมื่อ เวลา 12.00 น. วัน ที่ 12 มีนาคม ที่ อาคาร วังเป็ดร่วมใจ อ. บางระกำ จ. พิษณุโลก น.ส. แพทองธาร ชินวัตร หัวหน้า ครอบครัว เพื่อ ไทย ให้ สัมภาษณ์ ถึง ความ มั่นใจ ได้ ส.ส. พิษณุโลก ยก จังหวัด ว่า เรา มั่นใจ ใน เรื่อง ดัง กล่าว
 # tokenised_translit =
@@ -1529,11 +1529,11 @@
 8	มีนาคม	มีนาคม	NOUN	_	_	5	nmod	_	Gloss=March|Translit=miː-naː-khom
 9	ที่	ที่	ADP	_	_	10	case	_	SpaceAfter=No|Gloss=at|Translit=thîː
 10	อาคาร	อาคาร	NOUN	_	_	23	obl	_	SpaceAfter=No|Gloss=building|Translit=ʔaː-khaːn
-11	วังเป็ดร่วมใจ	วังเป็ดร่วมใจ	PROPN	_	_	10	nmod	_	SpaceAfter=No|Gloss=palace|Translit=waŋ-pèt-rûam-caj
+11	วังเป็ดร่วมใจ	วังเป็ดร่วมใจ	PROPN	_	_	10	nmod	_	Gloss=palace|Translit=waŋ-pèt-rûam-caj
 12	อ.	อ.	NOUN	_	Abbr=Yes	10	nmod	_	SpaceAfter=No|Gloss=district|Translit=ʔam-phɤː
-13	บางระกำ	บางระกำ	PROPN	_	_	12	nmod	_	SpaceAfter=No|Gloss=a settlement near a river|Translit=baːŋ-ráʔ-kam
+13	บางระกำ	บางระกำ	PROPN	_	_	12	nmod	_	Gloss=a settlement near a river|Translit=baːŋ-ráʔ-kam
 14	จ.	จ.	NOUN	_	Abbr=Yes	10	nmod	_	SpaceAfter=No|Gloss=province|Translit=caŋ-wàt
-15	พิษณุโลก	พิษณุโลก	PROPN	_	_	14	nmod	_	SpaceAfter=No|Gloss=Vishnu|Translit=phít-sà-nú-lôːk
+15	พิษณุโลก	พิษณุโลก	PROPN	_	_	14	nmod	_	Gloss=Vishnu|Translit=phít-sà-nú-lôːk
 16	น.ส.	น.ส.	NOUN	_	Abbr=Yes	23	nsubj	_	SpaceAfter=No|Gloss=Miss|Translit=naːŋ-sǎːw
 17	แพทองธาร	แพทองธาร	PROPN	_	_	16	nmod	_	Gloss=Paetongtarn|Translit=phɛː-thɔːŋ-thaːn
 18	ชินวัตร	ชินวัตร	PROPN	_	_	17	flat	_	Gloss=Shinawatra|Translit=chin-ná-wat
@@ -1576,7 +1576,7 @@
 4	มา	มา	VERB	_	_	2	compound:svc	_	SpaceAfter=No|Gloss=come|Translit=maː
 5	เสนอ	เสนอ	VERB	_	_	4	compound:svc	_	SpaceAfter=No|Gloss=offer|Translit=sà-nɤ̌ː
 6	ให้	ให้	ADP	_	_	7	case	_	SpaceAfter=No|Gloss=for|Translit=hâj
-7	ประชาชน	ประชาชน	NOUN	_	_	5	obl	_	Gloss=population|Translit=pràʔ-chaː-chon
+7	ประชาชน	ประชาชน	NOUN	_	_	5	obl	_	CorrectSpaceAfter=Yes|Gloss=population|Translit=pràʔ-chaː-chon
 8	และ	และ	CCONJ	_	_	14	cc	_	SpaceAfter=No|Gloss=and|Translit=lɛ́ʔ
 9	ว่าที่	ว่าที่	NOUN	_	_	14	nsubj	_	SpaceAfter=No|Gloss=prospective|Translit=wâː-thîː
 10	ผู้	ผู้	NOUN	_	_	9	nmod	_	SpaceAfter=No|Gloss=person|Translit=phûː
@@ -1608,7 +1608,7 @@
 8	มาก	มาก	VERB	_	_	7	acl	_	Gloss=very|Translit=mâːk
 
 # sent_id = Thai_Election_ForThaiParty_2023_News2_6
-# text = เมื่อถามถึงกรณี นายนิยม ช่างพินิจ อดีตส.ส.เพื่อไทยย้ายไปสังกัดพรรคภูมิใจไทย (ภท.) จะสามารถแลนด์สไลด์ได้หรือไม่ 
+# text = เมื่อถามถึงกรณี นายนิยม ช่างพินิจ อดีตส.ส.เพื่อไทยย้ายไปสังกัดพรรคภูมิใจไทย (ภท.) จะสามารถแลนด์สไลด์ได้หรือไม่
 # text_en = (The reporter) asked if a landslide victory would still be possible, as Mister Niyom Changphinit, a former Pheu Thai MP moved to join the Bhumjaithai Party.
 # tokenised_text = เมื่อ ถาม ถึง กรณี นาย นิยม ช่างพินิจ อดีต ส.ส. เพื่อ ไทย ย้าย ไป สังกัด พรรค ภูมิใจ ไทย ( ภท. ) จะ สามารถ แลนด์สไลด์ ได้ หรือ ไม่
 # tokenised_translit =
@@ -1646,7 +1646,7 @@
 26	ไม่	ไม่	ADV	_	_	22	conj	_	Gloss=not|Translit=mâj
 
 # sent_id = Thai_Election_ForThaiParty_2023_News2_7
-# text = น.ส.แพทองธาร กล่าวว่า ว่าที่ผู้สมัครที่จะลงเขตนี้ก็เป็นคนที่ประชาชนรู้จักดีอยู่แล้ว 
+# text = น.ส.แพทองธาร กล่าวว่า ว่าที่ผู้สมัครที่จะลงเขตนี้ก็เป็นคนที่ประชาชนรู้จักดีอยู่แล้ว
 # text_en = Ms. Paetongtarn said that the prospective candidates to run in this district were already well known among the people.
 # tokenised_text = น.ส. แพทองธาร กล่าว ว่า ว่าที่ ผู้ สมัคร ที่ จะ ลง เขต นี้ ก็ เป็น คน ที่ ประชาชน รู้จัก ดี อยู่ แล้ว
 # tokenised_translit =
@@ -1679,7 +1679,7 @@
 21	แล้ว	แล้ว	ADV	_	_	18	advmod	_	Gloss=already|Translit=lɛ́ːw
 
 # sent_id = Thai_Election_ForThaiParty_2023_News2_8
-# text = แน่นอนว่าเราต้องเพิ่มเติมเรื่องการแนะนำว่าเรามาแบบนี้ตั้งใจแบบนี้เพื่อให้ส.ส.ของเราเข้ามาทำงานในสภาฯเพื่อผลักดันนโยบาย เพื่อพี่น้องประชาชน 
+# text = แน่นอนว่าเราต้องเพิ่มเติมเรื่องการแนะนำว่าเรามาแบบนี้ตั้งใจแบบนี้เพื่อให้ส.ส.ของเราเข้ามาทำงานในสภาฯเพื่อผลักดันนโยบาย เพื่อพี่น้องประชาชน
 # text_en = (She said that) it was certain that we would need to further explain that we had come with clear intentions — how and why we were coming — so that our MPs could enter the Parliament to work and push forward the policies for the benefit of the people.
 # tokenised_text = แน่นอน ว่า เรา ต้อง เพิ่ม เติม เรื่อง การ แนะนำ ว่า เรา มา แบบ นี้ ตั้งใจ แบบ นี้ เพื่อ ให้ ส.ส. ของ เรา เข้า มา ทำงาน ใน สภา ฯ เพื่อ ผลักดัน นโยบาย เพื่อ พี่ น้อง ประชาชน
 # tokenised_translit =
