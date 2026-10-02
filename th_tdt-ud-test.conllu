@@ -72,7 +72,7 @@
 7	”	”	PUNCT	_	_	6	punct	_	_
 8	เวที	เวที	NOUN	_	_	6	obl:arg	_	SpaceAfter=No|Gloss=stage|Translit=weː-thiː
 9	ปราศรัย	ปราศรัย	VERB	_	_	8	acl	_	SpaceAfter=No|Gloss=address|Translit=praː-sǎj
-10	กว่า	กว่า	DET	_	_	11	det	_	Gloss=more-than|Translit=kwàː
+10	กว่า	กว่า	DET	_	PronType=Ind	11	det	_	Gloss=more-than|Translit=kwàː
 11	3,000	3,000	NUM	_	_	6	nsubj	_	Gloss=3,000|Translit=sǎːm-phan
 12	คน	คน	NOUN	_	NounType=Clf	11	clf	_	Gloss=person|Translit=khon
 
@@ -308,7 +308,7 @@
 68	ดอนเมือง	ดอนเมือง	PROPN	_	_	67	nmod	_	SpaceAfter=No|Gloss=Don Mueang|Translit=dɔːn-mɯaŋ
 69	แห่	แห่	VERB	_	_	65	acl	_	SpaceAfter=No|Gloss=flock|Translit=hɛ̀ː
 70	ฟัง	ฟัง	VERB	_	_	69	compound:svc	_	SpaceAfter=No|Gloss=listen|Translit=faŋ
-71	กว่า	กว่า	DET	_	_	72	det	_	Gloss=more than|Translit=kwàː
+71	กว่า	กว่า	DET	_	PronType=Ind	72	det	_	Gloss=more than|Translit=kwàː
 72	3,000	3,000	NUM	_	_	65	nummod	_	Gloss=3,000|Translit=sǎːm-phan
 73	คน	คน	NOUN	_	NounType=Clf	72	clf	_	Gloss=person|Translit=khon
 
@@ -405,7 +405,7 @@
 # year = 2023
 1	ได้	ได้	VERB	_	_	0	root	_	SpaceAfter=No|Gloss=get(express the past time)|Translit=dâj
 2	ผลักดัน	ผลักดัน	VERB	_	_	1	xcomp	_	SpaceAfter=No|Gloss=push|Translit=phlàk-dan
-3	หลาย	หลาย	DET	_	_	4	det	_	SpaceAfter=No|Gloss=several|Translit=lǎːj
+3	หลาย	หลาย	DET	_	PronType=Ind	4	det	_	SpaceAfter=No|Gloss=several|Translit=lǎːj
 4	นโยบาย	นโยบาย	NOUN	_	NounType=Clf	2	obj	_	SpaceAfter=No|Gloss=policy|Translit=ná-joː-baːj
 5	จน	จน	SCONJ	_	_	6	mark	_	SpaceAfter=No|Gloss=until|Translit=con
 6	สำเร็จ	สำเร็จ	VERB	_	_	2	advcl	_	SpaceAfter=No|Gloss=successful|Translit=sǎm-ret
@@ -416,7 +416,7 @@
 11	ยัง	ยัง	ADV	_	_	12	advmod	_	SpaceAfter=No|Gloss=still|Translit=jaŋ
 12	มี	มี	VERB	_	_	1	conj	_	SpaceAfter=No|Gloss=have|Translit=miː
 13	อีก	อีก	ADV	_	_	12	advmod	_	SpaceAfter=No|Gloss=again|Translit=ʔìːk
-14	หลากหลาย	หลากหลาย	DET	_	_	15	det	_	SpaceAfter=No|Gloss=different|Translit=làːk-lǎːj
+14	หลากหลาย	หลากหลาย	DET	_	PronType=Ind	15	det	_	SpaceAfter=No|Gloss=different|Translit=làːk-lǎːj
 15	ปัญหา	ปัญหา	NOUN	_	NounType=Clf	12	nsubj	_	SpaceAfter=No|Gloss=problem|Translit=pan-hǎː
 16	ที่	ที่	PRON	_	PronType=Rel	17	nsubj	_	SpaceAfter=No|Gloss=that(REL)|Translit=thîː
 17	เกิด	เกิด	VERB	_	_	15	acl:relcl	_	SpaceAfter=No|Gloss=happen|Translit=kɤ̀ːt
@@ -475,7 +475,7 @@
 # genre = political_news_article
 # source = https://www.matichonweekly.com/hot-news/article_656027 
 # year = 2023
-1	หลาย	หลาย	DET	_	_	2	det	_	SpaceAfter=No|Gloss=several|Translit=lǎːj
+1	หลาย	หลาย	DET	_	PronType=Ind	2	det	_	SpaceAfter=No|Gloss=several|Translit=lǎːj
 2	สัปดาห์	สัปดาห์	NOUN	_	NounType=Clf	8	obl	_	SpaceAfter=No|Gloss=week|Translit=sàp-daː
 3	ที่	ที่	PRON	_	PronType=Rel	4	nsubj	_	SpaceAfter=No|Gloss=that(REL)|Translit=thîː
 4	ผ่าน	ผ่าน	VERB	_	_	2	acl:relcl	_	SpaceAfter=No|Gloss=pass|Translit=phàːn
@@ -2981,7 +2981,7 @@
 10	ใน	ใน	ADP	_	_	11	case	_	SpaceAfter=No|Gloss=in|Translit=
 11	เรือนจำ	เรือนจำ	NOUN	_	_	9	obl	_	SpaceAfter=No|Gloss=|Translit=
 12	นี้	นี้	ADJ	_	_	11	amod	_	SpaceAfter=No|Gloss=this|Translit=
-13	ประมาณ	ประมาณ	DET	_	_	14	det	_	SpaceAfter=No|Gloss=|Translit=
+13	ประมาณ	ประมาณ	DET	_	PronType=Ind	14	det	_	SpaceAfter=No|Gloss=|Translit=
 14	80	80	NUM	_	_	7	nummod	_	SpaceAfter=No|Gloss=80|Translit=
 15	%	%	SYM	_	NounType=Clf	14	clf	_	SpaceAfter=No|Gloss=percent|Translit=
 16	เป็น	เป็น	AUX	_	_	17	cop	_	SpaceAfter=No|Gloss=BE|Translit=
@@ -3165,7 +3165,7 @@
 11	จะ	จะ	ADV	_	_	12	advmod	_	SpaceAfter=No|Gloss=|Translit=
 12	ค้า	ค้า	VERB	_	_	9	advcl	_	SpaceAfter=No|Gloss=|Translit=
 13	กัน	กัน	ADV	_	_	12	advmod	_	SpaceAfter=No|Gloss=|Translit=
-14	หลาย	หลาย	DET	_	_	15	det	_	SpaceAfter=No|Gloss=several|Translit=
+14	หลาย	หลาย	DET	_	PronType=Ind	15	det	_	SpaceAfter=No|Gloss=several|Translit=
 15	สิบ	สิบ	NUM	_	_	12	obj	_	SpaceAfter=No|Gloss=ten|Translit=
 16	เม็ด	เม็ด	NOUN	_	NounType=Clf	15	clf	_	Gloss=|Translit=
 17	100	100	NUM	_	_	15	conj	_	Gloss=100|Translit=
@@ -3830,7 +3830,7 @@
 8	ออก	ออก	VERB	_	_	7	acl	_	SpaceAfter=No|Gloss=|Translit=
 9	ผลิตภัณฑ์	ผลิตภัณฑ์	NOUN	_	_	8	obl:arg	_	SpaceAfter=No|Gloss=product|Translit=
 10	สลาก	สลาก	NOUN	_	_	9	nmod	_	SpaceAfter=No|Gloss=|Translit=
-11	หลาย	หลาย	DET	_	_	12	det	_	SpaceAfter=No|Gloss=several|Translit=
+11	หลาย	หลาย	DET	_	PronType=Ind	12	det	_	SpaceAfter=No|Gloss=several|Translit=
 12	ประเภท	ประเภท	NOUN	_	NounType=Clf	9	nmod	_	SpaceAfter=No|Gloss=type|Translit=
 13	ก็	ก็	ADV	_	_	14	advmod	_	SpaceAfter=No|Gloss=|Translit=
 14	สามารถ	สามารถ	VERB	_	_	6	advcl	_	SpaceAfter=No|Gloss=|Translit=
@@ -4292,7 +4292,7 @@
 5	นายก	นายก	NOUN	_	_	4	nmod	_	SpaceAfter=No|Gloss=|Translit=
 6	ฯ	_	SYM	_	_	5	nmod	_	SpaceAfter=No|Gloss=|Translit=
 7	ไว้	ไว้	ADV	_	_	3	advmod	_	SpaceAfter=No|Gloss=|Translit=
-8	สัก	สัก	DET	_	_	9	det	_	Gloss=|Translit=
+8	สัก	สัก	DET	_	PronType=Ind	9	det	_	Gloss=|Translit=
 9	6	6	NUM	_	_	3	obl	_	Gloss=6|Translit=
 10	เดือน	เดือน	NOUN	_	NounType=Clf	9	clf	_	Gloss=month|Translit=
 
@@ -5303,7 +5303,7 @@
 29	เป็น	เป็น	AUX	_	_	30	cop	_	SpaceAfter=No|Gloss=be|Translit=
 30	สิ่ง	สิ่ง	NOUN	_	_	3	acl:relcl	_	SpaceAfter=No|Gloss=thing|Translit=
 31	ที่	ที่	PRON	_	PronType=Rel	34	obj	_	SpaceAfter=No|Gloss=that(REL)|Translit=
-32	หลาย	หลาย	DET	_	_	33	det	_	SpaceAfter=No|Gloss=several|Translit=
+32	หลาย	หลาย	DET	_	PronType=Ind	33	det	_	SpaceAfter=No|Gloss=several|Translit=
 33	ประเทศ	ประเทศ	NOUN	_	NounType=Clf	34	nsubj	_	SpaceAfter=No|Gloss=country|Translit=
 34	ยอมรับ	ยอมรับ	VERB	_	_	30	acl:relcl	_	SpaceAfter=No|Gloss=|Translit=
 35	ไม่	ไม่	ADV	_	_	36	advmod	_	SpaceAfter=No|Gloss=not|Translit=
@@ -6045,7 +6045,7 @@
 17	ลิดรอน	ลิดรอน	VERB	_	_	16	compound:svc	_	SpaceAfter=No|Gloss=|Translit=
 18	สิทธิ์	สิทธิ์	NOUN	_	_	17	obj	_	SpaceAfter=No|Gloss=right|Translit=
 19	อีก	อีก	DET	_	_	21	det	_	SpaceAfter=No|Gloss=|Translit=
-20	หลาย	หลาย	DET	_	_	21	det	_	SpaceAfter=No|Gloss=several|Translit=
+20	หลาย	หลาย	DET	_	PronType=Ind	21	det	_	SpaceAfter=No|Gloss=several|Translit=
 21	คน	คน	NOUN	_	NounType=Clf	10	clf	_	SpaceAfter=No|Gloss=person|Translit=
 22	ที่	ที่	PRON	_	PronType=Rel	24	nsubj	_	SpaceAfter=No|Gloss=that(REL)|Translit=
 23	ไม่	ไม่	ADV	_	_	24	advmod	_	SpaceAfter=No|Gloss=not|Translit=
@@ -6616,7 +6616,7 @@
 2	เพื่อน	เพื่อน	NOUN	_	_	1	nsubj	_	SpaceAfter=No|Gloss=friend|Translit=
 3	พี่	พี่	NOUN	_	_	2	conj	_	SpaceAfter=No|Gloss=|Translit=
 4	น้อง	น้อง	NOUN	_	_	3	flat	_	SpaceAfter=No|Gloss=|Translit=
-5	หลาย	หลาย	DET	_	_	6	det	_	SpaceAfter=No|Gloss=several|Translit=
+5	หลาย	หลาย	DET	_	PronType=Ind	6	det	_	SpaceAfter=No|Gloss=several|Translit=
 6	คน	คน	NOUN	_	NounType=Clf	2	clf	_	SpaceAfter=No|Gloss=person|Translit=
 7	ที่	ที่	PRON	_	PronType=Rel	8	nsubj	_	SpaceAfter=No|Gloss=that(REL)|Translit=
 8	มี	มี	VERB	_	_	2	acl:relcl	_	SpaceAfter=No|Gloss=have|Translit=
@@ -6642,7 +6642,7 @@
 1	มี	มี	VERB	_	_	0	root	_	SpaceAfter=No|Gloss=have|Translit=
 2	น้อง	น้อง	NOUN	_	_	1	nsubj	_	SpaceAfter=No|Gloss=|Translit=
 3	ๆ	_	SYM	_	_	2	compound:redup	_	Gloss=|Translit=
-4	หลาย	หลาย	DET	_	_	5	det	_	SpaceAfter=No|Gloss=several|Translit=
+4	หลาย	หลาย	DET	_	PronType=Ind	5	det	_	SpaceAfter=No|Gloss=several|Translit=
 5	คน	คน	NOUN	_	NounType=Clf	2	clf	_	SpaceAfter=No|Gloss=person|Translit=
 6	เป็น	เป็น	AUX	_	_	7	cop	_	SpaceAfter=No|Gloss=be|Translit=
 7	ดาวรุ่ง	ดาวรุ่ง	NOUN	_	_	2	acl	_	SpaceAfter=No|Gloss=|Translit=
@@ -6801,7 +6801,7 @@
 9	ๆ	_	SYM	_	_	8	compound:redup	_	Gloss=|Translit=
 10	น้อง	น้อง	NOUN	_	_	8	flat	_	SpaceAfter=No|Gloss=|Translit=
 11	ๆ	_	SYM	_	_	10	compound:redup	_	Gloss=|Translit=
-12	หลาย	หลาย	DET	_	_	13	det	_	SpaceAfter=No|Gloss=several|Translit=
+12	หลาย	หลาย	DET	_	PronType=Ind	13	det	_	SpaceAfter=No|Gloss=several|Translit=
 13	คน	คน	NOUN	_	NounType=Clf	8	clf	_	Gloss=person|Translit=
 14	เพื่อ	เพื่อ	ADP	_	_	15	mark	_	SpaceAfter=No|Gloss=for|Translit=
 15	สะท้อน	สะท้อน	VERB	_	_	3	advcl	_	SpaceAfter=No|Gloss=|Translit=
@@ -7033,7 +7033,7 @@
 # source = https://www.khaosod.co.th/politics/news_9913301
 # year = 2025
 1	มี	มี	VERB	_	_	0	root	_	SpaceAfter=No|Gloss=have|Translit=
-2	หลาย	หลาย	DET	_	_	3	det	_	SpaceAfter=No|Gloss=several|Translit=
+2	หลาย	หลาย	DET	_	PronType=Ind	3	det	_	SpaceAfter=No|Gloss=several|Translit=
 3	คน	คน	NOUN	_	NounType=Clf	1	nsubj	_	SpaceAfter=No|Gloss=person|Translit=
 4	ที่	ที่	PRON	_	PronType=Rel	5	nsubj	_	SpaceAfter=No|Gloss=that(REL)|Translit=
 5	ร้องแรกแหกกระเชอ	ร้องแรกแหกกระเชอ	VERB	_	_	3	acl:relcl	_	Gloss=|Translit=
@@ -7359,7 +7359,7 @@
 10	บัญชาการ	บัญชาการ	VERB	_	_	9	acl	_	SpaceAfter=No|Gloss=|Translit=
 11	ต่าง	ต่าง	VERB	_	_	9	acl	_	SpaceAfter=No|Gloss=different|Translit=
 12	ๆ	_	SYM	_	_	11	compound:redup	_	Gloss=|Translit=
-13	ประมาณ	ประมาณ	DET	_	_	14	det	_	SpaceAfter=No|Gloss=|Translit=
+13	ประมาณ	ประมาณ	DET	_	PronType=Ind	14	det	_	SpaceAfter=No|Gloss=|Translit=
 14	วัน	วัน	NOUN	_	_	4	obl	_	SpaceAfter=No|Gloss=day|Translit=
 15	ที่	ที่	NOUN	_	_	14	nmod	_	Gloss=|Translit=
 16	20	20	NUM	_	_	15	nmod	_	Gloss=20|Translit=
@@ -7751,7 +7751,7 @@
 15	เรา	เรา	PRON	_	Person=1|PronType=Prs	16	nsubj	_	SpaceAfter=No|Gloss=we|Translit=
 16	รู้	รู้	VERB	_	_	2	conj	_	SpaceAfter=No|Gloss=know|Translit=
 17	ว่า	ว่า	SCONJ	_	_	21	mark	_	SpaceAfter=No|Gloss=that(COMP)|Translit=
-18	หลาย	หลาย	DET	_	_	19	det	_	SpaceAfter=No|Gloss=several|Translit=
+18	หลาย	หลาย	DET	_	PronType=Ind	19	det	_	SpaceAfter=No|Gloss=several|Translit=
 19	คน	คน	NOUN	_	NounType=Clf	21	nsubj	_	SpaceAfter=No|Gloss=person|Translit=
 20	ก็	ก็	ADV	_	_	21	advmod	_	SpaceAfter=No|Gloss=|Translit=
 21	เห็น	เห็น	VERB	_	_	16	ccomp	_	SpaceAfter=No|Gloss=see|Translit=
@@ -8617,7 +8617,7 @@
 8	ยืนยัน	ยืนยัน	VERB	_	_	7	xcomp	_	SpaceAfter=No|Gloss=insist|Translit=
 9	ว่า	ว่า	SCONJ	_	_	31	mark	_	SpaceAfter=No|Gloss=that(COMP)|Translit=
 10	แม้	แม้	SCONJ	_	_	14	mark	_	SpaceAfter=No|Gloss=|Translit=
-11	หลาย	หลาย	DET	_	_	12	det	_	SpaceAfter=No|Gloss=several|Translit=
+11	หลาย	หลาย	DET	_	PronType=Ind	12	det	_	SpaceAfter=No|Gloss=several|Translit=
 12	ฝ่าย	ฝ่าย	NOUN	_	NounType=Clf	14	nsubj	_	SpaceAfter=No|Gloss=|Translit=
 13	ย่อม	ย่อม	ADV	_	_	14	advmod	_	SpaceAfter=No|Gloss=|Translit=
 14	มี	มี	VERB	_	_	31	advcl	_	SpaceAfter=No|Gloss=have|Translit=
