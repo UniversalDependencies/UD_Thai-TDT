@@ -298,7 +298,7 @@
 58	ชาว	ชาว	NOUN	_	_	57	nmod	_	SpaceAfter=No|Gloss=folk|Translit=chaːw
 59	ดอนเมือง	ดอนเมือง	PROPN	_	_	58	nmod	_	Gloss=Don Mueang|Translit=dɔːn-mɯaŋ
 60	ที่	ที่	ADP	_	_	61	case	_	SpaceAfter=No|Gloss=at|Translit=thîː
-61	ปิ่นเจริญ	ปิ่นเจริญ	PROPN	_	_	54	obl	_	SpaceAfter=No|Gloss=Pin Charoen|Translit=pìn-cà-rɤːn
+61	ปิ่นเจริญ	ปิ่นเจริญ	PROPN	_	_	54	obl	_	Gloss=Pin Charoen|Translit=pìn-cà-rɤːn
 62	2	2	NUM	_	_	61	nmod	_	Gloss=2|Translit=sɔ̌ːŋ
 63	ซึ่ง	ซึ่ง	PRON	_	PronType=Rel	64	nsubj	_	SpaceAfter=No|Gloss=where(REL)|Translit=sɯ̂ŋ
 64	มี	มี	VERB	_	_	61	acl:relcl	_	SpaceAfter=No|Gloss=have|Translit=miː
@@ -5709,7 +5709,7 @@
 
 # newdoc
 # sent_id = Thai_Political_Policemen_News14_1
-# text = บิ๊กเต่า บุกร้องกมธ.ตำรวจ ปมแต่งตั้งโยกย้าย 
+# text = บิ๊กเต่า บุกร้องกมธ.ตำรวจ ปมแต่งตั้งโยกย้าย
 # text_en = 
 # tokenised_text = บิ๊ก เต่า บุก ร้อง กมธ. ตำรวจ ปม แต่งตั้ง โยกย้าย
 # tokenised_translit =
@@ -5769,7 +5769,7 @@
 6	น.	น.	NOUN	_	Abbr=Yes	5	nmod	_	Gloss=o'clock|Translit=
 
 # sent_id = Thai_Political_Policemen_News14_4
-# text = บิ๊กเต่า บุกสภา ร้องกมธ.ตำรวจ ขอความเป็นธรรม ปมแต่งตั้งโยกย้าย 
+# text = บิ๊กเต่า บุกสภา ร้องกมธ.ตำรวจ ขอความเป็นธรรม ปมแต่งตั้งโยกย้าย
 # text_en = 
 # tokenised_text = บิ๊ก เต่า บุก สภา ร้อง กมธ. ตำรวจ ขอ ความ เป็นธรรม ปม แต่งตั้ง โยกย้าย
 # tokenised_translit =
@@ -5794,9 +5794,9 @@
 13	โยกย้าย	โยกย้าย	VERB	_	_	12	conj	_	Gloss=|Translit=
 
 # sent_id = Thai_Political_Policemen_News14_5
-# text = ลั่น ผมพลีชีพครั้งนี้ เพื่อพี่น้องตำรวจทั่วประเทศ 
+# text = ลั่น ผมพลีชีพครั้งนี้ เพื่อพี่น้องตำรวจทั่วประเทศ
 # text_en = 
-# tokenised_text = ลั่น ผม พลี ชีพ ครั้ง นี้ เพื่อ พี่ น้อง ตำรวจ ทั่ว ประเทศ 
+# tokenised_text = ลั่น ผม พลี ชีพ ครั้ง นี้ เพื่อ พี่ น้อง ตำรวจ ทั่ว ประเทศ
 # tokenised_translit =
 # tokenised_transcript =
 # phrase_type = sentence
@@ -6069,7 +6069,7 @@
 41	ทบทวน	ทบทวน	VERB	_	_	40	compound:svc	_	Gloss=review|Translit=
 
 # sent_id = Thai_Political_Policemen_News14_12
-# text = เรายอมรับว่าช่วงการปฏิวัติไม่มีพระราชบัญญัติ (พ.ร.บ.) ตำรวจ พ.ศ.2565 ทำให้เกิดความเหลื่อมล้ำในการพิจารณา 
+# text = เรายอมรับว่าช่วงการปฏิวัติไม่มีพระราชบัญญัติ (พ.ร.บ.) ตำรวจ พ.ศ.2565 ทำให้เกิดความเหลื่อมล้ำในการพิจารณา
 # text_en = 
 # tokenised_text = เรา ยอมรับ ว่า ช่วง การ ปฏิวัติ ไม่ มี พระราชบัญญัติ ( พ.ร.บ. ) ตำรวจ พ.ศ. 2565 ทำให้ เกิด ความ เหลื่อมล้ำ ใน การ พิจารณา
 # tokenised_translit =
@@ -6398,7 +6398,7 @@
 18	เสมอภาค	เสมอภาค	VERB	_	_	17	acl	_	Gloss=|Translit=
 
 # sent_id = Thai_Political_Policemen_News14_22
-# text = เจตนารมณ์ของกฎหมายคือต้องการเห็นตำรวจตั้งใจทำงานให้กับพี่น้องประชาชนให้ได้รับความยุติธรรม แข่งการทำความดีให้พี่น้องประชาชน 
+# text = เจตนารมณ์ของกฎหมายคือต้องการเห็นตำรวจตั้งใจทำงานให้กับพี่น้องประชาชนให้ได้รับความยุติธรรม แข่งการทำความดีให้พี่น้องประชาชน
 # text_en = 
 # tokenised_text = เจตนารมณ์ ของ กฎหมาย คือ ต้องการ เห็น ตำรวจ ตั้งใจ ทำงาน ให้ กับ พี่ น้อง ประชาชน ให้ ได้ รับ ความ ยุติธรรม แข่ง การ ทำ ความ ดี ให้ พี่ น้อง ประชาชน
 # tokenised_translit =
@@ -6438,7 +6438,7 @@
 28	ประชาชน	ประชาชน	NOUN	_	_	26	appos	_	Gloss=population|Translit=
 
 # sent_id = Thai_Political_Policemen_News14_23
-# text = ใครที่เทาๆ ดำๆ ก็ต้องมีการพิจารณาว่าไม่ควรหรือไม่อย่างไร 
+# text = ใครที่เทาๆ ดำๆ ก็ต้องมีการพิจารณาว่าไม่ควรหรือไม่อย่างไร
 # text_en = 
 # tokenised_text = ใคร ที่ เทา ๆ ดำ ๆ ก็ ต้อง มี การ พิจารณา ว่า ไม่ ควร หรือ ไม่ อย่าง ไร
 # tokenised_translit =
@@ -6629,7 +6629,7 @@
 15	แต่งตั้ง	แต่งตั้ง	VERB	_	_	14	acl	_	Gloss=|Translit=
 
 # sent_id = Thai_Political_Policemen_News14_28
-# text = มีน้องๆ หลายคนเป็นดาวรุ่งที่กำลังจะโต จะทำไปทำไมในเมื่อเขาไม่พิจารณาเรื่องความรู้ ความสามารถ 
+# text = มีน้องๆ หลายคนเป็นดาวรุ่งที่กำลังจะโต จะทำไปทำไมในเมื่อเขาไม่พิจารณาเรื่องความรู้ ความสามารถ
 # text_en = 
 # tokenised_text = มี น้อง ๆ หลาย คน เป็น ดาวรุ่ง ที่ กำลัง จะ โต จะ ทำ ไป ทำไม ใน เมื่อ เขา ไม่ พิจารณา เรื่อง ความรู้ ความ สามารถ
 # tokenised_translit =
@@ -6739,7 +6739,7 @@
 16	ล่าง	ล่าง	ADJ	_	_	15	amod	_	Gloss=|Translit=
 
 # sent_id = Thai_Political_Policemen_News14_32
-# text = ตนมาวันนี้อยากจะมาแก้ไของค์กรตัวเอง 
+# text = ตนมาวันนี้อยากจะมาแก้ไของค์กรตัวเอง
 # text_en = 
 # tokenised_text = ตน มา วัน นี้ อยาก จะ มา แก้ไข องค์กร ตัว เอง
 # tokenised_translit =
@@ -6959,9 +6959,9 @@
 39	ท่าน	ท่าน	NOUN	_	NounType=Clf|Polite=Form	37	clf	_	Gloss=person|Translit=
 
 # sent_id = Thai_Political_Policemen_News14_39
-# text = เราดูแล้วว่าผลที่ออกมาคือผลสัมฤทธิ์​ 
+# text = เราดูแล้วว่าผลที่ออกมาคือผลสัมฤทธิ์​
 # text_en = 
-# tokenised_text = เรา ดู แล้ว ว่า ผล ที่ ออก มา คือ ผล สัมฤทธิ์​ 
+# tokenised_text = เรา ดู แล้ว ว่า ผล ที่ ออก มา คือ ผล สัมฤทธิ์​
 # tokenised_translit =
 # tokenised_transcript =
 # phrase_type = sentence
@@ -7063,7 +7063,7 @@
 2	ตน	ตน	NOUN	_	Person=1|PronType=Prs	3	nsubj	_	SpaceAfter=No|Gloss=I|Translit=
 3	เหมือน	เหมือน	VERB	_	_	0	root	_	SpaceAfter=No|Gloss=resemble|Translit=
 4	หนัง	หนัง	NOUN	_	_	3	obl:arg	_	SpaceAfter=No|Gloss=|Translit=
-5	หน้าไฟ	หน้าไฟ	NOUN	_	_	4	nmod	_	SpaceAfter=No|Gloss=|Translit=
+5	หน้าไฟ	หน้าไฟ	NOUN	_	_	4	nmod	_	Gloss=|Translit=
 6	เพราะ	เพราะ	SCONJ	_	_	7	mark	_	SpaceAfter=No|Gloss=because|Translit=
 7	สู้	สู้	VERB	_	_	3	advcl	_	SpaceAfter=No|Gloss=fight|Translit=
 8	กับ	กับ	ADP	_	_	9	case	_	SpaceAfter=No|Gloss=with|Translit=
@@ -7255,9 +7255,9 @@
 22	ดุลยพินิจ	ดุลยพินิจ	NOUN	_	_	21	nmod	_	Gloss=|Translit=
 
 # sent_id = Thai_Political_Policemen_News14_47
-# text = เรื่องมีตั้งแต่การทำประชาพิจารณ์ 
+# text = เรื่องมีตั้งแต่การทำประชาพิจารณ์
 # text_en = 
-# tokenised_text = เรื่อง มี ตั้งแต่ การ ทำ ประชาพิจารณ์ 
+# tokenised_text = เรื่อง มี ตั้งแต่ การ ทำ ประชาพิจารณ์
 # tokenised_translit =
 # tokenised_transcript =
 # phrase_type = sentence
@@ -7693,7 +7693,7 @@
 23	กล่าว	กล่าว	VERB	_	_	0	root	_	Gloss=say|Translit=
 
 # sent_id = Thai_Political_Policemen_News14_63
-# text = พล.ต.ต.จรูญเกียรติ กล่าวอีกว่า ตนคาดหวังว่าที่ประชุม ก.ตร. จะเดินไปในแนวทางที่ถูกต้องชอบธรรม 
+# text = พล.ต.ต.จรูญเกียรติ กล่าวอีกว่า ตนคาดหวังว่าที่ประชุม ก.ตร. จะเดินไปในแนวทางที่ถูกต้องชอบธรรม
 # text_en = 
 # tokenised_text = พล.ต.ต. จรูญเกียรติ กล่าว อีก ว่า ตน คาดหวัง ว่า ที่ ประชุม ก.ตร. จะ เดิน ไป ใน แนวทาง ที่ ถูกต้อง ชอบธรรม
 # tokenised_translit =
@@ -7707,7 +7707,7 @@
 2	จรูญเกียรติ	จรูญเกียรติ	PROPN	_	_	1	nmod	_	Gloss=|Translit=
 3	กล่าว	กล่าว	VERB	_	_	0	root	_	SpaceAfter=No|Gloss=say|Translit=
 4	อีก	อีก	ADV	_	_	3	advmod	_	SpaceAfter=No|Gloss=|Translit=
-5	ว่า	ว่า	SCONJ	_	_	7	mark	_	SpaceAfter=No|Gloss=that(COMP)|Translit=
+5	ว่า	ว่า	SCONJ	_	_	7	mark	_	Gloss=that(COMP)|Translit=
 6	ตน	ตน	NOUN	_	Person=1|PronType=Prs	7	nsubj	_	SpaceAfter=No|Gloss=I|Translit=
 7	คาดหวัง	คาดหวัง	VERB	_	_	3	ccomp	_	SpaceAfter=No|Gloss=expect|Translit=
 8	ว่า	ว่า	SCONJ	_	_	13	mark	_	Gloss=that(COMP)|Translit=
@@ -7928,7 +7928,7 @@
 29	ตำรวจ	ตำรวจ	NOUN	_	_	28	nmod	_	Gloss=policeman|Translit=
 
 # sent_id = Thai_Political_Policemen_News14_70
-# text = ซึ่งการประชุมกมธ.ช่วงเช้าที่ผ่านมามีมติว่าจะนำเรื่องร้องเรียนของพล.ต.ต.จรูญเกียรติ เข้าสู่การประชุมกมธ.ครั้งถัดไป และจะมีการพิจารณาเรื่องการแต่งตั้ง โยกย้าย สับเปลี่ยน หมุนเวียนตำแหน่งในภาพรวม 
+# text = ซึ่งการประชุมกมธ.ช่วงเช้าที่ผ่านมามีมติว่าจะนำเรื่องร้องเรียนของพล.ต.ต.จรูญเกียรติ เข้าสู่การประชุมกมธ.ครั้งถัดไป และจะมีการพิจารณาเรื่องการแต่งตั้ง โยกย้าย สับเปลี่ยน หมุนเวียนตำแหน่งในภาพรวม
 # text_en = 
 # tokenised_text = ซึ่ง การ ประชุม กมธ. ช่วง เช้า ที่ ผ่าน มา มี มติ ว่า จะ นำ เรื่อง ร้องเรียน ของ พล.ต.ต. จรูญเกียรติ เข้า สู่ การ ประชุม กมธ. ครั้ง ถัด ไป และ จะ มี การ พิจารณา เรื่อง การ แต่งตั้ง โยกย้าย สับเปลี่ยน หมุนเวียน ตำแหน่ง ใน ภาพ รวม
 # tokenised_translit =
@@ -8051,7 +8051,7 @@
 
 # newdoc
 # sent_id = Thai_Political_People_Party_News15_1
-# text = ปชน. โยนอำนาจปธ.สภา บรรจุวาระโหวต ‘หนู’ 
+# text = ปชน. โยนอำนาจปธ.สภา บรรจุวาระโหวต ‘หนู’
 # text_en = 
 # tokenised_text = ปชน. โยน อำนาจ ปธ. สภา บรรจุ วาระ โหวต ‘ หนู ’
 # tokenised_translit =
@@ -8205,7 +8205,7 @@
 6	‘	‘	PUNCT	_	_	7	punct	_	SpaceAfter=No
 7	ภูมิธรรม	ภูมิธรรม	PROPN	_	_	5	obj	_	SpaceAfter=No|Gloss=|Translit=
 8	’	’	PUNCT	_	_	7	punct	_	_
-9	ม.	ม.	NOUN	_	Abbr=Yes	5	obl	_	Gloss=|Translit=
+9	ม.	ม.	NOUN	_	Abbr=Yes	5	obl	_	SpaceAfter=No|Gloss=|Translit=
 10	112	112	NUM	_	_	9	nmod	_	Gloss=112|Translit=
 
 # sent_id = Thai_Political_People_Party_News15_8
@@ -8301,7 +8301,7 @@
 80	ทั้ง	ทั้ง	ADP	_	_	81	case	_	SpaceAfter=No|Gloss=both|Translit=
 81	ด้าน	ด้าน	NOUN	_	_	76	nmod	_	SpaceAfter=No|Gloss=side|Translit=
 82	เศรษฐกิจ	เศรษฐกิจ	NOUN	_	_	81	nmod	_	Gloss=economy|Translit=
-83	สังคม	สังคม	NOUN	_	_	82	conj	_	SpaceAfter=No|Gloss=society|Translit=
+83	สังคม	สังคม	NOUN	_	_	82	conj	_	Gloss=society|Translit=
 84	และ	และ	CCONJ	_	_	85	cc	_	SpaceAfter=No|Gloss=and|Translit=
 85	ความ	ความ	NOUN	_	NounType=Nmlz	82	conj	_	SpaceAfter=No|Gloss=|Translit=
 86	มั่นคง	มั่นคง	VERB	_	_	85	acl	_	Gloss=|Translit=
@@ -8383,7 +8383,7 @@
 15	นายก	นายก	NOUN	_	_	14	obj	_	SpaceAfter=No|Gloss=|Translit=
 16	ฯ	_	PUNCT	_	_	15	nmod	_	SpaceAfter=No|Gloss=|Translit=
 17	คน	คน	NOUN	_	NounType=Clf	15	clf	_	SpaceAfter=No|Gloss=person|Translit=
-18	ใหม่	ใหม่	VERB	_	_	17	acl	_	SpaceAfter=No|Gloss=new|Translit=
+18	ใหม่	ใหม่	VERB	_	_	17	acl	_	Gloss=new|Translit=
 19	เพื่อ	เพื่อ	ADP	_	_	20	mark	_	SpaceAfter=No|Gloss=for|Translit=
 20	หา	หา	VERB	_	_	14	advcl	_	SpaceAfter=No|Gloss=find|Translit=
 21	นายก	นายก	NOUN	_	_	20	obj	_	SpaceAfter=No|Gloss=|Translit=
@@ -8442,7 +8442,7 @@
 30	แล้ว	แล้ว	ADV	_	_	29	advmod	_	Gloss=|Translit=
 
 # sent_id = Thai_Political_People_Party_News15_12
-# text = ทางพรรคประชาชนยินดีหากการยุบสภาสำเร็จและอำนาจกลับคืนสู่ประชาชนตามที่เราได้เรียกร้องมาโดยตลอด 
+# text = ทางพรรคประชาชนยินดีหากการยุบสภาสำเร็จและอำนาจกลับคืนสู่ประชาชนตามที่เราได้เรียกร้องมาโดยตลอด
 # text_en = 
 # tokenised_text = ทาง พรรค ประชาชน ยินดี หาก การ ยุบ สภา สำเร็จ และ อำนาจ กลับ คืน สู่ ประชาชน ตาม ที่ เรา ได้ เรียกร้อง มา โดย ตลอด
 # tokenised_translit =
@@ -8633,7 +8633,7 @@
 24	ใน	ใน	ADP	_	_	25	case	_	SpaceAfter=No|Gloss=in|Translit=
 25	การ	การ	NOUN	_	NounType=Nmlz	23	nmod	_	SpaceAfter=No|Gloss=|Translit=
 26	ยุบ	ยุบ	VERB	_	_	25	acl	_	SpaceAfter=No|Gloss=|Translit=
-27	สภา	สภา	NOUN	_	_	26	obj	_	SpaceAfter=No|Gloss=|Translit=
+27	สภา	สภา	NOUN	_	_	26	obj	_	Gloss=|Translit=
 28	แต่	แต่	ADV	_	_	31	advmod	_	SpaceAfter=No|Gloss=but|Translit=
 29	เรา	เรา	PRON	_	Person=1|PronType=Prs	31	nsubj	_	SpaceAfter=No|Gloss=we|Translit=
 30	ไม่	ไม่	ADV	_	_	31	advmod	_	SpaceAfter=No|Gloss=not|Translit=
