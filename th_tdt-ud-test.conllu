@@ -1131,7 +1131,7 @@
 20	การุณ	การุณ	PROPN	_	_	22	nsubj	_	SpaceAfter=No|Gloss=Karun|Translit=kaː-run
 21	ไม่	ไม่	ADV	_	_	22	advmod	_	SpaceAfter=No|Gloss=not|Translit=mâj
 22	ทิ้ง	ทิ้ง	VERB	_	_	18	advcl	_	SpaceAfter=No|Gloss=leave|Translit=thíŋ
-23	ใคร	ใคร	PRON	_	_	22	obj	_	SpaceAfter=No|Gloss=anyone|Translit=khraj
+23	ใคร	ใคร	PRON	_	PronType=Ind	22	obj	_	SpaceAfter=No|Gloss=anybody|Translit=khraj
 24	”	”	PUNCT	_	_	18	punct	_	_
 
 # sent_id = Thai_Election_ThaiBuildThaiParty_2023_News1_33
@@ -1482,7 +1482,7 @@
 9	ไม่	ไม่	ADV	_	_	10	advmod	_	SpaceAfter=No|Gloss=not|Translit=mâj
 10	จับ	จับ	VERB	_	_	4	ccomp	_	SpaceAfter=No|Gloss=catch|Translit=càp
 11	มือ	มือ	NOUN	_	_	10	obj	_	SpaceAfter=No|Gloss=hands|Translit=mɯː
-12	ใคร	ใคร	PRON	_	_	11	nmod	_	CorrectSpaceAfter=No|Gloss=anyone|Translit=khraj
+12	ใคร	ใคร	PRON	_	PronType=Ind	11	nmod	_	CorrectSpaceAfter=No|Gloss=anybody|Translit=khraj
 13	โดย	โดย	ADP	_	_	14	mark	_	SpaceAfter=No|Gloss=with|Translit=doːj
 14	เฉพาะ	เฉพาะ	VERB	_	_	10	advcl	_	SpaceAfter=No|Gloss=specify|Translit=chà-phɔ́ʔ
 15	ฝั่ง	ฝั่ง	NOUN	_	_	14	obl:arg	_	SpaceAfter=No|Gloss=side|Translit=fàŋ
@@ -1835,7 +1835,7 @@
 22	จับ	จับ	VERB	_	_	19	ccomp	_	SpaceAfter=No|Gloss=hold|Translit=càp
 23	มือ	มือ	NOUN	_	_	22	obj	_	SpaceAfter=No|Gloss=hands|Translit=mɯː
 24	กับ	กับ	ADP	_	_	25	case	_	SpaceAfter=No|Gloss=with|Translit=kàp
-25	ใคร	ใคร	PRON	_	_	22	obl	_	SpaceAfter=No|Gloss=anyone|Translit=khraj
+25	ใคร	ใคร	PRON	_	PronType=Ind	22	obl	_	SpaceAfter=No|Gloss=anybody|Translit=khraj
 26	โดย	โดย	ADP	_	_	27	mark	_	SpaceAfter=No|Gloss=with|Translit=doːj
 27	เฉพาะ	เฉพาะ	VERB	_	_	22	advcl	_	SpaceAfter=No|Gloss=specify|Translit=chà-phɔ́ʔ
 28	ฟาก	ฟาก	NOUN	_	_	27	obl:arg	_	SpaceAfter=No|Gloss=side|Translit=fâːk
@@ -2241,7 +2241,7 @@
 34	เรา	เรา	PRON	_	Person=1|PronType=Prs	36	nsubj	_	SpaceAfter=No|Gloss=we|Translit=raw
 35	จะ	จะ	ADV	_	_	36	advmod	_	SpaceAfter=No|Gloss=will(express the future time)|Translit=càʔ
 36	ทำ	ทำ	VERB	_	_	24	ccomp	_	SpaceAfter=No|Gloss=do|Translit=tham
-37	อะไร	อะไร	PRON	_	_	36	obj	_	SpaceAfter=No|Gloss=what|Translit=ʔàʔ-raj
+37	อะไร	อะไร	PRON	_	PronType=Ind	36	obj	_	SpaceAfter=No|Gloss=anything|Translit=ʔàʔ-raj
 38	ให้	ให้	ADP	_	_	39	case	_	SpaceAfter=No|Gloss=for|Translit=hâj
 39	เขา	เขา	PRON	_	Person=3|PronType=Prs	36	obl	_	SpaceAfter=No|Gloss=he|Translit=kháw
 40	ได้	ได้	VERB	_	_	36	advcl	_	SpaceAfter=No|Gloss=get(express potential or permission)|Translit=dâj
@@ -3076,7 +3076,7 @@
 15	ติด	ติด	VERB	_	_	14	advcl	_	SpaceAfter=No|Gloss=addict|Translit=
 16	ไม่	ไม่	ADV	_	_	17	advmod	_	SpaceAfter=No|Gloss=not|Translit=
 17	มี	มี	VERB	_	_	7	xcomp	_	SpaceAfter=No|Gloss=have|Translit=
-18	อะไร	อะไร	PRON	_	_	17	obl:arg	_	SpaceAfter=No|Gloss=anything|Translit=
+18	อะไร	อะไร	PRON	_	PronType=Ind	17	obl:arg	_	SpaceAfter=No|Gloss=anything|Translit=
 19	เลย	เลย	ADV	_	_	17	advmod	_	Gloss=completely|Translit=
 20	เพราะ	เพราะ	ADP	_	_	21	case	_	SpaceAfter=No|Gloss=because|Translit=
 21	ความ	ความ	NOUN	_	NounType=Nmlz	7	obl	_	SpaceAfter=No|Gloss=condition(nominalizer)|Translit=
@@ -3115,7 +3115,7 @@
 14	ออก	ออก	VERB	_	_	3	ccomp	_	SpaceAfter=No|Gloss=|Translit=
 15	มา	มา	ADV	_	_	14	advmod	_	SpaceAfter=No|Gloss=|Translit=
 16	ว่า	ว่า	SCONJ	_	_	18	mark	_	Gloss=that(COMP)|Translit=
-17	ใคร	ใคร	PRON	_	_	18	nsubj	_	SpaceAfter=No|Gloss=anyone|Translit=
+17	ใคร	ใคร	PRON	_	PronType=Ind	18	nsubj	_	SpaceAfter=No|Gloss=anybody|Translit=
 18	ครอบครอง	ครอบครอง	VERB	_	_	14	ccomp	_	SpaceAfter=No|Gloss=|Translit=
 19	ไว้	ไว้	ADV	_	_	18	advmod	_	SpaceAfter=No|Gloss=|Translit=
 20	ไม่	ไม่	ADV	_	_	21	advmod	_	SpaceAfter=No|Gloss=not|Translit=
@@ -6115,7 +6115,7 @@
 # year = 2025
 1	การ	การ	NOUN	_	NounType=Nmlz	7	nsubj	_	SpaceAfter=No|Gloss=|Translit=
 2	ทำ	ทำ	VERB	_	_	1	acl	_	SpaceAfter=No|Gloss=do|Translit=
-3	อะไร	อะไร	PRON	_	_	2	obj	_	SpaceAfter=No|Gloss=what|Translit=
+3	อะไร	อะไร	PRON	_	PronType=Ind	2	obj	_	SpaceAfter=No|Gloss=anything|Translit=
 4	ใน	ใน	ADP	_	_	5	case	_	SpaceAfter=No|Gloss=in|Translit=
 5	ขณะ	ขณะ	NOUN	_	_	1	nmod	_	SpaceAfter=No|Gloss=|Translit=
 6	นั้น	นั้น	ADJ	_	_	5	amod	_	SpaceAfter=No|Gloss=that|Translit=
@@ -6360,11 +6360,11 @@
 7	ด้วย	ด้วย	ADV	_	_	6	advmod	_	SpaceAfter=No|Gloss=|Translit=
 8	กัน	กัน	ADV	_	_	7	advmod	_	SpaceAfter=No|Gloss=|Translit=
 9	มา	มา	ADV	_	_	6	advmod	_	Gloss=|Translit=
-10	ใคร	ใคร	PRON	_	_	11	nsubj	_	SpaceAfter=No|Gloss=|Translit=
+10	ใคร	ใคร	PRON	_	PronType=Ind	11	nsubj	_	SpaceAfter=No|Gloss=|Translit=
 11	ขาว	ขาว	VERB	_	_	2	parataxis	_	Gloss=be white|Translit=
-12	ใคร	ใคร	PRON	_	_	13	nsubj	_	SpaceAfter=No|Gloss=|Translit=
+12	ใคร	ใคร	PRON	_	PronType=Ind	13	nsubj	_	SpaceAfter=No|Gloss=|Translit=
 13	เทา	เทา	VERB	_	_	11	conj	_	Gloss=be grey|Translit=
-14	ใคร	ใคร	PRON	_	_	15	nsubj	_	SpaceAfter=No|Gloss=|Translit=
+14	ใคร	ใคร	PRON	_	PronType=Ind	15	nsubj	_	SpaceAfter=No|Gloss=|Translit=
 15	ดำ	ดำ	VERB	_	_	11	conj	_	Gloss=be black|Translit=
 
 # sent_id = Thai_Political_Policemen_News14_21
@@ -6448,7 +6448,7 @@
 # genre = political_news_article
 # source = https://www.khaosod.co.th/politics/news_9913301
 # year = 2025
-1	ใคร	ใคร	PRON	_	_	8	nsubj	_	SpaceAfter=No|Gloss=|Translit=
+1	ใคร	ใคร	PRON	_	PronType=Ind	8	nsubj	_	SpaceAfter=No|Gloss=|Translit=
 2	ที่	ที่	PRON	_	_	3	nsubj	_	SpaceAfter=No|Gloss=that(REL)|Translit=
 3	เทา	เทา	VERB	_	_	1	acl:relcl	_	SpaceAfter=No|Gloss=be grey|Translit=
 4	ๆ	_	SYM	_	_	3	compound:redup	_	Gloss=|Translit=
@@ -7216,7 +7216,7 @@
 14	แล้ว	แล้ว	ADV	_	_	13	advmod	_	SpaceAfter=No|Gloss=|Translit=
 15	ว่า	ว่า	SCONJ	_	_	16	mark	_	SpaceAfter=No|Gloss=that(COMP)|Translit=
 16	เกิด	เกิด	VERB	_	_	13	ccomp	_	SpaceAfter=No|Gloss=|Translit=
-17	อะไร	อะไร	PRON	_	_	16	obl:arg	_	SpaceAfter=No|Gloss=|Translit=
+17	อะไร	อะไร	PRON	_	PronType=Ind	16	obl:arg	_	SpaceAfter=No|Gloss=|Translit=
 18	ขึ้น	ขึ้น	ADV	_	_	16	advmod	_	SpaceAfter=No|Gloss=|Translit=
 19	บ้าง	บ้าง	ADV	_	_	16	advmod	_	Gloss=|Translit=
 
@@ -7765,11 +7765,11 @@
 29	จะ	จะ	ADV	_	_	30	advmod	_	SpaceAfter=No|Gloss=|Translit=
 30	รู้	รู้	VERB	_	_	26	advcl	_	SpaceAfter=No|Gloss=know|Translit=
 31	ว่า	ว่า	SCONJ	_	_	33	mark	_	SpaceAfter=No|Gloss=that(COMP)|Translit=
-32	ใคร	ใคร	PRON	_	_	33	nsubj	_	SpaceAfter=No|Gloss=|Translit=
+32	ใคร	ใคร	PRON	_	PronType=Ind	33	nsubj	_	SpaceAfter=No|Gloss=|Translit=
 33	ขาว	ขาว	VERB	_	_	30	ccomp	_	Gloss=be white|Translit=
-34	ใคร	ใคร	PRON	_	_	35	nsubj	_	SpaceAfter=No|Gloss=|Translit=
+34	ใคร	ใคร	PRON	_	PronType=Ind	35	nsubj	_	SpaceAfter=No|Gloss=|Translit=
 35	เทา	เทา	VERB	_	_	33	conj	_	Gloss=be grey|Translit=
-36	ใคร	ใคร	PRON	_	_	37	nsubj	_	SpaceAfter=No|Gloss=|Translit=
+36	ใคร	ใคร	PRON	_	PronType=Ind	37	nsubj	_	SpaceAfter=No|Gloss=|Translit=
 37	ดำ	ดำ	VERB	_	_	33	conj	_	Gloss=be black|Translit=
 
 # sent_id = Thai_Political_Policemen_News14_65
@@ -8653,7 +8653,7 @@
 44	ปธม.	ปธม.	PROPN	_	Abbr=Yes	41	appos	_	SpaceAfter=No|Gloss=|Translit=
 45	)	)	PUNCT	_	_	44	punct	_	_
 46	หรือ	หรือ	CCONJ	_	_	47	cc	_	SpaceAfter=No|Gloss=or|Translit=
-47	ใคร	ใคร	PRON	_	_	36	conj	_	SpaceAfter=No|Gloss=|Translit=
+47	ใคร	ใคร	PRON	_	PronType=Ind	36	conj	_	SpaceAfter=No|Gloss=|Translit=
 48	ก็	ก็	ADP	_	_	49	mark	_	SpaceAfter=No|Gloss=|Translit=
 49	ตาม	ตาม	VERB	_	_	47	acl	_	Gloss=|Translit=
 50	ที่	ที่	PRON	_	_	52	nsubj	_	SpaceAfter=No|Gloss=that(REL)|Translit=
