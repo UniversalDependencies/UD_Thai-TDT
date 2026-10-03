@@ -4490,7 +4490,7 @@
 14	ได้	ได้	VERB	_	_	11	advcl	_	Gloss=|Translit=
 
 # sent_id = Thai_Political_UngIng_PM_News11_14
-# text = เชื่อว่าสถานการณ์คงไม่เลวร้ายถึงขั้นนั้น 
+# text = เชื่อว่าสถานการณ์คงไม่เลวร้ายถึงขั้นนั้น
 # text_en = 
 # tokenised_text = เชื่อ ว่า สถานการณ์ คง ไม่ เลว ร้าย ถึง ขั้น นั้น
 # tokenised_translit =
@@ -4567,8 +4567,8 @@
 19	ไม่	ไม่	ADV	_	_	21	advmod	_	SpaceAfter=No|Gloss=not|Translit=
 20	เป็น	เป็น	AUX	_	_	21	cop	_	SpaceAfter=No|Gloss=be|Translit=
 21	ความ	ความ	NOUN	_	NounType=Nmlz	0	root	_	SpaceAfter=No|Gloss=|Translit=
-22	จริง	จริง	VERB	_	_	21	acl	_	SpaceAfter=No|Gloss=be real|Translit=
-23	เป็น	เป็น	AUX	_	_	24	cop	_	Gloss=be|Translit=
+22	จริง	จริง	VERB	_	_	21	acl	_	Gloss=be real|Translit=
+23	เป็น	เป็น	AUX	_	_	24	cop	_	SpaceAfter=No|Gloss=be|Translit=
 24	ข่าว	ข่าว	NOUN	_	_	21	advcl	_	SpaceAfter=No|Gloss=news|Translit=
 25	ลือ	ลือ	VERB	_	_	24	acl	_	Gloss=|Translit=
 
@@ -4687,7 +4687,7 @@
 7	ผ่าน	ผ่าน	VERB	_	_	5	xcomp	_	Gloss=pass|Translit=
 
 # sent_id = Thai_Political_UngIng_PM_News11_21
-# text = พรรคร่วมรัฐบาลพร้อมรักษาองค์ประชุมอย่างเต็มที่ 
+# text = พรรคร่วมรัฐบาลพร้อมรักษาองค์ประชุมอย่างเต็มที่
 # text_en = 
 # tokenised_text = พรรค ร่วม รัฐบาล พร้อม รักษา องค์ประชุม อย่าง เต็มที่
 # tokenised_translit =
@@ -4796,7 +4796,7 @@
 6	กัมพูชา	กัมพูชา	PROPN	_	_	4	conj	_	Gloss=Cambodia|Translit=
 
 # sent_id = Thai_Political_Cambodia_Thai_News13_3
-# text = รมว.ต่างประเทศ ถึงสวีเดน เป็นสักขีพยานลงนามซื้อเครื่องบินรบ Grippen E/F 
+# text = รมว.ต่างประเทศ ถึงสวีเดน เป็นสักขีพยานลงนามซื้อเครื่องบินรบ Grippen E/F
 # text_en = 
 # tokenised_text = รมว. ต่าง ประเทศ ถึง สวีเดน เป็น สักขีพยาน ลงนาม ซื้อ เครื่องบิน รบ Grippen E / F
 # tokenised_translit =
@@ -5098,9 +5098,9 @@
 43	ประเทศ	ประเทศ	NOUN	_	_	42	obl:arg	_	Gloss=country|Translit=
 
 # sent_id = Thai_Political_Cambodia_Thai_News13_9
-# text = เราเป็นประเทศที่รักสันติ 
+# text = เราเป็นประเทศที่รักสันติ
 # text_en = 
-# tokenised_text = เรา เป็น ประเทศ ที่ รัก สันติ 
+# tokenised_text = เรา เป็น ประเทศ ที่ รัก สันติ
 # tokenised_translit =
 # tokenised_transcript =
 # phrase_type = sentence
@@ -5139,7 +5139,7 @@
 11	สหประชาชาติ	สหประชาชาติ	NOUN	_	_	10	nmod	_	Gloss=|Translit=
 
 # sent_id = Thai_Political_Cambodia_Thai_News13_11
-# text = ทั้งนี้ ตนมุ่งหน้าเดินสายเพื่อชี้แจงกับทุกประเทศว่า การใช้กำลังทางทหารของเราได้สัดส่วนกับความเป็นจริงและไม่มีเป้าหมายเพื่อทำลายล้าง 
+# text = ทั้งนี้ ตนมุ่งหน้าเดินสายเพื่อชี้แจงกับทุกประเทศว่า การใช้กำลังทางทหารของเราได้สัดส่วนกับความเป็นจริงและไม่มีเป้าหมายเพื่อทำลายล้าง
 # text_en = 
 # tokenised_text = ทั้ง นี้ ตน มุ่ง หน้า เดินสาย เพื่อ ชี้แจง กับ ทุก ประเทศ ว่า การ ใช้ กำลัง ทาง ทหาร ของ เรา ได้ สัดส่วน กับ ความ เป็น จริง และ ไม่ มี เป้าหมาย เพื่อ ทำลาย ล้าง
 # tokenised_translit =
@@ -5368,7 +5368,7 @@
 45	กัมพูชา	กัมพูชา	PROPN	_	_	43	conj	_	Gloss=Cambodia|Translit=
 
 # sent_id = Thai_Political_Cambodia_Thai_News13_16
-# text = ซึ่งกัมพูชาใช้ยุทธศาสตร์ของการใช้วัตถุระเบิดสังหารบุคคล ที่ขัดต่อกฎหมายระหว่างประเทศ และอนุสัญญาออตตาวา 
+# text = ซึ่งกัมพูชาใช้ยุทธศาสตร์ของการใช้วัตถุระเบิดสังหารบุคคล ที่ขัดต่อกฎหมายระหว่างประเทศ และอนุสัญญาออตตาวา
 # text_en = 
 # tokenised_text = ซึ่ง กัมพูชา ใช้ ยุทธศาสตร์ ของ การ ใช้ วัตถุ ระเบิด สังหาร บุคคล ที่ ขัด ต่อ กฎหมาย ระหว่าง ประเทศ และ อนุสัญญา ออตตาวา
 # tokenised_translit =
@@ -7071,11 +7071,11 @@
 10	ถูกต้อง	ถูกต้อง	VERB	_	_	9	acl	_	SpaceAfter=No|Gloss=be right|Translit=
 11	เป็นธรรม	เป็นธรรม	VERB	_	_	10	conj	_	SpaceAfter=No|Gloss=be legitimate|Translit=
 12	มา	มา	ADV	_	_	7	advmod	_	SpaceAfter=No|Gloss=|Translit=
-13	เยอะ	เยอะ	VERB	_	_	7	advcl	_	SpaceAfter=No|Gloss=very|Translit=
+13	เยอะ	เยอะ	VERB	_	_	7	advcl	_	Gloss=very|Translit=
 14	ชอบ	ชอบ	VERB	_	_	7	conj	_	SpaceAfter=No|Gloss=like|Translit=
 15	เรื่อง	เรื่อง	NOUN	_	_	14	obj	_	SpaceAfter=No|Gloss=|Translit=
 16	ความ	ความ	NOUN	_	NounType=Nmlz	15	nmod	_	SpaceAfter=No|Gloss=|Translit=
-17	เป็นธรรม	เป็นธรรม	VERB	_	_	16	acl	_	SpaceAfter=No|Gloss=be legitimate|Translit=
+17	เป็นธรรม	เป็นธรรม	VERB	_	_	16	acl	_	Gloss=be legitimate|Translit=
 
 # sent_id = Thai_Political_Policemen_News14_43
 # text = ดังนั้น การที่ออกมาจึงเป็นสิทธิ์ของประชาชนและข้าราชการที่จะมาขอความเป็นธรรม ไม่เกี่ยวกับผู้บังคับบัญชาที่จะมอบหมายหรือไม่อย่างไร
@@ -7710,7 +7710,7 @@
 5	ว่า	ว่า	SCONJ	_	_	7	mark	_	Gloss=that(COMP)|Translit=
 6	ตน	ตน	NOUN	_	Person=1|PronType=Prs	7	nsubj	_	SpaceAfter=No|Gloss=I|Translit=
 7	คาดหวัง	คาดหวัง	VERB	_	_	3	ccomp	_	SpaceAfter=No|Gloss=expect|Translit=
-8	ว่า	ว่า	SCONJ	_	_	13	mark	_	Gloss=that(COMP)|Translit=
+8	ว่า	ว่า	SCONJ	_	_	13	mark	_	SpaceAfter=No|Gloss=that(COMP)|Translit=
 9	ที่	ที่	NOUN	_	_	13	nsubj	_	SpaceAfter=No|Gloss=place|Translit=
 10	ประชุม	ประชุม	VERB	_	_	9	acl	_	Gloss=|Translit=
 11	ก.ตร.	ก.ตร.	PROPN	_	Abbr=Yes	9	nmod	_	Gloss=|Translit=
@@ -8392,8 +8392,8 @@
 24	ยุบ	ยุบ	VERB	_	_	23	compound:svc	_	SpaceAfter=No|Gloss=|Translit=
 25	สภา	สภา	NOUN	_	_	24	obj	_	SpaceAfter=No|Gloss=|Translit=
 26	ตาม	ตาม	ADP	_	_	27	case	_	SpaceAfter=No|Gloss=following|Translit=
-27	เงื่อนไข	เงื่อนไข	NOUN	_	_	24	obl	_	SpaceAfter=No|Gloss=condition|Translit=
-28	3	3	NUM	_	_	27	nummod	_	SpaceAfter=No|Gloss=3|Translit=
+27	เงื่อนไข	เงื่อนไข	NOUN	_	_	24	obl	_	Gloss=condition|Translit=
+28	3	3	NUM	_	_	27	nummod	_	Gloss=3|Translit=
 29	ข้อ	ข้อ	NOUN	_	NounType=Clf	28	clf	_	SpaceAfter=No|Gloss=|Translit=
 30	ของ	ของ	ADP	_	_	31	case	_	SpaceAfter=No|Gloss=of|Translit=
 31	พรรค	พรรค	NOUN	_	_	27	nmod	_	SpaceAfter=No|Gloss=party|Translit=
