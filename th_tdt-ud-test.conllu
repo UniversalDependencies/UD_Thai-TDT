@@ -3636,7 +3636,7 @@
 29	สลาก	สลาก	NOUN	_	_	27	obl	_	SpaceAfter=No|Gloss=|Translit=
 30	แบบ	แบบ	NOUN	_	_	29	nmod	_	Gloss=|Translit=
 31	N3	N3	PROPN	_	_	30	nmod	_	Gloss=N3|Translit=
-32	(	(	PUNCT	_	_	33	punct	_	SpaceAfter=No|
+32	(	(	PUNCT	_	_	33	punct	_	SpaceAfter=No
 33	3	3	NUM	_	_	29	appos	_	Gloss=3|Translit=
 34	หลัก	หลัก	NOUN	_	NounType=Clf	33	clf	_	SpaceAfter=No|Gloss=|Translit=
 35	)	)	PUNCT	_	_	33	punct	_	_
