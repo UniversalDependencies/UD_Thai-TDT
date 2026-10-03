@@ -531,7 +531,7 @@
 # source = https://www.matichonweekly.com/hot-news/article_656027 
 # year = 2023
 1	ดัง	ดัง	ADP	_	_	2	case	_	SpaceAfter=No|Gloss=as|Translit=daŋ
-2	นั้น	นั้น	PRON	_	_	8	obl	_	SpaceAfter=No|Gloss=that|Translit=nán
+2	นั้น	นั้น	PRON	_	PronType=Dem	8	obl	_	SpaceAfter=No|Gloss=that|Translit=nán
 3	พรรค	พรรค	NOUN	_	_	8	nsubj	_	SpaceAfter=No|Gloss=party|Translit=phák
 4	ไทย	ไทย	PROPN	_	_	5	nsubj	_	SpaceAfter=No|Gloss=Thai|Translit=thaj
 5	สร้าง	สร้าง	VERB	_	ExtPos=PROPN	3	nmod	_	SpaceAfter=No|Gloss=build|Translit=sâːŋ
@@ -616,7 +616,7 @@
 50	นอก	นอก	ADP	_	_	51	case	_	SpaceAfter=No|Gloss=out|Translit=nɔ̂ːk
 51	เมือง	เมือง	NOUN	_	_	49	obl	_	SpaceAfter=No|Gloss=city|Translit=mɯaŋ
 52	เท่า	เท่า	VERB	_	_	47	acl	_	SpaceAfter=No|Gloss=equal|Translit=nán
-53	นั้น	นั้น	PRON	_	_	52	obj	_	Gloss=equal|Translit=nán
+53	นั้น	นั้น	PRON	_	PronType=Dem	52	obj	_	Gloss=equal|Translit=nán
 
 # sent_id = Thai_Election_ThaiBuildThaiParty_2023_News1_20
 # text = พร้อมเข้มงวดการตรวจสภาพรถก่อนที่จะอนุญาตให้มีการต่อภาษีประจำปี
@@ -802,7 +802,7 @@
 # source = https://www.matichonweekly.com/hot-news/article_656027 
 # year = 2023
 1	นอกจาก	นอกจาก	ADP	_	_	2	case	_	SpaceAfter=No|Gloss=apart from|Translit=nɔ̂ːk-càːk
-2	นี้	นี้	PRON	_	_	4	obl	_	SpaceAfter=No|Gloss=this|Translit=níː
+2	นี้	นี้	PRON	_	PronType=Dem	4	obl	_	SpaceAfter=No|Gloss=this|Translit=níː
 3	จะ	จะ	ADV	_	_	4	advmod	_	SpaceAfter=No|Gloss=will(express the future time)|Translit=càʔ
 4	ต้อง	ต้อง	VERB	_	_	0	root	_	SpaceAfter=No|Gloss=must|Translit=tɔ̂ŋ
 5	ส่งเสริม	ส่งเสริม	VERB	_	_	4	xcomp	_	SpaceAfter=No|Gloss=encourage|Translit=sòŋ-sɤ̌ːm
@@ -1039,7 +1039,7 @@
 # source = https://www.matichonweekly.com/hot-news/article_656027 
 # year = 2023
 1	นอกจาก	นอกจาก	ADP	_	_	2	case	_	SpaceAfter=No|Gloss=apart from|Translit=nɔ̂ːk-càːk
-2	นี้	นี้	PRON	_	_	5	obl	_	SpaceAfter=No|Gloss=this|Translit=níː
+2	นี้	นี้	PRON	_	PronType=Dem	5	obl	_	SpaceAfter=No|Gloss=this|Translit=níː
 3	ยัง	ยัง	ADV	_	_	5	advmod	_	SpaceAfter=No|Gloss=still|Translit=jaŋ
 4	เป็น	เป็น	AUX	_	_	5	cop	_	SpaceAfter=No|Gloss=BE|Translit=pen
 5	คน	คน	NOUN	_	_	0	root	_	SpaceAfter=No|Gloss=person|Translit=khon
@@ -1812,7 +1812,7 @@
 # source = https://www.matichon.co.th/weekly/hot-news/article_656016 
 # year = 2023
 1	ทั้ง	ทั้ง	ADP	_	_	2	case	_	SpaceAfter=No|Gloss=all|Translit=tháŋ-níː
-2	นี้	นี้	PRON	_	_	19	obl	_	Gloss=this|Translit=níː
+2	นี้	นี้	PRON	_	PronType=Dem	19	obl	_	Gloss=this|Translit=níː
 3	หาก	หาก	ADP	_	_	6	mark	_	SpaceAfter=No|Gloss=if|Translit=hàːk
 4	พี่	พี่	NOUN	_	_	6	nsubj	_	SpaceAfter=No|Gloss=older sibling|Translit=phîː
 5	น้อง	น้อง	NOUN	_	_	4	flat	_	SpaceAfter=No|Gloss=younger sibling|Translit=nɔ́ːŋ
@@ -2110,7 +2110,7 @@
 # source = https://www.matichon.co.th/weekly/hot-news/article_656016 
 # year = 2023
 1	ทุก	ทุก	DET	_	_	2	det	_	SpaceAfter=No|Gloss=every|Translit=thúk
-2	ท่าน	ท่าน	PRON	_	Person=2|PronType=Prs	3	nsubj	_	SpaceAfter=No|Gloss=you|Translit=thâːn
+2	ท่าน	ท่าน	PRON	_	Person=2|PronType=Prs|Polite=Form	3	nsubj	_	SpaceAfter=No|Gloss=you|Translit=thâːn
 3	ให้	ให้	VERB	_	_	0	root	_	SpaceAfter=No|Gloss=give|Translit=hâj
 4	กำลังใจ	กำลังใจ	NOUN	_	_	3	obj	_	SpaceAfter=No|Gloss=morale|Translit=kam-laŋ-caj
 5	และ	และ	CCONJ	_	_	6	cc	_	SpaceAfter=No|Gloss=and|Translit=lɛ́ʔ
@@ -3685,7 +3685,7 @@
 # year = 2023
 1	โดย	โดย	SCONJ	_	_	5	mark	_	SpaceAfter=No|Gloss=|Translit=
 2	หลังจาก	หลังจาก	ADP	_	_	3	case	_	SpaceAfter=No|Gloss=after|Translit=
-3	นี้	นี้	PRON	_	_	5	obl	_	SpaceAfter=No|Gloss=this|Translit=
+3	นี้	นี้	PRON	_	PronType=Dem	5	obl	_	SpaceAfter=No|Gloss=this|Translit=
 4	จะ	จะ	ADV	_	_	5	advmod	_	SpaceAfter=No|Gloss=|Translit=
 5	ต้อง	ต้อง	VERB	_	_	0	root	_	SpaceAfter=No|Gloss=must|Translit=
 6	ไป	ไป	VERB	_	_	5	xcomp	_	SpaceAfter=No|Gloss=go|Translit=
@@ -4914,7 +4914,7 @@
 34	รัฐมนตรี	รัฐมนตรี	NOUN	_	_	30	appos	_	SpaceAfter=No|Gloss=|Translit=
 35	ว่าการ	ว่าการ	VERB	_	_	34	acl	_	SpaceAfter=No|Gloss=|Translit=
 36	กระทรวง	กระทรวง	NOUN	_	_	34	nmod	_	SpaceAfter=No|Gloss=Ministry|Translit=
-37	การ	การ	NOUN	_	ExtPos=PRON	36	nmod	_	SpaceAfter=No|Gloss=|Translit=
+37	การ	การ	NOUN	_	ExtPos=PROPN	36	nmod	_	SpaceAfter=No|Gloss=|Translit=
 38	ต่าง	ต่าง	VERB	_	_	37	acl	_	SpaceAfter=No|Gloss=different|Translit=
 39	ประเทศ	ประเทศ	NOUN	_	_	38	obl:arg	_	SpaceAfter=No|Gloss=country|Translit=
 40	สวีเดน	สวีเดน	PROPN	_	Foreign=Yes	36	nmod	_	Gloss=Sweden|Translit=
@@ -4981,7 +4981,7 @@
 # source = https://www.thairath.co.th/news/politic/2878514#goog_rewarded
 # year = 2025
 1	ดัง	ดัง	ADP	_	_	2	case	_	SpaceAfter=No|Gloss=|Translit=
-2	นั้น	นั้น	PRON	_	_	4	obl	_	Gloss=that|Translit=
+2	นั้น	นั้น	PRON	_	PronType=Dem	4	obl	_	Gloss=that|Translit=
 3	จะ	จะ	ADV	_	_	4	advmod	_	SpaceAfter=No|Gloss=|Translit=
 4	ใช้	ใช้	VERB	_	_	0	root	_	SpaceAfter=No|Gloss=use|Translit=
 5	โอกาส	โอกาส	NOUN	_	_	4	obj	_	SpaceAfter=No|Gloss=opportunity|Translit=
@@ -5150,7 +5150,7 @@
 # source = https://www.thairath.co.th/news/politic/2878514#goog_rewarded
 # year = 2025
 1	ทั้ง	ทั้ง	ADP	_	_	2	case	_	SpaceAfter=No|Gloss=|Translit=
-2	นี้	นี้	PRON	_	_	4	obl	_	Gloss=this|Translit=
+2	นี้	นี้	PRON	_	PronType=Dem	4	obl	_	Gloss=this|Translit=
 3	ตน	ตน	NOUN	_	ExtPos=PRON|Person=1|PronType=Prs	4	nsubj	_	SpaceAfter=No|Gloss=I|Translit=
 4	มุ่ง	มุ่ง	VERB	_	_	0	root	_	SpaceAfter=No|Gloss=|Translit=
 5	หน้า	หน้า	ADV	_	_	4	advmod	_	SpaceAfter=No|Gloss=|Translit=
@@ -5666,7 +5666,7 @@
 # source = https://www.thairath.co.th/news/politic/2878514#goog_rewarded
 # year = 2025
 1	ดัง	ดัง	ADP	_	_	2	case	_	SpaceAfter=No|Gloss=|Translit=
-2	นั้น	นั้น	PRON	_	_	9	obl	_	Gloss=that|Translit=
+2	นั้น	นั้น	PRON	_	PronType=Dem	9	obl	_	Gloss=that|Translit=
 3	สิ่ง	สิ่ง	NOUN	_	_	9	nsubj	_	SpaceAfter=No|Gloss=thing|Translit=
 4	ที่	ที่	PRON	_	PronType=Rel	6	obj	_	SpaceAfter=No|Gloss=that(REL)|Translit=
 5	ตน	ตน	NOUN	_	ExtPos=PRON|Person=1|PronType=Prs	6	nsubj	_	SpaceAfter=No|Gloss=I|Translit=
@@ -6722,7 +6722,7 @@
 # source = https://www.khaosod.co.th/politics/news_9913301
 # year = 2025
 1	ดัง	ดัง	ADP	_	_	2	case	_	SpaceAfter=No|Gloss=as|Translit=
-2	นั้น	นั้น	PRON	_	_	6	obl	_	Gloss=that|Translit=
+2	นั้น	นั้น	PRON	_	PronType=Dem	6	obl	_	Gloss=that|Translit=
 3	หลักการ	หลักการ	NOUN	_	_	6	nsubj	_	SpaceAfter=No|Gloss=|Translit=
 4	ความ	ความ	NOUN	_	NounType=Nmlz	3	nmod	_	SpaceAfter=No|Gloss=|Translit=
 5	เป็นธรรม	เป็นธรรม	VERB	_	_	4	acl	_	SpaceAfter=No|Gloss=|Translit=
@@ -7089,7 +7089,7 @@
 # source = https://www.khaosod.co.th/politics/news_9913301
 # year = 2025
 1	ดัง	ดัง	ADP	_	_	2	case	_	SpaceAfter=No|Gloss=as|Translit=
-2	นั้น	นั้น	PRON	_	_	9	obl	_	Gloss=that|Translit=
+2	นั้น	นั้น	PRON	_	PronType=Dem	9	obl	_	Gloss=that|Translit=
 3	การ	การ	NOUN	_	NounType=Nmlz	9	nsubj	_	SpaceAfter=No|Gloss=|Translit=
 4	ที่	ที่	PRON	_	PronType=Rel	5	nsubj	_	SpaceAfter=No|Gloss=that(REL)|Translit=
 5	ออก	ออก	VERB	_	_	3	acl:relcl	_	SpaceAfter=No|Gloss=|Translit=
@@ -7201,7 +7201,7 @@
 # source = https://www.khaosod.co.th/politics/news_9913301
 # year = 2025
 1	ดัง	ดัง	ADP	_	_	2	case	_	SpaceAfter=No|Gloss=as|Translit=
-2	นั้น	นั้น	PRON	_	_	13	obl	_	Gloss=that|Translit=
+2	นั้น	นั้น	PRON	_	PronType=Dem	13	obl	_	Gloss=that|Translit=
 3	ข้อ	ข้อ	NOUN	_	_	13	obj	_	SpaceAfter=No|Gloss=|Translit=
 4	เท็จ	เท็จ	VERB	_	_	3	acl	_	SpaceAfter=No|Gloss=|Translit=
 5	จริง	จริง	VERB	_	_	4	flat	_	SpaceAfter=No|Gloss=be real|Translit=
@@ -7348,7 +7348,7 @@
 # source = https://www.khaosod.co.th/politics/news_9913301
 # year = 2025
 1	จาก	จาก	ADP	_	_	2	case	_	SpaceAfter=No|Gloss=from|Translit=
-2	นั้น	นั้น	PRON	_	_	4	obl	_	SpaceAfter=No|Gloss=that|Translit=
+2	นั้น	นั้น	PRON	_	PronType=Dem	4	obl	_	SpaceAfter=No|Gloss=that|Translit=
 3	ผบ.ตร.	ผบ.ตร.	NOUN	_	Abbr=Yes	4	nsubj	_	Gloss=|Translit=
 4	ส่ง	ส่ง	VERB	_	_	0	root	_	SpaceAfter=No|Gloss=send|Translit=
 5	การ	การ	NOUN	_	NounType=Nmlz	4	obj	_	SpaceAfter=No|Gloss=|Translit=
@@ -7993,7 +7993,7 @@
 # source = https://www.khaosod.co.th/politics/news_9913301
 # year = 2025
 1	นอกจาก	นอกจาก	ADP	_	_	2	case	_	SpaceAfter=No|Gloss=|Translit=
-2	นี้	นี้	PRON	_	_	5	obl	_	Gloss=this|Translit=
+2	นี้	นี้	PRON	_	PronType=Dem	5	obl	_	Gloss=this|Translit=
 3	ที่	ที่	NOUN	_	_	5	nsubj	_	SpaceAfter=No|Gloss=place|Translit=
 4	ประชุม	ประชุม	VERB	_	_	3	acl	_	SpaceAfter=No|Gloss=|Translit=
 5	มี	มี	VERB	_	_	0	root	_	SpaceAfter=No|Gloss=have|Translit=
@@ -8527,7 +8527,7 @@
 # source = https://www.matichon.co.th/politics/news_5352797
 # year = 2025
 1	หลังจาก	หลังจาก	ADP	_	_	2	case	_	SpaceAfter=No|Gloss=after|Translit=
-2	นี้	นี้	PRON	_	_	18	obl	_	Gloss=this|Translit=
+2	นี้	นี้	PRON	_	PronType=Dem	18	obl	_	Gloss=this|Translit=
 3	กระบวนการ	กระบวนการ	NOUN	_	_	18	nsubj	_	SpaceAfter=No|Gloss=|Translit=
 4	พิจารณา	พิจารณา	VERB	_	_	3	acl	_	SpaceAfter=No|Gloss=consider|Translit=
 5	ให้	ให้	VERB	_	_	4	xcomp	_	SpaceAfter=No|Gloss=give|Translit=
