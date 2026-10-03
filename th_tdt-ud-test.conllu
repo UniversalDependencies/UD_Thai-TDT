@@ -1457,7 +1457,7 @@
 35	จริง	จริง	ADV	_	_	34	advmod	_	SpaceAfter=No|Gloss=real|Translit=ciŋ
 36	แม้แต่	แม้แต่	SCONJ	_	_	37	mark	_	SpaceAfter=No|Gloss=even|Translit=mɛ́ː-tɛ̀ː
 37	เมกกะวัตต์	เมกกะวัตต์	NOUN	_	Foreign=Yes	32	orphan	_	SpaceAfter=No|Gloss=megawatt|Translit=mék-kàʔ-wàt 
-38	เดียว	เดียว	ADJ	_	_	37	amod	_	SpaceAfter=No|Gloss=single|Translit=diaw
+38	เดียว	เดียว	ADJ	_	_	37	amod	_	Gloss=single|Translit=diaw
 
 # newdoc
 # sent_id = Thai_Election_ForThaiParty_2023_News2_1
@@ -8681,4 +8681,3 @@
 72	ดัง	ดัง	ADP	_	_	73	mark	_	SpaceAfter=No|Gloss=as|Translit=
 73	กล่าว	กล่าว	VERB	_	_	71	acl	_	Gloss=say|Translit=
 
-# newdoc
