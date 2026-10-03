@@ -5926,7 +5926,7 @@
 # year = 2025
 1	โดย	โดย	SCONJ	_	_	4	mark	_	SpaceAfter=No|Gloss=by|Translit=
 2	พล.ต.ต.	พล.ต.ต.	NOUN	_	Abbr=Yes	4	nsubj	_	SpaceAfter=No|Gloss=|Translit=
-3	จรูญเกียรติ	จรูญเกียรติ		PROPN	_	_	2	nmod	_	Gloss=|Translit=
+3	จรูญเกียรติ	จรูญเกียรติ	PROPN	_	_	2	nmod	_	Gloss=|Translit=
 4	กล่าว	กล่าว	VERB	_	_	0	root	_	SpaceAfter=No|Gloss=say|Translit=
 5	ว่า	ว่า	SCONJ	_	_	7	mark	_	Gloss=that(COMP)|Translit=
 6	ตน	ตน	NOUN	_	Person=1|PronType=Prs	7	nsubj	_	SpaceAfter=No|Gloss=I|Translit=
@@ -6359,7 +6359,7 @@
 6	ทำงาน	ทำงาน	VERB	_	_	2	advcl	_	SpaceAfter=No|Gloss=work|Translit=
 7	ด้วย	ด้วย	ADV	_	_	6	advmod	_	SpaceAfter=No|Gloss=|Translit=
 8	กัน	กัน	ADV	_	_	7	advmod	_	SpaceAfter=No|Gloss=|Translit=
-9	มา	มา	ADV	_	_	6	advmod	_	Gloss=|Translit= 
+9	มา	มา	ADV	_	_	6	advmod	_	Gloss=|Translit=
 10	ใคร	ใคร	PRON	_	_	11	nsubj	_	SpaceAfter=No|Gloss=|Translit=
 11	ขาว	ขาว	VERB	_	_	2	parataxis	_	Gloss=be white|Translit=
 12	ใคร	ใคร	PRON	_	_	13	nsubj	_	SpaceAfter=No|Gloss=|Translit=
@@ -6408,7 +6408,7 @@
 # genre = political_news_article
 # source = https://www.khaosod.co.th/politics/news_9913301
 # year = 2025
-1	เจตนารมณ์	เจตนารมณ์		NOUN	_	_	0	root	_	SpaceAfter=No|Gloss=|Translit=
+1	เจตนารมณ์	เจตนารมณ์	NOUN	_	_	0	root	_	SpaceAfter=No|Gloss=|Translit=
 2	ของ	ของ	ADP	_	_	3	case	_	SpaceAfter=No|Gloss=of|Translit=
 3	กฎหมาย	กฎหมาย	NOUN	_	_	1	nmod	_	SpaceAfter=No|Gloss=|Translit=
 4	คือ	คือ	CCONJ	_	_	5	cc	_	SpaceAfter=No|Gloss=namely|Translit=
@@ -6620,7 +6620,7 @@
 6	คน	คน	NOUN	_	NounType=Clf	2	clf	_	SpaceAfter=No|Gloss=person|Translit=
 7	ที่	ที่	PRON	_	PronType=Rel	8	nsubj	_	SpaceAfter=No|Gloss=that(REL)|Translit=
 8	มี	มี	VERB	_	_	2	acl:relcl	_	SpaceAfter=No|Gloss=have|Translit=
-9	ฝีไม้ลายมือฝีไม้ลายมือ	NOUN	_	_	8	obl:arg	_	SpaceAfter=No|Gloss=|Translit=
+9	ฝีไม้ลายมือ	ฝีไม้ลายมือ	NOUN	_	_	8	obl:arg	_	SpaceAfter=No|Gloss=|Translit=
 10	ยัง	ยัง	ADV	_	_	12	advmod	_	SpaceAfter=No|Gloss=still|Translit=
 11	ไม่	ไม่	ADV	_	_	12	advmod	_	SpaceAfter=No|Gloss=not|Translit=
 12	ได้	ได้	VERB	_	_	8	conj	_	SpaceAfter=No|Gloss=|Translit=
@@ -8071,7 +8071,7 @@
 8	โหวต	โหวต	VERB	_	Foreign=Yes	7	acl	_	Gloss=vote|Translit=
 9	‘	‘	PUNCT	_	_	10	punct	_	SpaceAfter=No
 10	หนู	หนู	PROPN	_	_	8	obj	_	SpaceAfter=No|Gloss=Noo|Translit=
-11	’	’	PUNCT	_	_	10	punct	_	
+11	’	’	PUNCT	_	_	10	punct	_	_	
 
 # sent_id = Thai_Political_People_Party_News15_2
 # text = ไม่เห็นด้วยพรรคเล็ก แจ้งจับ 112 ภูมิธรรม
