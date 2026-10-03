@@ -5362,7 +5362,7 @@
 39	อนุภาคี	อนุภาคี	NOUN	_	_	38	nmod	_	SpaceAfter=No|Gloss=|Translit=
 40	ให้	ให้	VERB	_	_	33	advcl	_	SpaceAfter=No|Gloss=give|Translit=
 41	เข้าใจ	เข้าใจ	VERB	_	_	40	compound:svc	_	SpaceAfter=No|Gloss=understand|Translit=
-42	สถานการณ์	สถานการณ์		NOUN	_	_	41	obj	_	SpaceAfter=No|Gloss=situation|Translit=
+42	สถานการณ์	สถานการณ์	NOUN	_	_	41	obj	_	SpaceAfter=No|Gloss=situation|Translit=
 43	ไทย	ไทย	PROPN	_	_	42	nmod	_	SpaceAfter=No|Gloss=Thailand|Translit=
 44	-	-	SYM	_	_	45	cc	_	SpaceAfter=No
 45	กัมพูชา	กัมพูชา	PROPN	_	_	43	conj	_	Gloss=Cambodia|Translit=
