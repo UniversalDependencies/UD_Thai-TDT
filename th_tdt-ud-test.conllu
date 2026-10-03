@@ -349,7 +349,7 @@
 # source = https://www.matichonweekly.com/hot-news/article_656027 
 # year = 2023
 1	มี	มี	VERB	_	_	0	root	_	SpaceAfter=No|Gloss=have|Translit=miː
-2	ความ	ความ	NOUN	_	NounType=Nmlz 	1	obl:arg	_	SpaceAfter=No|Gloss=condition(nominalizer)|Translit=khwaːm
+2	ความ	ความ	NOUN	_	NounType=Nmlz	1	obl:arg	_	SpaceAfter=No|Gloss=condition(nominalizer)|Translit=khwaːm
 3	ผูกพัน	ผูกพัน	VERB	_	_	2	acl	_	SpaceAfter=No|Gloss=bond|Translit=phuːk-phan
 4	กับ	กับ	ADP	_	_	5	case	_	SpaceAfter=No|Gloss=with|Translit=kap
 5	พี่	พี่	NOUN	_	_	1	obl	_	SpaceAfter=No|Gloss=older sibling|Translit=phîː
@@ -6214,7 +6214,7 @@
 # genre = political_news_article
 # source = https://www.khaosod.co.th/politics/news_9913301
 # year = 2025
-1	เจตนารมณ์เจตนารมณ์	NOUN	_	_	2	dislocated	_	SpaceAfter=No|Gloss=|Translit=
+1	เจตนารมณ์	เจตนารมณ์	NOUN	_	_	2	dislocated	_	SpaceAfter=No|Gloss=|Translit=
 2	ต้องการ	ต้องการ	VERB	_	_	0	root	_	SpaceAfter=No|Gloss=want|Translit=
 3	ให้	ให้	VERB	_	_	2	xcomp	_	SpaceAfter=No|Gloss=give|Translit=
 4	คน	คน	NOUN	_	_	3	obj	_	SpaceAfter=No|Gloss=person|Translit=
