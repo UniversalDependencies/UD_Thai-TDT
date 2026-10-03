@@ -2263,7 +2263,7 @@
 1	เลิก	เลิก	VERB	_	_	0	root	_	SpaceAfter=No|Gloss=|Translit=
 2	อด	อด	VERB	_	_	1	compound:svc	_	SpaceAfter=No|Gloss=|Translit=
 3	อาหาร	อาหาร	NOUN	_	_	2	obj	_	SpaceAfter=No|Gloss=food|Translit=
-4	แล้ว	แล้ว	ADV	_	_	1	advmod	_	SpaceAfter=No|Gloss=|Translit=
+4	แล้ว	แล้ว	ADV	_	_	1	advmod	_	Gloss=|Translit=
 
 # sent_id = Tawan_Bam_Thai_Political_2023_News4_2
 # text = "ตะวัน-แบม" ขอรักษาชีวิตเพื่อต่อสู้ทางการเมืองต่อ
@@ -2276,11 +2276,11 @@
 # genre = political_news_article
 # source = https://www.thairath.co.th/news/politic/2651053
 # year = 2023
-1	"	"	PUNCT	_	_	2	punct	_	SpaceAfter=No|Gloss=|Translit=
+1	"	"	PUNCT	_	_	2	punct	_	SpaceAfter=No
 2	ตะวัน	ตะวัน	PROPN	_	_	6	nsubj	_	SpaceAfter=No|Gloss=Tawan|Translit=
-3	-	-	SYM	_	_	4	cc	_	SpaceAfter=No|Gloss=|Translit=
+3	-	-	SYM	_	_	4	cc	_	SpaceAfter=No
 4	แบม	แบม	PROPN	_	_	2	conj	_	SpaceAfter=No|Gloss=Bam|Translit=
-5	"	"	PUNCT	_	_	2	punct	_	SpaceAfter=No|Gloss=|Translit=
+5	"	"	PUNCT	_	_	2	punct	_	_
 6	ขอ	ขอ	VERB	_	_	0	root	_	SpaceAfter=No|Gloss=ask|Translit=
 7	รักษา	รักษา	VERB	_	_	6	xcomp	_	SpaceAfter=No|Gloss=|Translit=
 8	ชีวิต	ชีวิต	NOUN	_	_	7	obj	_	SpaceAfter=No|Gloss=life|Translit=
@@ -2288,7 +2288,7 @@
 10	ต่อสู้	ต่อสู้	VERB	_	_	7	advcl	_	SpaceAfter=No|Gloss=fight|Translit=
 11	ทาง	ทาง	NOUN	_	_	10	obl	_	SpaceAfter=No|Gloss=|Translit=
 12	การเมือง	การเมือง	NOUN	_	_	11	nmod	_	SpaceAfter=No|Gloss=|Translit=
-13	ต่อ	ต่อ	VERB	_	_	10	compound:svc	_	SpaceAfter=No|Gloss=|Translit=
+13	ต่อ	ต่อ	VERB	_	_	10	compound:svc	_	Gloss=|Translit=
 
 # sent_id = Tawan_Bam_Thai_Political_2023_News4_3
 # text = "ตะวัน-แบม" ประกาศแจ้งเลิกอดอาหารแล้ว และจะรับการรักษาเพื่อนำเอาชีวิตไปต่อสู้ต่อไป เนื่องจากยังคงไม่ได้รับการตอบรับจากศาล
@@ -2301,17 +2301,17 @@
 # genre = political_news_article
 # source = https://www.thairath.co.th/news/politic/2651053
 # year = 2023
-1	"	"	PUNCT	_	_	2	punct	_	SpaceAfter=No|Gloss=|Translit=
+1	"	"	PUNCT	_	_	2	punct	_	SpaceAfter=No
 2	ตะวัน	ตะวัน	PROPN	_	_	6	nsubj	_	SpaceAfter=No|Gloss=Tawan|Translit=
-3	-	-	SYM	_	_	4	cc	_	SpaceAfter=No|Gloss=|Translit=
+3	-	-	SYM	_	_	4	cc	_	SpaceAfter=No
 4	แบม	แบม	PROPN	_	_	2	conj	_	SpaceAfter=No|Gloss=Bam|Translit=
-5	"	"	PUNCT	_	_	2	punct	_	SpaceAfter=No|Gloss=|Translit=
+5	"	"	PUNCT	_	_	2	punct	_	_
 6	ประกาศ	ประกาศ	VERB	_	_	0	root	_	SpaceAfter=No|Gloss=announce|Translit=
 7	แจ้ง	แจ้ง	VERB	_	_	6	ccomp	_	SpaceAfter=No|Gloss=inform|Translit=
 8	เลิก	เลิก	VERB	_	_	7	ccomp	_	SpaceAfter=No|Gloss=|Translit=
 9	อด	อด	VERB	_	_	8	compound:svc	_	SpaceAfter=No|Gloss=|Translit=
 10	อาหาร	อาหาร	NOUN	_	_	9	obj	_	SpaceAfter=No|Gloss=food|Translit=
-11	แล้ว	แล้ว	ADV	_	_	8	advmod	_	SpaceAfter=No|Gloss=|Translit=
+11	แล้ว	แล้ว	ADV	_	_	8	advmod	_	Gloss=|Translit=
 12	และ	และ	CCONJ	_	_	14	cc	_	SpaceAfter=No|Gloss=and|Translit=
 13	จะ	จะ	ADV	_	_	14	advmod	_	SpaceAfter=No|Gloss=|Translit=
 14	รับ	รับ	VERB	_	_	8	conj	_	SpaceAfter=No|Gloss=receive|Translit=
@@ -2324,7 +2324,7 @@
 21	ไป	ไป	VERB	_	_	19	compound:svc	_	SpaceAfter=No|Gloss=go|Translit=
 22	ต่อสู้	ต่อสู้	VERB	_	_	21	compound:svc	_	SpaceAfter=No|Gloss=fight|Translit=
 23	ต่อ	ต่อ	VERB	_	_	22	compound:svc	_	SpaceAfter=No|Gloss=|Translit=
-24	ไป	ไป	ADV	_	_	23	advmod	_	SpaceAfter=No|Gloss=|Translit=
+24	ไป	ไป	ADV	_	_	23	advmod	_	Gloss=|Translit=
 25	เนื่อง	เนื่อง	VERB	_	_	8	advcl	_	SpaceAfter=No|Gloss=|Translit=
 26	จาก	จาก	ADP	_	_	30	mark	_	SpaceAfter=No|Gloss=from|Translit=
 27	ยัง	ยัง	ADV	_	_	30	advmod	_	SpaceAfter=No|Gloss=still|Translit=
@@ -2335,7 +2335,7 @@
 32	การ	การ	NOUN	_	NounType=Nmlz	31	obj	_	SpaceAfter=No|Gloss=a thing to be done(nominalizer)|Translit=
 33	ตอบรับ	ตอบรับ	VERB	_	_	32	acl	_	SpaceAfter=No|Gloss=|Translit=
 34	จาก	จาก	ADP	_	_	35	case	_	SpaceAfter=No|Gloss=from|Translit=
-35	ศาล	ศาล	NOUN	_	_	32	nmod	_	SpaceAfter=No|Gloss=|Translit=
+35	ศาล	ศาล	NOUN	_	_	32	nmod	_	Gloss=|Translit=
 
 # sent_id = Tawan_Bam_Thai_Political_2023_News4_4
 # text = วันที่ 11 มีนาคม 2566 นางสาวทานตะวัน ตัวตุลานนท์ (ตะวัน) ชี้แจงผ่านเฟซบุ๊ก Tawan Tantawan ระบุว่า คำชี้แจงกรณีนางสาวทานตะวัน ตัวตุลานนท์ (ตะวัน) และนางสาวอรวรรณ ภู่พงษ์ (แบม) ประจำวันที่ 11 มีนาคม พ.ศ. 2566 หลังจากที่แบมและตะวัน กลับเข้ารักษาตัวที่โรงพยาบาลธรรมศาสตร์ ขณะนี้อาการของทั้งคู่ยังอยู่ในการดูแลของแพทย์อย่างใกลัชิด โดยแพทย์และผู้เกี่ยวข้องมีความกังวลเรื่องการทำงานของไตและอวัยวะอื่นซึ่งได้รับผลกระทบจากการอดอาหารและน้ำมาเป็นเวลานาน
@@ -2349,58 +2349,58 @@
 # source = https://www.thairath.co.th/news/politic/2651053
 # year = 2023
 1	วัน	วัน	NOUN	_	_	12	obl	_	SpaceAfter=No|Gloss=day|Translit=
-2	ที่	ที่	NOUN	_	_	1	nmod	_	SpaceAfter=No|Gloss=range|Translit=
-3	11	11	NUM	_	_	2	nmod	_	SpaceAfter=No|Gloss=11|Translit=
-4	มีนาคม	มีนาคม	NOUN	_	_	1	nmod	_	SpaceAfter=No|Gloss=March|Translit=
-5	2566	2566	NUM	_	_	4	nmod	_	SpaceAfter=No|Gloss=2566|Translit=
+2	ที่	ที่	NOUN	_	_	1	nmod	_	Gloss=range|Translit=
+3	11	11	NUM	_	_	2	nmod	_	Gloss=11|Translit=
+4	มีนาคม	มีนาคม	NOUN	_	_	1	nmod	_	Gloss=March|Translit=
+5	2566	2566	NUM	_	_	4	nmod	_	Gloss=2566|Translit=
 6	นางสาว	นางสาว	NOUN	_	_	12	nsubj	_	SpaceAfter=No|Gloss=Miss|Translit=
-7	ทานตะวัน	ทานตะวัน	PROPN	_	_	6	nmod	_	SpaceAfter=No|Gloss=Tantawan|Translit=
-8	ตัวตุลานนท์	ตัวตุลานนท์	PROPN	_	_	7	flat	_	SpaceAfter=No|Gloss=|Translit=
-9	(	(	PUNCT	_	_	10	punct	_	SpaceAfter=No|Gloss=|Translit=
+7	ทานตะวัน	ทานตะวัน	PROPN	_	_	6	nmod	_	Gloss=Tantawan|Translit=
+8	ตัวตุลานนท์	ตัวตุลานนท์	PROPN	_	_	7	flat	_	Gloss=|Translit=
+9	(	(	PUNCT	_	_	10	punct	_	SpaceAfter=No
 10	ตะวัน	ตะวัน	PROPN	_	_	6	appos	_	SpaceAfter=No|Gloss=Tawan|Translit=
-11	)	)	PUNCT	_	_	10	punct	_	SpaceAfter=No|Gloss=|Translit=
+11	)	)	PUNCT	_	_	10	punct	_	_
 12	ชี้แจง	ชี้แจง	VERB	_	_	0	root	_	SpaceAfter=No|Gloss=|Translit=
 13	ผ่าน	ผ่าน	ADP	_	_	14	case	_	SpaceAfter=No|Gloss=|Translit=
-14	เฟซบุ๊ก	เฟซบุ๊ก	PROPN	_	Foreign=Yes	12	obl	_	SpaceAfter=No|Gloss=Facebook|Translit=
-15	Tawan	Tawan	PROPN	_	_	14	nmod	_	SpaceAfter=No|Gloss=Tawan|Translit=
-16	Tantawan	Tantawan	PROPN	_	_	15	flat	_	SpaceAfter=No|Gloss=Tantawan|Translit=
+14	เฟซบุ๊ก	เฟซบุ๊ก	PROPN	_	Foreign=Yes	12	obl	_	Gloss=Facebook|Translit=
+15	Tawan	Tawan	PROPN	_	_	14	nmod	_	Gloss=Tawan|Translit=
+16	Tantawan	Tantawan	PROPN	_	_	15	flat	_	Gloss=Tantawan|Translit=
 17	ระบุ	ระบุ	VERB	_	_	14	acl	_	SpaceAfter=No|Gloss=|Translit=
-18	ว่า	ว่า	SCONJ	_	_	61	mark	_	SpaceAfter=No|Gloss=that(COMP)|Translit=
+18	ว่า	ว่า	SCONJ	_	_	61	mark	_	Gloss=that(COMP)|Translit=
 19	คำ	คำ	NOUN	_	_	61	dislocated	_	SpaceAfter=No|Gloss=word|Translit=
 20	ชี้แจง	ชี้แจง	VERB	_	_	19	acl	_	SpaceAfter=No|Gloss=|Translit=
 21	กรณี	กรณี	NOUN	_	_	20	obj	_	SpaceAfter=No|Gloss=case|Translit=
 22	นางสาว	นางสาว	NOUN	_	_	21	nmod	_	SpaceAfter=No|Gloss=Miss|Translit=
-23	ทานตะวัน	ทานตะวัน	PROPN	_	_	22	nmod	_	SpaceAfter=No|Gloss=|Translit=
-24	ตัวตุลานนท์	ตัวตุลานนท์	PROPN	_	_	23	flat	_	SpaceAfter=No|Gloss=|Translit=
-25	(	(	PUNCT	_	_	26	punct	_	SpaceAfter=No|Gloss=|Translit=
+23	ทานตะวัน	ทานตะวัน	PROPN	_	_	22	nmod	_	Gloss=|Translit=
+24	ตัวตุลานนท์	ตัวตุลานนท์	PROPN	_	_	23	flat	_	Gloss=|Translit=
+25	(	(	PUNCT	_	_	26	punct	_	SpaceAfter=No
 26	ตะวัน	ตะวัน	PROPN	_	_	22	appos	_	SpaceAfter=No|Gloss=Tawan|Translit=
-27	)	)	PUNCT	_	_	26	punct	_	SpaceAfter=No|Gloss=|Translit=
+27	)	)	PUNCT	_	_	26	punct	_	_
 28	และ	และ	CCONJ	_	_	29	cc	_	SpaceAfter=No|Gloss=and|Translit=
 29	นางสาว	นางสาว	NOUN	_	_	22	conj	_	SpaceAfter=No|Gloss=Miss|Translit=
-30	อรวรรณ	อรวรรณ	PROPN	_	_	29	nmod	_	SpaceAfter=No|Gloss=|Translit=
-31	ภู่พงษ์	ภู่พงษ์	PROPN	_	_	30	flat	_	SpaceAfter=No|Gloss=|Translit=
-32	(	(	PUNCT	_	_	33	punct	_	SpaceAfter=No|Gloss=|Translit=
+30	อรวรรณ	อรวรรณ	PROPN	_	_	29	nmod	_	Gloss=|Translit=
+31	ภู่พงษ์	ภู่พงษ์	PROPN	_	_	30	flat	_	Gloss=|Translit=
+32	(	(	PUNCT	_	_	33	punct	_	SpaceAfter=No
 33	แบม	แบม	PROPN	_	_	29	appos	_	SpaceAfter=No|Gloss=Bam|Translit=
-34	)	)	PUNCT	_	_	33	punct	_	SpaceAfter=No|Gloss=|Translit=
+34	)	)	PUNCT	_	_	33	punct	_	_
 35	ประจำ	ประจำ	VERB	_	_	19	acl	_	SpaceAfter=No|Gloss=|Translit=
 36	วัน	วัน	NOUN	_	_	35	obl:arg	_	SpaceAfter=No|Gloss=day|Translit=
-37	ที่	ที่	NOUN	_	_	36	nmod	_	SpaceAfter=No|Gloss=range|Translit=
-38	11	11	NUM	_	_	37	nmod	_	SpaceAfter=No|Gloss=11|Translit=
-39	มีนาคม	มีนาคม	NOUN	_	_	36	nmod	_	SpaceAfter=No|Gloss=March|Translit=
-40	พ.ศ.	พ.ศ.	NOUN	_	_	39	nmod	_	SpaceAfter=No|Gloss=|Translit=
-41	2566	2566	NUM	_	_	40	nmod	_	SpaceAfter=No|Gloss=2566|Translit=
+37	ที่	ที่	NOUN	_	_	36	nmod	_	Gloss=range|Translit=
+38	11	11	NUM	_	_	37	nmod	_	Gloss=11|Translit=
+39	มีนาคม	มีนาคม	NOUN	_	_	36	nmod	_	Gloss=March|Translit=
+40	พ.ศ.	พ.ศ.	NOUN	_	_	39	nmod	_	Gloss=|Translit=
+41	2566	2566	NUM	_	_	40	nmod	_	Gloss=2566|Translit=
 42	หลังจาก	หลังจาก	ADP	_	_	47	mark	_	SpaceAfter=No|Gloss=after|Translit=
 43	ที่	ที่	PRON	_	_	47	dislocated	_	SpaceAfter=No|Gloss=what|Translit=
 44	แบม	แบม	PROPN	_	_	47	nsubj	_	SpaceAfter=No|Gloss=Bam|Translit=
 45	และ	และ	CCONJ	_	_	46	cc	_	SpaceAfter=No|Gloss=and|Translit=
-46	ตะวัน	ตะวัน	PROPN	_	_	44	conj	_	SpaceAfter=No|Gloss=Tawan|Translit=
+46	ตะวัน	ตะวัน	PROPN	_	_	44	conj	_	Gloss=Tawan|Translit=
 47	กลับ	กลับ	VERB	_	_	61	advcl	_	SpaceAfter=No|Gloss=|Translit=
 48	เข้า	เข้า	VERB	_	_	47	compound:svc	_	SpaceAfter=No|Gloss=enter|Translit=
 49	รักษา	รักษา	VERB	_	_	48	compound:svc	_	SpaceAfter=No|Gloss=|Translit=
 50	ตัว	ตัว	NOUN	_	_	49	obj	_	SpaceAfter=No|Gloss=body|Translit=
 51	ที่	ที่	ADP	_	_	52	case	_	SpaceAfter=No|Gloss=at|Translit=
 52	โรงพยาบาล	โรงพยาบาล	NOUN	_	_	49	obl	_	SpaceAfter=No|Gloss=hospital|Translit=
-53	ธรรมศาสตร์	ธรรมศาสตร์	PROPN	_	_	52	nmod	_	SpaceAfter=No|Gloss=|Translit=
+53	ธรรมศาสตร์	ธรรมศาสตร์	PROPN	_	_	52	nmod	_	Gloss=|Translit=
 54	ขณะ	ขณะ	NOUN	_	_	61	obl	_	SpaceAfter=No|Gloss=|Translit=
 55	นี้	นี้	ADJ	_	_	54	amod	_	SpaceAfter=No|Gloss=this|Translit=
 56	อาการ	อาการ	NOUN	_	_	61	nsubj	_	SpaceAfter=No|Gloss=|Translit=
@@ -2415,7 +2415,7 @@
 65	ของ	ของ	ADP	_	_	66	case	_	SpaceAfter=No|Gloss=of|Translit=
 66	แพทย์	แพทย์	NOUN	_	_	63	nmod	_	SpaceAfter=No|Gloss=doctor|Translit=
 67	อย่าง	อย่าง	NOUN	_	_	61	obl	_	SpaceAfter=No|Gloss=|Translit=
-68	ใกลัชิด	ใกลัชิด	VERB	_	_	67	acl	_	SpaceAfter=No|Gloss=|Translit=
+68	ใกลัชิด	ใกลัชิด	VERB	_	_	67	acl	_	Gloss=|Translit=
 69	โดย	โดย	ADP	_	_	74	mark	_	SpaceAfter=No|Gloss=with|Translit=
 70	แพทย์	แพทย์	NOUN	_	_	74	nsubj	_	SpaceAfter=No|Gloss=doctor|Translit=
 71	และ	และ	CCONJ	_	_	72	cc	_	SpaceAfter=No|Gloss=and|Translit=
@@ -2446,7 +2446,7 @@
 96	มา	มา	ADV	_	_	92	advmod	_	SpaceAfter=No|Gloss=|Translit=
 97	เป็น	เป็น	ADP	_	_	98	case	_	SpaceAfter=No|Gloss=|Translit=
 98	เวลา	เวลา	NOUN	_	_	92	obl	_	SpaceAfter=No|Gloss=time|Translit=
-99	นาน	นาน	VERB	_	_	98	acl	_	SpaceAfter=No|Gloss=|Translit=
+99	นาน	นาน	VERB	_	_	98	acl	_	Gloss=|Translit=
 
 # sent_id = Tawan_Bam_Thai_Political_2023_News4_5
 # text = ตะวันและแบมขอแจ้งต่อสาธารณชนว่าพวกเธอได้เลิกอด อาหารแล้ว และจะรับการรักษาเพื่อนำเอาชีวิตไปต่อสู้ต่อไป เนื่องจากยังคงไม่ได้รับการตอบรับจากศาล
@@ -2471,9 +2471,9 @@
 10	เธอ	เธอ	PRON	_	Person=3|PronType=Prs	9	nmod	_	SpaceAfter=No|Gloss=she|Translit=
 11	ได้	ได้	VERB	_	_	5	ccomp	_	SpaceAfter=No|Gloss=|Translit=
 12	เลิก	เลิก	VERB	_	_	11	xcomp	_	SpaceAfter=No|Gloss=|Translit=
-13	อด	อด	VERB	_	_	12	compound:svc	_	SpaceAfter=No|Gloss=|Translit=
+13	อด	อด	VERB	_	_	12	compound:svc	_	Gloss=|Translit=
 14	อาหาร	อาหาร	NOUN	_	_	13	obj	_	SpaceAfter=No|Gloss=food|Translit=
-15	แล้ว	แล้ว	ADV	_	_	12	advmod	_	SpaceAfter=No|Gloss=|Translit=
+15	แล้ว	แล้ว	ADV	_	_	12	advmod	_	Gloss=|Translit=
 16	และ	และ	CCONJ	_	_	18	cc	_	SpaceAfter=No|Gloss=and|Translit=
 17	จะ	จะ	ADV	_	_	18	advmod	_	SpaceAfter=No|Gloss=|Translit=
 18	รับ	รับ	VERB	_	_	11	conj	_	SpaceAfter=No|Gloss=receive|Translit=
@@ -2486,7 +2486,7 @@
 25	ไป	ไป	VERB	_	_	23	compound:svc	_	SpaceAfter=No|Gloss=go|Translit=
 26	ต่อสู้	ต่อสู้	VERB	_	_	25	compound:svc	_	SpaceAfter=No|Gloss=fight|Translit=
 27	ต่อ	ต่อ	VERB	_	_	26	compound:svc	_	SpaceAfter=No|Gloss=|Translit=
-28	ไป	ไป	ADV	_	_	27	advmod	_	SpaceAfter=No|Gloss=|Translit=
+28	ไป	ไป	ADV	_	_	27	advmod	_	Gloss=|Translit=
 29	เนื่อง	เนื่อง	VERB	_	_	11	advcl	_	SpaceAfter=No|Gloss=|Translit=
 30	จาก	จาก	ADP	_	_	34	mark	_	SpaceAfter=No|Gloss=from|Translit=
 31	ยัง	ยัง	ADV	_	_	34	advmod	_	SpaceAfter=No|Gloss=still|Translit=
@@ -2497,10 +2497,10 @@
 36	การ	การ	NOUN	_	NounType=Nmlz	35	obj	_	SpaceAfter=No|Gloss=a thing to be done(nominalizer)|Translit=
 37	ตอบรับ	ตอบรับ	VERB	_	_	36	acl	_	SpaceAfter=No|Gloss=|Translit=
 38	จาก	จาก	ADP	_	_	39	case	_	SpaceAfter=No|Gloss=from|Translit=
-39	ศาล	ศาล	NOUN	_	_	36	nmod	_	SpaceAfter=No|Gloss=|Translit=
+39	ศาล	ศาล	NOUN	_	_	36	nmod	_	Gloss=|Translit=
 
 # sent_id = Tawan_Bam_Thai_Political_2023_News4_6
-# text = สำหรับร่างกายของพวกเธอนั้น พวกเธอตอบโต้ได้ ตื่นรู้ตัวดี พูดคุยเหมาะสมกับบริบท 
+# text = สำหรับร่างกายของพวกเธอนั้น พวกเธอตอบโต้ได้ ตื่นรู้ตัวดี พูดคุยเหมาะสมกับบริบท
 # text_en = 
 # tokenised_text = สำหรับ ร่างกาย ของ พวก เธอ นั้น พวก เธอ ตอบโต้ ได้ ตื่น รู้ตัว ดี พูด คุย เหมาะสม กับ บริบท
 # tokenised_translit =
@@ -2515,18 +2515,18 @@
 3	ของ	ของ	ADP	_	_	4	case	_	SpaceAfter=No|Gloss=of|Translit=
 4	พวก	พวก	NOUN	_	_	2	nmod	_	SpaceAfter=No|Gloss=|Translit=
 5	เธอ	เธอ	PRON	_	Person=3|PronType=Prs	4	nmod	_	SpaceAfter=No|Gloss=she|Translit=
-6	นั้น	นั้น	ADJ	_	_	2	amod	_	SpaceAfter=No|Gloss=that|Translit=
+6	นั้น	นั้น	ADJ	_	_	2	amod	_	Gloss=that|Translit=
 7	พวก	พวก	NOUN	_	_	9	nsubj	_	SpaceAfter=No|Gloss=|Translit=
 8	เธอ	เธอ	PRON	_	Person=3|PronType=Prs	7	nmod	_	SpaceAfter=No|Gloss=she|Translit=
 9	ตอบโต้	ตอบโต้	VERB	_	_	0	root	_	SpaceAfter=No|Gloss=|Translit=
-10	ได้	ได้	VERB	_	_	9	advcl	_	SpaceAfter=No|Gloss=|Translit=
+10	ได้	ได้	VERB	_	_	9	advcl	_	Gloss=|Translit=
 11	ตื่นรู้ตัว	ตื่นรู้ตัว	VERB	_	_	9	conj	_	SpaceAfter=No|Gloss=|Translit=
-12	ดี	ดี	ADV	_	_	11	advmod	_	SpaceAfter=No|Gloss=good|Translit=
+12	ดี	ดี	ADV	_	_	11	advmod	_	Gloss=good|Translit=
 13	พูด	พูด	VERB	_	_	9	conj	_	SpaceAfter=No|Gloss=speak|Translit=
 14	คุย	คุย	VERB	_	_	13	flat	_	SpaceAfter=No|Gloss=talk|Translit=
 15	เหมาะสม	เหมาะสม	VERB	_	_	13	advcl	_	SpaceAfter=No|Gloss=appropriate|Translit=
 16	กับ	กับ	ADP	_	_	17	case	_	SpaceAfter=No|Gloss=with|Translit=
-17	บริบท	บริบท	NOUN	_	_	15	obl	_	SpaceAfter=No|Gloss=context|Translit=
+17	บริบท	บริบท	NOUN	_	_	15	obl	_	Gloss=context|Translit=
 
 # sent_id = Tawan_Bam_Thai_Political_2023_News4_7
 # text = และในขณะนี้แม้พ้นขีดอันตรายต่อชีวิตแล้ว ก็คาดว่าต้องใช้เวลาอีกระยะหนึ่งในการดูแลรักษาที่โรงพยาบาลธรรมศาสตร์
@@ -2549,7 +2549,7 @@
 8	อันตราย	อันตราย	VERB	_	_	7	acl	_	SpaceAfter=No|Gloss=dangerous|Translit=
 9	ต่อ	ต่อ	ADP	_	_	10	case	_	SpaceAfter=No|Gloss=to|Translit=
 10	ชีวิต	ชีวิต	NOUN	_	_	8	obl	_	SpaceAfter=No|Gloss=life|Translit=
-11	แล้ว	แล้ว	ADV	_	_	6	advmod	_	SpaceAfter=No|Gloss=|Translit=
+11	แล้ว	แล้ว	ADV	_	_	6	advmod	_	Gloss=|Translit=
 12	ก็	ก็	ADV	_	_	13	advcl	_	SpaceAfter=No|Gloss=|Translit=
 13	คาด	คาด	VERB	_	_	0	root	_	SpaceAfter=No|Gloss=|Translit=
 14	ว่า	ว่า	ADP	_	_	15	mark	_	SpaceAfter=No|Gloss=that(COMP)|Translit=
@@ -2565,10 +2565,10 @@
 24	รักษา	รักษา	VERB	_	_	23	conj	_	SpaceAfter=No|Gloss=|Translit=
 25	ที่	ที่	ADP	_	_	26	case	_	SpaceAfter=No|Gloss=at|Translit=
 26	โรงพยาบาล	โรงพยาบาล	NOUN	_	_	22	nmod	_	SpaceAfter=No|Gloss=hospital|Translit=
-27	ธรรมศาสตร์	ธรรมศาสตร์	PROPN	_	_	26	nmod	_	SpaceAfter=No|Gloss=|Translit=
+27	ธรรมศาสตร์	ธรรมศาสตร์	PROPN	_	_	26	nmod	_	Gloss=|Translit=
 
 # sent_id = Tawan_Bam_Thai_Political_2023_News4_8
-# text = ตะวันและแบมยังคงกังวลเมื่อได้รับข่าวว่ามีผู้ต้องหาทางการเมืองถูกจับกุมคุมขังเพิ่มขึ้นและการพิจารณาคดีของศาลสำหรับจำเลยในคดีมาตรา 112 กรณีสถานทูตเยอรมันไม่ได้รับโอกาสในการต่อสู้คดี 
+# text = ตะวันและแบมยังคงกังวลเมื่อได้รับข่าวว่ามีผู้ต้องหาทางการเมืองถูกจับกุมคุมขังเพิ่มขึ้นและการพิจารณาคดีของศาลสำหรับจำเลยในคดีมาตรา 112 กรณีสถานทูตเยอรมันไม่ได้รับโอกาสในการต่อสู้คดี
 # text_en = 
 # tokenised_text = ตะวัน และ แบม ยัง คง กังวล เมื่อ ได้ รับ ข่าว ว่า มี ผู้ ต้องหา ทาง การเมือง ถูก จับกุม คุมขัง เพิ่ม ขึ้น และ การ พิจารณา คดี ของ ศาล สำหรับ จำเลย ใน คดี มาตรา 112 กรณี สถานทูต เยอรมัน ไม่ ได้ รับ โอกาส ใน การ ต่อสู้ คดี
 # tokenised_translit =
@@ -2609,8 +2609,8 @@
 29	จำเลย	จำเลย	NOUN	_	_	23	nmod	_	SpaceAfter=No|Gloss=|Translit=
 30	ใน	ใน	ADP	_	_	31	case	_	SpaceAfter=No|Gloss=in|Translit=
 31	คดี	คดี	NOUN	_	_	29	nmod	_	SpaceAfter=No|Gloss=|Translit=
-32	มาตรา	มาตรา	NOUN	_	_	31	nmod	_	SpaceAfter=No|Gloss=|Translit=
-33	112	112	NUM	_	_	32	nmod	_	SpaceAfter=No|Gloss=112|Translit=
+32	มาตรา	มาตรา	NOUN	_	_	31	nmod	_	Gloss=|Translit=
+33	112	112	NUM	_	_	32	nmod	_	Gloss=112|Translit=
 34	กรณี	กรณี	NOUN	_	_	31	nmod	_	SpaceAfter=No|Gloss=case|Translit=
 35	สถานทูต	สถานทูต	NOUN	_	_	34	nmod	_	SpaceAfter=No|Gloss=|Translit=
 36	เยอรมัน	เยอรมัน	PROPN	_	Foreign=Yes	35	nmod	_	SpaceAfter=No|Gloss=German|Translit=
@@ -2621,7 +2621,7 @@
 41	ใน	ใน	ADP	_	_	42	case	_	SpaceAfter=No|Gloss=in|Translit=
 42	การ	การ	NOUN	_	NounType=Nmlz	40	nmod	_	SpaceAfter=No|Gloss=a thing to be done(nominalizer)|Translit=
 43	ต่อสู้	ต่อสู้	VERB	_	_	42	acl	_	SpaceAfter=No|Gloss=fight|Translit=
-44	คดี	คดี	NOUN	_	_	43	obl:arg	_	SpaceAfter=No|Gloss=|Translit=
+44	คดี	คดี	NOUN	_	_	43	obl:arg	_	Gloss=|Translit=
 
 # sent_id = Tawan_Bam_Thai_Political_2023_News4_9
 # text = ซึ่งตะวันและแบมเห็นว่ามันเป็นการพิสูจน์ว่าข้อเรียกร้องของเธอทั้งสองเป็นสิ่งถูกต้อง
@@ -2653,7 +2653,7 @@
 17	สอง	_	NUM	_	_	15	nummod	_	SpaceAfter=No|Gloss=two|Translit=
 18	เป็น	_	AUX	_	_	19	cop	_	SpaceAfter=No|Gloss=BE|Translit=
 19	สิ่ง	_	NOUN	_	_	10	ccomp	_	SpaceAfter=No|Gloss=thing|Translit=
-20	ถูกต้อง	_	VERB	_	_	19	acl	_	SpaceAfter=No|Gloss=right|Translit=
+20	ถูกต้อง	_	VERB	_	_	19	acl	_	Gloss=right|Translit=
 
 # sent_id = Tawan_Bam_Thai_Political_2023_News4_10
 # text = สุดท้ายนี้ทั้งคู่บอกว่า แม้ไม่มีพวกเธอขอให้ทุกคนต่อสู้ต่อไป
@@ -2672,7 +2672,7 @@
 4	ทั้ง	ทั้ง	DET	_	_	5	det	_	SpaceAfter=No|Gloss=|Translit=
 5	คู่	คู่	NOUN	_	_	6	nsubj	_	SpaceAfter=No|Gloss=|Translit=
 6	บอก	บอก	VERB	_	_	1	advcl	_	SpaceAfter=No|Gloss=tell|Translit=
-7	ว่า	ว่า	SCONJ	_	_	13	mark	_	SpaceAfter=No|Gloss=that(COMP)|Translit=
+7	ว่า	ว่า	SCONJ	_	_	13	mark	_	Gloss=that(COMP)|Translit=
 8	แม้	แม้	ADP	_	_	10	mark	_	SpaceAfter=No|Gloss=|Translit=
 9	ไม่	ไม่	ADV	_	_	10	advmod	_	SpaceAfter=No|Gloss=not|Translit=
 10	มี	มี	VERB	_	_	13	advcl	_	SpaceAfter=No|Gloss=have|Translit=
@@ -2684,7 +2684,7 @@
 16	คน	คน	NOUN	_	NounType=Clf	17	nsubj	_	SpaceAfter=No|Gloss=person|Translit=
 17	ต่อสู้	ต่อสู้	VERB	_	_	13	advcl	_	SpaceAfter=No|Gloss=fight|Translit=
 18	ต่อ	ต่อ	VERB	_	_	17	compound:svc	_	SpaceAfter=No|Gloss=|Translit=
-19	ไป	ไป	ADV	_	_	18	advmod	_	SpaceAfter=No|Gloss=|Translit=
+19	ไป	ไป	ADV	_	_	18	advmod	_	Gloss=|Translit=
 
 # newdoc
 # sent_id = Thai_Political_BhumJaiThai_Party_Narcotics_Drug_News6_1
@@ -2871,7 +2871,7 @@
 24	สังคม	สังคม	NOUN	_	_	22	nmod	_	Gloss=society|Translit=
 
 # sent_id = Thai_Political_BhumJaiThai_Party_Narcotics_Drug_News6_8
-# text = เมื่อวันที่ 3 มี.ค. นายศุภชัย ใจสมุทร ส.ส.บัญชีรายชื่อ  นายทะเบียนพรรคภูมิใจไทย (ภท.) กล่าวผ่านรายการ พรรคภูมิใจไทย พูดแล้วทำ เผยแพร่ทางเฟซบุ๊ก ยูทูบ และ TikTok พรรคภูมิใจไทย ถึงนโยบายด้านการป้องกันและปราบปรามยาเสพติดของพรรคภูมิใจไทยว่า ปัญหาใหญ่ของประเทศไทยในเรื่องยาเสพติด โดยเฉพาะยาบ้า มีการแพร่หลายจำหน่ายกันทั่วทุกอณูของพื้นที่ 
+# text = เมื่อวันที่ 3 มี.ค. นายศุภชัย ใจสมุทร ส.ส.บัญชีรายชื่อ  นายทะเบียนพรรคภูมิใจไทย (ภท.) กล่าวผ่านรายการ พรรคภูมิใจไทย พูดแล้วทำ เผยแพร่ทางเฟซบุ๊ก ยูทูบ และ TikTok พรรคภูมิใจไทย ถึงนโยบายด้านการป้องกันและปราบปรามยาเสพติดของพรรคภูมิใจไทยว่า ปัญหาใหญ่ของประเทศไทยในเรื่องยาเสพติด โดยเฉพาะยาบ้า มีการแพร่หลายจำหน่ายกันทั่วทุกอณูของพื้นที่
 # text_en = 
 # tokenised_text = เมื่อ วัน ที่ 3 มี.ค. นาย ศุภชัย ใจสมุทร ส.ส. บัญชี ราย ชื่อ นายทะเบียน พรรค ภูมิใจ ไทย ( ภท. ) กล่าว ผ่าน รายการ พรรค ภูมิใจ ไทย พูด แล้ว ทำ เผยแพร่ ทาง เฟซบุ๊ก ยูทูบ และ TikTok พรรค ภูมิใจ ไทย ถึง นโยบาย ด้าน การ ป้องกัน และ ปราบปราม ยา เสพ ติด ของ พรรค ภูมิใจ ไทย ว่า ปัญหา ใหญ่ ของ ประเทศ ไทย ใน เรื่อง ยา เสพ ติด โดย เฉพาะ ยา บ้า มี การ แพร่หลาย จำหน่าย กัน ทั่ว ทุก อณู ของ พื้นที่
 # tokenised_translit =
@@ -3499,7 +3499,7 @@
 19	บ้า	บ้า	VERB	_	ExtPos=PROPN	18	acl	_	SpaceAfter=No|Gloss=crazy|Translit=
 20	ครอง	ครอง	VERB	_	_	17	xcomp	_	SpaceAfter=No|Gloss=|Translit=
 21	เมือง	เมือง	NOUN	_	_	20	obj	_	SpaceAfter=No|Gloss=city|Translit=
-22	”	”	PUNCT	_	_	2	punct	_	SpaceAfter=No
+22	”	”	PUNCT	_	_	2	punct	_	_
 23	นาย	นาย	NOUN	_	_	25	nsubj	_	SpaceAfter=No|Gloss=Mister|Translit=
 24	ศุภชัย	ศุภชัย	PROPN	_	_	23	nmod	_	Gloss=|Translit=
 25	กล่าว	กล่าว	VERB	_	_	0	root	_	Gloss=say|Translit=
