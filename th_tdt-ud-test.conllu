@@ -1548,7 +1548,7 @@
 27	มั่นใจ	มั่นใจ	VERB	_	_	26	acl	_	SpaceAfter=No|Gloss=confident|Translit=mân-caj
 28	ได้	ได้	VERB	_	_	27	xcomp	_	SpaceAfter=No|Gloss=get|Translit=dâj
 29	ส.ส.	สส.	NOUN	_	Abbr=Yes	28	obl:arg	_	SpaceAfter=No|Gloss=Members of the House of Representatives of Thailand|Translit=sɔ̌ː-sɔ̌ː
-30	พิษณุโลก	พิษณุโลก	PROPN	_	_	29	nmod	_	SpaceAfter=No|Gloss=Vishnu|Translit=phít-sà-nú-lôːk
+30	พิษณุโลก	พิษณุโลก	PROPN	_	_	29	nmod	_	Gloss=Vishnu|Translit=phít-sà-nú-lôːk
 31	ยก	ยก	VERB	_	_	28	advcl	_	SpaceAfter=No|Gloss=lift|Translit=jók
 32	จังหวัด	จังหวัด	NOUN	_	_	31	obl:arg	_	SpaceAfter=No|Gloss=province|Translit=caŋ-wàt
 33	ว่า	ว่า	SCONJ	_	_	35	mark	_	Gloss=that(COMP)|Translit=wâː
@@ -1576,7 +1576,7 @@
 4	มา	มา	VERB	_	_	2	compound:svc	_	SpaceAfter=No|Gloss=come|Translit=maː
 5	เสนอ	เสนอ	VERB	_	_	4	compound:svc	_	SpaceAfter=No|Gloss=offer|Translit=sà-nɤ̌ː
 6	ให้	ให้	ADP	_	_	7	case	_	SpaceAfter=No|Gloss=for|Translit=hâj
-7	ประชาชน	ประชาชน	NOUN	_	_	5	obl	_	CorrectSpaceAfter=Yes|Gloss=population|Translit=pràʔ-chaː-chon
+7	ประชาชน	ประชาชน	NOUN	_	_	5	obl	_	SpaceAfter=No|CorrectSpaceAfter=Yes|Gloss=population|Translit=pràʔ-chaː-chon
 8	และ	และ	CCONJ	_	_	14	cc	_	SpaceAfter=No|Gloss=and|Translit=lɛ́ʔ
 9	ว่าที่	ว่าที่	NOUN	_	_	14	nsubj	_	SpaceAfter=No|Gloss=prospective|Translit=wâː-thîː
 10	ผู้	ผู้	NOUN	_	_	9	nmod	_	SpaceAfter=No|Gloss=person|Translit=phûː
@@ -1801,7 +1801,7 @@
 46	ไว้	ไว้	ADV	_	_	45	advmod	_	Gloss=keep(placed after a verb to emphasise and/or complete the meaning of the verb)|Translit=wáj
 
 # sent_id = Thai_Election_ForThaiParty_2023_News2_11
-# text = ทั้งนี้ หากพี่น้องสนับสนุนเราตามที่ประกาศไว้ว่าจะได้ ส.ส. 310 เสียง เราประกาศชัดไม่จับมือกับใครโดยเฉพาะฟากฝั่งที่มาจากเผด็จการ 
+# text = ทั้งนี้ หากพี่น้องสนับสนุนเราตามที่ประกาศไว้ว่าจะได้ ส.ส. 310 เสียง เราประกาศชัดไม่จับมือกับใครโดยเฉพาะฟากฝั่งที่มาจากเผด็จการ
 # text_en = (He said that) if the public supported us (the Pheu Thai Party) as targeted—winning 310 seats, we clearly declared we would not form a coalition with any party, especially those aligned with the authoritarian side.
 # tokenised_text = ทั้ง นี้ หาก พี่ น้อง สนับสนุน เรา ตาม ที่ ประกาศ ไว้ ว่า จะ ได้ ส.ส. 310 เสียง เรา ประกาศ ชัด ไม่ จับ มือ กับ ใคร โดย เฉพาะ ฟาก ฝั่ง ที่ มา จาก เผด็จการ
 # tokenised_translit =
@@ -1878,7 +1878,7 @@
 20	เรา	เรา	PRON	_	Person=1|PronType=Prs	19	nmod	_	Gloss=we|Translit=raw
 
 # sent_id = Thai_Election_ForThaiParty_2023_News2_13
-# text = ถามย้ำว่า หลังเลือกตั้งยืนยันว่าจะไม่จับมือใช่หรือไม่ 
+# text = ถามย้ำว่า หลังเลือกตั้งยืนยันว่าจะไม่จับมือใช่หรือไม่
 # text_en = (The reporter) asked again if after the election, he would confirm that there would be no alliance.
 # tokenised_text = ถาม ย้ำ ว่า หลัง เลือกตั้ง ยืนยัน ว่า จะ ไม่ จับ มือ ใช่ หรือ ไม่
 # tokenised_translit =
@@ -1929,7 +1929,7 @@
 13	จำเป็น	จำเป็น	VERB	_	_	12	acl	_	Gloss=necessary|Translit=cam-pen
 
 # sent_id = Thai_Election_ForThaiParty_2023_News2_15
-# text = ถามต่อว่า หากได้ไม่ถึง 310 เสียงจะทำอย่างไร 
+# text = ถามต่อว่า หากได้ไม่ถึง 310 เสียงจะทำอย่างไร
 # text_en = (The reporter) asked further what would happen if the party did not reach 310 seats.
 # tokenised_text = ถาม ต่อ ว่า หาก ได้ ไม่ ถึง 310 เสียง จะ ทำ อย่าง ไร
 # tokenised_translit =
@@ -2004,7 +2004,7 @@
 38	ไร	ไร	ADJ	_	_	37	amod	_	Gloss=what|Translit=raj
 
 # sent_id = Thai_Election_ForThaiParty_2023_News2_17
-# text = เรายึดมั่นอุดมการณ์ประชาธิปไตยที่สามารถทำงานร่วมกันได้ 
+# text = เรายึดมั่นอุดมการณ์ประชาธิปไตยที่สามารถทำงานร่วมกันได้
 # text_en = (He added that) we remained committed to democratic principles and were willing to work with the parties that shared those ideals.
 # tokenised_text = เรา ยึดมั่น อุดมการณ์ ประชาธิปไตย ที่ สามารถ ทำงาน ร่วม กัน ได้
 # tokenised_translit =
@@ -2026,7 +2026,7 @@
 10	ได้	ได้	VERB	_	_	7	advcl	_	Gloss=get(express potential or permission)|Translit=dâj
 
 # sent_id = Thai_Election_ForThaiParty_2023_News2_18
-# text = ขณะที่ นายเศรษฐา ทวีสิน ประธานที่ปรึกษาหัวหน้าครอบครัวเพื่อไทย ให้สัมภาษณ์ถึงการขึ้นเวทีปราศรัยวันที่สองว่า ตนตื่นเต้น และดีใจ ทราบซึ้งใจที่ประชาชาชนให้การต้อนรับที่ดี 
+# text = ขณะที่ นายเศรษฐา ทวีสิน ประธานที่ปรึกษาหัวหน้าครอบครัวเพื่อไทย ให้สัมภาษณ์ถึงการขึ้นเวทีปราศรัยวันที่สองว่า ตนตื่นเต้น และดีใจ ทราบซึ้งใจที่ประชาชาชนให้การต้อนรับที่ดี
 # text_en = Meanwhile, Mr. Srettha Thavisin, Chairman of the Advisory Board of the family of the Pheu Thai Party, gave an interview about taking the stage on the second day of the rally, saying that he was excited and happy, and deeply touched by the warm reception from the public.
 # tokenised_text = ขณะ ที่ นาย เศรษฐา ทวีสิน ประธาน ที่ ปรึกษา หัวหน้า ครอบครัว เพื่อ ไทย ให้ สัมภาษณ์ ถึง การ ขึ้น เวที ปราศรัย วัน ที่ สอง ว่า ตน ตื่นเต้น และ ดีใจ ทราบซึ้ง ใจ ที่ ประชาชาชน ให้ การ ต้อนรับ ที่ ดี
 # tokenised_translit =
@@ -2074,7 +2074,7 @@
 36	ดี	ดี	VERB	_	_	33	acl:relcl	_	Gloss=good|Translit=diː
 
 # sent_id = Thai_Election_ForThaiParty_2023_News2_19
-# text = ตนมีหัวหน้าพรรค และแกนนำพรรคคนอื่นๆ เป็นแรงบัลดาลใจ 
+# text = ตนมีหัวหน้าพรรค และแกนนำพรรคคนอื่นๆ เป็นแรงบัลดาลใจ
 # text_en = He added that the party leader and other key party figures served as his inspiration.
 # tokenised_text = ตน มี หัวหน้า พรรค และ แกนนำ พรรค คน อื่น ๆ เป็น แรง บัลดาลใจ
 # tokenised_translit =
@@ -2147,7 +2147,7 @@
 15	ขึ้น	ขึ้น	ADV	_	_	14	advmod	_	Gloss=upward(used for emphasis)|Translit=khɯ̂n
 
 # sent_id = Thai_Election_ForThaiParty_2023_News2_22
-# text = นายเศรษฐา กล่าวว่า คงมาจากความอัดอั้นตันใจ 
+# text = นายเศรษฐา กล่าวว่า คงมาจากความอัดอั้นตันใจ
 # text_en = Mr. Srettha said that it likely came from pent-up frustration.
 # tokenised_text = นาย เศรษฐา กล่าว ว่า คง มา จาก ความ อัดอั้นตันใจ
 # tokenised_translit =
