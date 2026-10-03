@@ -283,7 +283,7 @@
 43	สร้าง	สร้าง	VERB	_	ExtPos=PROPN	41	nmod	_	SpaceAfter=No|Gloss=build|Translit=sâːŋ
 44	ไทย	ไทย	PROPN	_	_	43	obj	_	Gloss=Thai|Translit=thaj
 45	ขึ้น	ขึ้น	VERB	_	_	0	root	_	SpaceAfter=No|Gloss=ascend|Translit=khɯ̂n
-46	เวที	เวที	NOUN	_	_	45	obj:arg	_	SpaceAfter=No|Gloss=stage|Translit=weː-thiː
+46	เวที	เวที	NOUN	_	_	45	obl:arg	_	SpaceAfter=No|Gloss=stage|Translit=weː-thiː
 47	ปราศรัย	ปราศรัย	VERB	_	_	46	acl	_	Gloss=address|Translit=praː-sǎj
 48	“	“	PUNCT	_	_	49	punct	_	SpaceAfter=No
 49	แก้	แก้	VERB	_	ExtPos=PROPN	46	nmod	_	Gloss=solve|Translit=kɛ̂ː
