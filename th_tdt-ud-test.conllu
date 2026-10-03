@@ -2037,7 +2037,7 @@
 # source = https://www.matichon.co.th/weekly/hot-news/article_656016 
 # year = 2023
 1	ขณะ	ขณะ	NOUN	_	_	0	root	_	SpaceAfter=No|Gloss=time|Translit=khà-nàʔ
-2	ที่	ที่	PRON	_	_	13	obl	_	Gloss=|Translit=thîː
+2	ที่	ที่	PRON	_	PronType=Rel	13	obl	_	Gloss=|Translit=thîː
 3	นาย	นาย	NOUN	_	_	13	nsubj	_	SpaceAfter=No|Gloss=Mister|Translit=naːj
 4	เศรษฐา	เศรษฐา	PROPN	_	_	3	nmod	_	Gloss=Srettha|Translit=sèːt-thǎː
 5	ทวีสิน	ทวีสิน	PROPN	_	_	4	flat	_	Gloss=Thavisin|Translit=thà-wiː-sǐn
@@ -2046,8 +2046,8 @@
 8	ปรึกษา	ปรึกษา	VERB	_	_	7	acl	_	SpaceAfter=No|Gloss=consult|Translit=prɯ̀k-sǎː
 9	หัวหน้า	หัวหน้า	NOUN	_	_	6	nmod	_	SpaceAfter=No|Gloss=chief|Translit=hǔa-nâː
 10	ครอบครัว	ครอบครัว	NOUN	_	_	9	nmod	_	SpaceAfter=No|Gloss=family|Translit=khrɔ̂ːp-khrua
-11	เพื่อ	เพื่อ	ADP	_	ExtPos=PROPN	12	case	_	SpaceAfter=No|Gloss=for|Translit=phɯ̂a
-12	ไทย	ไทย	PROPN	_	_	10	nmod	_	Gloss=Thai|Translit=thaj
+11	เพื่อ	เพื่อ	ADP	_	_	12	case	_	SpaceAfter=No|Gloss=for|Translit=phɯ̂a
+12	ไทย	ไทย	PROPN	_	ExtPos=PROPN	10	nmod	_	Gloss=Thai|Translit=thaj
 13	ให้	ให้	VERB	_	_	1	acl:relcl	_	SpaceAfter=No|Gloss=give|Translit=hâj
 14	สัมภาษณ์	สัมภาษณ์	VERB	_	_	13	compound:svc	_	SpaceAfter=No|Gloss=interview|Translit=sǎm-phaːt
 15	ถึง	ถึง	ADP	_	_	16	case	_	SpaceAfter=No|Gloss=to|Translit=thɯ̌ŋ
