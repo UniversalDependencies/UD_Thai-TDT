@@ -8178,7 +8178,7 @@
 6	วินิจฉัย	วินิจฉัย	VERB	_	_	4	acl	_	SpaceAfter=No|Gloss=|Translit=
 7	เลือก	เลือก	VERB	_	_	6	xcomp	_	SpaceAfter=No|Gloss=choose|Translit=
 8	นายก	นายก	NOUN	_	_	7	obj	_	SpaceAfter=No|Gloss=|Translit=
-9	ฯ	_	PUNCT	_	_	8	nmod	_	Gloss=|Translit=
+9	ฯ	_	SYM	_	_	8	nmod	_	Gloss=|Translit=
 10	คน	คน	NOUN	_	NounType=Clf	8	clf	_	SpaceAfter=No|Gloss=person|Translit=
 11	ใหม่	ใหม่	VERB	_	_	10	acl	_	SpaceAfter=No|Gloss=new|Translit=
 12	ต้อง	ต้อง	VERB	_	_	6	advcl	_	SpaceAfter=No|Gloss=must|Translit=
