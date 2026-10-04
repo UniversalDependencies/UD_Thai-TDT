@@ -8381,13 +8381,13 @@
 13	กระบวนการ	กระบวนการ	NOUN	_	_	12	obj	_	SpaceAfter=No|Gloss=|Translit=
 14	เลือก	เลือก	VERB	_	_	12	advcl	_	SpaceAfter=No|Gloss=choose|Translit=
 15	นายก	นายก	NOUN	_	_	14	obj	_	SpaceAfter=No|Gloss=|Translit=
-16	ฯ	_	PUNCT	_	_	15	nmod	_	SpaceAfter=No|Gloss=|Translit=
+16	ฯ	_	SYM	_	_	15	nmod	_	SpaceAfter=No|Gloss=|Translit=
 17	คน	คน	NOUN	_	NounType=Clf	15	clf	_	SpaceAfter=No|Gloss=person|Translit=
 18	ใหม่	ใหม่	VERB	_	_	17	acl	_	Gloss=new|Translit=
 19	เพื่อ	เพื่อ	ADP	_	_	20	mark	_	SpaceAfter=No|Gloss=for|Translit=
 20	หา	หา	VERB	_	_	14	advcl	_	SpaceAfter=No|Gloss=find|Translit=
 21	นายก	นายก	NOUN	_	_	20	obj	_	SpaceAfter=No|Gloss=|Translit=
-22	ฯ	_	PUNCT	_	_	21	nmod	_	SpaceAfter=No|Gloss=|Translit=
+22	ฯ	_	SYM	_	_	21	nmod	_	SpaceAfter=No|Gloss=|Translit=
 23	มา	มา	VERB	_	_	20	compound:svc	_	SpaceAfter=No|Gloss=come|Translit=
 24	ยุบ	ยุบ	VERB	_	_	23	compound:svc	_	SpaceAfter=No|Gloss=|Translit=
 25	สภา	สภา	NOUN	_	_	24	obj	_	SpaceAfter=No|Gloss=|Translit=
