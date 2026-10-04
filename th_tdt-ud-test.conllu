@@ -2059,7 +2059,7 @@
 21	ที่	ที่	NOUN	_	_	20	nmod	_	SpaceAfter=No|Gloss=rank|Translit=thîː
 22	สอง	สอง	NUM	_	_	21	nmod	_	SpaceAfter=No|Gloss=two|Translit=sɔ̌ːŋ
 23	ว่า	ว่า	SCONJ	_	_	25	mark	_	Gloss=that(COMP)|Translit=wâː
-24	ตน	ตน	PRON	_	_	25	nsubj	_	SpaceAfter=No|Gloss=I|Translit=ton
+24	ตน	ตน	PRON	_	Person=1|PronType=Prs	25	nsubj	_	SpaceAfter=No|Gloss=I|Translit=ton
 25	ตื่นเต้น	ตื่นเต้น	VERB	_	_	14	ccomp	_	Gloss=excited|Translit=tɯ̀ːn-tên
 26	และ	และ	CCONJ	_	_	27	cc	_	SpaceAfter=No|Gloss=and|Translit=lɛ́ʔ
 27	ดีใจ	ดีใจ	VERB	_	_	25	conj	_	Gloss=glad|Translit=diː-caj
@@ -5298,7 +5298,7 @@
 24	เข้าใจ	เข้าใจ	VERB	_	_	23	acl	_	SpaceAfter=No|Gloss=understand|Translit=
 25	ผิด	ผิด	ADV	_	_	24	advmod	_	SpaceAfter=No|Gloss=wrong|Translit=
 26	ระหว่าง	ระหว่าง	ADP	_	_	27	case	_	SpaceAfter=No|Gloss=between|Translit=
-27	กัน	กัน	PRON	_	_	22	obl	_	Gloss=|Translit=
+27	กัน	กัน	PRON	_	PronType=Rcp	22	obl	_	Gloss=|Translit=
 28	ซึ่ง	ซึ่ง	PRON	_	PronType=Rel	30	nsubj	_	SpaceAfter=No|Gloss=that(REL)|Translit=
 29	เป็น	เป็น	AUX	_	_	30	cop	_	SpaceAfter=No|Gloss=be|Translit=
 30	สิ่ง	สิ่ง	NOUN	_	_	3	acl:relcl	_	SpaceAfter=No|Gloss=thing|Translit=
@@ -5511,7 +5511,7 @@
 49	เข้าใจ	เข้าใจ	VERB	_	_	48	acl	_	SpaceAfter=No|Gloss=understand|Translit=
 50	ผิด	ผิด	ADV	_	_	49	advmod	_	SpaceAfter=No|Gloss=wrong|Translit=
 51	ระหว่าง	ระหว่าง	ADP	_	_	52	case	_	SpaceAfter=No|Gloss=between|Translit=
-52	กัน	กัน	PRON	_	_	47	obl	_	Gloss=|Translit=
+52	กัน	กัน	PRON	_	PronType=Rcp	47	obl	_	Gloss=|Translit=
 
 # sent_id = Thai_Political_Cambodia_Thai_News13_19
 # text = โดยในโอกาสนี้ตนจะได้พบปะกับประธาน ICRC จะได้อธิบาย ทั้ง 2 ประการเหล่านี้ เพราะ ICRC เป็นองค์กรหลักที่ดูกฎหมายระหว่างประเทศ
@@ -5929,7 +5929,7 @@
 3	จรูญเกียรติ	จรูญเกียรติ	PROPN	_	_	2	nmod	_	Gloss=|Translit=
 4	กล่าว	กล่าว	VERB	_	_	0	root	_	SpaceAfter=No|Gloss=say|Translit=
 5	ว่า	ว่า	SCONJ	_	_	7	mark	_	Gloss=that(COMP)|Translit=
-6	ตน	ตน	PRON	_	PronType=Prs	7	nsubj	_	SpaceAfter=No|Gloss=I|Translit=
+6	ตน	ตน	PRON	_	Person=1|PronType=Prs	7	nsubj	_	SpaceAfter=No|Gloss=I|Translit=
 7	ได้	ได้	VERB	_	_	4	ccomp	_	SpaceAfter=No|Gloss=|Translit=
 8	ยื่น	ยื่น	VERB	_	_	7	xcomp	_	SpaceAfter=No|Gloss=|Translit=
 9	ร้องเรียน	ร้องเรียน	VERB	_	_	8	compound:svc	_	SpaceAfter=No|Gloss=|Translit=
