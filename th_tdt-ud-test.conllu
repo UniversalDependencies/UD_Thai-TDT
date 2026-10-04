@@ -862,7 +862,7 @@
 6	ของ	ของ	ADP	_	_	7	case	_	SpaceAfter=No|Gloss=of|Translit=khɔ̌ːŋ
 7	พี่	พี่	NOUN	_	_	2	nmod	_	SpaceAfter=No|Gloss=older sibling|Translit=phîː
 8	น้อง	น้อง	NOUN	_	_	7	flat	_	SpaceAfter=No|Gloss=younger sibling|Translit=nɔ́ːŋ
-9	อีก	อีก	DET	_	_	10	det	_	SpaceAfter=No|Gloss=another|Translit=ʔìːk
+9	อีก	อีก	DET	_	PronType=Ind	10	det	_	SpaceAfter=No|Gloss=another|Translit=ʔìːk
 10	เรื่อง	เรื่อง	NOUN	_	NounType=Clf	2	clf	_	SpaceAfter=No|Gloss=story|Translit=rɯ̂aŋ
 11	ที่	ที่	PRON	_	PronType=Rel	12	nsubj	_	SpaceAfter=No|Gloss=that(REL)|Translit=thîː
 12	สำคัญ	สำคัญ	VERB	_	_	10	acl:relcl	_	SpaceAfter=No|CorrectSpaceAfter=Yes|Gloss=important|Translit=sàm-khan
@@ -880,7 +880,7 @@
 24	ระบุ	ระบุ	VERB	_	_	1	acl	_	SpaceAfter=No|Gloss=identify|Translit=ràʔ-bù
 25	ว่า	ว่า	SCONJ	_	_	33	mark	_	SpaceAfter=No|Gloss=that(COMP)|Translit=wâː
 26	ใน	ใน	ADP	_	_	28	case	_	SpaceAfter=No|Gloss=in|Translit=naj
-27	อีก	อีก	DET	_	_	28	det	_	Gloss=another|Translit=ʔìːk
+27	อีก	อีก	DET	_	PronType=Ind	28	det	_	Gloss=another|Translit=ʔìːk
 28	10	10	NUM	_	_	33	obl	_	Gloss=10|Translit=sìp
 29	ปี	ปี	NOUN	_	NounType=Clf	28	clf	_	SpaceAfter=No|Gloss=year|Translit=piː
 30	ข้าง	ข้าง	NOUN	_	_	28	nmod	_	SpaceAfter=No|Gloss=side|Translit=khâːŋ
@@ -1158,12 +1158,12 @@
 11	เขต	เขต	NOUN	_	_	8	obl	_	SpaceAfter=No|Gloss=district|Translit=khèːt
 12	ดอนเมือง	ดอนเมือง	PROPN	_	_	11	nmod	_	SpaceAfter=No|Gloss=hill|Translit=dɔːn-mɯaŋ
 13	ได้	ได้	VERB	_	_	8	advcl	_	SpaceAfter=No|Gloss=get(express potential or permission)|Translit=dâj
-14	อีก	อีก	DET	_	_	15	det	_	SpaceAfter=No|Gloss=another|Translit=ʔìːk
+14	อีก	อีก	DET	_	PronType=Ind	15	det	_	SpaceAfter=No|Gloss=another|Translit=ʔìːk
 15	ครั้ง	ครั้ง	NOUN	_	NounType=Clf	8	obl	_	Gloss=time|Translit=khráŋ
 16	และ	และ	CCONJ	_	_	20	cc	_	SpaceAfter=No|Gloss=and|Translit=lɛ́ʔ
 17	จะ	จะ	ADV	_	_	20	advmod	_	SpaceAfter=No|Gloss=will(express the future time)|Translit=càʔ
 18	เป็น	เป็น	AUX	_	_	20	cop	_	SpaceAfter=No|Gloss=BE|Translit=pen
-19	อีก	อีก	DET	_	_	20	det	_	SpaceAfter=No|Gloss=another|Translit=ʔìːk
+19	อีก	อีก	DET	_	PronType=Ind	20	det	_	SpaceAfter=No|Gloss=another|Translit=ʔìːk
 20	หนึ่ง	หนึ่ง	NUM	_	_	7	conj	_	SpaceAfter=No|Gloss=one|Translit=nɯ̀ŋ
 21	กำลัง	กำลัง	NOUN	_	NounType=Clf	20	clf	_	SpaceAfter=No|Gloss=power|Translit=kam-laŋ
 22	ของ	ของ	ADP	_	_	24	case	_	SpaceAfter=No|Gloss=of|Translit=khɔ̌ːŋ
@@ -2556,7 +2556,7 @@
 15	ต้อง	ต้อง	VERB	_	_	13	xcomp	_	SpaceAfter=No|Gloss=must|Translit=
 16	ใช้	ใช้	VERB	_	_	15	xcomp	_	SpaceAfter=No|Gloss=use|Translit=
 17	เวลา	เวลา	NOUN	_	_	16	obj	_	SpaceAfter=No|Gloss=time|Translit=
-18	อีก	อีก	DET	_	_	19	det	_	SpaceAfter=No|Gloss=|Translit=
+18	อีก	อีก	DET	_	PronType=Ind	19	det	_	SpaceAfter=No|Gloss=|Translit=
 19	ระยะ	ระยะ	NOUN	_	NounType=Clf	17	nmod	_	SpaceAfter=No|Gloss=|Translit=
 20	หนึ่ง	หนึ่ง	NUM	_	_	19	nummod	_	SpaceAfter=No|Gloss=one|Translit=
 21	ใน	ใน	ADP	_	_	22	case	_	SpaceAfter=No|Gloss=in|Translit=
@@ -3712,7 +3712,7 @@
 27	รัฐมนตรี	รัฐมนตรี	NOUN	_	_	26	nmod	_	SpaceAfter=No|Gloss=|Translit=
 28	พิจารณา	พิจารณา	VERB	_	_	22	advcl	_	SpaceAfter=No|Gloss=consider|Translit=
 29	เห็นชอบ	เห็นชอบ	VERB	_	_	28	conj	_	SpaceAfter=No|Gloss=|Translit=
-30	อีก	อีก	DET	_	_	31	det	_	SpaceAfter=No|Gloss=|Translit=
+30	อีก	อีก	DET	_	PronType=Ind	31	det	_	SpaceAfter=No|Gloss=|Translit=
 31	ครั้ง	ครั้ง	NOUN	_	NounType=Clf	28	obl	_	Gloss=|Translit=
 
 # sent_id = Thai_Political_News_Article_Lotto_News7_5
@@ -3797,7 +3797,7 @@
 30	)	)	PUNCT	_	_	29	punct	_	_
 31	จะ	จะ	ADV	_	_	34	advmod	_	SpaceAfter=No|Gloss=|Translit=
 32	เป็น	เป็น	AUX	_	_	34	cop	_	SpaceAfter=No|Gloss=BE|Translit=
-33	อีก	อีก	DET	_	_	34	det	_	SpaceAfter=No|Gloss=another|Translit=
+33	อีก	อีก	DET	_	PronType=Ind	34	det	_	SpaceAfter=No|Gloss=another|Translit=
 34	ทาง	ทาง	NOUN	_	NounType=Clf	2	ccomp	_	SpaceAfter=No|Gloss=way|Translit=
 35	เลือก	เลือก	VERB	_	_	34	acl	_	SpaceAfter=No|Gloss=choose|Translit=
 36	หนึ่ง	หนึ่ง	NUM	_	_	34	nummod	_	SpaceAfter=No|Gloss=one|Translit=
@@ -4319,7 +4319,7 @@
 10	นัด	นัด	VERB	_	_	9	xcomp	_	SpaceAfter=No|Gloss=|Translit=
 11	ตัดสิน	ตัดสิน	VERB	_	_	10	advcl	_	SpaceAfter=No|Gloss=decide|Translit=
 12	คดี	คดี	NOUN	_	_	11	obj	_	SpaceAfter=No|Gloss=|Translit=
-13	อีก	อีก	DET	_	_	14	det	_	SpaceAfter=No|Gloss=|Translit=
+13	อีก	อีก	DET	_	PronType=Ind	14	det	_	SpaceAfter=No|Gloss=|Translit=
 14	ครั้ง	ครั้ง	NOUN	_	NounType=Clf	10	obl	_	Gloss=time|Translit=
 
 # sent_id = Thai_Political_UngIng_PM_News11_10
@@ -4956,7 +4956,7 @@
 76	เพราะ	เพราะ	ADP	_	_	80	mark	_	SpaceAfter=No|Gloss=because|Translit=
 77	สวีเดน	สวีเดน	PROPN	_	Foreign=Yes	80	nsubj	_	SpaceAfter=No|Gloss=Sweden|Translit=
 78	เป็น	เป็น	AUX	_	_	80	cop	_	SpaceAfter=No|Gloss=be|Translit=
-79	อีก	อีก	DET	_	_	80	det	_	SpaceAfter=No|Gloss=|Translit=
+79	อีก	อีก	DET	_	PronType=Ind	80	det	_	SpaceAfter=No|Gloss=|Translit=
 80	หนึ่ง	หนึ่ง	NUM	_	_	62	advcl	_	SpaceAfter=No|Gloss=one|Translit=
 81	ประเทศ	ประเทศ	NOUN	_	NounType=Clf	80	clf	_	SpaceAfter=No|Gloss=country|Translit=
 82	ที่	ที่	PRON	_	PronType=Rel	83	nsubj	_	SpaceAfter=No|Gloss=that(REL)|Translit=
@@ -6044,7 +6044,7 @@
 16	ถูก	ถูก	VERB	_	_	12	conj	_	SpaceAfter=No|Gloss=|Translit=
 17	ลิดรอน	ลิดรอน	VERB	_	_	16	compound:svc	_	SpaceAfter=No|Gloss=|Translit=
 18	สิทธิ์	สิทธิ์	NOUN	_	_	17	obj	_	SpaceAfter=No|Gloss=right|Translit=
-19	อีก	อีก	DET	_	_	21	det	_	SpaceAfter=No|Gloss=|Translit=
+19	อีก	อีก	DET	_	PronType=Ind	21	det	_	SpaceAfter=No|Gloss=|Translit=
 20	หลาย	หลาย	DET	_	PronType=Ind	21	det	_	SpaceAfter=No|Gloss=several|Translit=
 21	คน	คน	NOUN	_	NounType=Clf	10	clf	_	SpaceAfter=No|Gloss=person|Translit=
 22	ที่	ที่	PRON	_	PronType=Rel	24	nsubj	_	SpaceAfter=No|Gloss=that(REL)|Translit=
@@ -6192,7 +6192,7 @@
 16	อาวุโส	อาวุโส	VERB	_	_	15	acl	_	Gloss=|Translit=
 17	50	50	NUM	_	_	9	xcomp	_	Gloss=50|Translit=
 18	เปอร์เซ็น	_	NOUN	_	NounType=Clf|Foreign=Yes	17	clf	_	Gloss=percentage|Translit=
-19	อีก	อีก	DET	_	_	20	det	_	Gloss=|Translit=
+19	อีก	อีก	DET	_	PronType=Ind	20	det	_	Gloss=|Translit=
 20	50	50	NUM	_	_	17	conj	_	Gloss=50|Translit=
 21	เปอร์เซ็น	_	NOUN	_	NounType=Clf|Foreign=Yes	20	clf	_	Gloss=percentage|Translit=
 22	ให้	ให้	VERB	_	_	20	acl	_	SpaceAfter=No|Gloss=give|Translit=
