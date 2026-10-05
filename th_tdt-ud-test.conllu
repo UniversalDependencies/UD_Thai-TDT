@@ -2110,7 +2110,7 @@
 # source = https://www.matichon.co.th/weekly/hot-news/article_656016 
 # year = 2023
 1	ทุก	ทุก	DET	_	PronType=Tot	2	det	_	SpaceAfter=No|Gloss=every|Translit=thúk
-2	ท่าน	ท่าน	PRON	_	Person=2|PronType=Prs|Polite=Form	3	nsubj	_	SpaceAfter=No|Gloss=you|Translit=thâːn
+2	ท่าน	ท่าน	PRON	_	Person=2|Polite=Form|PronType=Prs	3	nsubj	_	SpaceAfter=No|Gloss=you|Translit=thâːn
 3	ให้	ให้	VERB	_	_	0	root	_	SpaceAfter=No|Gloss=give|Translit=hâj
 4	กำลังใจ	กำลังใจ	NOUN	_	_	3	obj	_	SpaceAfter=No|Gloss=morale|Translit=kam-laŋ-caj
 5	และ	และ	CCONJ	_	_	6	cc	_	SpaceAfter=No|Gloss=and|Translit=lɛ́ʔ
@@ -6191,10 +6191,10 @@
 15	คุณสมบัติ	คุณสมบัติ	NOUN	_	_	14	obj	_	SpaceAfter=No|Gloss=|Translit=
 16	อาวุโส	อาวุโส	VERB	_	_	15	acl	_	Gloss=|Translit=
 17	50	50	NUM	_	_	9	xcomp	_	Gloss=50|Translit=
-18	เปอร์เซ็น	_	NOUN	_	NounType=Clf|Foreign=Yes	17	clf	_	Gloss=percentage|Translit=
+18	เปอร์เซ็น	_	NOUN	_	Foreign=Yes|NounType=Clf	17	clf	_	Gloss=percentage|Translit=
 19	อีก	อีก	DET	_	PronType=Ind	20	det	_	Gloss=|Translit=
 20	50	50	NUM	_	_	17	conj	_	Gloss=50|Translit=
-21	เปอร์เซ็น	_	NOUN	_	NounType=Clf|Foreign=Yes	20	clf	_	Gloss=percentage|Translit=
+21	เปอร์เซ็น	_	NOUN	_	Foreign=Yes|NounType=Clf	20	clf	_	Gloss=percentage|Translit=
 22	ให้	ให้	VERB	_	_	20	acl	_	SpaceAfter=No|Gloss=give|Translit=
 23	คิด	คิด	VERB	_	_	22	compound:svc	_	SpaceAfter=No|Gloss=|Translit=
 24	อาวุโส	อาวุโส	NOUN	_	_	23	obj	_	SpaceAfter=No|Gloss=|Translit=
