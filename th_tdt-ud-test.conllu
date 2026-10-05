@@ -4,7 +4,7 @@
 # text_en = “Sudarat” announces on stage at a major rally in Don Mueang: “Solve Bangkok’s suffering immediately,” tackling both toxic air pollution and recurring flooding.
 # tokenised_text = “ สุดารัตน์ ” ประกาศ กลาง เวที ปราศรัย ใหญ่ ดอนเมือง “ แก้ ทุกข์ มหานคร ” ทันที ทั้ง ฝุ่น พิษ น้ำ ท่วม ซ้ำซาก
 # tokenised_translit =
-# tokenised_transcript = /sù-daː-rát/ /pràʔ-kàːt/ /klaːŋ/ /weː-thiː/ /praː-sǎj/ /jàj/ /dɔːn-mɯaŋ/ /kɛ̂ː/ /thúk/ /má-hǎː-ná-khɔːn/ /than-thiː/ /tháŋ/ /fùn/ /pít/ /náːm/ /thûam/ /sám-sâːk/
+# tokenised_transcript = /sù-daː-rát/ /pràʔ-kàːt/ /klaːŋ/ /weː-thiː/ /praː-sǎj/ /jàj/ /dɔːn-mɯaŋ/ /kɛ̂ː/ /thúk/ /má-hǎː-ná-khɔːn/ /than-thiː/ /tháŋ/ /fùn/ /pít/ /náːm/ /thûam/ /sám-sâːk/
 # phrase_type = sentence
 # sentence_position = headline
 # genre = political_news_article
@@ -37,7 +37,7 @@
 # text_en = (The news article) is publicised on Sunday 12th March 2023.
 # tokenised_text = เผยแพร่ วัน อาทิตย์ ที่ 12 มีนาคม พ.ศ. 2566
 # tokenised_translit = 
-# tokenised_transcript = /phɤ̌ːj-phrɛ̂ː/ /wan/ /ʔaː-thít/ /thîː/ /sìp-sɔ̌ːŋ/ /miː-naː-khom/ /phɔː-sɔ̌ː/ /sɔ̌ːŋ-phan-hâː-rɔ́ːj-hòk-sìp-hòk/
+# tokenised_transcript = /phɤ̌ːj-phrɛ̂ː/ /wan/ /ʔaː-thít/ /thîː/ /sìp-sɔ̌ːŋ/ /miː-naː-khom/ /phɔː-sɔ̌ː/ /sɔ̌ːŋ-phan-hâː-rɔ́ːj-hòk-sìp-hòk/
 # phrase_type = sentence
 # sentence_position = dateline
 # genre = political_news_article
@@ -57,7 +57,7 @@
 # text_en = The Thai Build Thai Party draws a crowd of over 3,000 at its Don Mueang rally.
 # tokenised_text = ไทย สร้าง ไทย ดอนเมือง “ พรึบ ” เวที ปราศรัย กว่า 3,000 คน
 # tokenised_translit =
-# tokenised_transcript = /thaj/ /sâːŋ/ /thaj/ /dɔːn-mɯaŋ/ /phrɯ̂p/ /weː-thiː/ /praː-sǎj/ /kwàː/ /sǎːm-phan/ /khon/
+# tokenised_transcript = /thaj/ /sâːŋ/ /thaj/ /dɔːn-mɯaŋ/ /phrɯ̂p/ /weː-thiː/ /praː-sǎj/ /kwàː/ /sǎːm-phan/ /khon/
 # phrase_type = sentence
 # sentence_position = sub-headline
 # genre = political_news_article
@@ -81,7 +81,7 @@
 # text_en = Sudarat announces a plan to “solve Bangkok’s suffering” immediately by tackling toxic air pollution and recurring flooding.
 # tokenised_text = “ สุดารัตน์ ” ประกาศ “ แก้ ทุกข์ มหานคร ” ทันที ทั้ง ฝุ่น พิษ น้ำ ท่วม ซ้ำซาก
 # tokenised_translit =
-# tokenised_transcript = /sù-daː-rát/ /pràʔ-kàːt/ /kɛ̂ː/ /thúk/ /má-hǎː-ná-khɔːn/ /than-thiː/ /tháŋ/ /fùn/ /pít/ /náːm/ /thûam/ /sám-sâːk/ 
+# tokenised_transcript = /sù-daː-rát/ /pràʔ-kàːt/ /kɛ̂ː/ /thúk/ /má-hǎː-ná-khɔːn/ /than-thiː/ /tháŋ/ /fùn/ /pít/ /náːm/ /thûam/ /sám-sâːk/ 
 # phrase_type = sentence
 # sentence_position = sub-headline
 # genre = political_news_article
@@ -108,7 +108,7 @@
 # text = ดันศึกษา Project สร้างเขื่อนในอ่าวไทย ก่อนกรุงเทพฯ จะจมบาดาลใน 10 ปีข้างหน้า จากสภาวะโลกร้อน
 # text_en = (She also) pushes for a study on constructing a seawall in the Gulf of Thailand before Bangkok faces the risk of sinking within the next 10 years due to global warming.
 # tokenised_text = ดัน ศึกษา Project สร้าง เขื่อน ใน อ่าว ไทย ก่อน กรุงเทพ ฯ จะ จม บาดาล ใน 10 ปี ข้าง หน้า จาก สภาวะ โลก ร้อน
-# tokenised_translit = /dan/ /sɯ̀k-sǎː/ /proː-cèk/ /sâːŋ/ /khɯ̀an/ /naj/ /ʔàːw/ /thaj/ /kɔ̀ːn/ /kruŋ-thêːp/ /càʔ/ /com/ /baː-daːn/ /naj/ /sìp/ /piː/ /khâːŋ/ /nâː/ /càːk/ /sà-phaː-wáʔ/ /lôːk/ /rɔ́ːn/
+# tokenised_translit = /dan/ /sɯ̀k-sǎː/ /proː-cèk/ /sâːŋ/ /khɯ̀an/ /naj/ /ʔàːw/ /thaj/ /kɔ̀ːn/ /kruŋ-thêːp/ /càʔ/ /com/ /baː-daːn/ /naj/ /sìp/ /piː/ /khâːŋ/ /nâː/ /càːk/ /sà-phaː-wáʔ/ /lôːk/ /rɔ́ːn/
 # tokenised_transcript =
 # phrase_type = sentence
 # sentence_position = sub-headline
@@ -144,7 +144,7 @@
 # text_en = (She said) (the party) is ready to use technology to address these issues.
 # tokenised_text = พร้อม ใช้ เทคโนโลยี ลุย จัดการ ปัญหา
 # tokenised_translit =
-# tokenised_transcript = /phrɔ́ːm/ /cháj/ /thék-noː-loː-jiː/ /luj/ /càt-kaːn/ /pan-hǎː/ 
+# tokenised_transcript = /phrɔ́ːm/ /cháj/ /thék-noː-loː-jiː/ /luj/ /càt-kaːn/ /pan-hǎː/ 
 # phrase_type = sentence
 # sentence_position = sub-headline
 # genre = political_news_article
@@ -162,7 +162,7 @@
 # text_en = (She) pledges that toxic smog will be eliminated within three years.
 # tokenised_text = การันตี บอก ลา ฝุ่น พิษ ภาย ใน 3 ปี ต้อง จบ
 # tokenised_translit =
-# tokenised_transcript = /kaː-ran-tiː/ /bɔ̀ːk/ /laː/ /fùn/ /pít/ /phaːj/ /naj/ /sǎːm/ /piː/ /tɔ̂ŋ/ /còp/
+# tokenised_transcript = /kaː-ran-tiː/ /bɔ̀ːk/ /laː/ /fùn/ /pít/ /phaːj/ /naj/ /sǎːm/ /piː/ /tɔ̂ŋ/ /còp/
 # phrase_type = sentence
 # sentence_position = sub-headline
 # genre = political_news_article
@@ -185,7 +185,7 @@
 # text_en = (She) highlights and admires “Keng Karun” as a true democratic fighter.
 # tokenised_text = ชู “ เก่ง การุณ ” นัก สู้ เพื่อ ประชาธิปไตย ตัว จริง
 # tokenised_translit =
-# tokenised_transcript = /chuː/ /kèŋ/ /kaː-run/ /nák/ /sûː/ /phɯ̂a/ /pràʔ-chaː-thíp-pà-taj/ /tua/ /ciŋ/ 
+# tokenised_transcript = /chuː/ /kèŋ/ /kaː-run/ /nák/ /sûː/ /phɯ̂a/ /pràʔ-chaː-thíp-pà-taj/ /tua/ /ciŋ/ 
 # phrase_type = sentence
 # sentence_position = sub-headline
 # genre = political_news_article
@@ -208,7 +208,7 @@
 # text_en = (She) appeals to Don Mueang voters to choose Keng, someone who has never abandoned the people of Don Mueang.
 # tokenised_text = อ้อน คน ดอนเมือง เลือก เก่ง คน ที่ ไม่ เคย ทิ้ง ชาว ดอนเมือง
 # tokenised_translit =
-# tokenised_transcript = /ʔɔ̂ːn/ /khon/ /dɔːn-mɯaŋ/ /lɯ̂ak/ /kèŋ/ /khon/ /thîː/ /mâj/ /khɤːj/ /thíŋ/ /chaːw/ /dɔːn-mɯaŋ/
+# tokenised_transcript = /ʔɔ̂ːn/ /khon/ /dɔːn-mɯaŋ/ /lɯ̂ak/ /kèŋ/ /khon/ /thîː/ /mâj/ /khɤːj/ /thíŋ/ /chaːw/ /dɔːn-mɯaŋ/
 # phrase_type = sentence
 # sentence_position = sub-headline
 # genre = political_news_article
@@ -232,7 +232,7 @@
 # text_en = At 4:00 p.m. at Pin Charoen 2 community in Don Mueang district, Lady Sudarat Keyuraphan, leader of the party, along with Sqn.Ldr. Sitha Tiwari, party secretary; Mister Supant Mongkolsuthree, deputy party leader; Gp.Capt. Anudith Nakornthap, director of the Anti-Corruption Office; and Mister Karun Hosakul, a prospective MP candidate for Don Mueang representing the Thai Build Thai Party, took the stage to deliver a speech titled “Solve Bangkok’s Suffering", (and) met with local residents at Pin Charoen 2, where more than 3,000 people from Don Mueang gathered to attend.
 # tokenised_text = 16.00 น. ที่ ชุมชน ปิ่นเจริญ 2 เขต ดอนเมือง คุณหญิง สุดารัตน์ เกยุราพันธุ์ หัวหน้า พรรค น.ต. ศิธา ทิวารี เลขาธิการ พรรค นาย สุพันธุ์ มงคลสุธี รอง หัวหน้า พรรค น.อ. อนุดิษฐ์ นาครทรรพ ผอ. สำนักงาน ปราบ โกง นาย การุณ โหสกุล ว่าที่ ผู้ สมัคร ส.ส. เขต ดอนเมือง พรรค ไทย สร้าง ไทย ขึ้น เวที ปราศรัย “ แก้ ทุกข์ มหานคร กทม. ” พบปะ พี่ น้อง ประชาชน ชาว ดอนเมือง ที่ ปิ่นเจริญ 2 ซึ่ง มี พี่ น้อง ชาว ดอนเมือง แห่ ฟัง กว่า 3,000 คน
 # tokenised_translit =
-# tokenised_transcript = /sìp-hòk/ /naː-lí-kaː/ /thîː/ /chum-chon/ /pìn-cà-rɤːn/ /sɔ̌ːŋ/ /khèːt/ /dɔːn-mɯaŋ/ /khun-jǐŋ/ /sù-daː-rát/ /keː-jú-raː-phan/ /hǔa-nâː/ /phák/ /nɔː-tɔː/ /sì-thaː/ /thí-waː-riː/ /leː-khǎː-thí-kaːn/ /phák/ /naːj/ /sù-phan/ /moŋ-khon-sù-thiː/ /rɔːŋ/ /hǔa-nâː/ /phák/ /nɔː-ʔɔː/ /ʔà-nú-dìt/ /naː-khɔːn-tháp/ /phɔ̌ː-ʔɔː/ /sǎm-nák-ŋaːn/ /pràːp/ /koːŋ/ /naːj/ /kaː-run/ /hǒː-sà-kun/ /wâː-thîː/ /phûː/ /sà-màk/ /sɔ̌ː-sɔ̌ː/ /khèːt/ /dɔːn-mɯaŋ/ /phák/ /thaj/ /sâːŋ/ /thaj/ /khɯ̂n/ /weː-thiː/ /praː-sǎj/ /kɛ̂ː/ /thúk/ /má-hǎː-ná-khɔːn/ /kɔː-thɔː-mɔː/ /phóp-pàʔ/ /phîː/ /nɔ́ːŋ/ /pràʔ-chaː-chon/ /chaːw/ /dɔːn-mɯaŋ/ /thîː/ /pìn-cà-rɤːn/ /sɔ̌ːŋ/ /sɯ̂ŋ/ /miː/ /phîː/ /nɔ́ːŋ/ /chaːw/ /dɔːn-mɯaŋ/ /hɛ̀ː/ /faŋ/ /kwàː/ /sǎːm-phan/ /khon/
+# tokenised_transcript = /sìp-hòk/ /naː-lí-kaː/ /thîː/ /chum-chon/ /pìn-cà-rɤːn/ /sɔ̌ːŋ/ /khèːt/ /dɔːn-mɯaŋ/ /khun-jǐŋ/ /sù-daː-rát/ /keː-jú-raː-phan/ /hǔa-nâː/ /phák/ /nɔː-tɔː/ /sì-thaː/ /thí-waː-riː/ /leː-khǎː-thí-kaːn/ /phák/ /naːj/ /sù-phan/ /moŋ-khon-sù-thiː/ /rɔːŋ/ /hǔa-nâː/ /phák/ /nɔː-ʔɔː/ /ʔà-nú-dìt/ /naː-khɔːn-tháp/ /phɔ̌ː-ʔɔː/ /sǎm-nák-ŋaːn/ /pràːp/ /koːŋ/ /naːj/ /kaː-run/ /hǒː-sà-kun/ /wâː-thîː/ /phûː/ /sà-màk/ /sɔ̌ː-sɔ̌ː/ /khèːt/ /dɔːn-mɯaŋ/ /phák/ /thaj/ /sâːŋ/ /thaj/ /khɯ̂n/ /weː-thiː/ /praː-sǎj/ /kɛ̂ː/ /thúk/ /má-hǎː-ná-khɔːn/ /kɔː-thɔː-mɔː/ /phóp-pàʔ/ /phîː/ /nɔ́ːŋ/ /pràʔ-chaː-chon/ /chaːw/ /dɔːn-mɯaŋ/ /thîː/ /pìn-cà-rɤːn/ /sɔ̌ːŋ/ /sɯ̂ŋ/ /miː/ /phîː/ /nɔ́ːŋ/ /chaːw/ /dɔːn-mɯaŋ/ /hɛ̀ː/ /faŋ/ /kwàː/ /sǎːm-phan/ /khon/
 # phrase_type = sentence
 # sentence_position = body
 # genre = political_news_article
@@ -317,7 +317,7 @@
 # text_en = Lady Sudarat said that every time she visited Don Mueang, it warmed her heart.
 # tokenised_text = คุณหญิง สุดารัตน์ กล่าว ว่า ลง พื้นที่ ดอนเมือง ครั้ง ใด อบอุ่น หัวใจ ทุก ครั้ง
 # tokenised_translit =
-# tokenised_transcript = /khun-jǐŋ/ /sù-daː-rát/ /klàːw/ /wâː/ /loŋ/ /phɯ́ːn-thîː/ /dɔːn-mɯaŋ/ /khráŋ/ /daj/ /ʔòp-ʔùn/ /hǔa-caj/ /thúk/ /khráŋ/
+# tokenised_transcript = /khun-jǐŋ/ /sù-daː-rát/ /klàːw/ /wâː/ /loŋ/ /phɯ́ːn-thîː/ /dɔːn-mɯaŋ/ /khráŋ/ /daj/ /ʔòp-ʔùn/ /hǔa-caj/ /thúk/ /khráŋ/
 # phrase_type = sentence
 # sentence_position = body
 # genre = political_news_article
@@ -342,7 +342,7 @@
 # text_en = (She) felt a deep bond with the local residents, as this was where she had been first elected as an MP.
 # tokenised_text = มี ความ ผูกพัน กับ พี่ น้อง ชาว ดอนเมือง เนื่อง จาก เป็น ส.ส. ครั้ง แรก ใน พื้นที่ แห่ง นี้
 # tokenised_translit =
-# tokenised_transcript = /miː/ /khwaːm/ /phuːk-phan/ /kap/ /phîː/ /nɔ́ːŋ/ /chaːw/ /dɔːn-mɯaŋ/ /nɯ̂aŋ/ /càːk/ /pen/ /sɔ̌ː-sɔ̌ː/ /khráŋ/ /rɛːk/ /naj/ /phɯ́ːn-thîː/ /hɛ̀ːŋ/ /níː/
+# tokenised_transcript = /miː/ /khwaːm/ /phuːk-phan/ /kap/ /phîː/ /nɔ́ːŋ/ /chaːw/ /dɔːn-mɯaŋ/ /nɯ̂aŋ/ /càːk/ /pen/ /sɔ̌ː-sɔ̌ː/ /khráŋ/ /rɛːk/ /naj/ /phɯ́ːn-thîː/ /hɛ̀ːŋ/ /níː/
 # phrase_type = sentence
 # sentence_position = body
 # genre = political_news_article
@@ -372,7 +372,7 @@
 # text_en = (She) witnessed their problems and hardships and consistently supported and helped them.
 # tokenised_text = เห็น ปัญหา เห็น ความ ทุกข์ ยาก และ คอย ดูแล ช่วยเหลือ กัน มา ตลอด
 # tokenised_translit =
-# tokenised_transcript = /hěn/ /pan-hǎː/ /hěn/ /khwaːm/ /thúk/ /jâːk/ /lɛ́ʔ/ /khɔːj/ /duː-lɛː/ /chûaj-lɯa/ /kan/ /maː/ /tà-lɔːt/
+# tokenised_transcript = /hěn/ /pan-hǎː/ /hěn/ /khwaːm/ /thúk/ /jâːk/ /lɛ́ʔ/ /khɔːj/ /duː-lɛː/ /chûaj-lɯa/ /kan/ /maː/ /tà-lɔːt/
 # phrase_type = sentence
 # sentence_position = body
 # genre = political_news_article
@@ -397,7 +397,7 @@
 # text_en = (She) pushed forward many policies that led to tangible results, but many issues still remained and had yet to be seriously addressed.
 # tokenised_text = ได้ ผลักดัน หลาย นโยบาย จน สำเร็จ เป็น รูปธรรม แต่ ก็ ยัง มี อีก หลากหลาย ปัญหา ที่ เกิด ขึ้น และ ยัง ไม่ ได้ รับ การ แก้ไข อย่าง จริงจัง
 # tokenised_translit =
-# tokenised_transcript = /dâj/ /phlàk-dan/ /lǎːj/ /ná-joː-baːj/ /con/ /sǎm-ret/ /pen/ /rûːp-pà-tham/ /tɛ̀ː/ /kɔ̂ː/ /jaŋ/ /miː/ /ʔìːk/ /làːk-lǎːj/ /pan-hǎː/ /thîː/ /kɤ̀ːt/ /khɯ̂n/ /lɛ́ʔ/ /jaŋ/ /mâj/ /dâj/ /ráp/ /kaːn/ /kɛ̂ː-khǎj/ /jàːŋ/ /ciŋ-caŋ/
+# tokenised_transcript = /dâj/ /phlàk-dan/ /lǎːj/ /ná-joː-baːj/ /con/ /sǎm-ret/ /pen/ /rûːp-pà-tham/ /tɛ̀ː/ /kɔ̂ː/ /jaŋ/ /miː/ /ʔìːk/ /làːk-lǎːj/ /pan-hǎː/ /thîː/ /kɤ̀ːt/ /khɯ̂n/ /lɛ́ʔ/ /jaŋ/ /mâj/ /dâj/ /ráp/ /kaːn/ /kɛ̂ː-khǎj/ /jàːŋ/ /ciŋ-caŋ/
 # phrase_type = sentence
 # sentence_position = body
 # genre = political_news_article
@@ -436,7 +436,7 @@
 # text_en = For example, regarding the PM2.5 air pollution problem, those responsible have not paid serious attention to solving the issue, causing it to worsen every year.
 # tokenised_text = เช่น ปัญหา ฝุ่น พิษ PM 2.5 ผู้ รับผิดชอบ ไม่ ใส่ใจ แก้ ปัญหา อย่าง จริงจัง ทำให้ ปัญหา หนักหน่วง มาก ขึ้น ทุก ปี
 # tokenised_translit =
-# tokenised_transcript = /chên/ /pan-hǎː/ /fùn/ /phít/ /phiː-ʔem/ /sɔ̌ːŋ-cùt-hâː/ /phûː/ /ráp-phìt-chɔ̂ːp/ /mâj/ /sàj-caj/ /kɛ̂ː/ /pan-hǎː/ /jàːŋ/ /ciŋ-caŋ/ /tham-hâj/ /pan-hǎː/ /nàk-nùaŋ/ /mâːk/ /khɯ̂n/ /thúk/ /piː/
+# tokenised_transcript = /chên/ /pan-hǎː/ /fùn/ /phít/ /phiː-ʔem/ /sɔ̌ːŋ-cùt-hâː/ /phûː/ /ráp-phìt-chɔ̂ːp/ /mâj/ /sàj-caj/ /kɛ̂ː/ /pan-hǎː/ /jàːŋ/ /ciŋ-caŋ/ /tham-hâj/ /pan-hǎː/ /nàk-nùaŋ/ /mâːk/ /khɯ̂n/ /thúk/ /piː/
 # phrase_type = sentence
 # sentence_position = body
 # genre = political_news_article
@@ -469,7 +469,7 @@
 # text_en = In recent weeks, pollution levels have exceeded standard limits, affecting people’s health.
 # tokenised_text = หลาย สัปดาห์ ที่ ผ่าน มา ฝุ่น พิษ เกิน ค่า มาตรฐาน กระทบ สุขภาพ ของ ประชาชน
 # tokenised_translit =
-# tokenised_transcript = /lǎːj/ /sàp-daː/ /thîː/ /phàːn/ /maː/ /fùn/ /phít/ /kɤːn/ /khâː/ /mâːt-trà-thǎːn/ /kràʔ-thop/ /sùk-khà-phaːp/ /khɔ̌ːŋ/ /pràʔ-chaː-chon/
+# tokenised_transcript = /lǎːj/ /sàp-daː/ /thîː/ /phàːn/ /maː/ /fùn/ /phít/ /kɤːn/ /khâː/ /mâːt-trà-thǎːn/ /kràʔ-thop/ /sùk-khà-phaːp/ /khɔ̌ːŋ/ /pràʔ-chaː-chon/
 # phrase_type = sentence
 # sentence_position = body
 # genre = political_news_article
@@ -495,7 +495,7 @@
 # text_en = This has made it one of the cities with consistently among the worst air quality in the world each year.
 # tokenised_text = ซึ่ง ถือ เป็น เมือง ที่ มี คุณภาพ อากาศ แย่ ติด ท๊อป ของ โลก ต่อ เนื่อง ทุก ปี
 # tokenised_translit =
-# tokenised_transcript = /sɯ̂ŋ/ /thɯ̌ː/ /pen/ /mɯaŋ/ /thîː/ /miː/ /khun-nà-phâːp/ /ʔaː-kaːt/ /jɛ̂ː/ /tìt/ /thɔ́p/ /khɔ̌ːŋ/ /lôːk/ /tɔ̀ː/ /nɯ̂aŋ/ /thúk/ /piː/
+# tokenised_transcript = /sɯ̂ŋ/ /thɯ̌ː/ /pen/ /mɯaŋ/ /thîː/ /miː/ /khun-nà-phâːp/ /ʔaː-kaːt/ /jɛ̂ː/ /tìt/ /thɔ́p/ /khɔ̌ːŋ/ /lôːk/ /tɔ̀ː/ /nɯ̂aŋ/ /thúk/ /piː/
 # phrase_type = sentence
 # sentence_position = body
 # genre = political_news_article
@@ -524,7 +524,7 @@
 # text_en = Therefore, the Thai Build Thai Party declared “solving the PM2.5 pollution problem must be a national agenda.”
 # tokenised_text = ดัง นั้น พรรค ไทย สร้าง ไทย จึง ขอ ประกาศ ว่า “ การ แก้ไข ปัญหา ฝุ่น พิษ ต้อง เป็น วาระ แห่ง ชาติ ”
 # tokenised_translit =
-# tokenised_transcript =  /daŋ/ /nán/ /phák/ /thaj/ /sâːŋ/ /thaj/ /cɯŋ/ /khɔ̌ː/ /pràʔ-kàːt/ /wâː/ " /kaːn/ /kɛ̂ː-khǎj/ /pan-hǎː/ /fùn/ /phít/ /tɔ̂ŋ/ /pen/ /waː-ráʔ/ /hɛ̀ŋ/ /châːt/ "
+# tokenised_transcript =  /daŋ/ /nán/ /phák/ /thaj/ /sâːŋ/ /thaj/ /cɯŋ/ /khɔ̌ː/ /pràʔ-kàːt/ /wâː/ " /kaːn/ /kɛ̂ː-khǎj/ /pan-hǎː/ /fùn/ /phít/ /tɔ̂ŋ/ /pen/ /waː-ráʔ/ /hɛ̀ŋ/ /châːt/ "
 # phrase_type = sentence
 # sentence_position = body
 # genre = political_news_article
@@ -558,7 +558,7 @@
 # text_en = If the Thai Build Thai Party were to form a government, one of the immediate actions would be to ban vehicles emitting black smoke from operating on roads in Bangkok, especially public transport vehicles and trucks. In addition, the loading and unloading of goods would need to be restricted to areas outside the city.
 # tokenised_text = และ หาก ไทย สร้าง ไทย เป็น รัฐบาล สิ่ง ที่ ต้อง ทำ ทันที คือ การ ห้าม รถ ที่ มี ควัน ดำ วิ่ง ใน ท้อง ถนน เขต กรุงเทพ ฯ โดย เฉพาะ รถ ขน ส่ง สาธารณะ และ รถ บรรทุก รวม ถึง การ ขน ถ่าย สินค้า ต้อง ทำ ได้ เฉพาะ เขต ที่ อยู่ นอก เมือง เท่า นั้น
 # tokenised_translit =
-# tokenised_transcript = /lɛ́ʔ/ /hàːk/ /thaj/ /sâːŋ/ /thaj/ /pen/ /rát-thà-baːn/ /sìŋ/ /thîː/ /tɔ̂ŋ/ /tham/ /than-thiː/ /khɯː/ /kaːn/ /hâːm/ /rót/ /thîː/ /miː/ /khwan/ /dam/ /wîŋ/ /naj/ /thɔ́ːŋ/ /thà-nǒn/ /khèːt/ /kruŋ-thêːp/ /doːj/ /chà-phɔʔ/ /rót/ /khǒn/ /sòŋ/ /sǎː-thaː-rá-náʔ/ /lɛ́ʔ/ /rót/ /ban-thúk/ /ruam/ /thɯ̌ŋ/ /kaːn/ /khǒn/ /thàːj/ /sǐn-kháː/ /tɔ̂ŋ/ /tham/ /dâj/ /chà-phɔʔ/ /khèːt/ /thîː/ /jùː/ /nɔ̂ːk/ /mɯaŋ/ /thâw/ /nán/
+# tokenised_transcript = /lɛ́ʔ/ /hàːk/ /thaj/ /sâːŋ/ /thaj/ /pen/ /rát-thà-baːn/ /sìŋ/ /thîː/ /tɔ̂ŋ/ /tham/ /than-thiː/ /khɯː/ /kaːn/ /hâːm/ /rót/ /thîː/ /miː/ /khwan/ /dam/ /wîŋ/ /naj/ /thɔ́ːŋ/ /thà-nǒn/ /khèːt/ /kruŋ-thêːp/ /doːj/ /chà-phɔʔ/ /rót/ /khǒn/ /sòŋ/ /sǎː-thaː-rá-náʔ/ /lɛ́ʔ/ /rót/ /ban-thúk/ /ruam/ /thɯ̌ŋ/ /kaːn/ /khǒn/ /thàːj/ /sǐn-kháː/ /tɔ̂ŋ/ /tham/ /dâj/ /chà-phɔʔ/ /khèːt/ /thîː/ /jùː/ /nɔ̂ːk/ /mɯaŋ/ /thâw/ /nán/
 # phrase_type = sentence
 # sentence_position = body
 # genre = political_news_article
@@ -623,7 +623,7 @@
 # text_en = Strict vehicle inspections would also be enforced before allowing annual tax renewal.
 # tokenised_text = พร้อม เข้มงวด การ ตรวจ สภาพ รถ ก่อน ที่ จะ อนุญาต ให้ มี การ ต่อ ภาษี ประจำ ปี
 # tokenised_translit =
-# tokenised_transcript = /phrɔ́ːm/ /khêm-ŋûat/ /kaːn/ /trùat/ /sà-phâːp/ /rót/ /kɔ̀ːn/ /thîː/ /càʔ/ /ʔà-nú-jâːt/ /hâj/ /miː/ /kaːn/ /tɔ̀ː/ /phaː-sǐː/ /pràʔ-cam/ /piː/
+# tokenised_transcript = /phrɔ́ːm/ /khêm-ŋûat/ /kaːn/ /trùat/ /sà-phâːp/ /rót/ /kɔ̀ːn/ /thîː/ /càʔ/ /ʔà-nú-jâːt/ /hâj/ /miː/ /kaːn/ /tɔ̀ː/ /phaː-sǐː/ /pràʔ-cam/ /piː/
 # phrase_type = sentence
 # sentence_position = body
 # genre = political_news_article
@@ -652,7 +652,7 @@
 # text_en = Measures such as staggered working hours and school schedules, as well as Work from Home and Learn from Home policies, would be implemented in organizations and schools where possible to reduce black smoke emissions, which are a major cause of air pollution.
 # tokenised_text = ใช้ มาตรการ เหลื่อม เวลา การ ทำงาน และ เวลา เรียน หรือ Work from home และ Learn from home ใน องค์กร หรือ โรงเรียน ที่ สามารถ ทำ ได้ เพื่อ ลด การ ปล่อย ควัน ดำ ซึ่ง เป็น สาเหตุ ของ ฝุ่น พิษ
 # tokenised_translit =
-# tokenised_transcript = /cháj/ /mâːt-trà-kaːn/ /lɯ̂am/ /weː-laː/ /kaːn/ /tham-ŋaːn/ /lɛ́ʔ/ /weː-laː/ /rian/ /rɯ̌ː/ /wɤ́ːk/ /frɔːm/ /hoːm/ /lɛ́ʔ/ /lɤːn/ /frɔːm/ /hoːm/ /naj/ /ʔoŋ-kɔːn/ /rɯ̌ː/ /roːŋ-rian/ /thîː/ /sǎː-mâːt/ /tham/ /dâj/ /phɯ̂a/ /lót/ /kaːn/ /plɔ̀j/ /khwan/ /dam/ /sɯ̂ŋ/ /pen/ /sǎː-hèːt/ /khɔ̌ːŋ/ /fùn/ /phít/
+# tokenised_transcript = /cháj/ /mâːt-trà-kaːn/ /lɯ̂am/ /weː-laː/ /kaːn/ /tham-ŋaːn/ /lɛ́ʔ/ /weː-laː/ /rian/ /rɯ̌ː/ /wɤ́ːk/ /frɔːm/ /hoːm/ /lɛ́ʔ/ /lɤːn/ /frɔːm/ /hoːm/ /naj/ /ʔoŋ-kɔːn/ /rɯ̌ː/ /roːŋ-rian/ /thîː/ /sǎː-mâːt/ /tham/ /dâj/ /phɯ̂a/ /lót/ /kaːn/ /plɔ̀j/ /khwan/ /dam/ /sɯ̂ŋ/ /pen/ /sǎː-hèːt/ /khɔ̌ːŋ/ /fùn/ /phít/
 # phrase_type = sentence
 # sentence_position = body
 # genre = political_news_article
@@ -701,7 +701,7 @@
 # text_en = There must also be stricter control over the construction of electric rail systems and large-scale projects that have been often poorly managed and contribute to dust pollution. Furthermore, artificial rain should be used to help reduce pollution levels on days when air quality exceeds safe standards.
 # tokenised_text = รวม ถึง ต้อง เข้มงวด การ ก่อสร้าง รถ ไฟฟ้า หรือ การ ก่อสร้าง โครงการ ขนาด ใหญ่ ที่ ปล่อยปละละเลย จน ทำให้ เกิด ฝุ่น พิษ และ การ ใช้ ฝน เทียม เพื่อ ชำระ ฝุ่น พิษ ใน วัน ที่ มี ค่า ฝุ่น สูง เกิน กว่า มาตรฐาน
 # tokenised_translit =
-# tokenised_transcript = /ruam/ /thɯ̌ŋ/ /tɔ̂ŋ/ /khêm-ŋûat/ /kaːn/ /kɔ̀ː-sâːŋ/ /rót/ /faj-fáː/ /rɯ̌ː/ /kaːn/ /kɔ̀ː-sâːŋ/ /khroːŋ-kaːn/ /khà-nàːt/ /jàj/ /thîː/ /plɔ̀j-plàʔ-láʔ-lɤːj/ /con/ /tham-hâj/ /kɤ̀ːt/ /fùn/ /phít/ /lɛ́ʔ/ /kaːn/ /cháj/ /fǒn/ /thiam/ /phɯ̂a/ /cham-ráʔ/ /fùn/ /phít/ /naj/ /wan/ /thîː/ /miː/ /khâː/ /fùn/ /sǔːŋ/ /kɤːn/ /kwàː/ /mâːt-trà-thǎːn/
+# tokenised_transcript = /ruam/ /thɯ̌ŋ/ /tɔ̂ŋ/ /khêm-ŋûat/ /kaːn/ /kɔ̀ː-sâːŋ/ /rót/ /faj-fáː/ /rɯ̌ː/ /kaːn/ /kɔ̀ː-sâːŋ/ /khroːŋ-kaːn/ /khà-nàːt/ /jàj/ /thîː/ /plɔ̀j-plàʔ-láʔ-lɤːj/ /con/ /tham-hâj/ /kɤ̀ːt/ /fùn/ /phít/ /lɛ́ʔ/ /kaːn/ /cháj/ /fǒn/ /thiam/ /phɯ̂a/ /cham-ráʔ/ /fùn/ /phít/ /naj/ /wan/ /thîː/ /miː/ /khâː/ /fùn/ /sǔːŋ/ /kɤːn/ /kwàː/ /mâːt-trà-thǎːn/
 # phrase_type = sentence
 # sentence_position = body
 # genre = political_news_article
@@ -754,7 +754,7 @@
 # text_en = In the long term, public transport, motorcycles, and older vehicles must be converted to electric vehicles (EVs), with government support.
 # tokenised_text = ส่วน มาตรการ ระยะ ยาว จะ ต้อง ปรับ เปลี่ยน รถ สาธารณะ รถ มอเตอร์ไซค์ รวม ถึง รถยนต์ ที่ มี สภาพ เก่า ให้ เป็น EV โดย มี ภาค รัฐ เป็น ผู้ สนับสนุน
 # tokenised_translit =
-# tokenised_transcript = /sùan/ /mâːt-trà-kaːn/ /ráʔ-jáʔ/ /jaːw/ /càʔ/ /tɔ̂ŋ/ /pràp/ /plìan/ /rót/ /sǎː-thaː-rá-náʔ/ /rót/ /mɔː-tɤː-saj/ /ruam/ /thɯ̌ŋ/ /rót-jon/ /thîː/ /miː/ /sà-phâːp/ /kàw/ /hâj/ /pen/ /ʔiː-wiː/ /doːj/ /miː/ /phâːk/ /rát/ /pen/ /phûː/ /sà-nàp-sà-nǔn/
+# tokenised_transcript = /sùan/ /mâːt-trà-kaːn/ /ráʔ-jáʔ/ /jaːw/ /càʔ/ /tɔ̂ŋ/ /pràp/ /plìan/ /rót/ /sǎː-thaː-rá-náʔ/ /rót/ /mɔː-tɤː-saj/ /ruam/ /thɯ̌ŋ/ /rót-jon/ /thîː/ /miː/ /sà-phâːp/ /kàw/ /hâj/ /pen/ /ʔiː-wiː/ /doːj/ /miː/ /phâːk/ /rát/ /pen/ /phûː/ /sà-nàp-sà-nǔn/
 # phrase_type = sentence
 # sentence_position = body
 # genre = political_news_article
@@ -795,7 +795,7 @@
 # text_en = In addition, the agricultural sector should be supported in gaining access to tools for managing and processing leftover crop residues and weeds, turning them into useful products and generating income. This would help reduce open burning, which contributes to air pollution.
 # tokenised_text = นอกจาก นี้ จะ ต้อง ส่งเสริม ให้ ภาค การ เกษตร ได้ เข้า ถึง เครื่องมือ เพื่อ กำจัด เศษซาก วัชพืช ที่ เหลือใช้ เพื่อ นำ มา สร้าง ประโยชน์ สร้าง รายได้ ซึ่ง จะ ช่วย ลด การ เผา อัน ก่อ ให้ เกิด ฝุ่น พิษ ตาม มา ได้
 # tokenised_translit =
-# tokenised_transcript = /nɔ̂ːk-càːk/ /níː/ /càʔ/ /tɔ̂ŋ/ /sòŋ-sɤ̌ːm/ /hâj/ /phâːk/ /kaːn/ /kà-sèːt/ /dâj/ /khâw/ /thɯ̌ŋ/ /khrɯ̂aŋ-mɯː/ /phɯ̂a/ /kam-càt/ /seːt-sâːk/ /wát-chá-phɯ̂ːt/ /thîː/ /lɯ̌a-cháj/ /phɯ̂a/ /nam/ /maː/ /sâːŋ/ /pràʔ-jòːt/ /sâːŋ/ /râːj-dâj/ /sɯ̂ŋ/ /càʔ/ /chûaj/ /lót/ /kaːn/ /phǎw/ /ʔan/ /kɔ̀ː/ /hâj/ /kɤ̀ːt/ /fùn/ /phít/ /taːm/ /maː/ /dâj/
+# tokenised_transcript = /nɔ̂ːk-càːk/ /níː/ /càʔ/ /tɔ̂ŋ/ /sòŋ-sɤ̌ːm/ /hâj/ /phâːk/ /kaːn/ /kà-sèːt/ /dâj/ /khâw/ /thɯ̌ŋ/ /khrɯ̂aŋ-mɯː/ /phɯ̂a/ /kam-càt/ /seːt-sâːk/ /wát-chá-phɯ̂ːt/ /thîː/ /lɯ̌a-cháj/ /phɯ̂a/ /nam/ /maː/ /sâːŋ/ /pràʔ-jòːt/ /sâːŋ/ /râːj-dâj/ /sɯ̂ŋ/ /càʔ/ /chûaj/ /lót/ /kaːn/ /phǎw/ /ʔan/ /kɔ̀ː/ /hâj/ /kɤ̀ːt/ /fùn/ /phít/ /taːm/ /maː/ /dâj/
 # phrase_type = sentence
 # sentence_position = body
 # genre = political_news_article
@@ -848,7 +848,7 @@
 # text_en = Another major issue and source of hardship for the people is flooding. According to a report by Greenpeace, Bangkok could face severe flooding within the next 10 years due to global warming and rising sea levels caused by melting polar ice.
 # tokenised_text = ส่วน ปัญหา และ ความ ทุกข์ ของ พี่ น้อง อีก เรื่อง ที่ สำคัญ คือ ปัญหา น้ำ ท่วม ซึ่ง จาก รายงาน ของ “ กรีนพีซ ” ระบุ ว่า ใน อีก 10 ปี ข้าง หน้า กรุงเทพมหานคร มี โอกาส ถูก น้ำ ท่วม เนื่อง มา จาก สภาวะ โลก ร้อน และ การ ละลาย ของ น้ำแข็ง ขั้ว โลก หนุน ให้ น้ำ ทะเล สูง
 # tokenised_translit =
-# tokenised_transcript = /sùan/ /pan-hǎː/ /lɛ́ʔ/ /khwaːm/ /thúk/ /khɔ̌ːŋ/ /phîː/ /nɔ́ːŋ/ /ʔìːk/ /rɯ̂aŋ/ /thîː/ /sàm-khan/ /khɯː/ /pan-hǎː/ /náːm/ /thûam/ /sɯ̂ŋ/ /càːk/ /raːj-ŋaːn/ /khɔ̌ːŋ/ /kriːn-phíːt/ /ràʔ-bù/ /wâː/ /naj/ /ʔìːk/ /sìp/ /piː/ /khâːŋ/ /nâː/ /kruŋ-thêːp-má-hǎː-ná-khɔːn/ /miː/ /ʔoː-kaːt/ /thùːk/ /náːm/ /thûam/ /nɯ̂aŋ/ /maː/ /càːk/ /sà-phaː-wáʔ/ /lôːk/ /rɔ́ːn/ /lɛ́ʔ/ /kaːn/ /láʔ-laːj/ /khɔ̌ːŋ/ /náːm-khɛ̌ŋ/ /khûa/ /lôːk/ /nǔn/ /hâj/ /náːm/ /tháʔ-leː/ /sǔːŋ/
+# tokenised_transcript = /sùan/ /pan-hǎː/ /lɛ́ʔ/ /khwaːm/ /thúk/ /khɔ̌ːŋ/ /phîː/ /nɔ́ːŋ/ /ʔìːk/ /rɯ̂aŋ/ /thîː/ /sàm-khan/ /khɯː/ /pan-hǎː/ /náːm/ /thûam/ /sɯ̂ŋ/ /càːk/ /raːj-ŋaːn/ /khɔ̌ːŋ/ /kriːn-phíːt/ /ràʔ-bù/ /wâː/ /naj/ /ʔìːk/ /sìp/ /piː/ /khâːŋ/ /nâː/ /kruŋ-thêːp-má-hǎː-ná-khɔːn/ /miː/ /ʔoː-kaːt/ /thùːk/ /náːm/ /thûam/ /nɯ̂aŋ/ /maː/ /càːk/ /sà-phaː-wáʔ/ /lôːk/ /rɔ́ːn/ /lɛ́ʔ/ /kaːn/ /láʔ-laːj/ /khɔ̌ːŋ/ /náːm-khɛ̌ŋ/ /khûa/ /lôːk/ /nǔn/ /hâj/ /náːm/ /tháʔ-leː/ /sǔːŋ/
 # phrase_type = sentence
 # sentence_position = body
 # genre = political_news_article
@@ -915,7 +915,7 @@
 # text_en = The Thai Build Thai Party is therefore preparing to study the construction of a dam in the Gulf of Thailand, drawing seriously on the Delta Works in the Netherlands as a case study.
 # tokenised_text = พรรค ไทย สร้าง ไทย จึง เตรียม ศึกษา เรื่อง การ สร้าง เขื่อน กั้น อ่าว ไทย โดย หยิบยก กรณี ศึกษา Delta Works ใน เนเธอร์แลนด์ มา ศึกษา อย่าง จริงจัง
 # tokenised_translit =
-# tokenised_transcript = /phák/ /thaj/ /sâːŋ/ /thaj/ /cɯŋ/ /triam/ /sɯ̀k-sǎː/ /rɯ̂aŋ/ /kaːn/ /sâːŋ/ /khɯ̀an/ /kân/ /ʔàːw/ /thaj/ /doːj/ /jìp-jók/ /kɔː-rá-niː/ /sɯ̀k-sǎː/ /dew-tâː/ /wɤ́ːk/ /naj/ /neː-thɤ̂ː-lɛːn/ /maː/ /sɯ̀k-sǎː/ /jàːŋ/ /ciŋ-caŋ/
+# tokenised_transcript = /phák/ /thaj/ /sâːŋ/ /thaj/ /cɯŋ/ /triam/ /sɯ̀k-sǎː/ /rɯ̂aŋ/ /kaːn/ /sâːŋ/ /khɯ̀an/ /kân/ /ʔàːw/ /thaj/ /doːj/ /jìp-jók/ /kɔː-rá-niː/ /sɯ̀k-sǎː/ /dew-tâː/ /wɤ́ːk/ /naj/ /neː-thɤ̂ː-lɛːn/ /maː/ /sɯ̀k-sǎː/ /jàːŋ/ /ciŋ-caŋ/
 # phrase_type = sentence
 # sentence_position = body
 # genre = political_news_article
@@ -953,7 +953,7 @@
 # text_en = This is to prevent negative impacts on the country’s economy and the livelihoods of Bangkok residents, making it necessary to begin such studies immediately.
 # tokenised_text = เพื่อ ไม่ ให้ กระทบ เศรษฐกิจ ของ ประเทศ และ ความ เป็นอยู่ ของ พี่ น้อง ชาว กรุงเทพ ฯ จึง ต้อง เร่ง ศึกษา ตั้งแต่ วัน นี้
 # tokenised_translit =
-# tokenised_transcript = /phɯ̂a/ /mâj/ /hâj/ /kràʔ-thóp/ /sèːt-thà-kìt/ /khɔ̌ːŋ/ /pràʔ-thêːt/ /lɛ́ʔ/ /khwaːm/ /pen-jùː/ /khɔ̌ːŋ/ /phîː/ /nɔ́ːŋ/ /chaːw/ /kruŋ-thêːp/ /cɯŋ/ /tɔ̂ŋ/ /rêŋ/ /sɯ̀k-sǎː/ /tâŋ-tɛ̀ː/ /wan/ /níː/
+# tokenised_transcript = /phɯ̂a/ /mâj/ /hâj/ /kràʔ-thóp/ /sèːt-thà-kìt/ /khɔ̌ːŋ/ /pràʔ-thêːt/ /lɛ́ʔ/ /khwaːm/ /pen-jùː/ /khɔ̌ːŋ/ /phîː/ /nɔ́ːŋ/ /chaːw/ /kruŋ-thêːp/ /cɯŋ/ /tɔ̂ŋ/ /rêŋ/ /sɯ̀k-sǎː/ /tâŋ-tɛ̀ː/ /wan/ /níː/
 # phrase_type = sentence
 # sentence_position = body
 # genre = political_news_article
@@ -988,7 +988,7 @@
 # text_en = Lady Sudarat also spoke about Mister Karun Hosakul, describing him as a fighter for democracy who has faced terrorism charges and continued to fight his case through legal processes to this day.
 # tokenised_text = คุณหญิง สุดารัตน์ ยัง กล่าว ถึง นาย การุณ โหสกุล ซึ่ง ถือ เป็น นัก ต่อสู้ เพื่อ ประชาธิปไตย จน ถูก ตั้ง ข้อหา ก่อ การ ร้าย จน ถึง วัน นี้ ก็ ยัง ต้อง ต่อสู้ ตาม กระบวนการ
 # tokenised_translit =
-# tokenised_transcript = /khun-jǐŋ/ /sù-daː-rát/ /jaŋ/ /klàːw/ /thɯ̌ŋ/ /naːj/ /kaː-run/ /hǒː-sà-kun/ /sɯ̂ŋ/ /thɯ̌ː/ /pen/ /nák/ /tɔ̀ː-sûː/ /phɯ̂a/ /pràʔ-chaː-thíp-pà-taj/ /con/ /thùːk/ /tâŋ/ /khɔ̂ː-hǎː/ /kɔ̀ː-kaːn-ráːj/ /con/ /thɯ̌ŋ/ /wan/ /níː/ /kɔ̂ː/ /jaŋ/ /tɔ̂ŋ/ /tɔ̀ː-sûː/ /taːm/ /kràʔ-buan-kaːn/
+# tokenised_transcript = /khun-jǐŋ/ /sù-daː-rát/ /jaŋ/ /klàːw/ /thɯ̌ŋ/ /naːj/ /kaː-run/ /hǒː-sà-kun/ /sɯ̂ŋ/ /thɯ̌ː/ /pen/ /nák/ /tɔ̀ː-sûː/ /phɯ̂a/ /pràʔ-chaː-thíp-pà-taj/ /con/ /thùːk/ /tâŋ/ /khɔ̂ː-hǎː/ /kɔ̀ː-kaːn-ráːj/ /con/ /thɯ̌ŋ/ /wan/ /níː/ /kɔ̂ː/ /jaŋ/ /tɔ̂ŋ/ /tɔ̀ː-sûː/ /taːm/ /kràʔ-buan-kaːn/
 # phrase_type = sentence
 # sentence_position = body
 # genre = political_news_article
@@ -1032,7 +1032,7 @@
 # text_en = (She) added that he had long been dedicated to serving the people of Don Mueang, with a strong spirit of public service.
 # tokenised_text = นอกจาก นี้ ยัง เป็น คน ที่ มี จิต วิญญาณ รับใช้ พี่ น้อง ชาว ดอนเมือง มา อย่าง ยาว นาน
 # tokenised_translit =
-# tokenised_transcript = /nɔ̂ːk-càːk/ /níː/ /jaŋ/ /pen/ /khon/ /thîː/ /miː/ /cìt/ /win-jaːn/ /ráp-cháj/ /phîː/ /nɔ́ːŋ/ /chaːw/ /dɔːn/ /mɯaŋ/ /maː/ /jàːŋ/ /jaːw/ /naːn/
+# tokenised_transcript = /nɔ̂ːk-càːk/ /níː/ /jaŋ/ /pen/ /khon/ /thîː/ /miː/ /cìt/ /win-jaːn/ /ráp-cháj/ /phîː/ /nɔ́ːŋ/ /chaːw/ /dɔːn/ /mɯaŋ/ /maː/ /jàːŋ/ /jaːw/ /naːn/
 # phrase_type = sentence
 # sentence_position = body
 # genre = political_news_article
@@ -1062,7 +1062,7 @@
 # text_en = (She said that he) was hardworking, always available anywhere and anytime.
 # tokenised_text = เป็น คน ที่ ทุ่มเท ทำงาน เรียก ใช้ ได้ ทุก พื้นที่ ทุก เวลา
 # tokenised_translit =
-# tokenised_transcript = /pen/ /khon/ /thîː/ /thûm-theː/ /tham-ŋaːn/ /rîak/ /cháj/ /dâj/ /thúk/ /phɯ́ː-thîː/ /thúk/ /weː-laː/
+# tokenised_transcript = /pen/ /khon/ /thîː/ /thûm-theː/ /tham-ŋaːn/ /rîak/ /cháj/ /dâj/ /thúk/ /phɯ́ː-thîː/ /thúk/ /weː-laː/
 # phrase_type = sentence
 # sentence_position = body
 # genre = political_news_article
@@ -1103,7 +1103,7 @@
 # text_en = (She said that he) has never abandoned the people of Don Mueang in difficult times under the slogan, “Don Mueang stands together, Karun leaves no one behind.”
 # tokenised_text = ไม่ เคย ทอดทิ้ง พี่ น้อง ชาว ดอนเมือง ยาม ยาก ลำบาก ตาม สโลแกน ที่ ว่า “ ดอนเมือง ไม่ ทิ้ง กัน การุณ ไม่ ทิ้ง ใคร ”
 # tokenised_translit =
-# tokenised_transcript = /mâj/ /khɤːj/ /thɔ̂ːt-thíŋ/ /phîː/ /nɔ́ːŋ/ /chaːw/ /dɔːn-mɯaŋ/ /jaːm/ /jâːk/ /lam-baːk/ /taːm/ /sà-loː-kɛːn/ /thîː/ /wâː/ "/dɔːn-mɯaŋ/ /mâj/ /thíŋ/ /kan/ /kaː-run/ /mâj/ /thíŋ/ /khraj/"
+# tokenised_transcript = /mâj/ /khɤːj/ /thɔ̂ːt-thíŋ/ /phîː/ /nɔ́ːŋ/ /chaːw/ /dɔːn-mɯaŋ/ /jaːm/ /jâːk/ /lam-baːk/ /taːm/ /sà-loː-kɛːn/ /thîː/ /wâː/ "/dɔːn-mɯaŋ/ /mâj/ /thíŋ/ /kan/ /kaː-run/ /mâj/ /thíŋ/ /khraj/"
 # phrase_type = sentence
 # sentence_position = body
 # genre = political_news_article
@@ -1139,7 +1139,7 @@
 # text_en = (She) expressed confidence that Mister Karun would once again win in the Don Mueang constituency and become another key force in the Thai Build Thai Party in helping to create a path forward for Thailand.
 # tokenised_text = จึง มั่นใจ ว่า นาย การุณ จะ สามารถ ปัก ธง ใน เขต ดอนเมือง ได้ อีก ครั้ง และ จะ เป็น อีก หนึ่ง กำลัง ของ ไทย สร้าง ไทย ที่ ช่วย กัน สร้าง ทาง รอด ให้ กับ ประเทศ ไทย ได้
 # tokenised_translit =
-# tokenised_transcript = /cɯŋ/ /mân-caj/ /wâː/ /naːj/ /kaː-run/ /càʔ/ /sǎː-mâːt/ /pàk/ /thoŋ/ /naj/ /khèːt/ /dɔːn-mɯaŋ/ /dâj/ /ʔìːk/ /khráŋ/ /lɛ́ʔ/ /càʔ/ /pen/ /ʔìːk/ /nɯ̀ŋ/ /kam-laŋ/ /khɔ̌ːŋ/ /thaj/ /sâːŋ/ /thaj/ /thîː/ /chûaj/ /kan/ /sâːŋ/ /thaːŋ/ /rɔ̂ːt/ /hâj/ /kàp/ /pràʔ-thêt/ /thaj/ /dâj/
+# tokenised_transcript = /cɯŋ/ /mân-caj/ /wâː/ /naːj/ /kaː-run/ /càʔ/ /sǎː-mâːt/ /pàk/ /thoŋ/ /naj/ /khèːt/ /dɔːn-mɯaŋ/ /dâj/ /ʔìːk/ /khráŋ/ /lɛ́ʔ/ /càʔ/ /pen/ /ʔìːk/ /nɯ̀ŋ/ /kam-laŋ/ /khɔ̌ːŋ/ /thaj/ /sâːŋ/ /thaj/ /thîː/ /chûaj/ /kan/ /sâːŋ/ /thaːŋ/ /rɔ̂ːt/ /hâj/ /kàp/ /pràʔ-thêt/ /thaj/ /dâj/
 # phrase_type = sentence
 # sentence_position = body
 # genre = political_news_article
@@ -1187,7 +1187,7 @@
 # text_en = Capt Anudith announced a policy to reduce expenses for the people, especially the extremely high electricity costs.
 # tokenised_text = ด้าน น.อ. อนุดิษฐ์ ประกาศ ลด ค่า ใช้ จ่าย ให้ พี่ น้อง ประชาชน โดย เฉพาะ ค่า ไฟฟ้า ที่ แพง แสน แพง
 # tokenised_translit =
-# tokenised_transcript =  /dâːn/ /nɔː-ʔɔː/ /ʔà-nú-dit/ /pràʔ-kàːt/ /lót/ /khâː/ /cháj/ /càːj/ /hâj/ /phîː/ /nɔ́ːŋ/ /pràʔ-chaː-chon/  /doːj/ /chà-phɔʔ/ /khâː/ /faj-fáː/ /thîː/ /phɛːŋ/ /sɛ̌ːn/ /phɛːŋ/
+# tokenised_transcript =  /dâːn/ /nɔː-ʔɔː/ /ʔà-nú-dit/ /pràʔ-kàːt/ /lót/ /khâː/ /cháj/ /càːj/ /hâj/ /phîː/ /nɔ́ːŋ/ /pràʔ-chaː-chon/  /doːj/ /chà-phɔʔ/ /khâː/ /faj-fáː/ /thîː/ /phɛːŋ/ /sɛ̌ːn/ /phɛːŋ/
 # phrase_type = sentence
 # sentence_position = body
 # genre = political_news_article
@@ -1219,7 +1219,7 @@
 # text_en = If the Thai Build Thai Party was elected to form the government, he promised to immediately reduce electricity prices to no more than 3.5 baht per unit.
 # tokenised_text = หาก เลือก ไทย สร้าง ไทย ให้ เป็น รัฐบาล ขอ ประกาศ ลด ค่า ไฟฟ้า ทันที ให้ เหลือ ไม่ เกิน 3.5 บาท / หน่วย
 # tokenised_translit =
-# tokenised_transcript = /hàːk/ /lɯ̂ak/ /thaj/ /sâːŋ/ /thaj/ /hâj/ /pen/ /rát-thà-baːn/ /khɔ̌ː/ /pràʔ-kàːt/ /lót/ /khâː/ /faj-fáː/ /than-thiː/ /hâj/ /lɯ̌a/ /mâj/ /kɤːn/ /sǎːm-cùt-hâː/ /bàːt/ /tɔ̀ː/ /nùaj/
+# tokenised_transcript = /hàːk/ /lɯ̂ak/ /thaj/ /sâːŋ/ /thaj/ /hâj/ /pen/ /rát-thà-baːn/ /khɔ̌ː/ /pràʔ-kàːt/ /lót/ /khâː/ /faj-fáː/ /than-thiː/ /hâj/ /lɯ̌a/ /mâj/ /kɤːn/ /sǎːm-cùt-hâː/ /bàːt/ /tɔ̀ː/ /nùaj/
 # phrase_type = sentence
 # sentence_position = body
 # genre = political_news_article
@@ -1253,7 +1253,7 @@
 # text_en = We are confident that we mean what we say and can truly achieve it.
 # tokenised_text = เรา มั่นใจ เรา พูด จริง ทำ ได้
 # tokenised_translit =
-# tokenised_transcript = /raw/ /mân-caj/ /raw/ /phûːt/ /ciŋ/ /tham/ /dâj/
+# tokenised_transcript = /raw/ /mân-caj/ /raw/ /phûːt/ /ciŋ/ /tham/ /dâj/
 # phrase_type = sentence
 # sentence_position = body
 # genre = political_news_article
@@ -1272,7 +1272,7 @@
 # text_en = Vote for the Thai Build Thai Party, and electricity bills will definitely be lower.
 # tokenised_text = เลือก ไทย สร้าง ไทย ค่า ไฟ ถูก ลง แน่
 # tokenised_translit =
-# tokenised_transcript = /lɯ̂ak/ /thaj/ /sâːŋ/ /thaj/ /khâː/ /faj/ /thùːk/ /loŋ/ /nɛ̂ː/
+# tokenised_transcript = /lɯ̂ak/ /thaj/ /sâːŋ/ /thaj/ /khâː/ /faj/ /thùːk/ /loŋ/ /nɛ̂ː/
 # phrase_type = sentence
 # sentence_position = body
 # genre = political_news_article
@@ -1293,7 +1293,7 @@
 # text_en = This is because the country has been robbed through electricity pricing to enrich capitalists, forcing Thai people to pay more than the actual cost.
 # tokenised_text = เพราะ ประเทศ ถูก ปล้น ค่า ไฟฟ้า เพื่อ ไป สร้าง ความ ร่ำรวย ให้ นายทุน ทำให้ คน ไทย ต้อง จ่าย ค่า ไฟ แพง กว่า ความ เป็น จริง
 # tokenised_translit =
-# tokenised_transcript = /phrɔ́ʔ/ /pràʔ-thêːt/ /thùːk/ /plôn/ /khâː/ /faj-fáː/ /phɯ̂a/ /paj/ /sâːŋ/ /khwaːm/ /râm-ruaj/ /hâj/ /naːj-thun/ /tham-hâj/ /khon/ /thaj/ /tɔ̂ŋ/ /càːj/ /khâː/ /faj/ /phɛːŋ/ /kwàː/ /khwaːm/ /pen/ /ciŋ/
+# tokenised_transcript = /phrɔ́ʔ/ /pràʔ-thêːt/ /thùːk/ /plôn/ /khâː/ /faj-fáː/ /phɯ̂a/ /paj/ /sâːŋ/ /khwaːm/ /râm-ruaj/ /hâj/ /naːj-thun/ /tham-hâj/ /khon/ /thaj/ /tɔ̂ŋ/ /càːj/ /khâː/ /faj/ /phɛːŋ/ /kwàː/ /khwaːm/ /pen/ /ciŋ/
 # phrase_type = sentence
 # sentence_position = body
 # genre = political_news_article
@@ -1330,7 +1330,7 @@
 # text_en = The government has favored private power producers by signing contracts for electricity generation far beyond actual demand—up to 53,000 kilowatt-hours, while real consumption has never exceeded 33,000 kilowatt-hours.
 # tokenised_text = โดย รัฐ ฯ เอื้อ นายทุน โรง ไฟฟ้า ทำ สัญญา ผลิต ไฟ ล่วงหน้า เกิน จำเป็น สูง ถึง 53,000 กิโลวัตต์ ชั่วโมง แต่ ประชาชน ใช้ ไฟฟ้า จริง ๆ ไม่ เคย เกิน 33,000 กิโลวัตต์ ชั่วโมง
 # tokenised_translit =
-# tokenised_transcript = /doːj/ /rát/ /ʔɯ̂a/ /naːj-thun/ /roːŋ/ /faj-fáː/ /tham/ /sǎn-jaː/ /phà-lìt/ /faj/ /lûaŋ-nâː/ /kɤːn/ /cam-pen/ /sǔːŋ/ /thɯ̌ŋ/ /hâː-mɯ̀ːn-sǎːm-phan/ /kì-loː-wàt/ /chûa-moːŋ/ /tɛ̀ː/ /pràʔ-chaː-chon/ /cháj/ /faj-fáː/ /ciŋ/ /ciŋ/ /mâj/ /khɤːj/ /kɤːn/ /sǎːm-mɯ̀ːn-sǎːm-phan/ /kì-loː-wàt/ /chûa-moːŋ/
+# tokenised_transcript = /doːj/ /rát/ /ʔɯ̂a/ /naːj-thun/ /roːŋ/ /faj-fáː/ /tham/ /sǎn-jaː/ /phà-lìt/ /faj/ /lûaŋ-nâː/ /kɤːn/ /cam-pen/ /sǔːŋ/ /thɯ̌ŋ/ /hâː-mɯ̀ːn-sǎːm-phan/ /kì-loː-wàt/ /chûa-moːŋ/ /tɛ̀ː/ /pràʔ-chaː-chon/ /cháj/ /faj-fáː/ /ciŋ/ /ciŋ/ /mâj/ /khɤːj/ /kɤːn/ /sǎːm-mɯ̀ːn-sǎːm-phan/ /kì-loː-wàt/ /chûa-moːŋ/
 # phrase_type = sentence
 # sentence_position = body
 # genre = political_news_article
@@ -1372,7 +1372,7 @@
 # text = ทำให้ประเทศไทยมีการสำรองไฟฟ้าเกินความต้องการใช้จริงสูงถึง 20,000 กิโลวัตต์ชั่วโมง หรือเกือบ 60% โดยที่โรงไฟฟ้าขนาดใหญ่เหล่านี้
 # text_en = As a result, Thailand has an electricity reserve exceeding actual demand by as much as 20,000 kilowatt-hours, or nearly 60% at the large power plants.
 # tokenised_text = ทำให้ ประเทศ ไทย มี การ สำรอง ไฟฟ้า เกิน ความ ต้องการ ใช้ จริง สูง ถึง 20,000 กิโลวัตต์ ชั่วโมง หรือ เกือบ 60 % โดย ที่ โรง ไฟฟ้า ขนาด ใหญ่ เหล่า นี้
-# tokenised_translit = /tham-hâj/ /pràʔ-thêːt/ /thaj/ /miː/ /kaːn/ /sǎm-rɔːŋ/ /faj-fáː/ /kɤːn/ /khwaːm/ /tɔ̂ŋ-kaːn/ /cháj/ /ciŋ/ /sǔːŋ/ /thɯ̌ŋ/ /sɔ̌ːŋ-mɯ̀ːn/ /kì-loː-wàt/ /chûa-moːŋ/ /rɯ̌ː/ /kɯ̀ap/ /hòk-sìp/ /pɤː-sen/ /doːj/ /thîː/ /roːŋ/ /faj-fáː/ /khà-nàːt/ /jàj/ /làw/ /níː/ 
+# tokenised_translit = /tham-hâj/ /pràʔ-thêːt/ /thaj/ /miː/ /kaːn/ /sǎm-rɔːŋ/ /faj-fáː/ /kɤːn/ /khwaːm/ /tɔ̂ŋ-kaːn/ /cháj/ /ciŋ/ /sǔːŋ/ /thɯ̌ŋ/ /sɔ̌ːŋ-mɯ̀ːn/ /kì-loː-wàt/ /chûa-moːŋ/ /rɯ̌ː/ /kɯ̀ap/ /hòk-sìp/ /pɤː-sen/ /doːj/ /thîː/ /roːŋ/ /faj-fáː/ /khà-nàːt/ /jàj/ /làw/ /níː/ 
 # tokenised_transcript =
 # phrase_type = sentence
 # sentence_position = body
@@ -1413,7 +1413,7 @@
 # text = แต่ประชาชนต้องจ่ายค่าไฟฟ้าที่ไม่ได้ใช้ ให้นายทุนเหล่านี้ไปฟรี ๆ ถึงปีละ 26,000 ล้านบาท ทั้งที่โรงไฟฟ้าของนายทุนใหญ่ไม่ได้เดินเครื่องผลิตจริงแม้แต่เมกกะวัตต์เดียว
 # text_en = However, the public is still required to pay for unused electricity, effectively handing over about 26 billion baht per year for free to large private investors. These large power plants have not yet operated to produce even a single megawatt.
 # tokenised_text = แต่ ประชาชน ต้อง จ่าย ค่า ไฟฟ้า ที่ ไม่ ได้ ใช้ ให้ นายทุน เหล่า นี้ ไป ฟรี ๆ ถึง ปี ละ 26,000 ล้าน บาท ทั้งที่ โรง ไฟฟ้า ของ นายทุน ใหญ่ ไม่ ได้ เดิน เครื่อง ผลิต จริง แม้แต่ เมกกะวัตต์ เดียว
-# tokenised_translit = /tɛ̀ː/ /pràʔ-chaː-chon/ /tɔ̂ŋ/ /càːj/ /khâː/ /faj-fáː/ /thîː/ /mâj/ /dâj/ /cháj/ /hâj/ /naːj-thun/ /làw/ /níː/ /paj/ /friː/ /friː/ /thɯ̌ŋ/ /piː/ /láʔ/ /sɔ̌ːŋ-mɯ̀ːn-hòk-phan/ /láːn/ /bàːt/ /tháːŋ-thîː/ /roːŋ/ /faj-fáː/ /khɔ̌ːŋ/ /naːj-thun/ /jàj/ /mâj/ /dâj/ /dɤːn/ /khrɯ̂aŋ/ /phà-lìt/ /ciŋ/ /mɛ́ː-tɛ̀ː/ /mék-kàʔ-wàt/ /diaw/
+# tokenised_translit = /tɛ̀ː/ /pràʔ-chaː-chon/ /tɔ̂ŋ/ /càːj/ /khâː/ /faj-fáː/ /thîː/ /mâj/ /dâj/ /cháj/ /hâj/ /naːj-thun/ /làw/ /níː/ /paj/ /friː/ /friː/ /thɯ̌ŋ/ /piː/ /láʔ/ /sɔ̌ːŋ-mɯ̀ːn-hòk-phan/ /láːn/ /bàːt/ /tháːŋ-thîː/ /roːŋ/ /faj-fáː/ /khɔ̌ːŋ/ /naːj-thun/ /jàj/ /mâj/ /dâj/ /dɤːn/ /khrɯ̂aŋ/ /phà-lìt/ /ciŋ/ /mɛ́ː-tɛ̀ː/ /mék-kàʔ-wàt/ /diaw/
 # tokenised_transcript =
 # phrase_type = sentence
 # sentence_position = body
@@ -1465,7 +1465,7 @@
 # text_en = 'Chonlanan' sets a boundary: if they secure 310 votes, they won’t join hands with anyone—especially the dictatorship-aligned camp.
 # tokenised_text = ‘ ชลน่าน ’ ขีดเส้น หาก ได้ เสียง 310 ไม่ จับ มือ ใคร โดย เฉพาะ ฝั่ง เผด็จการ
 # tokenised_translit =
-# tokenised_transcript = /chon-là-nâːn/ /kìːt-sên/ /hàːk/ /dâj/ /sǐaŋ/ /sǎːm-rɔ́j-sìp/ /mâj/ /càp/ /mɯː/ /khraj/ /doːj/ /chà-phɔ́ʔ/ /fàŋ/ /phà-dèt-kaːn/
+# tokenised_transcript = /chon-là-nâːn/ /kìːt-sên/ /hàːk/ /dâj/ /sǐaŋ/ /sǎːm-rɔ́j-sìp/ /mâj/ /càp/ /mɯː/ /khraj/ /doːj/ /chà-phɔ́ʔ/ /fàŋ/ /phà-dèt-kaːn/
 # phrase_type = sentence
 # sentence_position = headline
 # genre = political_news_article
@@ -1493,7 +1493,7 @@
 # text_en = (The news article) is publicised on Sunday 12th March 2023.
 # tokenised_text = เผยแพร่ วัน อาทิตย์ ที่ 12 มีนาคม พ.ศ. 2566
 # tokenised_translit =
-# tokenised_transcript = /phɤ̌ːj-phrɛ̂ː/ /wan/ /ʔaː-thít/ /thîː/ /sìp-sɔ̌ːŋ/ /miː-naː-khom/ /phɔː-sɔ̌ː/ /sɔ̌ːŋ-phan-hâː-rɔ́j-hòk-sìp-hòk/
+# tokenised_transcript = /phɤ̌ːj-phrɛ̂ː/ /wan/ /ʔaː-thít/ /thîː/ /sìp-sɔ̌ːŋ/ /miː-naː-khom/ /phɔː-sɔ̌ː/ /sɔ̌ːŋ-phan-hâː-rɔ́j-hòk-sìp-hòk/
 # phrase_type = sentence
 # sentence_position = dateline
 # genre = political_news_article
@@ -1513,7 +1513,7 @@
 # text_en = At 12:00 p.m. on March 12, at Wang Ped Ruamjai Building in Bang Rakam District, Phitsanulok Province, Ms. Paetongtarn Shinawatra, head of the Pheu Thai family, gave an interview about her confidence in winning all MP seats in Phitsanulok. She said that we were confident about this.
 # tokenised_text = เมื่อ เวลา 12.00 น. วัน ที่ 12 มีนาคม ที่ อาคาร วังเป็ดร่วมใจ อ. บางระกำ จ. พิษณุโลก น.ส. แพทองธาร ชินวัตร หัวหน้า ครอบครัว เพื่อ ไทย ให้ สัมภาษณ์ ถึง ความ มั่นใจ ได้ ส.ส. พิษณุโลก ยก จังหวัด ว่า เรา มั่นใจ ใน เรื่อง ดัง กล่าว
 # tokenised_translit =
-# tokenised_transcript = /mɯ̂a/ /weː-laː/ /sìp-sɔːŋ/ /naː-lí-kaː/ /wan/ /thîː/ /sìp-sɔːŋ/ /miː-naː-khom/ /thîː/ /ʔaː-khaːn/ /waŋ-pèt-rûam-caj/ /ʔam-phɤː/ /baːŋ-ráʔ-kam/ /caŋ-wàt/ /phít-sà-nú-lôːk/ /naːŋ-sǎːw/ /phɛː-thɔːŋ-thaːn/ /chin-ná-wat/ /hǔa-nâː/ /khrɔ̂ːp-khrua/ /phɯ̂a/ /thaj/ /hâj/ /sǎm-phaːt/ /thɯ̌ŋ/ /khwaːm/ /mân-caj/ /dâj/ /sɔ̌ː-sɔ̌ː/ /phít-sà-nú-lôːk/ /jók/ /caŋ-wàt/ /wâː/ /raw/ /mân-caj/ /naj/ /rɯ̂aŋ/ /daŋ/ /klàːw/
+# tokenised_transcript = /mɯ̂a/ /weː-laː/ /sìp-sɔːŋ/ /naː-lí-kaː/ /wan/ /thîː/ /sìp-sɔːŋ/ /miː-naː-khom/ /thîː/ /ʔaː-khaːn/ /waŋ-pèt-rûam-caj/ /ʔam-phɤː/ /baːŋ-ráʔ-kam/ /caŋ-wàt/ /phít-sà-nú-lôːk/ /naːŋ-sǎːw/ /phɛː-thɔːŋ-thaːn/ /chin-ná-wat/ /hǔa-nâː/ /khrɔ̂ːp-khrua/ /phɯ̂a/ /thaj/ /hâj/ /sǎm-phaːt/ /thɯ̌ŋ/ /khwaːm/ /mân-caj/ /dâj/ /sɔ̌ː-sɔ̌ː/ /phít-sà-nú-lôːk/ /jók/ /caŋ-wàt/ /wâː/ /raw/ /mân-caj/ /naj/ /rɯ̂aŋ/ /daŋ/ /klàːw/
 # phrase_type = sentence
 # sentence_position = body
 # genre = political_news_article
@@ -1564,7 +1564,7 @@
 # text_en = (She said that) we were presenting our policies to the people. (She said that) and our prospective candidates were working very hard
 # tokenised_text = เรา นำ นโยบาย มา เสนอ ให้ ประชาชน และ ว่าที่ ผู้ สมัคร เอง ก็ ทำงาน อย่าง หนัก
 # tokenised_translit =
-# tokenised_transcript = /raw/ /nam/ /ná-joː-baːj/ /maː/ /sà-nɤ̌ː/ /hâj/ /pràʔ-chaː-chon/ /lɛ́ʔ/ /wâː-thîː/ /phûː/ /sà-màk/ /ʔeːŋ/ /kɔ̂ː/ /tham-ŋaːn/ /jàːŋ/ /nàk/
+# tokenised_transcript = /raw/ /nam/ /ná-joː-baːj/ /maː/ /sà-nɤ̌ː/ /hâj/ /pràʔ-chaː-chon/ /lɛ́ʔ/ /wâː-thîː/ /phûː/ /sà-màk/ /ʔeːŋ/ /kɔ̂ː/ /tham-ŋaːn/ /jàːŋ/ /nàk/
 # phrase_type = sentence
 # sentence_position = body
 # genre = political_news_article
@@ -1592,7 +1592,7 @@
 # text_en = (She said that) that’s why we were very confident and greatly encouraged.
 # tokenised_text = เรา จึง มั่นใจ และ มี กำลังใจ อย่าง มาก
 # tokenised_translit =
-# tokenised_transcript = /raw/ /cɯŋ/ /mân-caj/ /lɛ́ʔ/ /miː/ /kam-laŋ-caj/ /jàːŋ/ /mâːk/
+# tokenised_transcript = /raw/ /cɯŋ/ /mân-caj/ /lɛ́ʔ/ /miː/ /kam-laŋ-caj/ /jàːŋ/ /mâːk/
 # phrase_type = sentence
 # sentence_position = body
 # genre = political_news_article
@@ -1612,7 +1612,7 @@
 # text_en = (The reporter) asked if a landslide victory would still be possible, as Mister Niyom Changphinit, a former Pheu Thai MP moved to join the Bhumjaithai Party.
 # tokenised_text = เมื่อ ถาม ถึง กรณี นาย นิยม ช่างพินิจ อดีต ส.ส. เพื่อ ไทย ย้าย ไป สังกัด พรรค ภูมิใจ ไทย ( ภท. ) จะ สามารถ แลนด์สไลด์ ได้ หรือ ไม่
 # tokenised_translit =
-# tokenised_transcript = /mɯ̂a/ /thǎːm/ /thɯ̌ŋ/ /kɔː-rà-niː/ /naːj/ /ní-jom/ /chaːŋ-phí-nit/ /ʔà-dìːt/ /sɔ̌ː-sɔ̌ː/ /phɯ̂a/ /thaj/ /jáːj/ /paj/ /sáŋ-kat/ /phák/ /phuːm-caj/ /thaj/ (/phɔː-thɔː/) /càʔ/ /sǎː-mâːt/ /lɛːn-sà-láj/ /dâj/ /rɯ̌ː/ /mâj/
+# tokenised_transcript = /mɯ̂a/ /thǎːm/ /thɯ̌ŋ/ /kɔː-rà-niː/ /naːj/ /ní-jom/ /chaːŋ-phí-nit/ /ʔà-dìːt/ /sɔ̌ː-sɔ̌ː/ /phɯ̂a/ /thaj/ /jáːj/ /paj/ /sáŋ-kat/ /phák/ /phuːm-caj/ /thaj/ (/phɔː-thɔː/) /càʔ/ /sǎː-mâːt/ /lɛːn-sà-láj/ /dâj/ /rɯ̌ː/ /mâj/
 # phrase_type = sentence
 # sentence_position = body
 # genre = political_news_article
@@ -1650,7 +1650,7 @@
 # text_en = Ms. Paetongtarn said that the prospective candidates to run in this district were already well known among the people.
 # tokenised_text = น.ส. แพทองธาร กล่าว ว่า ว่าที่ ผู้ สมัคร ที่ จะ ลง เขต นี้ ก็ เป็น คน ที่ ประชาชน รู้จัก ดี อยู่ แล้ว
 # tokenised_translit =
-# tokenised_transcript = /naːŋ-sǎːw/ /phɛː-thɔːŋ-thaːn/ /klàːw/ /wâː/ /wâː-thîː/ /phûː/ /sà-màk/ /thîː/ /càʔ/ /loŋ/ /khèːt/ /níː/ /kɔ̂ː/ /pen/ /khon/ /thîː/ /pràʔ-chaː-chon/ /rúː-càk/ /diː/ /jùː/ /lɛ́ːw/
+# tokenised_transcript = /naːŋ-sǎːw/ /phɛː-thɔːŋ-thaːn/ /klàːw/ /wâː/ /wâː-thîː/ /phûː/ /sà-màk/ /thîː/ /càʔ/ /loŋ/ /khèːt/ /níː/ /kɔ̂ː/ /pen/ /khon/ /thîː/ /pràʔ-chaː-chon/ /rúː-càk/ /diː/ /jùː/ /lɛ́ːw/
 # phrase_type = sentence
 # sentence_position = body
 # genre = political_news_article
@@ -1683,7 +1683,7 @@
 # text_en = (She said that) it was certain that we would need to further explain that we had come with clear intentions — how and why we were coming — so that our MPs could enter the Parliament to work and push forward the policies for the benefit of the people.
 # tokenised_text = แน่นอน ว่า เรา ต้อง เพิ่ม เติม เรื่อง การ แนะนำ ว่า เรา มา แบบ นี้ ตั้งใจ แบบ นี้ เพื่อ ให้ ส.ส. ของ เรา เข้า มา ทำงาน ใน สภา ฯ เพื่อ ผลักดัน นโยบาย เพื่อ พี่ น้อง ประชาชน
 # tokenised_translit =
-# tokenised_transcript = /nɛ̂ː-nɔːn/ /wâː/ /raw/ /thɔ̂ŋ/ /phɤ̂ːm/ /thɤːm/ /rɯ̂aŋ/ /kaːn/ /nɛ́ʔ-nam/ /wâː/ /raw/ /maː/ /bɛ̀ːp/ /níː/ /tâŋ-caj/ /bɛ̀ːp/ /níː/ /phɯ̂a/ /hâj/ /sɔ̌ː-sɔ̌ː/ /khɔ̌ːŋ/ /raw/ /khâw/ /maː/ /tham-ŋaːn/ /naj/ /sà-phaː/ /phɯ̂a/ /phlàk-dan/ /ná-joː-baːj/ /phɯ̂a/ /phîː/ /nɔ́ːŋ/ /pràʔ-chaː-chon/
+# tokenised_transcript = /nɛ̂ː-nɔːn/ /wâː/ /raw/ /thɔ̂ŋ/ /phɤ̂ːm/ /thɤːm/ /rɯ̂aŋ/ /kaːn/ /nɛ́ʔ-nam/ /wâː/ /raw/ /maː/ /bɛ̀ːp/ /níː/ /tâŋ-caj/ /bɛ̀ːp/ /níː/ /phɯ̂a/ /hâj/ /sɔ̌ː-sɔ̌ː/ /khɔ̌ːŋ/ /raw/ /khâw/ /maː/ /tham-ŋaːn/ /naj/ /sà-phaː/ /phɯ̂a/ /phlàk-dan/ /ná-joː-baːj/ /phɯ̂a/ /phîː/ /nɔ́ːŋ/ /pràʔ-chaː-chon/
 # phrase_type = sentence
 # sentence_position = body
 # genre = political_news_article
@@ -1730,7 +1730,7 @@
 # text_en = (She said that) we were therefore very confident.
 # tokenised_text = ฉะนั้น เรา มั่นใจ มาก ๆ
 # tokenised_translit =
-# tokenised_transcript = /chàʔ-nán/ /raw/ /mân-caj/ /mâːk/ /mâːk/
+# tokenised_transcript = /chàʔ-nán/ /raw/ /mân-caj/ /mâːk/ /mâːk/
 # phrase_type = sentence
 # sentence_position = body
 # genre = political_news_article
@@ -1747,7 +1747,7 @@
 # text_en = Dr. Chonlanan Srikaew, MP for Nan Province and leader of the Pheu Thai Party (PT), gave an interview regarding the party’s announcement not to join hands with the Palang Pracharath Party (PPRP), saying that there has been a movement to block the Pheu Thai Party’s landslide strategy that had been previously announced.
 # tokenised_text = ด้าน นพ. ชลน่าน ศรีแก้ว ส.ส. น่าน และ หัวหน้า พรรค เพื่อ ไทย ( พท. ) ให้ สัมภาษณ์ กรณี ประกาศ ไม่ จับ มือ กับ พรรค พลัง ประชา รัฐ ( พปชร. ) ว่า เรื่อง นี้ มี กระแส มา ปิด กั้น ยุทธศาสตร์ แลนด์สไลด์ ของ พรรค พท. ที่ เรา ประกาศ ไว้
 # tokenised_translit =
-# tokenised_transcript = /dâːn/ /naːj-phɛ̂ːt/ /chon-là-nâːn/ /sǐː-kɛ̂ːw/ /sɔ̌ː-sɔ̌ː/ /nâːn/ /lɛ́ʔ/ /hǔa-nâː/ /phák/ /phɯ̂a/ /thaj/ (/phɔː-thɔː/) /hâj/ /sǎm-phaːt/ /kɔː-rà-niː/ /pràʔ-kàːt/ /mâj/ /càp/ /mɯː/ /kàp/ /phák/ /phà-laŋ/ /pràʔ-chaː/ /rát/ (/phɔː-pɔː-chɔː-rɔː/) /wâː/ /rɯ̂aŋ/ /níː/ /miː/ /kràʔ-sɛ̌ː/ /maː/ /pìt/ /kân/ /jút-thà-sàːt/ /lɛːn-sà-láj/ /khɔ̌ːŋ/ /phák/ /phɔː-thɔː/ /thîː/ /raw/ /pràʔ-kàːt/ /wáj/ 
+# tokenised_transcript = /dâːn/ /naːj-phɛ̂ːt/ /chon-là-nâːn/ /sǐː-kɛ̂ːw/ /sɔ̌ː-sɔ̌ː/ /nâːn/ /lɛ́ʔ/ /hǔa-nâː/ /phák/ /phɯ̂a/ /thaj/ (/phɔː-thɔː/) /hâj/ /sǎm-phaːt/ /kɔː-rà-niː/ /pràʔ-kàːt/ /mâj/ /càp/ /mɯː/ /kàp/ /phák/ /phà-laŋ/ /pràʔ-chaː/ /rát/ (/phɔː-pɔː-chɔː-rɔː/) /wâː/ /rɯ̂aŋ/ /níː/ /miː/ /kràʔ-sɛ̌ː/ /maː/ /pìt/ /kân/ /jút-thà-sàːt/ /lɛːn-sà-láj/ /khɔ̌ːŋ/ /phák/ /phɔː-thɔː/ /thîː/ /raw/ /pràʔ-kàːt/ /wáj/ 
 # phrase_type = sentence
 # sentence_position = body
 # genre = political_news_article
@@ -1805,7 +1805,7 @@
 # text_en = (He said that) if the public supported us (the Pheu Thai Party) as targeted—winning 310 seats, we clearly declared we would not form a coalition with any party, especially those aligned with the authoritarian side.
 # tokenised_text = ทั้ง นี้ หาก พี่ น้อง สนับสนุน เรา ตาม ที่ ประกาศ ไว้ ว่า จะ ได้ ส.ส. 310 เสียง เรา ประกาศ ชัด ไม่ จับ มือ กับ ใคร โดย เฉพาะ ฟาก ฝั่ง ที่ มา จาก เผด็จการ
 # tokenised_translit =
-# tokenised_transcript = /tháŋ-níː/ /hàːk/ /phîː/ /nɔ́ːŋ/ /sà-nàp-sà-nǔn/ /raw/ /taːm/ /thîː/ /pràʔ-kàːt/ /wáj/ /wâː/ /càʔ/ /dâj/ /sɔ̌ː-sɔ̌ː/ /sǎːm-rɔ́j-sìp/ /sǐaŋ/ /raw/ /pràʔ-kàːt/ /chát/ /mâj/ /càp/ /mɯː/ /kàp/ /khraj/ /doːj/ /chà-phɔ́ʔ/ /fâːk/ /fàŋ/ /thîː/ /maː/ /càːk/ /phà-dèt-kaːn/
+# tokenised_transcript = /tháŋ-níː/ /hàːk/ /phîː/ /nɔ́ːŋ/ /sà-nàp-sà-nǔn/ /raw/ /taːm/ /thîː/ /pràʔ-kàːt/ /wáj/ /wâː/ /càʔ/ /dâj/ /sɔ̌ː-sɔ̌ː/ /sǎːm-rɔ́j-sìp/ /sǐaŋ/ /raw/ /pràʔ-kàːt/ /chát/ /mâj/ /càp/ /mɯː/ /kàp/ /khraj/ /doːj/ /chà-phɔ́ʔ/ /fâːk/ /fàŋ/ /thîː/ /maː/ /càːk/ /phà-dèt-kaːn/
 # phrase_type = sentence
 # sentence_position = body
 # genre = political_news_article
@@ -1850,7 +1850,7 @@
 # text_en = He added that this needed to be stated clearly to prevent rumors from being spread in a way that could damage the party.
 # tokenised_text = เรื่อง นี้ เป็น เรื่อง ที่ ต้อง พูด เพราะ ไม่ อยาก ให้ กระพือ ข่าว เอา เรื่อง นี้ มา ทำลาย พรรค เรา
 # tokenised_translit =
-# tokenised_transcript = /rɯ̂aŋ/ /níː/ /pen/ /rɯ̂aŋ/ /thîː/ /tɔ̂ŋ/ /phûːt/ /phrɔ́ʔ/ /mâj/ /jàːk/ /hâj/ /kràʔ-phɯː/ /khàːw/ /ʔaw/ /rɯ̂aŋ/ /níː/ /maː/ /tham-laːj/ /phák/ /raw/
+# tokenised_transcript = /rɯ̂aŋ/ /níː/ /pen/ /rɯ̂aŋ/ /thîː/ /tɔ̂ŋ/ /phûːt/ /phrɔ́ʔ/ /mâj/ /jàːk/ /hâj/ /kràʔ-phɯː/ /khàːw/ /ʔaw/ /rɯ̂aŋ/ /níː/ /maː/ /tham-laːj/ /phák/ /raw/
 # phrase_type = sentence
 # sentence_position = body
 # genre = political_news_article
@@ -1882,7 +1882,7 @@
 # text_en = (The reporter) asked again if after the election, he would confirm that there would be no alliance.
 # tokenised_text = ถาม ย้ำ ว่า หลัง เลือกตั้ง ยืนยัน ว่า จะ ไม่ จับ มือ ใช่ หรือ ไม่
 # tokenised_translit =
-# tokenised_transcript = /thǎːm/ /jám/ /wâː/ /lǎŋ/ /lɯ̂ak-tâŋ/ /jɯːn-jan/ /wâː/ /càʔ/ /mâj/ /càp/ /mɯː/ /châj/ /rɯ̌ː/ /mâj/
+# tokenised_transcript = /thǎːm/ /jám/ /wâː/ /lǎŋ/ /lɯ̂ak-tâŋ/ /jɯːn-jan/ /wâː/ /càʔ/ /mâj/ /càp/ /mɯː/ /châj/ /rɯ̌ː/ /mâj/
 # phrase_type = sentence
 # sentence_position = body
 # genre = political_news_article
@@ -1908,7 +1908,7 @@
 # text_en = Dr. Chonlanan said that if the party secured 310 seats, there would be no need.
 # tokenised_text = นพ. ชลน่าน กล่าว ว่า หาก เรา ได้ 310 เสียง ไม่ มี ความ จำเป็น
 # tokenised_translit =
-# tokenised_transcript = /naːj-phɛ̂ːt/ /chon-là-nâːn/ /klàːw/ /wâː/ /hàːk/ /raw/ /dâj/ /sǎːm-rɔ́j-sìp/ /sǐaŋ/ /mâj/ /miː/ /khwaːm/ /cam-pen/ 
+# tokenised_transcript = /naːj-phɛ̂ːt/ /chon-là-nâːn/ /klàːw/ /wâː/ /hàːk/ /raw/ /dâj/ /sǎːm-rɔ́j-sìp/ /sǐaŋ/ /mâj/ /miː/ /khwaːm/ /cam-pen/ 
 # phrase_type = sentence
 # sentence_position = body
 # genre = political_news_article
@@ -1933,7 +1933,7 @@
 # text_en = (The reporter) asked further what would happen if the party did not reach 310 seats.
 # tokenised_text = ถาม ต่อ ว่า หาก ได้ ไม่ ถึง 310 เสียง จะ ทำ อย่าง ไร
 # tokenised_translit =
-# tokenised_transcript = /thǎːm/ /thɔ̀ː/ /wâː/ /hàːk/ /dâj/ /mâj/ /thɯ̌ŋ/ /sǎːm-rɔ́j-sìp/ /sǐaŋ/ /càʔ/ /tham/ /jàːŋ/ /raj/ 
+# tokenised_transcript = /thǎːm/ /thɔ̀ː/ /wâː/ /hàːk/ /dâj/ /mâj/ /thɯ̌ŋ/ /sǎːm-rɔ́j-sìp/ /sǐaŋ/ /càʔ/ /tham/ /jàːŋ/ /raj/ 
 # phrase_type = sentence
 # sentence_position = body
 # genre = political_news_article
@@ -1958,7 +1958,7 @@
 # text_en = Dr. Chonlanan said that it would depend on the election results decided by the people. (He said that)the party would need to look at the numbers and consider which party the public had given the next level of trust after us, and how things stood.
 # tokenised_text = นพ. ชลน่าน กล่าว ว่า อยู่ ที่ ผล การ เลือกตั้ง ของ ประชาชน ซึ่ง เรา ก็ ต้อง มา ดู ตัว เลข และ พรรค ที่ ประชาชน มอบ ความ ไว้วางใจ ให้ เป็น ลำดับ ถัด จาก เรา ว่า เป็น พรรค ไหน อย่าง ไร
 # tokenised_translit =
-# tokenised_transcript = /naːj-phɛ̂ːt/ /chon-là-nâːn/ /klàːw/ /wâː/ /jùː/ /thîː/ /phǒn/ /kaːn/ /lɯ̂ak-tâŋ/ /khɔ̌ːŋ/ /pràʔ-chaː-chon/ /sɯ̂ŋ/ /raw/ /kɔ̂ː/ /tɔ̂ŋ/ /maː/ /duː/ /tua/ /lêːk/ /lɛ́ʔ/ /phák/ /thîː/ /pràʔ-chaː-chon/ /mɔ̂ːp/ /khwaːm/ /wáj-waːŋ-caj/ /hâj/ /pen/ /lam-dàp/ /thàt/ /càːk/ /raw/ /wâː/ /pen/ /phák/ /nǎj/ /jàːŋ/ /raj/
+# tokenised_transcript = /naːj-phɛ̂ːt/ /chon-là-nâːn/ /klàːw/ /wâː/ /jùː/ /thîː/ /phǒn/ /kaːn/ /lɯ̂ak-tâŋ/ /khɔ̌ːŋ/ /pràʔ-chaː-chon/ /sɯ̂ŋ/ /raw/ /kɔ̂ː/ /tɔ̂ŋ/ /maː/ /duː/ /tua/ /lêːk/ /lɛ́ʔ/ /phák/ /thîː/ /pràʔ-chaː-chon/ /mɔ̂ːp/ /khwaːm/ /wáj-waːŋ-caj/ /hâj/ /pen/ /lam-dàp/ /thàt/ /càːk/ /raw/ /wâː/ /pen/ /phák/ /nǎj/ /jàːŋ/ /raj/
 # phrase_type = sentence
 # sentence_position = body
 # genre = political_news_article
@@ -2008,7 +2008,7 @@
 # text_en = (He added that) we remained committed to democratic principles and were willing to work with the parties that shared those ideals.
 # tokenised_text = เรา ยึดมั่น อุดมการณ์ ประชาธิปไตย ที่ สามารถ ทำงาน ร่วม กัน ได้
 # tokenised_translit =
-# tokenised_transcript = /raw/ /jɯ́t-mân/ /ʔù-dom-kaːn/ /pràʔ-chaː-thíp-pà-taj/ /thîː/ /sǎː-mâːt/ /tham-ŋaːn/ /rûam/ /kan/ /dâj/
+# tokenised_transcript = /raw/ /jɯ́t-mân/ /ʔù-dom-kaːn/ /pràʔ-chaː-thíp-pà-taj/ /thîː/ /sǎː-mâːt/ /tham-ŋaːn/ /rûam/ /kan/ /dâj/
 # phrase_type = sentence
 # sentence_position = body
 # genre = political_news_article
@@ -2030,7 +2030,7 @@
 # text_en = Meanwhile, Mr. Srettha Thavisin, Chairman of the Advisory Board of the family of the Pheu Thai Party, gave an interview about taking the stage on the second day of the rally, saying that he was excited and happy, and deeply touched by the warm reception from the public.
 # tokenised_text = ขณะ ที่ นาย เศรษฐา ทวีสิน ประธาน ที่ ปรึกษา หัวหน้า ครอบครัว เพื่อ ไทย ให้ สัมภาษณ์ ถึง การ ขึ้น เวที ปราศรัย วัน ที่ สอง ว่า ตน ตื่นเต้น และ ดีใจ ทราบซึ้ง ใจ ที่ ประชาชาชน ให้ การ ต้อนรับ ที่ ดี
 # tokenised_translit =
-# tokenised_transcript = /khà-nàʔ/ /thîː/ /naːj/ /sèːt-thǎː/ /thà-wiː-sǐn/ /pràʔ-thaːn/ /thîː/ /prɯ̀k-sǎː/ /hǔa-nâː/ /khrɔ̂ːp-khrua/ /phɯ̂a/ /thaj/ /hâj/ /sǎm-phaːt/ /thɯ̌ŋ/ /kaːn/ /khɯ̂n/ /weː-thiː/ /praː-sǎj/ /wan/ /thîː/ /sɔ̌ːŋ/ /wâː/ /ton/ /tɯ̀ːn-tên/ /lɛ́ʔ/ /diː-caj/ /sâːp-sɯ́ŋ/ /caj/ /thîː/ /pràʔ-chaː-chon/ /hâj/ /kaːn/ /tɔ̂ːn-ráp/ /thîː/ /diː/
+# tokenised_transcript = /khà-nàʔ/ /thîː/ /naːj/ /sèːt-thǎː/ /thà-wiː-sǐn/ /pràʔ-thaːn/ /thîː/ /prɯ̀k-sǎː/ /hǔa-nâː/ /khrɔ̂ːp-khrua/ /phɯ̂a/ /thaj/ /hâj/ /sǎm-phaːt/ /thɯ̌ŋ/ /kaːn/ /khɯ̂n/ /weː-thiː/ /praː-sǎj/ /wan/ /thîː/ /sɔ̌ːŋ/ /wâː/ /ton/ /tɯ̀ːn-tên/ /lɛ́ʔ/ /diː-caj/ /sâːp-sɯ́ŋ/ /caj/ /thîː/ /pràʔ-chaː-chon/ /hâj/ /kaːn/ /tɔ̂ːn-ráp/ /thîː/ /diː/
 # phrase_type = sentence
 # sentence_position = body
 # genre = political_news_article
@@ -2103,7 +2103,7 @@
 # text_en = (He added that) everyone had given (him) full encouragement and support.
 # tokenised_text = ทุก ท่าน ให้ กำลังใจ และ ให้ การ ช่วยเหลือ เต็มที่
 # tokenised_translit =
-# tokenised_transcript =  /thúk/ /thâːn/ /hâj/ /kam-laŋ-caj/ /lɛ́ʔ/ /hâj/ /kaːn/ /chûaj-lɯ̌a/ /tem-thîː/
+# tokenised_transcript =  /thúk/ /thâːn/ /hâj/ /kam-laŋ-caj/ /lɛ́ʔ/ /hâj/ /kaːn/ /chûaj-lɯ̌a/ /tem-thîː/
 # phrase_type = sentence
 # sentence_position = body
 # genre = political_news_article
@@ -2124,7 +2124,7 @@
 # text_en = The reporter asked if Mr. Srettha's speech on the second day was more forceful.
 # tokenised_text = ผู้ สื่อ ข่าว ถาม ว่า วัน นี้ ขึ้น เวที ที่ สอง พูด ได้ ดุดัน ขึ้น
 # tokenised_translit =
-# tokenised_transcript = /phûː/ /sɯ̀ː/ /khàːw/ /thǎːm/ /wâː/ /wan/ /níː/ /khɯ̂n/ /weː-thiː/ /thîː/ /sɔ̌ːŋ/ /phûːt/ /dâj/ /dù-dan/ /khɯ̂n/
+# tokenised_transcript = /phûː/ /sɯ̀ː/ /khàːw/ /thǎːm/ /wâː/ /wan/ /níː/ /khɯ̂n/ /weː-thiː/ /thîː/ /sɔ̌ːŋ/ /phûːt/ /dâj/ /dù-dan/ /khɯ̂n/
 # phrase_type = sentence
 # sentence_position = body
 # genre = political_news_article
@@ -2151,7 +2151,7 @@
 # text_en = Mr. Srettha said that it likely came from pent-up frustration.
 # tokenised_text = นาย เศรษฐา กล่าว ว่า คง มา จาก ความ อัดอั้นตันใจ
 # tokenised_translit =
-# tokenised_transcript = /naːj/ /sèːt-thǎː/ /klàːw/ /wâː/ /khoŋ/ /maː/ /càːk/ /khwaːm/ /ʔàt-ʔân-tan-caj/
+# tokenised_transcript = /naːj/ /sèːt-thǎː/ /klàːw/ /wâː/ /khoŋ/ /maː/ /càːk/ /khwaːm/ /ʔàt-ʔân-tan-caj/
 # phrase_type = sentence
 # sentence_position = body
 # genre = political_news_article
@@ -2172,7 +2172,7 @@
 # text_en = (The reporter) asked further if he had started to enjoy speaking on stage after giving speeches.
 # tokenised_text = ถาม ต่อ ว่า พอ ได้ ปราศรัย แล้ว เริ่ม ติดใจ การ ขึ้น เวที แล้ว หรือ ยัง
 # tokenised_translit =
-# tokenised_transcript = /thǎːm/ /thɔ̀ː/ /wâː/ /phɔː/ /dâj/ /praː-sǎj/ /lɛ́ːw/ /rɤ̂ːm/ /tìt-caj/ /kaːn/ /khɯ̂n/ /weː-thiː/ /lɛ́ːw/ /rɯ̌ː/ /jaŋ/
+# tokenised_transcript = /thǎːm/ /thɔ̀ː/ /wâː/ /phɔː/ /dâj/ /praː-sǎj/ /lɛ́ːw/ /rɤ̂ːm/ /tìt-caj/ /kaːn/ /khɯ̂n/ /weː-thiː/ /lɛ́ːw/ /rɯ̌ː/ /jaŋ/
 # phrase_type = sentence
 # sentence_position = body
 # genre = political_news_article
@@ -2187,7 +2187,7 @@
 7	แล้ว	แล้ว	ADV	_	_	6	advmod	_	SpaceAfter=No|Gloss=already|Translit=lɛ́ːw
 8	เริ่ม	เริ่ม	VERB	_	_	1	ccomp	_	SpaceAfter=No|Gloss=begin|Translit=rɤ̂ːm
 9	ติดใจ	ติดใจ	VERB	_	_	8	xcomp	_	SpaceAfter=No|Gloss=like|Translit=tìt-caj
-10	การ	การ	NOUN	_	NounType=Nmlz	9	obl:arg	_	SpaceAfter=No|Gloss= a thing to be done(nominalizer)|Translit=kaːn
+10	การ	การ	NOUN	_	NounType=Nmlz	9	obl:arg	_	SpaceAfter=No|Gloss=a thing to be done(nominalizer)|Translit=kaːn
 11	ขึ้น	ขึ้น	VERB	_	_	10	acl	_	SpaceAfter=No|Gloss=ascend|Translit=khɯ̂n
 12	เวที	เวที	NOUN	_	_	11	obl:arg	_	SpaceAfter=No|Gloss=stage|Translit=weː-thiː
 13	แล้ว	แล้ว	ADV	_	_	9	advmod	_	SpaceAfter=No|Gloss=already|Translit=lɛ́ːw
@@ -2199,7 +2199,7 @@
 # text_en = Mr. Srettha said that it was a duty assigned to me by the party, and it was a responsibility to further explain our policies to the public, so that they could understand the future — what we could do for them if they voted the Pheu Thai Party.
 # tokenised_text = นาย เศรษฐา กล่าว ว่า “ มัน เป็น หน้าที่ ที่ พรรค มอบหมาย ให้ และ เป็น หน้าที่ ที่ เรา ต้อง มา ขยาย นโยบาย ให้ ประชาชน ทราบ ถึง อนาคต ว่า หาก เลือก พรรค เพื่อ ไทย มา เรา จะ ทำ อะไร ให้ เขา ได้ บ้าง ”
 # tokenised_translit =
-# tokenised_transcript = /naːj/ /sèːt-thǎː/ /klàːw/ /wâː/ /man/ /pen/ /nâː-thîː/ /thîː/ /phák/ /mɔ̂ːp-mǎːj/ /hâj/ /lɛ́ʔ/ /pen/ /nâː-thîː/ /thîː/ /raw/ /tɔ̂ŋ/ /maː/ /khà-jǎːj/ /ná-joː-baːj/ /hâj/ /pràʔ-chaː-chon/ /sâːp/ /thɯ̌ŋ/ /ʔà-naː-khót/ /wâː/ /hàːk/ /lɯ̂ak/ /phák/ /phɯ̂a/ /thaj/ /maː/ /raw/ /càʔ/ /tham/ /ʔàʔ-raj/ /hâj/ /kháw/ /dâj/ /bâːŋ/
+# tokenised_transcript = /naːj/ /sèːt-thǎː/ /klàːw/ /wâː/ /man/ /pen/ /nâː-thîː/ /thîː/ /phák/ /mɔ̂ːp-mǎːj/ /hâj/ /lɛ́ʔ/ /pen/ /nâː-thîː/ /thîː/ /raw/ /tɔ̂ŋ/ /maː/ /khà-jǎːj/ /ná-joː-baːj/ /hâj/ /pràʔ-chaː-chon/ /sâːp/ /thɯ̌ŋ/ /ʔà-naː-khót/ /wâː/ /hàːk/ /lɯ̂ak/ /phák/ /phɯ̂a/ /thaj/ /maː/ /raw/ /càʔ/ /tham/ /ʔàʔ-raj/ /hâj/ /kháw/ /dâj/ /bâːŋ/
 # phrase_type = sentence
 # sentence_position = body
 # genre = political_news_article
@@ -2342,7 +2342,7 @@
 # text_en = 
 # tokenised_text = วัน ที่ 11 มีนาคม 2566 นางสาว ทานตะวัน ตัวตุลานนท์ ( ตะวัน ) ชี้แจง ผ่าน เฟซบุ๊ก Tawan Tantawan ระบุ ว่า คำ ชี้แจง กรณี นางสาว ทานตะวัน ตัวตุลานนท์ ( ตะวัน ) และ นางสาว อรวรรณ ภู่พงษ์ ( แบม ) ประจำ วัน ที่ 11 มีนาคม พ.ศ. 2566 หลังจาก ที่ แบม และ ตะวัน กลับ เข้า รักษา ตัว ที่ โรงพยาบาล ธรรมศาสตร์ ขณะ นี้ อาการ ของ ทั้ง คู่ ยัง อยู่ ใน การ ดูแล ของ แพทย์ อย่าง ใกลัชิด โดย แพทย์ และ ผู้ เกี่ยวข้อง มี ความ กังวล เรื่อง การ ทำงาน ของ ไต และ อวัยวะ อื่น ซึ่ง ได้ รับ ผล กระทบ จาก การ อด อาหาร และ น้ำ มา เป็น เวลา นาน
 # tokenised_translit =
-# tokenised_transcript = /klàp/ /khâw/ /rák-sǎː/ /tua/ /thîː/ /roːŋ-phà-yaː-baːn/ /tham-mà-sàːt/ /jùː/ /naj/ /kaːn/ /duː-lɛː/ /khɔ̌ːŋ/ /phɛ̂ːt/
+# tokenised_transcript = /klàp/ /khâw/ /rák-sǎː/ /tua/ /thîː/ /roːŋ-phà-yaː-baːn/ /tham-mà-sàːt/ /jùː/ /naj/ /kaːn/ /duː-lɛː/ /khɔ̌ːŋ/ /phɛ̂ːt/
 # phrase_type = sentence
 # sentence_position = body
 # genre = political_news_article
@@ -3338,7 +3338,7 @@
 # text_en = The proposal would change the criteria so that possession of just one pill would be presumed to be for personal use, which carries a lighter penalty.
 # tokenised_text = เปลี่ยน เกณฑ์ ใหม่ ให้ สันนิษฐาน ว่า แค่ 1 เม็ด คือ การ มี ไว้ เสพ ซึ่ง โทษ ก็ เบา 
 # tokenised_translit =
-# tokenised_transcript = /plìan/ /keːn/ /màj/ /hâj/ /sǎn-ní-thǎːn/ /wâː/ /kɛ̂ː/ /nɯ̀ŋ/ /mét/ /khɯː/ /kaːn/ /miː/ /wáj/ /sèːp/ /sɯ̂ŋ/ /thôːt/ /kɔ̂ː/ /baw/
+# tokenised_transcript = /plìan/ /keːn/ /màj/ /hâj/ /sǎn-ní-thǎːn/ /wâː/ /kɛ̂ː/ /nɯ̀ŋ/ /mét/ /khɯː/ /kaːn/ /miː/ /wáj/ /sèːp/ /sɯ̂ŋ/ /thôːt/ /kɔ̂ː/ /baw/
 # phrase_type = sentence
 # sentence_position = 
 # genre = political_news_article
@@ -3759,7 +3759,7 @@
 # text_en = 
 # tokenised_text = รัชดา กล่าว ต่อ ไป ว่า การ ออก สลาก กินแบ่ง รัฐบาล แบบ ตัวเลข 6 หลัก ( L6 ) และ สลาก กินแบ่ง รัฐบาล แบบ ตัวเลข 3 หลัก ( N3 ) จะ เป็น อีก ทาง เลือก หนึ่ง ที่ สามารถ ควบคุม ราคา สลาก กินแบ่ง รัฐบาล
 # tokenised_translit =
-# tokenised_transcript = /sà-làːk/ /bɛ̀ːp/ /làk/ /sǎːm/ /ʔen-sǎːm/ /lɛ́ʔ/ /kin-bɛ̀ːŋ/ /rát-thà-baːn/ /tua/ /lêːk/
+# tokenised_transcript = /sà-làːk/ /bɛ̀ːp/ /làk/ /sǎːm/ /ʔen-sǎːm/ /lɛ́ʔ/ /kin-bɛ̀ːŋ/ /rát-thà-baːn/ /tua/ /lêːk/
 # phrase_type = sentence
 # sentence_position = body
 # genre = political_news_article
