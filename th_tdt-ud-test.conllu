@@ -1397,7 +1397,7 @@
 16	กิโลวัตต์	กิโลวัตต์	NOUN	_	Foreign=Yes|NounType=Clf	15	clf	_	SpaceAfter=No|Gloss=kilowatt|Translit=kì-loː-wàt
 17	ชั่วโมง	ชั่วโมง	NOUN	_	_	16	flat	_	CorrectSpaceAfter=No|Gloss=hour|Translit=chûa-moːŋ
 18	หรือ	หรือ	CCONJ	_	_	20	cc	_	SpaceAfter=No|Gloss=or|Translit=rɯ̌ː
-19	เกือบ	เกือบ	DET	_	_	20	det	_	Gloss=almost|Translit=kɯ̀ap
+19	เกือบ	เกือบ	DET	_	PronType=Ind	20	det	_	Gloss=almost|Translit=kɯ̀ap
 20	60	60	NUM	_	_	15	conj	_	SpaceAfter=No|Gloss=60|Translit=hòk-sìp
 21	%	%	NOUN	_	NounType=Clf	20	clf	_	Gloss=percentage|Translit=pɤː-sen
 22	โดย	โดย	ADP	_	_	24	dep	_	SpaceAfter=No|Gloss=with|Translit=doːj
@@ -3350,7 +3350,7 @@
 4	ให้	ให้	VERB	_	_	1	advcl	_	SpaceAfter=No|Gloss=give|Translit=
 5	สันนิษฐาน	สันนิษฐาน	VERB	_	_	4	compound:svc	_	SpaceAfter=No|Gloss=|Translit=
 6	ว่า	ว่า	SCONJ	_	_	8	mark	_	SpaceAfter=No|Gloss=that(COMP)|Translit=
-7	แค่	แค่	DET	_	_	8	det	_	Gloss=only|Translit=
+7	แค่	แค่	DET	_	PronType=Ind	8	det	_	Gloss=only|Translit=
 8	1	1	NUM	_	_	5	ccomp	_	Gloss=1|Translit=
 9	เม็ด	เม็ด	NOUN	_	NounType=Clf	8	clf	_	Gloss=|Translit=
 10	คือ	คือ	CCONJ	_	_	11	cc	_	SpaceAfter=No|Gloss=namely|Translit=
@@ -7165,7 +7165,7 @@
 32	พิจารณา	พิจารณา	VERB	_	_	26	advcl	_	SpaceAfter=No|Gloss=consider|Translit=
 33	ไป	ไป	VERB	_	_	32	conj	_	SpaceAfter=No|Gloss=|Translit=
 34	พิจารณา	พิจารณา	VERB	_	_	33	compound:svc	_	SpaceAfter=No|Gloss=consider|Translit=
-35	เฉพาะ	เฉพาะ	DET	_	_	36	det	_	Gloss=only|Translit=
+35	เฉพาะ	เฉพาะ	DET	_	PronType=Ind	36	det	_	Gloss=only|Translit=
 36	5	5	NUM	_	_	34	obj	_	Gloss=5|Translit=
 37	ปี	ปี	NOUN	_	NounType=Clf	36	clf	_	Gloss=year|Translit=
 38	รอง	รอง	NOUN	_	_	23	conj	_	SpaceAfter=No|Gloss=|Translit=
@@ -7185,7 +7185,7 @@
 52	พิจารณา	พิจารณา	VERB	_	_	38	acl	_	Gloss=consider|Translit=
 53	ไป	ไป	VERB	_	_	52	conj	_	SpaceAfter=No|Gloss=|Translit=
 54	พิจารณา	พิจารณา	VERB	_	_	53	compound:svc	_	SpaceAfter=No|Gloss=consider|Translit=
-55	เฉพาะ	เฉพาะ	DET	_	_	56	det	_	Gloss=only|Translit=
+55	เฉพาะ	เฉพาะ	DET	_	PronType=Ind	56	det	_	Gloss=only|Translit=
 56	3	3	NUM	_	_	54	obj	_	Gloss=3|Translit=
 57	ปี	ปี	NOUN	_	NounType=Clf	56	clf	_	Gloss=year|Translit=
 
