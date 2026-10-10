@@ -3888,13 +3888,13 @@
 14	คือ	คือ	CCONJ	_	_	15	cc	_	Gloss=|Translit=
 15	3	3	NUM	_	_	12	conj	_	Gloss=3|Translit=
 16	ตัว	ตัว	NOUN	_	NounType=Clf	15	clf	_	SpaceAfter=No|Gloss=body|Translit=
-17	ตรง	ตรง	VERB	_	_	16	acl	_	Gloss=|Translit=
+17	ตรง	ตรง	VERB	_	_	15	acl	_	Gloss=|Translit=
 18	3	3	NUM	_	_	12	conj	_	Gloss=3|Translit=
 19	ตัว	ตัว	NOUN	_	NounType=Clf	18	clf	_	SpaceAfter=No|Gloss=body|Translit=
-20	สลับ	สลับ	VERB	_	_	19	acl	_	Gloss=switch|Translit=
+20	สลับ	สลับ	VERB	_	_	18	acl	_	Gloss=switch|Translit=
 21	2	2	NUM	_	_	12	conj	_	Gloss=2|Translit=
 22	ตัว	ตัว	NOUN	_	NounType=Clf	21	clf	_	SpaceAfter=No|Gloss=body|Translit=
-23	ตรง	ตรง	VERB	_	_	22	acl	_	Gloss=|Translit=
+23	ตรง	ตรง	VERB	_	_	21	acl	_	Gloss=|Translit=
 24	และ	และ	CCONJ	_	_	25	cc	_	SpaceAfter=No|Gloss=and|Translit=
 25	มี	มี	VERB	_	_	7	conj	_	SpaceAfter=No|Gloss=have|Translit=
 26	โอกาส	โอกาส	NOUN	_	_	25	obl:arg	_	SpaceAfter=No|Gloss=opportunity|Translit=
@@ -4427,7 +4427,7 @@
 49	นายก	นายก	NOUN	_	_	38	xcomp	_	SpaceAfter=No|Gloss=|Translit=
 50	รัฐมนตรี	รัฐมนตรี	NOUN	_	_	49	nmod	_	SpaceAfter=No|Gloss=|Translit=
 51	คน	คน	NOUN	_	NounType=Clf	49	clf	_	SpaceAfter=No|Gloss=person|Translit=
-52	ต่อ	ต่อ	VERB	_	_	51	acl	_	SpaceAfter=No|Gloss=|Translit=
+52	ต่อ	ต่อ	VERB	_	_	49	acl	_	SpaceAfter=No|Gloss=|Translit=
 53	ไป	ไป	ADV	_	_	52	advmod	_	Gloss=|Translit=
 
 # sent_id = Thai_Political_UngIng_PM_News11_12
