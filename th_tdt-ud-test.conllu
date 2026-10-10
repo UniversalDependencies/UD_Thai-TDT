@@ -8180,7 +8180,7 @@
 8	นายก	นายก	NOUN	_	_	7	obj	_	SpaceAfter=No|Gloss=|Translit=
 9	ฯ	_	SYM	_	_	8	nmod	_	Gloss=|Translit=
 10	คน	คน	NOUN	_	NounType=Clf	8	clf	_	SpaceAfter=No|Gloss=person|Translit=
-11	ใหม่	ใหม่	VERB	_	_	10	acl	_	SpaceAfter=No|Gloss=new|Translit=
+11	ใหม่	ใหม่	VERB	_	_	8	acl	_	SpaceAfter=No|Gloss=new|Translit=
 12	ต้อง	ต้อง	VERB	_	_	6	advcl	_	SpaceAfter=No|Gloss=must|Translit=
 13	ชะลอ	ชะลอ	VERB	_	_	12	xcomp	_	SpaceAfter=No|Gloss=|Translit=
 14	หรือ	หรือ	CCONJ	_	_	15	cc	_	SpaceAfter=No|Gloss=or|Translit=
@@ -8383,7 +8383,7 @@
 15	นายก	นายก	NOUN	_	_	14	obj	_	SpaceAfter=No|Gloss=|Translit=
 16	ฯ	_	SYM	_	_	15	nmod	_	SpaceAfter=No|Gloss=|Translit=
 17	คน	คน	NOUN	_	NounType=Clf	15	clf	_	SpaceAfter=No|Gloss=person|Translit=
-18	ใหม่	ใหม่	VERB	_	_	17	acl	_	Gloss=new|Translit=
+18	ใหม่	ใหม่	VERB	_	_	15	acl	_	Gloss=new|Translit=
 19	เพื่อ	เพื่อ	ADP	_	_	20	mark	_	SpaceAfter=No|Gloss=for|Translit=
 20	หา	หา	VERB	_	_	14	advcl	_	SpaceAfter=No|Gloss=find|Translit=
 21	นายก	นายก	NOUN	_	_	20	obj	_	SpaceAfter=No|Gloss=|Translit=
@@ -8536,7 +8536,7 @@
 8	นายก	นายก	NOUN	_	_	5	iobj	_	SpaceAfter=No|Gloss=|Translit=
 9	รัฐมนตรี	รัฐมนตรี	NOUN	_	_	8	nmod	_	SpaceAfter=No|Gloss=|Translit=
 10	คน	คน	NOUN	_	NounType=Clf	8	clf	_	SpaceAfter=No|Gloss=person|Translit=
-11	ใหม่	ใหม่	VERB	_	_	10	acl	_	SpaceAfter=No|Gloss=|Translit=
+11	ใหม่	ใหม่	VERB	_	_	8	acl	_	SpaceAfter=No|Gloss=|Translit=
 12	โดย	โดย	ADP	_	_	13	case	_	SpaceAfter=No|Gloss=new|Translit=
 13	สภา	สภา	NOUN	_	_	4	obl	_	SpaceAfter=No|Gloss=|Translit=
 14	ผู้	ผู้	NOUN	_	_	13	nmod	_	SpaceAfter=No|Gloss=person|Translit=
