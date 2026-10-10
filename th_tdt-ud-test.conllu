@@ -5194,8 +5194,8 @@
 # source = https://www.thairath.co.th/news/politic/2878514#goog_rewarded
 # year = 2025
 1	หลักฐาน	หลักฐาน	NOUN	_	_	4	nsubj	_	SpaceAfter=No|Gloss=evidence|Translit=
-2	ทุก	ทุก	DET	_	PronType=Tot	3	det	_	SpaceAfter=No|Gloss=every|Translit=
-3	อย่าง	อย่าง	NOUN	_	NounType=Clf	1	clf	_	SpaceAfter=No|Gloss=|Translit=
+2	ทุก	ทุก	DET	_	PronType=Tot	1	det	_	SpaceAfter=No|Gloss=every|Translit=
+3	อย่าง	อย่าง	NOUN	_	NounType=Clf	2	clf	_	SpaceAfter=No|Gloss=|Translit=
 4	ยืนยัน	ยืนยัน	VERB	_	_	0	root	_	SpaceAfter=No|Gloss=insist|Translit=
 5	ว่า	ว่า	SCONJ	_	_	8	mark	_	SpaceAfter=No|Gloss=that(COMP)|Translit=
 6	ประเทศ	ประเทศ	NOUN	_	_	8	nsubj	_	SpaceAfter=No|Gloss=country|Translit=
@@ -5694,8 +5694,8 @@
 27	ซึ่ง	ซึ่ง	PRON	_	PronType=Rel	28	nsubj	_	SpaceAfter=No|Gloss=that(REL)|Translit=
 28	ดำเนิน	ดำเนิน	VERB	_	_	25	acl:relcl	_	SpaceAfter=No|Gloss=|Translit=
 29	การ	การ	NOUN	_	_	28	obj	_	SpaceAfter=No|Gloss=work|Translit=
-30	ทุก	ทุก	DET	_	PronType=Tot	31	det	_	SpaceAfter=No|Gloss=every|Translit=
-31	อย่าง	อย่าง	NOUN	_	NounType=Clf	29	clf	_	SpaceAfter=No|Gloss=|Translit=
+30	ทุก	ทุก	DET	_	PronType=Tot	29	det	_	SpaceAfter=No|Gloss=every|Translit=
+31	อย่าง	อย่าง	NOUN	_	NounType=Clf	30	clf	_	SpaceAfter=No|Gloss=|Translit=
 32	สอดคล้อง	สอดคล้อง	VERB	_	_	28	xcomp	_	SpaceAfter=No|Gloss=|Translit=
 33	กับ	กับ	ADP	_	_	34	case	_	SpaceAfter=No|Gloss=with|Translit=
 34	ความ	ความ	NOUN	_	NounType=Nmlz	32	obl	_	SpaceAfter=No|Gloss=|Translit=
