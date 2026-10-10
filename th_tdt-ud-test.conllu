@@ -1354,7 +1354,7 @@
 16	ถึง	ถึง	ADP	_	_	17	case	_	Gloss=to|Translit=thɯ̌ŋ
 17	53,000	53,000	NUM	_	_	15	obl	_	Gloss=53,000|Translit=hâː-mɯ̀ːn-sǎːm-phan
 18	กิโลวัตต์	กิโลวัตต์	NOUN	_	Foreign=Yes|NounType=Clf	17	clf	_	SpaceAfter=No|Gloss=kilowatt|Translit=kì-loː-wàt
-19	ชั่วโมง	ชั่วโมง	NOUN	_	_	18	flat	_	Gloss=hour|Translit=chûa-moːŋ
+19	ชั่วโมง	ชั่วโมง	NOUN	_	NounType=Clf	17	clf	_	Gloss=hour|Translit=chûa-moːŋ
 20	แต่	แต่	CCONJ	_	_	22	cc	_	SpaceAfter=No|Gloss=but|Translit=tɛ̀ː
 21	ประชาชน	ประชาชน	NOUN	_	_	22	nsubj	_	SpaceAfter=No|Gloss=population|Translit=pràʔ-chaː-chon
 22	ใช้	ใช้	VERB	_	_	8	conj	_	SpaceAfter=No|Gloss=use|Translit=cháj
@@ -1366,7 +1366,7 @@
 28	เกิน	เกิน	VERB	_	_	27	xcomp	_	Gloss=exceed|Translit=kɤːn
 29	33,000	33,000	NUM	_	_	28	obl:arg	_	Gloss=33,000|Translit=sǎːm-mɯ̀ːn-sǎːm-phan
 30	กิโลวัตต์	กิโลวัตต์	NOUN	_	Foreign=Yes|NounType=Clf	29	clf	_	SpaceAfter=No|Gloss=kilowatt|Translit=kì-loː-wàt
-31	ชั่วโมง	ชั่วโมง	NOUN	_	_	30	flat	_	Gloss=hour|Translit=chûa-moːŋ
+31	ชั่วโมง	ชั่วโมง	NOUN	_	NounType=Clf	29	clf	_	Gloss=hour|Translit=chûa-moːŋ
 
 # sent_id = Thai_Election_ThaiBuildThaiParty_2023_News1_40
 # text = ทำให้ประเทศไทยมีการสำรองไฟฟ้าเกินความต้องการใช้จริงสูงถึง 20,000 กิโลวัตต์ชั่วโมง หรือเกือบ 60% โดยที่โรงไฟฟ้าขนาดใหญ่เหล่านี้
