@@ -3269,7 +3269,7 @@
 5	ว่า	ว่า	VERB	_	_	0	root	_	SpaceAfter=No|Gloss=|Translit=
 6	รัฐบาล	รัฐบาล	NOUN	_	_	5	orphan	_	SpaceAfter=No|Gloss=government|Translit=
 7	ชุด	ชุด	NOUN	_	NounType=Clf	6	clf	_	SpaceAfter=No|Gloss=|Translit=
-8	ไหน	ไหน	ADJ	_	_	7	amod	_	SpaceAfter=No|Gloss=|Translit=
+8	ไหน	ไหน	ADJ	_	_	6	amod	_	SpaceAfter=No|Gloss=|Translit=
 9	พูด	พูด	VERB	_	_	6	advcl	_	SpaceAfter=No|Gloss=say|Translit=
 10	เหมือน	เหมือน	VERB	_	_	9	advcl	_	SpaceAfter=No|Gloss=|Translit=
 11	กัน	กัน	ADV	_	_	10	advmod	_	SpaceAfter=No|Gloss=|Translit=
