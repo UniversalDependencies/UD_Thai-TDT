@@ -1395,11 +1395,11 @@
 14	ถึง	ถึง	ADP	_	_	15	case	_	Gloss=to|Translit=thɯ̌ŋ
 15	20,000	20,000	NUM	_	_	13	obl	_	Gloss=20,000|Translit=sɔ̌ːŋ-mɯ̀ːn
 16	กิโลวัตต์	กิโลวัตต์	NOUN	_	Foreign=Yes|NounType=Clf	15	clf	_	SpaceAfter=No|Gloss=kilowatt|Translit=kì-loː-wàt
-17	ชั่วโมง	ชั่วโมง	NOUN	_	_	16	flat	_	CorrectSpaceAfter=No|Gloss=hour|Translit=chûa-moːŋ
+17	ชั่วโมง	ชั่วโมง	NOUN	_	NounType=Clf	15	clf	_	CorrectSpaceAfter=No|Gloss=hour|Translit=chûa-moːŋ
 18	หรือ	หรือ	CCONJ	_	_	20	cc	_	SpaceAfter=No|Gloss=or|Translit=rɯ̌ː
 19	เกือบ	เกือบ	DET	_	PronType=Ind	20	det	_	Gloss=almost|Translit=kɯ̀ap
 20	60	60	NUM	_	_	15	conj	_	SpaceAfter=No|Gloss=60|Translit=hòk-sìp
-21	%	%	NOUN	_	NounType=Clf	20	clf	_	Gloss=percentage|Translit=pɤː-sen
+21	%	%	SYM	_	NounType=Clf	20	clf	_	Gloss=percentage|Translit=pɤː-sen
 22	โดย	โดย	ADP	_	_	24	dep	_	SpaceAfter=No|Gloss=with|Translit=doːj
 23	ที่	ที่	ADP	_	_	24	case	_	SpaceAfter=No|Gloss=at|Translit=thîː
 24	โรง	โรง	NOUN	_	_	4	obl	_	SpaceAfter=No|Gloss=facility|Translit=roːŋ
