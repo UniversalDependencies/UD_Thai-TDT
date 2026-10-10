@@ -2092,7 +2092,7 @@
 6	แกนนำ	แกนนำ	NOUN	_	_	3	conj	_	SpaceAfter=No|Gloss=leader|Translit=kɛːn-nam
 7	พรรค	พรรค	NOUN	_	_	6	nmod	_	SpaceAfter=No|Gloss=party|Translit=phák
 8	คน	คน	NOUN	_	_	6	clf	_	SpaceAfter=No|Gloss=person|Translit=khon
-9	อื่น	อื่น	ADJ	_	_	8	amod	_	SpaceAfter=No|CorrectSpaceAfter=Yes|Gloss=other|Translit=ʔɯ̀ːn
+9	อื่น	อื่น	ADJ	_	_	6	amod	_	SpaceAfter=No|CorrectSpaceAfter=Yes|Gloss=other|Translit=ʔɯ̀ːn
 10	ๆ	ๆ	SYM	_	ExtPos=ADJ	9	compound:redup	_	Gloss=other|Translit=ʔɯ̀ːn
 11	เป็น	เป็น	AUX	_	_	12	cop	_	SpaceAfter=No|Gloss=BE|Translit=pen
 12	แรง	แรง	NOUN	_	_	3	acl	_	SpaceAfter=No|Gloss=power|Translit=rɛːŋ
