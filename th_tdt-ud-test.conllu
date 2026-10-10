@@ -7137,7 +7137,7 @@
 4	การ	การ	NOUN	_	NounType=Nmlz	10	nsubj	_	SpaceAfter=No|Gloss=|Translit=
 5	ร้อง	ร้อง	VERB	_	_	4	acl	_	SpaceAfter=No|Gloss=|Translit=
 6	ครั้ง	ครั้ง	NOUN	_	NounType=Clf	4	clf	_	SpaceAfter=No|Gloss=time|Translit=
-7	นี้	นี้	ADJ	_	_	6	amod	_	SpaceAfter=No|Gloss=this|Translit=
+7	นี้	นี้	ADJ	_	_	4	amod	_	SpaceAfter=No|Gloss=this|Translit=
 8	ไม่	ไม่	ADV	_	_	10	advmod	_	SpaceAfter=No|Gloss=not|Translit=
 9	ใช่	ใช่	AUX	_	_	10	cop	_	SpaceAfter=No|Gloss=|Translit=
 10	การ	การ	NOUN	_	NounType=Nmlz	2	ccomp	_	SpaceAfter=No|Gloss=|Translit=
@@ -7963,7 +7963,7 @@
 23	ประชุม	ประชุม	VERB	_	_	22	acl	_	SpaceAfter=No|Gloss=|Translit=
 24	กมธ.	กมธ.	PROPN	_	Abbr=Yes	22	nmod	_	SpaceAfter=No|Gloss=|Translit=
 25	ครั้ง	ครั้ง	NOUN	_	NounType=Clf	22	clf	_	SpaceAfter=No|Gloss=|Translit=
-26	ถัด	ถัด	VERB	_	_	25	acl	_	SpaceAfter=No|Gloss=|Translit=
+26	ถัด	ถัด	VERB	_	_	22	acl	_	SpaceAfter=No|Gloss=|Translit=
 27	ไป	ไป	VERB	_	_	26	compound:svc	_	Gloss=go|Translit=
 28	และ	และ	CCONJ	_	_	30	cc	_	SpaceAfter=No|Gloss=and|Translit=
 29	จะ	จะ	ADV	_	_	30	advmod	_	SpaceAfter=No|Gloss=|Translit=
