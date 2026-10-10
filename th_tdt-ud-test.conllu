@@ -6537,7 +6537,7 @@
 34	ว่า	ว่า	SCONJ	_	_	38	mark	_	SpaceAfter=No|Gloss=that(COMP)|Translit=
 35	พ.ร.บ.	พ.ร.บ.	NOUN	_	Abbr=Yes	38	nsubj	_	SpaceAfter=No|Gloss=|Translit=
 36	ฉบับ	ฉบับ	NOUN	_	NounType=Clf	35	clf	_	SpaceAfter=No|Gloss=|Translit=
-37	นี้	นี้	ADJ	_	_	36	amod	_	SpaceAfter=No|Gloss=this|Translit=
+37	นี้	นี้	ADJ	_	_	35	amod	_	SpaceAfter=No|Gloss=this|Translit=
 38	ต้อง	ต้อง	VERB	_	_	32	ccomp	_	SpaceAfter=No|Gloss=must|Translit=
 39	มี	มี	VERB	_	_	38	xcomp	_	SpaceAfter=No|Gloss=have|Translit=
 40	การ	การ	NOUN	_	NounType=Nmlz	39	obj	_	SpaceAfter=No|Gloss=|Translit=
@@ -6616,8 +6616,8 @@
 2	เพื่อน	เพื่อน	NOUN	_	_	1	nsubj	_	SpaceAfter=No|Gloss=friend|Translit=
 3	พี่	พี่	NOUN	_	_	2	conj	_	SpaceAfter=No|Gloss=|Translit=
 4	น้อง	น้อง	NOUN	_	_	3	flat	_	SpaceAfter=No|Gloss=|Translit=
-5	หลาย	หลาย	DET	_	PronType=Ind	6	det	_	SpaceAfter=No|Gloss=several|Translit=
-6	คน	คน	NOUN	_	NounType=Clf	2	clf	_	SpaceAfter=No|Gloss=person|Translit=
+5	หลาย	หลาย	DET	_	PronType=Ind	2	det	_	SpaceAfter=No|Gloss=several|Translit=
+6	คน	คน	NOUN	_	NounType=Clf	5	clf	_	SpaceAfter=No|Gloss=person|Translit=
 7	ที่	ที่	PRON	_	PronType=Rel	8	nsubj	_	SpaceAfter=No|Gloss=that(REL)|Translit=
 8	มี	มี	VERB	_	_	2	acl:relcl	_	SpaceAfter=No|Gloss=have|Translit=
 9	ฝีไม้ลายมือ	ฝีไม้ลายมือ	NOUN	_	_	8	obl:arg	_	SpaceAfter=No|Gloss=|Translit=
@@ -6642,8 +6642,8 @@
 1	มี	มี	VERB	_	_	0	root	_	SpaceAfter=No|Gloss=have|Translit=
 2	น้อง	น้อง	NOUN	_	_	1	nsubj	_	SpaceAfter=No|Gloss=|Translit=
 3	ๆ	_	SYM	_	_	2	compound:redup	_	Gloss=|Translit=
-4	หลาย	หลาย	DET	_	PronType=Ind	5	det	_	SpaceAfter=No|Gloss=several|Translit=
-5	คน	คน	NOUN	_	NounType=Clf	2	clf	_	SpaceAfter=No|Gloss=person|Translit=
+4	หลาย	หลาย	DET	_	PronType=Ind	2	det	_	SpaceAfter=No|Gloss=several|Translit=
+5	คน	คน	NOUN	_	NounType=Clf	4	clf	_	SpaceAfter=No|Gloss=person|Translit=
 6	เป็น	เป็น	AUX	_	_	7	cop	_	SpaceAfter=No|Gloss=be|Translit=
 7	ดาวรุ่ง	ดาวรุ่ง	NOUN	_	_	2	acl	_	SpaceAfter=No|Gloss=|Translit=
 8	ที่	ที่	PRON	_	PronType=Rel	11	nsubj	_	SpaceAfter=No|Gloss=that(REL)|Translit=
@@ -6801,8 +6801,8 @@
 9	ๆ	_	SYM	_	_	8	compound:redup	_	Gloss=|Translit=
 10	น้อง	น้อง	NOUN	_	_	8	flat	_	SpaceAfter=No|Gloss=|Translit=
 11	ๆ	_	SYM	_	_	10	compound:redup	_	Gloss=|Translit=
-12	หลาย	หลาย	DET	_	PronType=Ind	13	det	_	SpaceAfter=No|Gloss=several|Translit=
-13	คน	คน	NOUN	_	NounType=Clf	8	clf	_	Gloss=person|Translit=
+12	หลาย	หลาย	DET	_	PronType=Ind	8	det	_	SpaceAfter=No|Gloss=several|Translit=
+13	คน	คน	NOUN	_	NounType=Clf	12	clf	_	Gloss=person|Translit=
 14	เพื่อ	เพื่อ	ADP	_	_	15	mark	_	SpaceAfter=No|Gloss=for|Translit=
 15	สะท้อน	สะท้อน	VERB	_	_	3	advcl	_	SpaceAfter=No|Gloss=|Translit=
 16	ไป	ไป	VERB	_	_	15	compound:svc	_	SpaceAfter=No|Gloss=go|Translit=
