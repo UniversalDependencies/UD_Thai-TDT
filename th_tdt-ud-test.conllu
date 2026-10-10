@@ -6044,9 +6044,9 @@
 16	ถูก	ถูก	VERB	_	_	12	conj	_	SpaceAfter=No|Gloss=|Translit=
 17	ลิดรอน	ลิดรอน	VERB	_	_	16	compound:svc	_	SpaceAfter=No|Gloss=|Translit=
 18	สิทธิ์	สิทธิ์	NOUN	_	_	17	obj	_	SpaceAfter=No|Gloss=right|Translit=
-19	อีก	อีก	DET	_	PronType=Ind	21	det	_	SpaceAfter=No|Gloss=|Translit=
-20	หลาย	หลาย	DET	_	PronType=Ind	21	det	_	SpaceAfter=No|Gloss=several|Translit=
-21	คน	คน	NOUN	_	NounType=Clf	10	clf	_	SpaceAfter=No|Gloss=person|Translit=
+19	อีก	อีก	DET	_	PronType=Ind	10	det	_	SpaceAfter=No|Gloss=|Translit=
+20	หลาย	หลาย	DET	_	PronType=Ind	19	det	_	SpaceAfter=No|Gloss=several|Translit=
+21	คน	คน	NOUN	_	NounType=Clf	20	clf	_	SpaceAfter=No|Gloss=person|Translit=
 22	ที่	ที่	PRON	_	PronType=Rel	24	nsubj	_	SpaceAfter=No|Gloss=that(REL)|Translit=
 23	ไม่	ไม่	ADV	_	_	24	advmod	_	SpaceAfter=No|Gloss=not|Translit=
 24	ได้	ได้	VERB	_	_	10	acl:relcl	_	SpaceAfter=No|Gloss=|Translit=
