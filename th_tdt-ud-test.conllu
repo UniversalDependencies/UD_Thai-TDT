@@ -6571,7 +6571,7 @@
 7	สั่ง	สั่ง	VERB	_	_	6	acl	_	SpaceAfter=No|Gloss=command|Translit=
 8	พ.ร.บ.	พ.ร.บ.	NOUN	_	Abbr=Yes	6	nmod	_	SpaceAfter=No|Gloss=|Translit=
 9	ฉบับ	ฉบับ	NOUN	_	NounType=Clf	8	clf	_	SpaceAfter=No|Gloss=|Translit=
-10	นี้	นี้	ADJ	_	_	9	amod	_	Gloss=this|Translit=
+10	นี้	นี้	ADJ	_	_	8	amod	_	Gloss=this|Translit=
 11	และ	และ	CCONJ	_	_	13	cc	_	SpaceAfter=No|Gloss=and|Translit=
 12	ไม่	ไม่	ADV	_	_	13	advmod	_	SpaceAfter=No|Gloss=not|Translit=
 13	นำ	นำ	VERB	_	_	3	conj	_	SpaceAfter=No|Gloss=bring|Translit=
@@ -6889,8 +6889,8 @@
 7	จะ	จะ	ADV	_	_	8	advmod	_	SpaceAfter=No|Gloss=|Translit=
 8	ดำเนิน	ดำเนิน	VERB	_	_	13	advcl	_	SpaceAfter=No|Gloss=|Translit=
 9	การ	การ	NOUN	_	_	8	obj	_	SpaceAfter=No|Gloss=work|Translit=
-10	ทุก	ทุก	DET	_	PronType=Tot	11	det	_	SpaceAfter=No|Gloss=every|Translit=
-11	อย่าง	อย่าง	NOUN	_	NounType=Clf	9	clf	_	Gloss=|Translit=
+10	ทุก	ทุก	DET	_	PronType=Tot	9	det	_	SpaceAfter=No|Gloss=every|Translit=
+11	อย่าง	อย่าง	NOUN	_	NounType=Clf	10	clf	_	Gloss=|Translit=
 12	ตน	ตน	PRON	_	Person=1|PronType=Prs	13	nsubj	_	SpaceAfter=No|Gloss=I|Translit=
 13	ได้	ได้	VERB	_	_	3	ccomp	_	SpaceAfter=No|Gloss=|Translit=
 14	เห็น	เห็น	VERB	_	_	13	xcomp	_	SpaceAfter=No|Gloss=see|Translit=
@@ -6905,7 +6905,7 @@
 23	บอร์ด	บอร์ด	NOUN	_	Foreign=Yes	20	nmod	_	SpaceAfter=No|Gloss=board|Translit=
 24	กลั่นกรอง	กลั่นกรอง	VERB	_	_	23	acl	_	SpaceAfter=No|Gloss=|Translit=
 25	ชุด	ชุด	NOUN	_	NounType=Clf	23	clf	_	SpaceAfter=No|Gloss=set|Translit=
-26	เล็ก	เล็ก	VERB	_	_	25	acl	_	Gloss=small|Translit=
+26	เล็ก	เล็ก	VERB	_	_	23	acl	_	Gloss=small|Translit=
 
 # sent_id = Thai_Political_Policemen_News14_38
 # text = เห็นแล้วว่าคนที่ได้รับแต่งตั้งเป็นคนใกล้ชิดผู้มีอำนาจ เพราะก่อนที่มีการประชุม ก.ตร. 3 วัน จะมีการส่งรายชื่อผู้ที่ได้รับการแต่งตั้ง ให้ก.ตร.ทุกท่าน
@@ -6955,8 +6955,8 @@
 35	แต่งตั้ง	แต่งตั้ง	VERB	_	_	34	acl	_	Gloss=|Translit=
 36	ให้	ให้	ADP	_	_	37	case	_	SpaceAfter=No|Gloss=for|Translit=
 37	ก.ตร.	ก.ตร.	PROPN	_	Abbr=Yes	27	obl	_	SpaceAfter=No|Gloss=|Translit=
-38	ทุก	ทุก	DET	_	PronType=Tot	39	det	_	SpaceAfter=No|Gloss=every|Translit=
-39	ท่าน	ท่าน	NOUN	_	NounType=Clf|Polite=Form	37	clf	_	Gloss=person|Translit=
+38	ทุก	ทุก	DET	_	PronType=Tot	37	det	_	SpaceAfter=No|Gloss=every|Translit=
+39	ท่าน	ท่าน	NOUN	_	NounType=Clf|Polite=Form	38	clf	_	Gloss=person|Translit=
 
 # sent_id = Thai_Political_Policemen_News14_39
 # text = เราดูแล้วว่าผลที่ออกมาคือผลสัมฤทธิ์​
