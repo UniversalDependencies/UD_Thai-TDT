@@ -862,8 +862,8 @@
 6	ของ	ของ	ADP	_	_	7	case	_	SpaceAfter=No|Gloss=of|Translit=khɔ̌ːŋ
 7	พี่	พี่	NOUN	_	_	2	nmod	_	SpaceAfter=No|Gloss=older sibling|Translit=phîː
 8	น้อง	น้อง	NOUN	_	_	7	flat	_	SpaceAfter=No|Gloss=younger sibling|Translit=nɔ́ːŋ
-9	อีก	อีก	DET	_	PronType=Ind	10	det	_	SpaceAfter=No|Gloss=another|Translit=ʔìːk
-10	เรื่อง	เรื่อง	NOUN	_	NounType=Clf	2	clf	_	SpaceAfter=No|Gloss=story|Translit=rɯ̂aŋ
+9	อีก	อีก	DET	_	PronType=Ind	2	det	_	SpaceAfter=No|Gloss=another|Translit=ʔìːk
+10	เรื่อง	เรื่อง	NOUN	_	NounType=Clf	9	clf	_	SpaceAfter=No|Gloss=story|Translit=rɯ̂aŋ
 11	ที่	ที่	PRON	_	PronType=Rel	12	nsubj	_	SpaceAfter=No|Gloss=that(REL)|Translit=thîː
 12	สำคัญ	สำคัญ	VERB	_	_	10	acl:relcl	_	SpaceAfter=No|CorrectSpaceAfter=Yes|Gloss=important|Translit=sàm-khan
 13	คือ	คือ	CCONJ	_	_	14	cc	_	SpaceAfter=No|CorrectSpaceAfter=Yes|Gloss=namely|Translit=khɯː
