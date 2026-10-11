@@ -5627,7 +5627,7 @@
 8	ที่	ที่	X	_	_	7	dep	_	SpaceAfter=No|Gloss=|Translit=
 9	ทุก	ทุก	DET	_	PronType=Tot	10	det	_	SpaceAfter=No|Gloss=every|Translit=
 10	ประเทศ	ประเทศ	NOUN	_	_	7	obl	_	SpaceAfter=No|Gloss=country|Translit=
-11	เข้าใจ	เข้าใจ	VERB	_	_	7	orphan	_	SpaceAfter=No|Gloss=understand|Translit=
+11	เข้าใจ	เข้าใจ	VERB	_	_	7	advcl	_	SpaceAfter=No|Gloss=understand|Translit=
 12	ว่า	ว่า	SCONJ	_	_	20	mark	_	SpaceAfter=No|Gloss=that(COMP)|Translit=
 13	การ	การ	NOUN	_	NounType=Nmlz	20	nsubj	_	SpaceAfter=No|Gloss=|Translit=
 14	ใช้	ใช้	VERB	_	_	13	acl	_	SpaceAfter=No|Gloss=use|Translit=
