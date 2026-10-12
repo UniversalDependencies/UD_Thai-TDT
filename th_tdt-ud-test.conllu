@@ -1740,7 +1740,7 @@
 2	เรา	เรา	PRON	_	Person=1|PronType=Prs	3	nsubj	_	SpaceAfter=No|Gloss=we|Translit=raw
 3	มั่นใจ	มั่นใจ	VERB	_	_	0	root	_	SpaceAfter=No|Gloss=confident|Translit=mân-caj
 4	มาก	มาก	VERB	_	_	3	advcl	_	SpaceAfter=No|CorrectSpaceAfter=Yes|Gloss=very|Translit=mâːk
-5	ๆ	ๆ	SYM	_	ExtPos=VERB	4	compound:redup	_	Gloss=very|Translit=mâːk
+5	ๆ	ๆ	SYM	_	_	4	compound:redup	_	Gloss=very|Translit=mâːk
 
 # sent_id = Thai_Election_ForThaiParty_2023_News2_10
 # text = ด้าน นพ.ชลน่าน ศรีแก้ว ส.ส.น่าน และหัวหน้าพรรคเพื่อไทย (พท.) ให้สัมภาษณ์กรณีประกาศไม่จับมือกับพรรคพลังประชารัฐ (พปชร.) ว่า เรื่องนี้มีกระแสมาปิดกั้นยุทธศาสตร์แลนด์สไลด์ของพรรค พท.ที่เราประกาศไว้
