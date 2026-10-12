@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<treebank>
+  <!-- tokens means "surface tokens", e.g. Spanish "vámonos" counts as one token
+       words means "syntactic words", e.g. Spanish "vámonos" is split to two words, "vamos" and "nos"
+       fused is the number of tokens that are split to two or more syntactic words
+       The words and fused elements can be omitted if no token is split to smaller syntactic words. -->
+  <size>
+    <total><sentences>239</sentences><tokens>5806</tokens><words>5806</words><fused>0</fused></total>
+    <train><sentences>0</sentences><tokens>0</tokens><words>0</words><fused>0</fused></train>
+    <dev><sentences>0</sentences><tokens>0</tokens><words>0</words><fused>0</fused></dev>
+    <test><sentences>239</sentences><tokens>5806</tokens><words>5806</words><fused>0</fused></test>
+  </size>
+  <lemmas unique="1106" /><!-- ที่, การ, ว่า, ไม่, ให้, เป็น, มี, และ, ได้, มา, ใน, จะ, ของ, ความ, เพื่อ -->
+  <forms unique="1113" /><!-- ที่, การ, ว่า, ไม่, เป็น, ให้, มี, และ, ได้, มา, ใน, จะ, ของ, ความ, เพื่อ -->
+  <fusions unique="0" /><!--  -->
+  <!-- Statistics of universal POS tags. The comments show the most frequent lemmas. -->
+  <tags unique="16">
+    <tag name="ADJ">88</tag><!-- นี้, เอง, ไร, นั้น, ใด, อื่น, ไหน, ละ, หน้า, เดียว -->
+    <tag name="ADP">472</tag><!-- ใน, ของ, เพื่อ, กับ, จาก, ถึง, โดย, ตาม, ระหว่าง, ทั้ง -->
+    <tag name="ADV">432</tag><!-- ไม่, จะ, แล้ว, ก็, ยัง, ไป, มา, กัน, ด้วย, แต่ -->
+    <tag name="AUX">76</tag><!-- เป็น, _, ใช่ -->
+    <tag name="CCONJ">113</tag><!-- และ, หรือ, คือ, แต่, _ -->
+    <tag name="DET">59</tag><!-- ทุก, หลาย, อีก, ทั้ง, กว่า, ประมาณ, เฉพาะ, _, ทั่ว, สัก -->
+    <tag name="NOUN">1804</tag><!-- การ, ความ, พรรค, ประเทศ, ผู้, คน, ประชาชน, อย่าง, ตำรวจ, เรื่อง -->
+    <tag name="NUM">129</tag><!-- 3, 2, 1, 2568, 6, หนึ่ง, 12, 5, 112, 2566 -->
+    <tag name="PART">11</tag><!-- ซึ่ง, คือ, _, ไม่ -->
+    <tag name="PRON">246</tag><!-- ที่, เรา, ตน, ใคร, ซึ่ง, นั้น, ผม, นี้, อะไร, เธอ -->
+    <tag name="PROPN">290</tag><!-- ไทย, ดอนเมือง, กัมพูชา, จรูญเกียรติ, กมธ., ตะวัน, ก.ตร., ภูมิธรรม, สวีเดน, แบม -->
+    <tag name="PUNCT">102</tag><!-- “, ”, (, ), ‘, ’, ", ., -, _ -->
+    <tag name="SCONJ">137</tag><!-- ว่า, ที่, เพราะ, โดย, ซึ่ง, ให้, จน, พอ, _, อีกทั้ง -->
+    <tag name="SYM">59</tag><!-- _, -, ๆ, ฯ, %, /, ผู้แทนราษฎรไทย -->
+    <tag name="VERB">1786</tag><!-- มี, ได้, ให้, มา, ใช้, ต้อง, กล่าว, พิจารณา, ทำ, ออก -->
+    <tag name="X">2</tag><!-- ที่, หน้า -->
+  </tags>
+  <!-- Statistics of features and values. The comments show the most frequent word forms. -->
+  <feats unique="19">
+    <feat name="Abbr" value="Yes" upos="NOUN,PROPN">109</feat><!-- กมธ., พ.ร.บ., พล.ต.ต., ส.ส., ก.ตร., น., นพ., น.ส., สส., ส.ค. -->
+    <feat name="ExtPos" value="ADJ" upos="SYM">3</feat><!-- ๆ -->
+    <feat name="ExtPos" value="ADV" upos="SYM">2</feat><!-- ๆ -->
+    <feat name="ExtPos" value="PROPN" upos="NOUN,PROPN,SYM,VERB">72</feat><!-- ไทย, บ้า, ประชาชน, สร้าง, ภูมิใจ, สลาก, แก้, การ, Learn, Project -->
+    <feat name="ExtPos" value="VERB" upos="SYM">1</feat><!-- ๆ -->
+    <feat name="Foreign" value="Yes" upos="ADJ,NOUN,PROPN,SYM,VERB">54</feat><!-- สวีเดน, กิโลวัตต์, บิ๊ก, สวิตเซอร์แลนด์, เปอร์เซ็น, เฟซบุ๊ก, แลนด์สไลด์, Project, TikTok, กรีนพีซ -->
+    <feat name="NounType" value="Clf" upos="NOUN,SYM">115</feat><!-- คน, เม็ด, ปี, หลัก, ครั้ง, เดือน, ประเทศ, อย่าง, %, กิโลวัตต์ -->
+    <feat name="NounType" value="Nmlz" upos="NOUN">194</feat><!-- การ, ความ -->
+    <feat name="Person" value="1" upos="PRON">71</feat><!-- เรา, ตน, ผม -->
+    <feat name="Person" value="2" upos="PRON">2</feat><!-- คุณ, ท่าน -->
+    <feat name="Person" value="3" upos="PRON">11</feat><!-- เธอ, มัน, เขา -->
+    <feat name="Polite" value="Form" upos="NOUN,PRON,VERB">4</feat><!-- ท่าน, คุณ, ทูลเกล้า -->
+    <feat name="PronType" value="Dem" upos="PRON">27</feat><!-- ที่, นั้น, นี้ -->
+    <feat name="PronType" value="Ind" upos="DET,PRON">49</feat><!-- หลาย, ใคร, อีก, อะไร, กว่า, ประมาณ, เฉพาะ, สัก, หลากหลาย, เกือบ -->
+    <feat name="PronType" value="Prs" upos="PRON">84</feat><!-- เรา, ตน, ผม, เธอ, มัน, เขา, คุณ, ท่าน -->
+    <feat name="PronType" value="Rcp" upos="PRON">2</feat><!-- กัน -->
+    <feat name="PronType" value="Rel" upos="PRON">117</feat><!-- ที่, ซึ่ง, อัน -->
+    <feat name="PronType" value="Tot" upos="DET">26</feat><!-- ทุก, ทั้ง, ทั่ว -->
+    <feat name="Typo" value="Yes" upos="NOUN,PROPN,VERB">5</feat><!-- Grippen, ทราบซึ้ง, บัลดาลใจ -->
+  </feats>
+  <!-- Statistics of universal dependency relations. -->
+  <deps unique="34">
+    <dep name="acl">491</dep>
+    <dep name="acl:relcl">118</dep>
+    <dep name="advcl">326</dep>
+    <dep name="advmod">417</dep>
+    <dep name="amod">89</dep>
+    <dep name="appos">61</dep>
+    <dep name="case">358</dep>
+    <dep name="cc">125</dep>
+    <dep name="ccomp">128</dep>
+    <dep name="clf">86</dep>
+    <dep name="compound">1</dep>
+    <dep name="compound:redup">16</dep>
+    <dep name="compound:svc">212</dep>
+    <dep name="conj">214</dep>
+    <dep name="cop">75</dep>
+    <dep name="csubj">2</dep>
+    <dep name="dep">4</dep>
+    <dep name="det">59</dep>
+    <dep name="discourse">11</dep>
+    <dep name="dislocated">18</dep>
+    <dep name="flat">74</dep>
+    <dep name="iobj">5</dep>
+    <dep name="mark">253</dep>
+    <dep name="nmod">786</dep>
+    <dep name="nsubj">407</dep>
+    <dep name="nummod">19</dep>
+    <dep name="obj">415</dep>
+    <dep name="obl">312</dep>
+    <dep name="obl:arg">159</dep>
+    <dep name="orphan">3</dep>
+    <dep name="parataxis">2</dep>
+    <dep name="punct">102</dep>
+    <dep name="root">239</dep>
+    <dep name="xcomp">219</dep>
+  </deps>
+</treebank>
