@@ -1,7 +1,6 @@
 # Summary
 
-... 1-2 sentences (see [release checklist](http://universaldependencies.org/release_checklist.html#the-readme-file) for README guidelines) ...
-
+UD Thai-TDT is a Thai dependency treebank, manually annotated in Universal Dependencies and consisting of nine online Thai political news articles drawn from several newspaper websites.
 
 # Introduction
 
