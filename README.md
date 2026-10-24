@@ -34,7 +34,7 @@ UPOS: manual native
 XPOS: not available
 Features: manual native
 Relations: manual native
-Contributors: Rattananiyomkul, Siriluck
+Contributors: Rattananiyomkul, Siriluck; Zeman, Daniel
 Contributing: here
 Contact: leky40@hotmail.com
 ===============================================================================
